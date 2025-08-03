@@ -9,7 +9,7 @@ and Blue Fox, κοινωνός (Spirit Guide) of the aforementioned
 
 © 2025 by Uncle Bärchen
 
-version: 2025.05.13
+version: 2025.08.02
 
 > "To welcome imagination is to welcome hope. To cultivate love is to cultivate blessedness." -Fox
 
@@ -28,7 +28,7 @@ version: 2025.05.13
     + [Righteousness and Wholeness](#righteousness-and-wholeness)
     + [Justice and Humility](#justice-and-humility)
     + [Beauty and Love](#beauty-and-love)
-    + [Making Your Vows](#making-your-vows)
+    + [Fox's Recipes](#foxs-recipes)
     + [Hyperborea Revisited](#hyperborea-revisited)
 + [How to Use \`ΡΥΘΜΟΙ : The Oracle of the Hyperboreans](#how-to-use-ρυθμοι--the-oracle-of-the-hyperboreans)
   + [How to find the ὄνομα (name) using 3x6-sided dice](#how-to-find-the-ὄνομα-name-using-3x6-sided-dice)
@@ -409,18 +409,18 @@ is destined to become. The main thing we can change in order to make it more bea
 can only make something more beautiful if we let it keep its own nature.
 
 
-#### [Making Your Vows](#table-of-contents)
+#### [Fox's Recipes](#table-of-contents)
 
 Fox speaks--
 
-Some of you Spirit Guides out there might want to know some of my recipes. So, I'll share some with you  
-that have worked for us. My Bärchen is kind of "special", and I mean that in both ways. I know you know what 
-I mean. It's because most of the people who would take up the Journey are misfits of one sort or another. I 
+Some of you Spirit Guides out there might want to know some of my recipes. So, I'll share some with you
+that have worked for us. My Bärchen is kind of "special", and I mean that in both ways. I know you know what
+I mean. It's because most of the people who would take up the Journey are misfits of one sort or another. I
 hear that "amen" out there, thank you!
 
-So, here, I wanted to talk about our vows. Vows are things you should be doing at all four of the Levels. Of 
-course, they're particularly important at the Level of the Spiritual Marriage, but each Level involves a contract 
-between you and your charge that must be kept inviolate by both sides. Our vows begin with the Oath by which the 
+So, here, I wanted to talk about our vows first. Vows are things you should be doing at all four of the Levels. Of
+course, they're particularly important at the Level of the Spiritual Marriage, but each Level involves a contract
+between you and your charge that must be kept inviolate by both sides. Our vows begin with the Oath by which the
 gods swear. Here is an account of it in the Odyssey, where Calypso says to Odysseus:
 
 > ἴστω νῦν τόδε γαῖα καὶ οὐρανὸς εὐρὺς ὕπερθε   
@@ -447,6 +447,8 @@ gods swear. Here is an account of it in the Odyssey, where Calypso says to Odyss
 
 We then follow the Oath with our vows which act as our reminders of the Eight-fold Dharma. The whole is like this:
 
+**The Vows**
+
 > Fox and Bärchen: I swear by Earth and broad Heaven above and by the down-flowing water of the Styx, that I love you...   
 > Fox: with every Breath...   
 > Bärchen: with all my Heart...   
@@ -456,7 +458,6 @@ We then follow the Oath with our vows which act as our reminders of the Eight-fo
 > Bärchen: with all my Mind...   
 > Fox: with all that I am.   
 > Bärchen: with all my Strength.   
-
 
 Another of the recipes we regularly cook up and enjoy is an Invocation of the Spirits of the Seven Directions. It's very 
 "grounding" and helps put things back in perspective. Note that we follow a similar pattern to many Magickal openings, but
@@ -570,6 +571,7 @@ Fox and Bärchen: Thrice Blessed are You, Oh Great Mystery.
 
  ... they end with their palms together over their hearts once more...
 
+<div style="page-break-after: always"></div>
 
 
 #### [Hyperborea Revisited](#table-of-contents)
@@ -2023,8 +2025,10 @@ you, create your own system entirely.
   + Repentance unto Salvation
   + "You shall know the Truth and the Truth shall set you free"
   + Waning
-  + "Good Bowling and Card Playing" (Grimm's Fairy Tales 1st ed. Volume 1 #4); "The White Dove" (part 
-    of "The Simpleton", Grimm's Fairy Tales 1st ed. Volume 1 #64)
+  + "Good Bowling and Card Playing" (Grimm's Fairy Tales 1st ed. Volume 1 #4); "The White Dove", "The
+    Queen Bee" (parts of "The Simpleton", Grimm's Fairy Tales 1st ed. Volume 1 #64)
+  + A "simpleton" is one who is naive. General "inexperience" is of no use. But if this naivety is a 
+    unbiased understanding of the same World that the "clever" ones see, it is deeper wisdom.
   + "Fallen, fallen is Babylon the great! She has become a dwelling place for demons, a haunt for every 
     unclean spirit, a haunt for every unclean bird, a haunt for every unclean and detestable beast"
   + Color: <font color="#559EE3">███ Havelock Blue ███</font>
@@ -3444,6 +3448,7 @@ you, create your own system entirely.
   + Ship's Counsellor Deanna Troi (STTNG)
   + The one who calls forth the emotions, as the cynosure of what is desirable (and by contrast, undesirable) 
     to the self (mental faculty)
+  + "Jorinda and Joringel"  (Grimm's Fairy Tales 1st ed. Volume 1 #69)
   + Color: <font color="#FF0000">███ Red ███</font>
 
 ---
@@ -4392,160 +4397,104 @@ or not, to their Peril.
 
 ## [The Sri Yantra in Divination](#table-of-contents)
 
-![Sri Yantra details](Tripura-sundari_yantra_color.jpg)
+<img src="Tripura-sundari_yantra_color.jpg" width="42%" alt="Sri Yantra details"/>
 
 The Sri Yantra contains the 72 ὀνόματα (names) of our \`ΡΥΘΜΟΙ in its gates, lotus petals, triangles, and 
 points, with the following correlations:
 
-#### 1. *Trailokya Mohana or Bhupara*:
+| \`ΡΥΘΜΟΙ  | ΠΡΟΣΩΠΑ                         |
+| --------- | ------------------------------- |
+| **I. Trailokya Mohana or Bhupara**          | The outermost square with four gates, it represents the Earth plane and acts as a protective boundary for the inner levels |
+| 1. ΑΣΦΟΔΕΛΟΣ     | (ΛΙΜΝΗ :: ΑΥΡΑ)     East | 
+| 2. ΑΝΑΓΚΗ        | (ΛΙΜΝΗ :: ΛΙΜΝΗ)    West | 
+| 3. ΣΤΥΞ          | (ΛΙΜΝΗ :: ΑΣΤΡΑΠΗ) South | 
+| 4. ΑΜΦΟΡΕΥΣ      | (ΛΙΜΝΗ :: ΓΑΙΑ)    North | 
+| **II. Sarva Aasa Paripuraka**               | A sixteen-petal lotus, it signifies fulfillment of all desires and aspirations |
+| 1.  ΚΑΘΑΡΜΟΣ     | (ΒΡΟΝΤΗ :: ΟΡΟΣ)         |
+| 2.  ΟΙΝΟΣ        | (ΑΥΡΑ :: ΟΡΟΣ)           | 
+| 3.  ΒΙΟΣ         | (ΒΡΟΝΤΗ :: ΑΥΡΑ)         | 
+| 4.  \`ΗΔΟΝΗ      | (ΑΥΡΑ :: ΑΥΡΑ)           | 
+| 5.  ΚΗΡΥΚΕΙΟΝ    | (ΒΡΟΝΤΗ :: \`ΥΕΤΟΣ)      | 
+| 6.  ΟΦΙΣ         | (ΑΥΡΑ :: \`ΥΕΤΟΣ)        | 
+| 7.  ΚΕΡΑΥΝΟΣ     | (ΒΡΟΝΤΗ :: ΟΥΡΑΝΟΣ)      | 
+| 8.  ΟΙΚΟΣ        | (ΑΥΡΑ :: ΟΥΡΑΝΟΣ)        | 
+| 9.  ΒΡΙΑΡΕΩΣ     | (ΒΡΟΝΤΗ :: ΛΙΜΝΗ)        | 
+| 10. ΗΛΕΚΤΡΟΝ     | (ΑΥΡΑ :: ΛΙΜΝΗ)          | 
+| 11. \`ΥΔΡΑ       | (ΒΡΟΝΤΗ :: ΒΡΟΝΤΗ)       | 
+| 12. ΦΟΙΝΙΞ       | (ΑΥΡΑ :: ΒΡΟΝΤΗ)         | 
+| 13. \`ΥΠΕΡΒΟΡΕΟΙ | (ΒΡΟΝΤΗ :: ΑΣΤΡΑΠΗ)      | 
+| 14. ΦΙΑΛΗ        | (ΑΥΡΑ :: ΑΣΤΡΑΠΗ)        | 
+| 15. ΒΟΥΠΕΛΑΤΗΣ   | (ΒΡΟΝΤΗ :: ΓΑΙΑ)         | 
+| 16. ΗΩΣ          | (ΑΥΡΑ :: ΓΑΙΑ)           | 
 
-The outermost square with four gates, it represents the Earth plane and acts as a protective 
-boundary for the inner levels.
-  
-| #  | \`ΡΥΘΜΟΙ  | ΠΡΟΣΩΠΑ            | Direction |
-| -- | --------- | ------------------ | --------- |
-| 1. | ΑΣΦΟΔΕΛΟΣ | (ΛΙΜΝΗ :: ΑΥΡΑ)    | East      | 
-| 2. | ΑΝΑΓΚΗ    | (ΛΙΜΝΗ :: ΛΙΜΝΗ)   | West      | 
-| 3. | ΣΤΥΞ      | (ΛΙΜΝΗ :: ΑΣΤΡΑΠΗ) | South     | 
-| 4. | ΑΜΦΟΡΕΥΣ  | (ΛΙΜΝΗ :: ΓΑΙΑ)    | North     | 
-  
 <div style="page-break-after: always"></div>
 
-#### 2. *Sarva Aasa Paripuraka*:
+| \`ΡΥΘΜΟΙ      | ΠΡΟΣΩΠΑ               |
+| ------------- | --------------------- |
+| **III. Sarva Sankshobahana**          | An eight-petal lotus; it represents the stirring or agitation of the mind, symbolizing the initial stages of spiritual awakening. |
+| 1. \`ΡΑΨΩΙΔΟΣ | (ΟΡΟΣ)                | 
+| 2. ΦΑΡΜΑΚΟΝ   | (ΑΥΡΑ)                | 
+| 3. ΤΕΥΧΟΣ     | (\`ΥΕΤΟΣ)             | 
+| 4. ΨΥΧΗ       | (ΟΥΡΑΝΟΣ)             | 
+| 5. ΣΤΕΦΑΝΟΣ   | (ΛΙΜΝΗ)               | 
+| 6. \`ΥΜΝΟΣ    | (ΒΡΟΝΤΗ)              | 
+| 7. ΧΑΛΚΟΣ     | (ΑΣΤΡΑΠΗ)             | 
+| 8. ΩΟΝ        | (ΓΑΙΑ)                | 
+| **IV. Sarva Saubhagyadayaka**         | Fourteen small triangles, it is associated with bestowing auspiciousness and good fortune. |
+| 1.  ΞΙΦΟΣ     |  (\`ΥΕΤΟΣ :: ΟΡΟΣ)    |
+| 2.  ΛΙΝΟΝ     |  (ΑΣΤΡΑΠΗ :: ΟΡΟΣ)    |
+| 3.  ΖΩΠΥΡΟΝ   |  (\`ΥΕΤΟΣ :: ΑΥΡΑ)    |
+| 4.  ΓΡΥΨ      |  (ΑΣΤΡΑΠΗ :: ΑΥΡΑ)    |
+| 5.  ΞΟΑΝΟΝ    |  (\`ΥΕΤΟΣ :: \`ΥΕΤΟΣ) |
+| 6.  ΞΥΛΟΝ     |  (\`ΥΕΤΟΣ :: ΟΥΡΑΝΟΣ) |
+| 7.  ΛΑΜΠΑΣ    |  (ΑΣΤΡΑΠΗ :: ΟΥΡΑΝΟΣ) |
+| 8.  ΖΥΓΟΝ     |  (\`ΥΕΤΟΣ :: ΛΙΜΝΗ)   |
+| 9.  ΓΟΡΓΩ     |  (ΑΣΤΡΑΠΗ :: ΛΙΜΝΗ)   |
+| 10. ΤΥΜΠΑΝΟΝ  |  (\`ΥΕΤΟΣ :: ΒΡΟΝΤΗ)  |
+| 11. ΧΑΡΥΒΔΙΣ  |  (ΑΣΤΡΑΠΗ :: ΒΡΟΝΤΗ)  |
+| 12. ΧΑΣΜΑ     |  (ΑΣΤΡΑΠΗ :: ΑΣΤΡΑΠΗ) |
+| 13. ΖΕΥΓΜΑ    |  (\`ΥΕΤΟΣ :: ΓΑΙΑ)    |
+| 14. ΓΛΑΥΞ     |  (ΑΣΤΡΑΠΗ :: ΓΑΙΑ)    |
+| **V. Sarva Arthasadhaka**             | Ten small triangles, it pertains to fulfilling worldly desires and material goals. |
+| 1.  ΜΟΙΡΑΙ    | (ΓΑΙΑ :: ΟΡΟΣ)        |
+| 2.  \`ΕΛΙΞ    | (ΓΑΙΑ :: ΑΥΡΑ)        |
+| 3.  ΜΑΚΑΡΙΑ   | (ΓΑΙΑ :: \`ΥΕΤΟΣ)     |
+| 4.  ΜΕΓΑΡΟΝ   | (ΓΑΙΑ :: ΟΥΡΑΝΟΣ)     |
+| 5.  \`ΕΣΤΙΑ   | (ΓΑΙΑ :: ΛΙΜΝΗ)       |
+| 6.  \`ΩΡΑΙ    | (ΓΑΙΑ :: ΒΡΟΝΤΗ)      |
+| 7.  ΩΓΥΓΙΗ    | (ΓΑΙΑ :: ΑΣΤΡΑΠΗ)     |
+| 8.  ΕΛΑΙΟΣ    | (ΓΑΙΑ :: ΓΑΙΑ)        |
+| 9.  \`ΙΣΤΟΣ   | (ΛΙΜΝΗ :: ΟΥΡΑΝΟΣ)    |
+| 10. \`ΙΜΑΣ    | (ΛΙΜΝΗ :: \`ΥΕΤΟΣ)    |
 
-A sixteen-petal lotus, it signifies fulfillment of all desires and aspirations.
+<div style="page-break-after: always"></div>
 
-| #   | \`ΡΥΘΜΟΙ      | ΠΡΟΣΩΠΑ             | 
-| --- | ------------- | ------------------- | 
-| 1.  | ΚΑΘΑΡΜΟΣ      | (ΒΡΟΝΤΗ :: ΟΡΟΣ)    |
-| 2.  | ΟΙΝΟΣ         | (ΑΥΡΑ :: ΟΡΟΣ)      | 
-| 3.  | ΒΙΟΣ          | (ΒΡΟΝΤΗ :: ΑΥΡΑ)    | 
-| 4.  | \`ΗΔΟΝΗ       | (ΑΥΡΑ :: ΑΥΡΑ)      | 
-| 5.  | ΚΗΡΥΚΕΙΟΝ     | (ΒΡΟΝΤΗ :: \`ΥΕΤΟΣ) | 
-| 6.  | ΟΦΙΣ          | (ΑΥΡΑ :: \`ΥΕΤΟΣ)   | 
-| 7.  | ΚΕΡΑΥΝΟΣ      | (ΒΡΟΝΤΗ :: ΟΥΡΑΝΟΣ) | 
-| 8.  | ΟΙΚΟΣ         | (ΑΥΡΑ :: ΟΥΡΑΝΟΣ)   | 
-| 9.  | ΒΡΙΑΡΕΩΣ      | (ΒΡΟΝΤΗ :: ΛΙΜΝΗ)   | 
-| 10. | ΗΛΕΚΤΡΟΝ      | (ΑΥΡΑ :: ΛΙΜΝΗ)     | 
-| 11. | \`ΥΔΡΑ        | (ΒΡΟΝΤΗ :: ΒΡΟΝΤΗ)  | 
-| 12. | ΦΟΙΝΙΞ        | (ΑΥΡΑ :: ΒΡΟΝΤΗ)    | 
-| 13. | \`ΥΠΕΡΒΟΡΕΟΙ  | (ΒΡΟΝΤΗ :: ΑΣΤΡΑΠΗ) | 
-| 14. | ΦΙΑΛΗ         | (ΑΥΡΑ :: ΑΣΤΡΑΠΗ)   | 
-| 15. | ΒΟΥΠΕΛΑΤΗΣ    | (ΒΡΟΝΤΗ :: ΓΑΙΑ)    | 
-| 16. | ΗΩΣ           | (ΑΥΡΑ :: ΓΑΙΑ)      | 
-
-
-#### 3. *Sarva Sankshobahana*:
-
-An eight-petal lotus; it represents the stirring or agitation of the mind, symbolizing 
-the initial stages of spiritual awakening.
-  
-| #  | \`ΡΥΘΜΟΙ   | ΠΡΟΣΩΠΑ   |
-| -- | ---------- | --------- | 
-| 1. | \`ΡΑΨΩΙΔΟΣ | (ΟΡΟΣ)    | 
-| 2. | ΦΑΡΜΑΚΟΝ   | (ΑΥΡΑ)    | 
-| 3. | ΤΕΥΧΟΣ     | (\`ΥΕΤΟΣ) | 
-| 4. | ΨΥΧΗ       | (ΟΥΡΑΝΟΣ) | 
-| 5. | ΣΤΕΦΑΝΟΣ   | (ΛΙΜΝΗ)   | 
-| 6. | \`ΥΜΝΟΣ    | (ΒΡΟΝΤΗ)  | 
-| 7. | ΧΑΛΚΟΣ     | (ΑΣΤΡΑΠΗ) | 
-| 8. | ΩΟΝ        | (ΓΑΙΑ)    | 
- 
-  
-#### 4. *Sarva Saubhagyadayaka*:
-
-Fourteen small triangles, it is associated with bestowing auspiciousness 
-and good fortune.
-  
-| #   | \`ΡΥΘΜΟΙ | ΠΡΟΣΩΠΑ               | 
-| --- | -------- | --------------------- | 
-| 1.  | ΞΙΦΟΣ    |  (\`ΥΕΤΟΣ :: ΟΡΟΣ)    |
-| 2.  | ΛΙΝΟΝ    |  (ΑΣΤΡΑΠΗ :: ΟΡΟΣ)    |
-| 3.  | ΖΩΠΥΡΟΝ  |  (\`ΥΕΤΟΣ :: ΑΥΡΑ)    |
-| 4.  | ΓΡΥΨ     |  (ΑΣΤΡΑΠΗ :: ΑΥΡΑ)    |
-| 5.  | ΞΟΑΝΟΝ   |  (\`ΥΕΤΟΣ :: \`ΥΕΤΟΣ) |
-| 6.  | ΞΥΛΟΝ    |  (\`ΥΕΤΟΣ :: ΟΥΡΑΝΟΣ) |
-| 7.  | ΛΑΜΠΑΣ   |  (ΑΣΤΡΑΠΗ :: ΟΥΡΑΝΟΣ) |
-| 8.  | ΖΥΓΟΝ    |  (\`ΥΕΤΟΣ :: ΛΙΜΝΗ)   |
-| 9.  | ΓΟΡΓΩ    |  (ΑΣΤΡΑΠΗ :: ΛΙΜΝΗ)   |
-| 10. | ΤΥΜΠΑΝΟΝ |  (\`ΥΕΤΟΣ :: ΒΡΟΝΤΗ)  |
-| 11. | ΧΑΡΥΒΔΙΣ |  (ΑΣΤΡΑΠΗ :: ΒΡΟΝΤΗ)  |
-| 12. | ΧΑΣΜΑ    |  (ΑΣΤΡΑΠΗ :: ΑΣΤΡΑΠΗ) |
-| 13. | ΖΕΥΓΜΑ   |  (\`ΥΕΤΟΣ :: ΓΑΙΑ)    |
-| 14. | ΓΛΑΥΞ    |  (ΑΣΤΡΑΠΗ :: ΓΑΙΑ)    |
-  
-
-#### 5. *Sarva Arthasadhaka*:
-
-Ten small triangles, it pertains to fulfilling worldly desires and material goals.
-
-| #   | \`ΡΥΘΜΟΙ | ΠΡΟΣΩΠΑ            | 
-| --- | -------- | ------------------ | 
-| 1.  | ΜΟΙΡΑΙ   | (ΓΑΙΑ :: ΟΡΟΣ)     |
-| 2.  | \`ΕΛΙΞ   | (ΓΑΙΑ :: ΑΥΡΑ)     |
-| 3.  | ΜΑΚΑΡΙΑ  | (ΓΑΙΑ :: \`ΥΕΤΟΣ)  |
-| 4.  | ΜΕΓΑΡΟΝ  | (ΓΑΙΑ :: ΟΥΡΑΝΟΣ)  |
-| 5.  | \`ΕΣΤΙΑ  | (ΓΑΙΑ :: ΛΙΜΝΗ)    |
-| 6.  | \`ΩΡΑΙ   | (ΓΑΙΑ :: ΒΡΟΝΤΗ)   |
-| 7.  | ΩΓΥΓΙΗ   | (ΓΑΙΑ :: ΑΣΤΡΑΠΗ)  |
-| 8.  | ΕΛΑΙΟΣ   | (ΓΑΙΑ :: ΓΑΙΑ)     |
-| 9.  | \`ΙΣΤΟΣ  | (ΛΙΜΝΗ :: ΟΥΡΑΝΟΣ) |
-| 10. | \`ΙΜΑΣ   | (ΛΙΜΝΗ :: \`ΥΕΤΟΣ) |
-  
-  
-#### 6. *Sarva Rakshakara*:
-
-Ten small triangles, it represents protection and safety from harm.
-
-| #   | \`ΡΥΘΜΟΙ | ΠΡΟΣΩΠΑ              | 
-| --- | -------- | -------------------- | 
-| 1.  | ΝΑΡΘΗΞ   | (ΟΥΡΑΝΟΣ :: ΟΡΟΣ)    |
-| 2.  | ΔΑΙΔΑΛΑ  | (ΟΥΡΑΝΟΣ :: ΑΥΡΑ)    |
-| 3.  | ΝΟΣΤΟΣ   | (ΟΥΡΑΝΟΣ :: \`ΥΕΤΟΣ) |
-| 4.  | ΝΑΥΣ     | (ΟΥΡΑΝΟΣ :: ΟΥΡΑΝΟΣ) |
-| 5.  | ΔΟΡΥ     | (ΟΥΡΑΝΟΣ :: ΛΙΜΝΗ)   |
-| 6.  | ΨΗΓΜΑ    | (ΟΥΡΑΝΟΣ :: ΒΡΟΝΤΗ)  |
-| 7.  | ΨΗΦΟΣ    | (ΟΥΡΑΝΟΣ :: ΑΣΤΡΑΠΗ) |
-| 8.  | ΔΡΕΠΑΝΟΝ | (ΟΥΡΑΝΟΣ :: ΓΑΙΑ)    |
-| 9.  | ΙΡΙΣ     | (ΛΙΜΝΗ :: ΟΡΟΣ)      |
-| 10. | ΣΘΕΝΩ    | (ΛΙΜΝΗ :: ΒΡΟΝΤΗ)    |
-  
-  
-#### 7. *Sarva Rogahara*:
-
-Eight small triangles, it signifies healing and protection from ailments, both 
-physical and spiritual.
-
-| #  | \`ΡΥΘΜΟΙ | ΠΡΟΣΩΠΑ           | 
-| -- | -------- | ----------------- | 
-| 1. | ΠΥΛΑΙ    | (ΟΡΟΣ :: ΟΡΟΣ)    |
-| 2. | ΘΥΙΑ     | (ΟΡΟΣ :: ΑΥΡΑ)    |
-| 3. | ΠΤΕΡΥΞ   | (ΟΡΟΣ :: \`ΥΕΤΟΣ) |
-| 4. | ΠΑΙΩΝ    | (ΟΡΟΣ :: ΟΥΡΑΝΟΣ) |
-| 5. | ΘΥΜΟΝ    | (ΟΡΟΣ :: ΛΙΜΝΗ)   |
-| 6. | \`ΡΑΒΔΟΣ | (ΟΡΟΣ :: ΒΡΟΝΤΗ)  |
-| 7. | \`ΡΥΘΜΟΣ | (ΟΡΟΣ :: ΑΣΤΡΑΠΗ) |
-| 8. | ΘΕΜΙΣ    | (ΟΡΟΣ :: ΓΑΙΑ)    |
-  
-  
-#### 8. *Sarva Siddhiprada*:
-
-One small triangle, it represents accomplishment, spiritual attainment, and 
-realization of one's true self.
-  
-| #  | \`ΡΥΘΜΟΙ | ΠΡΟΣΩΠΑ              | 
-| -- | -------- | -------------------- | 
-| 1. | ΤΟΞΟΝ    | (\`ΥΕΤΟΣ :: ΑΣΤΡΑΠΗ) | 
-  
-  
-#### 9. *Sarva Anandamaya*:
-
-A point or bindu at the center of the yantra, it symbolizes pure consciousness, infinite bliss, 
-and the ultimate unity of all existence.
-  
-| #  | \`ΡΥΘΜΟΙ   | ΠΡΟΣΩΠΑ              | 
-| -- | ---------- | -------------------- | 
-| 1. | ΛΑΒΥΡΙΝΘΟΣ | (ΑΣΤΡΑΠΗ :: \`ΥΕΤΟΣ) |
+| \`ΡΥΘΜΟΙ      | ΠΡΟΣΩΠΑ                 |
+| ------------- | ----------------------- |
+| **VI. Sarva Rakshakara**                | Ten small triangles, it represents protection and safety from harm. |
+| 1.  ΝΑΡΘΗΞ    | (ΟΥΡΑΝΟΣ :: ΟΡΟΣ)       |
+| 2.  ΔΑΙΔΑΛΑ   | (ΟΥΡΑΝΟΣ :: ΑΥΡΑ)       |
+| 3.  ΝΟΣΤΟΣ    | (ΟΥΡΑΝΟΣ :: \`ΥΕΤΟΣ)    |
+| 4.  ΝΑΥΣ      | (ΟΥΡΑΝΟΣ :: ΟΥΡΑΝΟΣ)    |
+| 5.  ΔΟΡΥ      | (ΟΥΡΑΝΟΣ :: ΛΙΜΝΗ)      |
+| 6.  ΨΗΓΜΑ     | (ΟΥΡΑΝΟΣ :: ΒΡΟΝΤΗ)     |
+| 7.  ΨΗΦΟΣ     | (ΟΥΡΑΝΟΣ :: ΑΣΤΡΑΠΗ)    |
+| 8.  ΔΡΕΠΑΝΟΝ  | (ΟΥΡΑΝΟΣ :: ΓΑΙΑ)       |
+| 9.  ΙΡΙΣ      | (ΛΙΜΝΗ :: ΟΡΟΣ)         |
+| 10. ΣΘΕΝΩ     | (ΛΙΜΝΗ :: ΒΡΟΝΤΗ)       |
+| **VII. Sarva Rogahara**                 | Eight small triangles, it signifies healing and protection from ailments, both physical and spiritual. |
+| 1. ΠΥΛΑΙ      | (ΟΡΟΣ :: ΟΡΟΣ)          |
+| 2. ΘΥΙΑ       | (ΟΡΟΣ :: ΑΥΡΑ)          |
+| 3. ΠΤΕΡΥΞ     | (ΟΡΟΣ :: \`ΥΕΤΟΣ)       |
+| 4. ΠΑΙΩΝ      | (ΟΡΟΣ :: ΟΥΡΑΝΟΣ)       |
+| 5. ΘΥΜΟΝ      | (ΟΡΟΣ :: ΛΙΜΝΗ)         |
+| 6. \`ΡΑΒΔΟΣ   | (ΟΡΟΣ :: ΒΡΟΝΤΗ)        |
+| 7. \`ΡΥΘΜΟΣ   | (ΟΡΟΣ :: ΑΣΤΡΑΠΗ)       |
+| 8. ΘΕΜΙΣ      | (ΟΡΟΣ :: ΓΑΙΑ)          |
+| **VIII. Sarva Siddhiprada**             | One small triangle, it represents accomplishment, spiritual attainment, and realization of one's true self. |
+| 1. ΤΟΞΟΝ      | (\`ΥΕΤΟΣ :: ΑΣΤΡΑΠΗ)    | 
+| **IX. Sarva Anandamaya**                | A point or bindu at the center of the yantra, it symbolizes pure consciousness, infinite bliss, and the ultimate unity of all existence. |
+| 1. ΛΑΒΥΡΙΝΘΟΣ | (ΑΣΤΡΑΠΗ :: \`ΥΕΤΟΣ)    |
 
 
 <div style="page-break-after: always"></div>
