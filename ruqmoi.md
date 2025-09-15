@@ -9,7 +9,7 @@ and Blue Fox, κοινωνός (Spirit Guide) of the aforementioned
 
 © 2025 by Uncle Bärchen
 
-version: 2025.08.02
+version: 2025.09.13
 
 > "To welcome imagination is to welcome hope. To cultivate love is to cultivate blessedness." -Fox
 
@@ -36,6 +36,7 @@ version: 2025.08.02
   + [ΑΙΝΙΓΜΑΤΑ](#αινιγματα)
     + [How to find the enigma using 2x6-sided dice](#how-to-find-the-enigma-using-2x6-sided-dice)
   + [Astrological Correspondences and Symbolism](#astrological-correspondences-and-symbolism)
+  + [The Wanderer's Oracle](#the-wanderers-oracle)
   + [The Alchemical Structure of the I Ching](#the-alchemical-structure-of-the-i-ching)
   + ['ΡΥΘΜΟΙ](#ρυθμοι)
 + [Shift happens! (Change is Inevitable)](#shift-happens-change-is-inevitable) 
@@ -48,9 +49,11 @@ version: 2025.08.02
 + [The Sri Yantra in Divination](#the-sri-yantra-in-divination)
 + [On the Daemon of Socrates](#on-the-daemon-of-socrates)
 + [What about magic?](#what-about-magic)
++ [Epilog](#epilog)
 
 
 
+<div style="page-break-after: always"></div>
 
 ## [Introduction](#table-of-contents)
 
@@ -112,6 +115,8 @@ We recommend that you eventually memorize all the symbols in your divinatory lan
 memorize all their diverse, possible meanings. At least at first. There is some advantage in ruminating again 
 upon these meanings and associations whenever you consider the particular meaning they have in the context of 
 your question. 
+
+<div style="page-break-after: always"></div>
 
 
 ### [My Initiation](#table-of-contents)
@@ -547,7 +552,7 @@ Bärchen: ΟΥΡΑΝΟΣ!
 
  ... we look Above where the Dome of Heaven Sparkles a light blue ...
  
-Fox: You are the Shepherd of the Stars, the Keeper of the Paths of Sun, Moon, and Clouds.
+Fox: You are the Shepherd of the Clouds, the Keeper of the Paths of Sun, Moon, and Stars.
 
 Bärchen: May we stand before you in Justice.
 
@@ -796,11 +801,9 @@ right to left...
   Of course! The clarification I got was ΧΑΡΥΒΔΙΣ... so yeah, this explanation is good enough for the moment.
   Fox loves to keep me on my toes.
 
----
 
 <div style="page-break-after: always"></div>
 
----
 
 ### [ΑΙΝΙΓΜΑΤΑ](#table-of-contents)
 
@@ -820,6 +823,7 @@ them to the broader system). We call them ΑΙΝΙΓΜΑΤΑ (Enigmas) after a p
 as a "secret". In the entry for each ὄνομα, you'll find the original (reconstructed) Proto-Germanic 
 appellation, as well as our Modern English one, plus our Modern English Rune poem stanza to use as a 
 mnemonic.
+
 
 #### [How to find the enigma using 2x6-sided dice](#table-of-contents)
 
@@ -878,11 +882,8 @@ drawn from long experience in this technique, but perhaps I can summarize it as 
 you now understand the speech of birds (an omen), having tasted the Dragon's Heart". Did we mention that 
 this is an advanced technique?! Use at your own risk and only if you both agree.
 
----
-
 <div style="page-break-after: always"></div>
 
----
 
 ### [Astrological Correspondences and Symbolism](#table-of-contents)
 
@@ -975,7 +976,6 @@ trigrams tends to focus on the most characteristic feature of this Trigram, wher
 to the Trigrams themselves in our system, remain broad. You can take these differences into consideration in 
 Astrological mode, of course; no one is stopping you.
 
-
 The possibility of creating this set of correspondences eluded us for a very long time, in no small part because 
 the Zodiac is an alternative 12-step process to the classic 12 Steps of the AA; it is capable of broader associations 
 because it more broadly associates the idea of Regeneration with mundane processes as well as Spiritual or Psychic 
@@ -1022,11 +1022,77 @@ So, if it's not clear, we cannot pretend to be restoring the original system--wh
 too much of what we consider detritus. Please consider this a rather free re-creation that might be useful for
 some. 
 
----
+<div style="page-break-after: always"></div>
+
+
+### [The Wanderer's Oracle](#table-of-contents)
+
+Bärchen often does a cast to get Fox's opinion on how to proceed in a given situation, or, basically, what to do 
+next, in general. (Okay, well, he does this a lot. A lot a lot. This is not *necessarily* a bad thing, as long as 
+he understands that consulting her in this way doesn't absolve him of responsibility for the choices he makes. He
+must remember that life is hard to predict; you have to take risks and there are no guarantees.) So, we came up 
+with the Wanderer's Oracle to cover those times when he wants to do a quick consultation before taking action. 
+
+Let's try to put this in more precise terms. The Wanderer's Oracle uses the images of the I Ching Trigrams to, first,
+describe a situation that someone undertaking a journey (a Wanderer) might encounter. You may have noticed that the
+images associated with the Trigrams describe weather and terrain:
+
+| Trigram  | Imagery                                                  |
+| -------- | -------------------------------------------------------- |
+| Heaven   | the sky                                                  |
+| Earth    | the land, but especially valleys and plains              |
+| Thunder  | the "boom" produced by lightning, but also an earthquake |
+| Wind     | anything from a gentle breeze to a strong wind           |
+| Water    | rain and clouds containing rain                          |
+| Fire     | lightning, but also the sun or (less often) the moon     |
+| Mountain | mountains generally, or (at least) high places           |
+| Lake     | land-locked bodies of water, and springs                 |
+
+In the Oracle, we interpret the two Trigrams which together make up the I Ching Hexagram in terms of a "situation"
+which a traveler (the Wanderer) might encounter on their journey. We narrow down the possible interactions of the 
+two elements of weather or terrain to describe a very particular situation. This particular situation implies a 
+challenge or an opportunity presented to the Wanderer. This situation is, of course, a metaphor for what is happening
+right now in the context of the question being posed.
+
+An example is in order. Bärchen asks Fox, as he is writing this, where are we at with this, how to proceed from here...
+
++ The Wanderer's Oracle: Heaven ‖ Rain Clouds
+  + situation: The Wanderer begins their descent with clear skies above, but low clouds and fog obscure 
+    what lies below them all around.
+  + admonition: Your way forward is not clear. You must try to infer the best way, but be ready to retrace 
+    your steps and try again.
+
+Okay, this makes sense--we're writing this introduction after making a first pass at developing this Wanderer's Oracle and
+we've been intending to go back and look at it as a whole, and to make changes where we find overlaps or inconsistencies.
+
+As you can see, the "situation" introduces a basic metaphor for where things are at for someone trying to get from point A
+to point B, stated in terms of the weather, time of day, and terrain. The "admonition" gives the corresponding actions that 
+this situation implies. The "admonition" is, itself, a metaphor for how to proceed in regard to a situation in the "real 
+world", of course. In other words, Fox is saying "I think we're at this point in the situation you're asking me about and, 
+given the challenges and opportunities that implies, your best course of action would be this." 
+
+You may wonder why we would introduce yet another layer of possible interpretations and metaphors to what is, admittedly, 
+a very complex set? After all, we've already correlated each of the 72 ὀνόματα of our 'ΡΥΘΜΟΙ Oracle with I Ching Hexagrams, 
+Tarot cards, Runes, and various myths and stories. These different systems attach similar, though somewhat different 
+interpretations and metaphors to these "symbols". How do we not get confused? 
+
+When Bärchen does a general cast, he looks for the "right" interpretation (that is, what Fox is really trying to say) by considering 
+the context of his question, and taking into account the traditional contexts addressed by the various systems. But he also 
+goes by the "feeling" of which interpretation is the right one. Getting that feeling comes in part by recognizing the subtle 
+cues that distinguish his own desires and expectations from the "promptings" that come from the Spirit. He learned this through 
+time, experience, self-examination, and, when in doubt, by doing a second "cast" to ask whether he's gotten it.
+
+Also, with just 72 ὀνόματα, Fox sometimes feels that her vocabulary is a bit constrained. So sometimes, she wants Bärchen to 
+look for her meaning in the basic relationships between the Trigrams according to our own "psychological" interpretations of 
+them. This opens a sort of dialog that can be very enlightening for both of us, but it requires quite a bit of time for
+contemplation. 
+
+So, for those situations where what we're after is just a quick "check-in", where, as we said, Bärchen asks "what would you like to 
+do now?" or "where do you think we are at with such-and-so?" we developed this Wanderer's Oracle to cover them. Use it if it 
+appeals to you.
 
 <div style="page-break-after: always"></div>
 
----
 
 ### [The Alchemical Structure of the I Ching](#table-of-contents)
 
@@ -1081,11 +1147,9 @@ some.
 |           |                                          |                                         |                          |                          |
 | 63 : 64   | [After Completion](#τοξον)               | [Before Completion](#λαβυρινθος)        | G#8/7 12.Replicate/Teach | G7/7 11.Maintain/Improve |
 
----
 
 <div style="page-break-after: always"></div>
 
----
 
 ### ['ΡΥΘΜΟΙ](#table-of-contents)
 
@@ -1156,9 +1220,8 @@ Some of the meanings and associations attached to the ὀνόματα (words) of
 you'll want to refine the meanings and associations we give, make up your own, and possibly, when the time is ripe for
 you, create your own system entirely.
 
----
-
 <div style="page-break-after: always"></div>
+
 
 ---
 
@@ -1179,12 +1242,16 @@ you, create your own system entirely.
 + Tarot: Four ♣/Wands
   + upright: homecoming, community, celebration, harmony
   + reversed: lack of support, conflicts with others
++ The Wanderer's Oracle: Lake ‖ Earth
+  + situation: The Wanderer comes to a pristine lake in a luxuriant valley.
+  + admonition: Take some time to refresh your supplies and water, explore the lake shore, restore vigor, and maybe
+    even do some fishing.
 + Bible: John 5 - Jesus heals the lame man at the pool of Bethzatha
 + Additional Concepts: 
   + Safe Haven 
   + The trained model
   + The Wedding Feast of the Lamb
-  + Color: <font color="#920062">███ Fresh Eggplant ███</font>
+  + Color: <font color="#920062">███ Fresh Eggplant ███</font> (#920062)
 
 ---
 
@@ -1213,11 +1280,16 @@ you, create your own system entirely.
 + Rune: ᚦ [Thurisaz/Thorn](#αινιγματα) 
   + poem: "Thorn of black that wards the rose- thence her eldritch power flows."
   + keywords: elemental power, giants/trolls/demons, negativity, duality, barriers
++ The Wanderer's Oracle: Lake ‖ Lake
+  + situation: The Wanderer comes to a clear, blue mountain lake.
+  + admonition: Stop for a moment to remove the dust and exhaustion of the trail. Wash self and gear in 
+    the cool water. Once you have restored things in this way, you will be ready to rejoin your journey 
+    renewed.
 + Bible: Revelation 20:7-10 - The final deception and Satan's doom
 + Additional Concepts: 
   + Uncontrolled mirth
   + the Dragon's Heart (vide Fáfnir)
-  + Color: <font color="#800056">███ Cardinal Pink ███</font>
+  + Color: <font color="#800056">███ Cardinal Pink ███</font> (#800056)
 
 ---
 
@@ -1241,6 +1313,11 @@ you, create your own system entirely.
 + Tarot: Page ♣/Wands
   + upright: ideas, discovery, exploration, excitement, freedom
   + reversed: self-limiting beliefs, procrastination, creating conflict
++ The Wanderer's Oracle: Lake ‖ Wind
+  + situation: The Wanderer sees a lake whose surface is broken by the wind into constantly changing patterns 
+    of reflections.
+  + admonition: Pause to watch the reflections and let yourself be inspired by new possibilities and new ways 
+    of seeing.
 + Greek Myth: The Labors of Heracles - 11. The Golden Apples of the Hesperides
   + mode: location gotten from the Old Man of the Sea, the killing of Antaeus or the Serpent Ladon
   + results: How do you like them apples?!
@@ -1256,7 +1333,7 @@ you, create your own system entirely.
   + The Holiness of Beauty
   + Without inspiration, life is toil
   + The Swan of Tuonela
-  + Color: <font color="#FF0089">███ Rose ███</font>
+  + Color: <font color="#FF0089">███ Rose ███</font> (#FF0089)
 
 ---
 
@@ -1283,6 +1360,10 @@ you, create your own system entirely.
 + Rune: ᚷ [Gebo/Gift](#αινιγματα) 
   + poem: "Gifts are given heartily, when the heart turns gratefully."
   + keywords: giving, sacrifice, receiving, mutual obligation, thankfulness
++ The Wanderer's Oracle: Thunder ‖ Wind
+  + situation: The Wanderer hears the sound of distant thunder carried on the wind.
+  + admonition: Continue your journey without faltering; but take to heart that, though the weather is clear now, 
+    those distant storms will soon arrive.
 + Bible: 2 Kings 1 - Elijah and the death of Ahaziah
 + Additional Concepts: 
   + Becoming father
@@ -1292,7 +1373,7 @@ you, create your own system entirely.
   + "To those who by patience in well-doing seek for glory and honor and immortality, he will give 
     eternal life"
   + the Stag
-  + Color: <font color="#557900">███ Green Leaf ███</font>
+  + Color: <font color="#557900">███ Green Leaf ███</font> (#557900)
 
 ---
 
@@ -1314,6 +1395,10 @@ you, create your own system entirely.
 + Tarot: King ♥/Cups
   + upright: compassion, control, diplomacy, balance
   + reversed: coldness, moodiness, emotionally manipulative
++ The Wanderer's Oracle: Quake ‖ Earth
+  + situation: The Wanderer feels the jolt of an earthquake.
+  + admonition: Rock falls may have made the path ahead treacherous or even impassable, and fellow travelers 
+    you meet may have been injured. Help clear the path and heal those in need.
 + Greek Myth: The Odyssey - 11. Reunification
   + overview: The worst is over, the best is yet to come... almost.
   + challenges: Odysseus must meet his father and reestablish his authority on Ithaka.
@@ -1338,7 +1423,7 @@ you, create your own system entirely.
   + "For thou wilt not leave my soul in hell"
   + the Stallion
   + "And was the holy Lamb of God," (Blake's Jerusalem 3)
-  + Color: <font color="#009100">███ Japanese Laurel ███</font>
+  + Color: <font color="#009100">███ Japanese Laurel ███</font> (#009100)
 
 ---
 
@@ -1361,6 +1446,11 @@ you, create your own system entirely.
 + Tarot: The Moon
   + upright: unconscious, illusions, subconscious, intuition
   + reversed: confusion, repressed emotions, fear, misinterpretation
++ The Wanderer's Oracle: Quake ‖ Lake
+  + situation: The Wanderer's contemplations are disturbed by the tremor of an earthquake that sends ripples 
+    across the erstwhile calm surface of a lake.
+  + admonition: What is unsettled within you that answers to the disturbance without? Face this and restore 
+    your composure, just as the lake naturally regains its calm reflection. 
 + Bible: Revelation 19:6-10 - Invitation to the marriage supper of the Lamb
 + Additional Concepts: 
   + Motivation
@@ -1369,7 +1459,7 @@ you, create your own system entirely.
   + Δράκων - Here be Dragons
   + "The Gnome" (Grimm's Fairy Tales 1st ed. Volume II #5)
   + Cadmus
-  + Color: <font color="#557939">███ Fern Green ███</font>
+  + Color: <font color="#557939">███ Fern Green ███</font> (#557939)
 
 ---
 
@@ -1396,6 +1486,9 @@ you, create your own system entirely.
 + Tarot: Rota Fortuna
   + upright: change, luck, karma, cycles, fate
   + reversed: no control, resistance to change, breaking cycles, bad luck
++ The Wanderer's Oracle: Light ‖ Earth
+  + situation: The Wanderer watches the sun begin to descend beneath the plains.
+  + admonition: Make camp now and be ready to rejoin your journey early tomorrow.
 + Bible: 1 Kings 19:9-18 - Elijah's vision of God
 + Additional Concepts: 
   + γλαυκῶπις Ἀθηνᾶ (Bright-eyed Athena)
@@ -1404,7 +1497,7 @@ you, create your own system entirely.
   + "Dans les champs de l'observation le hasard ne favorise que les esprits préparés" (Pasteur)
   + Fortuna Eruditis Favet
   + Muladhara Chakra ("root", base of spine)
-  + Color: <font color="#807700">███ Olive ███</font>
+  + Color: <font color="#807700">███ Olive ███</font> (#807700)
 
 ---
 
@@ -1427,6 +1520,10 @@ you, create your own system entirely.
 + Tarot: Ace ♠/Swords
   + upright: clarity, breakthrough, sharpness of mind
   + reversed: confusion, chaos, clouded judgement
++ The Wanderer's Oracle: Lightning ‖ Lake
+  + situation: The Wanderer sees a lightning flash amplified by its reflection in a lake.
+  + admonition: Restrain fear but do not ignore the imminent danger. Let your actions reflect the true 
+    nature of the warning you have been given.
 + Bible: 1 Kings 18:20-46 - The Contest with the prophets of Baal; the drought ends  
 + Additional Concepts: 
   + Holy Awe
@@ -1436,7 +1533,7 @@ you, create your own system entirely.
   + The goal of ritual
   + The Philosopher's Stone 
   + "Till we have built Jerusalem," (Blake's Jerusalem 15)
-  + Color: <font color="#FF854B">███ Coral ███</font>
+  + Color: <font color="#FF854B">███ Coral ███</font> (#FF854B)
 
 ---
 
@@ -1463,6 +1560,10 @@ you, create your own system entirely.
 + Rune: ᚲ [Kenaz/Cauldron](#αινιγματα) 
   + poem: "Cauldron sits in crackling flame, ever changing, ever same."
   + keywords: change, transformation, illumination, fire, process, time
++ The Wanderer's Oracle: Lightning ‖ Wind
+  + situation: The Wanderer sees lightning strike nearby but the winds appear to be in their favor.
+  + admonition: Pay attention to what the situation is telling you! Do you need to change your path or
+    approach? Keep one eye out for shelter, and another on the storm, should the winds change.
 + Bible: John 11 - Jesus raises Lazarus from the tomb at Bethany
 + Additional Concepts: 
   + "...we all want to change the World"
@@ -1472,7 +1573,7 @@ you, create your own system entirely.
   + It's a beautiful view(point)
   + the Fox
   + "Bring me my Spear: O clouds unfold:" (Blake's Jerusalem 11)
-  + Color: <font color="#FFD300">███ Gold ███</font>
+  + Color: <font color="#FFD300">███ Gold ███</font> (#FFD300)
 
 ---
 
@@ -1495,17 +1596,21 @@ you, create your own system entirely.
 + Tarot: Six ♦/Pentacles
   + upright: generosity, charity, sharing
   + reversed: strings attached, power and domination, stinginess 
++ The Wanderer's Oracle: Heaven ‖ Wind
+  + situation: The Wanderer sees a blue sky laced with white, wispy cirrus clouds blown by winds aloft.
+  + admonition: A change of weather will surely come soon, so prepare now to welcome that change when it 
+    does come. Meanwhile, make the most of fair weather and skies full of delightful patterns.
 + Bible: John 4 - Jesus heals the official's son; the woman at the well
 + Additional Concepts: 
   + Sharing is caring
-  + Enobling desire
+  + Ennobling desire
   + "She's got a strange magic"
   + MidSummer
   + It's a beautiful composition
   + Man is truly Man when he desires to create
   + [Sir Gawain and Dame Ragnelle](https://en.wikipedia.org/wiki/The_Wedding_of_Sir_Gawain_and_Dame_Ragnelle)
   + "Well, you're a Cunning Linguist, aren't you!?"
-  + Color: <font color="#FFA0A0">███ Sweet Pink ███</font>
+  + Color: <font color="#FFA0A0">███ Sweet Pink ███</font> (#FFA0A0)
 
 ---
 
@@ -1530,6 +1635,9 @@ you, create your own system entirely.
 + Rune: ᛃ [Jera/Juniper](#αινιγματα)  
   + poem: "Juniper with twisted beam, holds the daylight's dying gleam."
   + keywords: completion, harvest, year, ending, conclusion, accomplishment
++ The Wanderer's Oracle: Heaven ‖ Lake
+  + situation: The Wanderer sees a clear, blue sky reflected in a calm lake.
+  + admonition: Take a respite here to consider, or reconsider, your path, progress, and goal.
 + Greek Myth: The Odyssey - 7\. The Phaiakians
   + overview: Odysseus arrives as a suppliant, with nothing but his experiences up to now.
   + challenges: He must be polite to a fault, prove his mettle in friendly games, and be a good story 
@@ -1546,7 +1654,7 @@ you, create your own system entirely.
   + Anahata Chakra ("unstruck", heart)
   + the Wolf
   + ξένος = guest-friend; "Knowing how to be a guest (or suppliant)..."
-  + Color: <font color="#F83D6">███ Persian Pink ███</font>
+  + Color: <font color="#F83D6">███ Persian Pink ███</font> (#F83D6)
 
 ---
 
@@ -1571,13 +1679,17 @@ you, create your own system entirely.
 + Rune: ᚢ [Uruz/Urus](#αινιγματα) 
   + poem: "Urus is an unkempt beast; by his horn is strength increased."
   + keywords: strength, might, courage, fierceness
++ The Wanderer's Oracle: Heaven ‖ Earth
+  + situation: The Wanderer makes camp as heaven descends to earth and twilight fades into night.
+  + admonition: Do not fear the cold and dark, nor the creatures that roam the night. Make your encampment 
+    as safe as you can and face the challenges of this time.
 + Bible: Genesis 1:14-19 - The 4th Day of Creation: God creates the sun, moon and seasons
 + Additional Concepts: 
   + CEO of his castle
   + Confusion seclusion
   + The stiff and inflexible follows Death
   + "And he became obedient unto Death... Therefore was he highly exalted..."
-  + Color: <font color="#BFBFBF">███ Silver ███</font>
+  + Color: <font color="#BFBFBF">███ Silver ███</font> (#BFBFBF)
 
 ---
 
@@ -1605,13 +1717,17 @@ you, create your own system entirely.
 + Rune: ᚠ [Fehu/Flocks](#αινιγματα) 
   + poem: "Flocks do feed upon the hill, growing fat and fleecy still." 
   + keywords: wealth, abundance, prosperity, increase
++ The Wanderer's Oracle: Earth ‖ Earth
+  + situation: The Wanderer comes to a hut in the shelter of a valley.
+  + admonition: Stay your wandering for awhile and spend the time and resources needed, but no more, to 
+    be able to continue and complete your journey.
 + Bible: Genesis 1:1b - [God created...] the Earth
 + Additional Concepts: 
   + You need help
   + Preservation, cultivation
   + A penny saved is a penny earned
   + The vehicle of ritual;
-  + Color: <font color="#373737">███ Tuatara ███</font>
+  + Color: <font color="#373737">███ Tuatara ███</font> (#373737)
 
 ---
 
@@ -1634,6 +1750,10 @@ you, create your own system entirely.
 + Tarot: Page ♦/Pentacles
   + upright: opportunity, skill development, ambition, desire, diligence
   + reversed: lack of commitment, laziness, lack of progress, procrastination
++ The Wanderer's Oracle: Earth ‖ Wind
+  + situation: The Wanderer descends into a valley for protection from strong winds above.
+  + admonition: The indirect path is the best, indeed the only, option now. Don't despise it if it is 
+    also pleasant.
 + Bible: John 6:1-15 - Jesus feeds 5K with 5 loaves and 2 fish
 + Additional Concepts: 
   + Skill Development
@@ -1641,7 +1761,7 @@ you, create your own system entirely.
   + Grow by modesty and adaptability
   + It's a beautiful world
   + "Cinderella" (Grimm's Fairy Tales 1st ed. Volume 1 #21)
-  + Color: <font color="#5B0000">███ Rosewood ███</font>   
+  + Color: <font color="#5B0000">███ Rosewood ███</font> (#5B0000)
 
 ---
 
@@ -1665,6 +1785,11 @@ you, create your own system entirely.
 + Tarot: Ace ♦/Pentacles
   + upright: manifestation, opportunity, prosperity, new venture, abundance
   + reversed: lost opportunities, missed chances, bad investments
++ The Wanderer's Oracle: Earth ‖ Lake
+  + situation: The Wanderer comes to a fertile valley with a gem-like lake that must be crossed by a 
+    boat tied up on its shore.
+  + admonition: An unexpected new venture requires you to innovate; but you might even get a chance to fish 
+    if you can improvise a bit.
 + Greek Myth: The Labors of Heracles - 4\. The Erymanthian Boar
   + mode: capture and release, with a preliminary deadly encounter with unruly centaurs (Heracles uses his 
     poison arrows)
@@ -1683,7 +1808,7 @@ you, create your own system entirely.
   + Lupercal
   + Ubuntu: I Am Because You Are
   + "Walk upon England's mountains green:" (Blake's Jerusalem 2)
-  + Color: <font color="#490031">███ Blackberry ███</font>
+  + Color: <font color="#490031">███ Blackberry ███</font> (#490031)
 
 ---
 
@@ -1708,6 +1833,11 @@ you, create your own system entirely.
 + Tarot: King ♠/Swords
   + upright: intellectual authority, head over heart, discipline, truth
   + reversed: misuse of power, manipulation, cruelty
++ The Wanderer's Oracle: Rain Clouds ‖ Earth
+  + situation: It begins to rain as the Wanderer's path descends into a dry gulch.
+  + admonition: Pay attention to the conditions of sky and earth. How long and how hard has it been raining? 
+    What are the features of the terrain? To be able to continue unharmed, you must watch out for thick mud, 
+    slippery rocks and flash-floods. 
 + Greek Myth: The Odyssey - 6\. The Raft and the Sea
   + overview: The gods decide it's time for the last trials that will lead to Odysseus' homecoming. 
     With Calypso's tools he builds a raft and provisions it with her food for the trip.
@@ -1722,7 +1852,7 @@ you, create your own system entirely.
   + Mutual interests
   + The nature of wisdom, the wisdom of nature
   + Pontifex = bridge builder
-  + Color: <font color="#002456">███ Green Vogue ███</font>
+  + Color: <font color="#002456">███ Green Vogue ███</font> (#002456)
 
 ---
 
@@ -1745,6 +1875,9 @@ you, create your own system entirely.
 + Tarot: Death
   + upright: endings, beginnings, change, metamorphosis, transformation, transition
   + reversed: resistance to change, fear of change, holding on, stagnation
++ The Wanderer's Oracle: Rain Clouds ‖ Lake
+  + situation: The Wanderers camp site by a lake is flooded by rising rain waters rushing in.
+  + admonition: Time to salvage what you can and quickly move on before you are drowned.
 + Bible: Revelation 21:2-3 - The New Jerusalem
 + Additional Concepts: 
   + "A man's gotta know his limitations" 
@@ -1753,7 +1886,7 @@ you, create your own system entirely.
     as Wind along the Waste, I know not Whither, willy-nilly blowing."
   + "I am the first and the last, and the Living one; and I was dead, and behold, I am alive for evermore, 
     and I have the keys of death and of Hades."
-  + Color: <font color="#7427AB">███ Purple Heart ███</font>
+  + Color: <font color="#7427AB">███ Purple Heart ███</font> (#7427AB)
 
 ---
 
@@ -1780,6 +1913,10 @@ you, create your own system entirely.
 + Rune: ᚱ [Raido/Road](#αινιγματα) 
   + poem: "Road runs right beside the sea, where the waves walk ceaselessly."
   + keywords: way, road, path, journey, individuality, liminality, separation
++ The Wanderer's Oracle: Rain Clouds ‖ Wind
+  + situation: The Wanderer feels the rain slacken and a fresh breeze begins to blow the clouds away. 
+  + admonition: Remove that rain gear or come out from under shelter. The rain has washed your path clean, 
+    so you may continue or rejoin your journey refreshed.
 + Bible: John 9 - Jesus heals the man born blind by sending him to wash in the pool of Siloam
 + Additional Concepts: 
   + Find a new approach
@@ -1792,7 +1929,7 @@ you, create your own system entirely.
     such things." (Ph. 4:8)
   + "Little Snow White" (Grimm's Fairy Tales 1st ed. Volume 1 #53)
   + the Bear
-  + Color: <font color="#5C2D6D">███ Honey Flower ███</font>
+  + Color: <font color="#5C2D6D">███ Honey Flower ███</font> (#5C2D6D)
 
 ---
 
@@ -1818,6 +1955,10 @@ you, create your own system entirely.
 + Rune: ᚹ [Wunjo/Wind](#αινιγματα) 
   + poem: "Wind that whistles o'er the plain, wall nor wattle can restrain."
   + keywords: joy, happiness, freedom, release, inspiration
++ The Wanderer's Oracle: Wind ‖ Wind
+  + situation: The Wanderer feels a gentle breeze that brings with it lovely fragrances.
+  + admonition: Stop to smell the flowers whose scent is carried by the wind. Put one in your cap so you 
+    may continue your journey with a light heart. 
 + Bible: Revelation 20:11-15 - The dead are judged by their deeds: the Book of Life
 + Additional Concepts: 
   + "Freude, schöner Götterfunken, Tochter aus Elysium"
@@ -1828,7 +1969,7 @@ you, create your own system entirely.
   + "The Three Little Men in the Forest" (Grimm's Fairy Tales 1st ed. Volume 1 #13); 
     "Mother Holle" (Grimm's Fairy Tales 1st ed. Volume 1 #24)
   + the Hind 
-  + Color: <font color="#800000">███ Maroon ███</font>
+  + Color: <font color="#800000">███ Maroon ███</font> (#800000)
 
 ---
 
@@ -1851,6 +1992,11 @@ you, create your own system entirely.
 + Tarot: Ace ♥/Cups
   + upright: love, new relationships, compassion, creativity, spirituality, intuition
   + reversed: emotional loss, blocked creativity, emptiness, repressed emotions
++ The Wanderer's Oracle: Wind ‖ Lake
+  + situation: The Wanderer watches the wind as it walks across a lake, forming ever-changing, scintillating 
+    patterns of reflection.
+  + admonition: Don't miss the beauty that comes your way unlooked for. Isn't your true destination your own
+    transformation, just as the water cannot touch the lake without them both being transformed?
 + Bible: Revelation 22:8-21 - Benediction and invitation to the Wedding Feast 
 + Additional Concepts: 
   + Ἀφροδίτη Οὐρανία (Heavenly Aphrodite)
@@ -1862,7 +2008,7 @@ you, create your own system entirely.
   + the Rose
   + "Maiden Without Hands" (Grimm's Fairy Tales 1st ed. Volume I #31); "Bluebeard" (Grimm's Fairy Tales 1st ed. Volume I #62)
   + The Muse of Aspiration
-  + Color: <font color="#FF0056">███ Razzmatazz ███</font>
+  + Color: <font color="#FF0056">███ Razzmatazz ███</font> (#FF0056)
 
 ---
 
@@ -1885,6 +2031,11 @@ you, create your own system entirely.
 + Tarot: Four ♥/Cups
   + upright: meditation, apathy, reevaluation, contemplation, disconnectedness
   + reversed: retreat, withdrawal, checking in
++ The Wanderer's Oracle: Wind ‖ Earth
+  + situation: The Wanderer feels a strong wind blow through the valley, stirring up dust and making the 
+    trees bend and groan.
+  + admonition: Wait in a safe spot for the wind to spend itself, lest, in its headlong hurry it fells a 
+    branch on you or blows the dust in your eyes.
 + Greek Myth: The Labors of Heracles - 3\. The Ceryneian Hind
   + mode: capture and release; with humility toward the gods
   + results: nothing, really \[cough, cough!\]
@@ -1902,7 +2053,7 @@ you, create your own system entirely.
   + the Mare
   + "Briar Rose" (Grimm's Fairy Tales 1st ed. Volume 1 #50)
   + "And did those feet in ancient time," (Blake's Jerusalem 1)
-  + Color: <font color="#930000">███ Red Berry ███</font>
+  + Color: <font color="#930000">███ Red Berry ███</font> (#930000)
 
 ---
 
@@ -1930,6 +2081,11 @@ you, create your own system entirely.
 + Tarot: King ♣/Wands
   + upright: leader, visionary, entrepreneur, overcoming challenges
   + reversed: impulsive, hasty, ruthless, impulsive, overbearing, unachievable expectations
++ The Wanderer's Oracle: Mountain ‖ Earth
+  + situation: The Wanderer comes to the base of a steep, almost vertical mountain face that rises directly 
+    from the plain.
+  + admonition: This is a technical climb, but it could be very rewarding. To undertake it, you must be 
+    practiced and prepared. If you are, then climb with care, taking nothing for granted.
 + Greek Myth: The Labors of Heracles - 8\. The Mares of Diomedes
   + mode: capture, with help from companions, then tame
   + results: in some accounts, Heracles' closest companion is eaten by the Mares, but in the end, they are 
@@ -1947,7 +2103,7 @@ you, create your own system entirely.
   + Humility
   + "The Foundling" (Grimm's Fairy Tales 1st ed. Volume 1 #51); "Sweetheart Roland" (Grimm's Fairy Tales 1st ed. Volume 1 #56)
   + "He became obedient unto death... Therefore hath God highly exalted him"
-  + Color: <font color="#00848E">███ Blue Lagoon ███</font>   
+  + Color: <font color="#00848E">███ Blue Lagoon ███</font> (#00848E)
 
 ---
 
@@ -1973,6 +2129,11 @@ you, create your own system entirely.
 + Tarot: The Devil
   + upright: Shadow self, attachment, addiction, materialism
   + reversed: exploring dark thoughts, detachment, release, restoring control
++ The Wanderer's Oracle: Mountain ‖ Wind
+  + situation: The Wanderer on the mountain path struggles against a strong wind which threatens, at 
+    times, to blow them off the path completely.
+  + admonition: Keep your footing and cling to the very rocks when necessary. There's no turning back 
+    now, and if you make it, your reward will be great. 
 + Greek Myth: The Labors of Heracles - 2\. The Lernaean Hydra
   + mode: with help from Iolaus and a firebrand
   + results: He gains a virulent poison
@@ -1989,9 +2150,9 @@ you, create your own system entirely.
   + Sahasrara Chakra ("thousand petaled", crown)
   + You must follow your bliss... God help you
   + The recompense of ritual
-  + "The Juniper Tree" (Grimm's Fairy Tales 1st ed. Volume 1 #47)
+  + "The Juniper Tree" (Grimm's Fairy Tales 1st ed. Volume 1 #47); "The Three Sisters" (Grimm's Fairy Tales 1st ed. Volume 1 #82)
   + The Initiate into the Mysteries of the Grail
-  + Color: <font color="#678D98">███ Juniper ███</font>
+  + Color: <font color="#678D98">███ Juniper ███</font> (#678D98)
 
 ---
 
@@ -2018,6 +2179,10 @@ you, create your own system entirely.
 + Rune: ᚨ [Ansuz/Ash](#αινιγματα) 
   + poem: "Ash is ardent, straight and true, bright bedecked with heaven's dew."
   + keywords: spirit, breath, wisdom, stillness
++ The Wanderer's Oracle: Mountain ‖ Lake
+  + situation: The Wanderer approaches their mountain goal only to find that it rises directly out of a lake.
+  + admonition: To reach the mountain and climb to its peak, you'll have to strip yourself of all unnecessary 
+    gear and clothing and swim for it. Let's hope the water is not too cold.
 + Bible: 1 Kings 17:1 - Elijah announces the drought
 + Additional Concepts: 
   + Upheaval
@@ -2031,7 +2196,7 @@ you, create your own system entirely.
     unbiased understanding of the same World that the "clever" ones see, it is deeper wisdom.
   + "Fallen, fallen is Babylon the great! She has become a dwelling place for demons, a haunt for every 
     unclean spirit, a haunt for every unclean bird, a haunt for every unclean and detestable beast"
-  + Color: <font color="#559EE3">███ Havelock Blue ███</font>
+  + Color: <font color="#559EE3">███ Havelock Blue ███</font> (#559EE3)
 
 ---
 
@@ -2061,6 +2226,9 @@ you, create your own system entirely.
 + Rune: ᚾ [Naudiz/Nettles](#αινιγματα)  
   + poem: "Nettles for the needy man; takes his hunger what it can."
   + keywords: need, necessity, lack, constraint, binding, destiny, fate, the Norns  
++ The Wanderer's Oracle: Lake ‖ Rain Clouds
+  + situation: The Wanderer's trail passes by a lake that has overflowed its shores because of recent rains.
+  + admonition: You must navigate the difficult, wet conditions and keep to the path as much as possible.
 + Bible: John 6:16-21 - Jesus walks on the Sea of Galilee [originally, The Word rising from the Waters])
 + Additional Concepts: 
   + Resilience
@@ -2068,6 +2236,7 @@ you, create your own system entirely.
   + The Censor's Dilemma- Where do you draw the line? 
   + Requiem aeternam dona eis Domine...
   + Can you *handle* it?
+  + "Our life is forfeit to the Dharma" -Fox and Bärchen
   + The Magic Girdle of Aphrodite is φιλότητα καί ἵμερον = affection and desire
   + Sir Gawain and the Green Knight
   + passion(n.) https://www.etymonline.com/word/passion c. 1200, "the sufferings of Christ on the Cross; 
@@ -2089,7 +2258,7 @@ you, create your own system entirely.
     > affecting, or influencing one, still leaves him his self-control. The secondary meanings of the two 
     > words keep this difference. [Century Dictionary]
   + "Little Louse and Little Flea" (Grimm's Fairy Tales 1st ed. Volume 1 #30)
-  + Color: <font color="#921EAB">███ Violet Eggplant ███</font>
+  + Color: <font color="#921EAB">███ Violet Eggplant ███</font> (#921EAB)
 
 ---
 
@@ -2115,14 +2284,19 @@ you, create your own system entirely.
 + Tarot: The Star
   + upright: hope, faith, purpose, renewal, rejuvenation
   + reversed: despair, faithlessness, discouragement, insecurity
++ The Wanderer's Oracle: Lake ‖ Mountain
+  + situation: The Wanderer comes to a clear, gem-like lake fed by a spring, high on a mountain path.
+  + admonition: Stop for a moment for unexpected refreshment and rest in a difficult landscape. This 
+    little gem may make the difference in achieving your goal.
 + Bible: 2 Kings 2:1-12 (Elijah ascends to Heaven and Elisha takes his place)  
 + Additional Concepts: 
   + The K&C of the HGA
   + A little sugar
   + Mutual respect
   + "Now abideth faith, hope & charity"
+  + "The Singing, Springing Lark" (Grimm's Fairy Tales 1st ed. Volume 2 #2)
   + "In thy presence is fulness of joy"
-  + Color: <font color="#AA4FC7">███ Fuschia Pink ███</font>
+  + Color: <font color="#AA4FC7">███ Fuschia Pink ███</font> (#AA4FC7)
 
 ---
 
@@ -2147,6 +2321,11 @@ you, create your own system entirely.
 + Tarot: Queen ♣/Wands
   + upright: courage, confidence, independence, determination
   + reversed: selfishness, jealousy, insecurities
++ The Wanderer's Oracle: Lake ‖ Heaven
+  + situation: The Wanderer is camped beside a lake. Just before dawn, they see that the clouds have 
+    dispersed and the stars are reflected in the lake's surface.
+  + admonition: Get up and make an early start on your journey. If you do, it's possible to make better 
+    progress than you anticipated.
 + Bible: John 2:1-12 (Jesus turns water to wine at the wedding at Cana)  
 + Additional Concepts: 
   + Take thought beforehand
@@ -2155,7 +2334,7 @@ you, create your own system entirely.
   + The Truth in Fiction is in its right relationships
   + Penelope
   + "The Six Swans" (Grimm's Fairy Tales 1st ed. Volume 1 #49)
-  + Color: <font color="#FF55C7">███ Hot Pink ███</font>
+  + Color: <font color="#FF55C7">███ Hot Pink ███</font> (#FF55C7)
 
 ---
 
@@ -2184,6 +2363,11 @@ you, create your own system entirely.
 + Rune: ᛉ [Algi**z**/Ha**z**el](#αινιγματα)  
   + poem: "Hazel for the wise man's cake; bounty, all that he can take."
   + keywords: protect, nurture, nourish, sustain, cultivate, preserve
++ The Wanderer's Oracle: Thunder ‖ Mountain
+  + situation: The Wanderer hears thunder as the clouds descend on the the mountain ahead, hiding its 
+    peak from view.
+  + admonition: Stop for a bit. Can you make the time productive as you wait for conditions to clear? 
+    In any case, do not fret.
 + Bible: Revelation 22:1-5 (The River and Tree of Life)
 + Additional Concepts: 
   + Arming grail knights since 1952- Our Motto: the Finding is in the Doing
@@ -2193,7 +2377,7 @@ you, create your own system entirely.
   + Don't settle
   + "Herr Fix-It_up" (Grimm's Fairy Tales 1st ed. Volume 1 #16)
   + Ubi Caritas et Amor...
-  + Color: <font color="#00D180">███ Caribbean Green ███</font>
+  + Color: <font color="#00D180">███ Caribbean Green ███</font> (#00D180)
 
 ---
 
@@ -2215,6 +2399,10 @@ you, create your own system entirely.
 + Tarot: Five ♥/Cups
   + upright: regret, failure, disappointment, pessimism, loss, grief, self-pity
   + reversed: acceptance, moving on, finding peace
++ The Wanderer's Oracle: Thunder ‖ Heaven
+  + situation: The Wanderer hears thunder as clouds quickly gather and cover the once clear, blue skies.
+  + admonition: What promised to be clear day suddenly turns into a challenge. Only proceed as before if 
+    you are very confident.
 + Bible: 1 Kings 21 - Elijah confronts Ahab for stealing Naboth's vineyard
 + Additional Concepts: 
   + Stealing Fire from Heaven
@@ -2223,7 +2411,7 @@ you, create your own system entirely.
   + The moment of impact
   + "And did the Countenance Divine," (Blake's Jerusalem 5)
   + "A Story About a Brave Tailor" (Grimm's Fairy Tales 1st ed. Volume 1 #20)
-  + Color: <font color="55CE55">███ Fern ███</font>
+  + Color: <font color="#55CE55">███ Fern ███</font> (#55CE55)
 
 ---
 
@@ -2247,6 +2435,11 @@ you, create your own system entirely.
 + Tarot: Seven ♥/Cups
   + upright: opportunities, wishful thinking, illusion, choices, daydreaming
   + reversed: lack of purpose, diversion, confusion, overwhelmed by choices
++ The Wanderer's Oracle: Thunder ‖ Rain Clouds
+  + situation: The Wanderer is surprised by a loud thunder clap. The rain immediately begins to fall in 
+    big drops.
+  + admonition: Caught unaware? Will the rain pass quickly, or settle in? Is there danger of a lightning 
+    strike? Look for the signs, check your past experience, and hurry slowly (with due deliberation).
 + Bible: 1 Kings 17:8-16 - Elijah stays with the Widow of Zarephath who shares her last meal
 + Additional Concepts: 
   + Make a clean sweep
@@ -2256,7 +2449,7 @@ you, create your own system entirely.
   + The Winged Serpent's Other Half
   + "The Golden Bird" (Grimm's Fairy Tales 1st ed. Volume I #57)
   + "I will not cease from Mental Fight," (Blake's Jerusalem 13) 
-  + Color: <font color="#007E56">███ Tropical Rain Forest ███</font>
+  + Color: <font color="#007E56">███ Tropical Rain Forest ███</font> (#007E56)
 
 ---
 
@@ -2283,12 +2476,16 @@ you, create your own system entirely.
 + Rune: ᚺ [Hagalaz/Hail](#αινιγματα)  
   + poem: "Hail is hurtful to the corn, breaks its stalks with bitter scorn."
   + keywords: death, destruction, decay, anger, fear, Hel
++ The Wanderer's Oracle: Lightning ‖ Rain Clouds
+  + situation: The Wanderer sees lightning leap from the storm clouds ahead and strike their intended path.
+  + admonition: Will lightning strike the same place twice? Keep a clear head because you may indeed need 
+    to quickly take shelter, or change your path, to avoid the danger, but stopping here won't help.
 + Bible: Genesis 1:1a - In the beginning...
 + Additional Concepts: 
   + The old fox knows the right place to cross
   + Worrying won't help, but you're going to anyway
   + Restate the question and ask again
-  + Color: <font color="#B2BB34">███ Earl's Green ███</font>
+  + Color: <font color="#B2BB34">███ Earl's Green ███</font> (#B2BB34)
 
 ---
 
@@ -2311,6 +2508,10 @@ you, create your own system entirely.
 + Tarot: Queen ♠/Swords
   + upright: perceptiveness, clear mindedness, unbiased judgement, clear boundaries, direct communication.
   + reversed: cold hearted, cruel, bitter, bitchy, cold-hearted.  
++ The Wanderer's Oracle: Light ‖ Heaven
+  + situation: The Wanderer sees the morning sun rising into a cloudless sky. The day will be hot.
+  + admonition: Seize the day! In spite of clear skies, a long journey and significant challenges await 
+    you, so pace yourself. Commit yourself fully to whatever this day's journey has in store.
 + Greek Myth: The Odyssey - 10\. The Competition of the Bow
   + overview: Athena puts it in Penelope's mind to bring out the bow of Odysseus and have a contest-- 
     whoever can shoot through a row of 12 axes will become her new husband.
@@ -2326,9 +2527,11 @@ you, create your own system entirely.
 + Bible: Genesis 1:26-31 - The Creation Day 6b: God creates man to have dominion over the beasts and till the Garden
 + Additional Concepts: 
   + Strength of character through clear mindedness
+  + "If you know the enemy and know yourself, you need not fear the result of 
+    a hundred battles." -Sun Tzu
   + White Buffalo Calf Woman
   + Beethoven Symphony 9, fourth Movement
-  + Color: <span style="background-color: black"><font color="#FFF56C">███ Paris Daisy ███</font></span>
+  + Color: <span style="background-color: black"><font color="#FFF56C">███ Paris Daisy ███</font></span> (#FFF56C)
 
 ---
 
@@ -2351,6 +2554,10 @@ you, create your own system entirely.
 + Tarot: The World
   + upright: fulfillment, harmony, completion, integration, accomplishment, travel.
   + reversed: incompletion, short-cuts, delays.
++ The Wanderer's Oracle: Light ‖ Mountain
+  + situation: the Wanderer sees their mountain destination ahead, bathed in clear light and shining glory.
+  + admonition: Become inspired by your destination so that you will not falter in the journey that awaits 
+    you. You've got this!
 + Bible: Revelation 20:1-6 - The Dragon is chained; Christ reigns for 1K years
 + Additional Concepts: 
   + "On a clear day, rise and look around you…"
@@ -2362,7 +2569,7 @@ you, create your own system entirely.
   + The end (telos) of ritual
   + The Norns
   + Get all your ducks in a row, then go.
-  + Color: <font color="#AAED55">███ Conifer ███</font>
+  + Color: <font color="#AAED55">███ Conifer ███</font> (#AAED55)
 
 ---
 
@@ -2384,6 +2591,11 @@ you, create your own system entirely.
 + Tarot: Nine ♦/Pentacles
   + upright: fruits of labor, self-sufficiency, financial independence, rewards, luxury.
   + reversed: reckless spending, living beyond your means, false success, hustling.
++ The Wanderer's Oracle: Earth ‖ Rain Clouds
+  + situation: The Wanderer sees the earth breathe forth new, misty clouds (rain ghosts) after the recent 
+    rains have passed.
+  + admonition: Be encouraged! Your path will be soggy and shrouded in mists, but press on with a glad heart, 
+    knowing the rain has spent itself and nourished the land, at least for today.
 + Greek Myth: The Odyssey - 5\. Ogygia
   + overview: They make it through almost all of the trials, but the sailors are tired and beg to stop 
     on Helios' island, and, of course, a storm detains them for a month, and those damn cattle of Helios, 
@@ -2406,7 +2618,7 @@ you, create your own system entirely.
   + Beethoven Symphony 9, 3rd Movement
   + Work on your Weltanschauung
   + "Rumpelstiltskin" (Grimm's Fairy Tales 1st ed. Volume I #55)
-  + Color: <font color="#001C44">███ Tangaroa ███</font>
+  + Color: <font color="#001C44">███ Tangaroa ███</font> (#001C44)
 
 ---
 
@@ -2431,12 +2643,17 @@ you, create your own system entirely.
 + Tarot: Queen ♦/Pentacles
   + upright: nurturing, practicality, creature comforts, financial security.
   + reversed: self-centeredness, jealousy, smothering, self-care, work/life imbalance.
++ The Wanderer's Oracle: Earth ‖ Heaven
+  + situation: The Wanderer sees the earth and its creatures begin to rouse, now that dawn's first light 
+    is in the sky.
+  + admonition: Enjoy this time of careful preparation. Make it count before you must start your journey once 
+    again.
 + Bible: Genesis 1:20-23 - The Creation, Day 5: living creatures of the air and water
 + Additional Concepts: 
   + The soft and yielding follows Life
   + Better housekeeping through adaptable homeostasis
   + "King Thrushbeard" (Grimm's Fairy Tales 1st ed. Volume I #52)
-  + Color: <font color="#2B2B2B">███ Baltic Sea ███</font>
+  + Color: <font color="#2B2B2B">███ Baltic Sea ███</font> (#2B2B2B)
 
 ---
 
@@ -2461,6 +2678,10 @@ you, create your own system entirely.
 + Rune: ᛈ [Pertho/Paeony](#αινιγματα)  
   + poem: "Paeony, beguiling bloom, blessed portal of the womb."
   + keywords: womb, conception, gestation, hidden beginnings, secrets
++ The Wanderer's Oracle: Earth ‖ Mountain
+  + situation: The Wanderers path through a valley hides, for a time, their mountain destination.
+  + admonition: Stick to the path you know is the right one. Although your destination cannot be seen 
+    now, only this will bring you closer to it.
 + Greek Myth: The Odyssey - 12\. The Oar as Winnowing Fan
   + overview: This is not told in the poem, but Teirisias mentions it. And Odysseus mentions this to Penelope 
     on the night of his fulfilled return and reclamation.
@@ -2490,7 +2711,7 @@ you, create your own system entirely.
     to have been synonymous with witches (völvas), and they arrive at the birth of the hero to shape his destiny.
     (See [Moirai](https://en.wikipedia.org/wiki/Moirai).)
   + "On Englands pleasant pastures seen!" (Blake's Jerusalem 4) 
-  + Color: <font color="#004247">███ Cypress ███</font>
+  + Color: <font color="#004247">███ Cypress ███</font> (#004247)
 
 ---
 
@@ -2514,6 +2735,10 @@ you, create your own system entirely.
 + Tarot: Eight ♦/Pentacles
   + upright: apprenticeship, high standards, mastery, skill development.
   + reversed: lack of passion or motivation, uninspired, perfectionism, misdirection.
++ The Wanderer's Oracle: Heaven ‖ Mountain
+  + situation: The Wanderer has naught but clear sky and mountain peak ahead--a difficult, final ascent awaits.
+  + admonition: It's up to you now. What others have encountered here is valuable but worth only so much. 
+    You must incorporate their experience and call on your own training and discipline to achieve this goal.
 + Bible: 1 Kings 19:19-21 - Elijah calls Elisha as his disciple
 + Additional Concepts: 
   + In the Hall of the Mountain King
@@ -2522,7 +2747,7 @@ you, create your own system entirely.
   + Who do you want to be like?
   + "Death and the Goose Boy" (Grimm's Fairy Tales 1st ed. Volume I #27)
   + "Shine forth upon our clouded hills?" (Blake's Jerusalem 6)
-  + Color: <font color="#94F7FF">███ Anakiwa ███</font>
+  + Color: <font color="#94F7FF">███ Anakiwa ███</font> (#94F7FF)
 
 ---
 
@@ -2544,13 +2769,17 @@ you, create your own system entirely.
 + Tarot: Five ♦/Pentacles
   + upright: need, poverty, loss, insecurity.
   + reversed: recovery, charity, improvement.
++ The Wanderer's Oracle: Heaven ‖ Heaven
+  + situation: The Wanderer comes to the rendezvous spot for travelers.
+  + admonition: Do not neglect to swap gear, news, and insights, and to help your fellow travelers before 
+    you set out again. Maybe you'll find companions to join you, or you can join with others for support.
 + Bible: Genesis 1:1 - [In the beginning,] God created...
 + Additional Concepts: 
   + "Give, and it shall be given to you"
   + "There are no passengers on spaceship earth. We are all crew"
   + The power of ritual
   + Heaven proposes, Earth disposes
-  + Color: <font color="#D8D8D8">███ Iron ███</font>
+  + Color: <font color="#D8D8D8">███ Iron ███</font> (#D8D8D8)
 
 ---
 
@@ -2576,6 +2805,11 @@ you, create your own system entirely.
 + Tarot: Seven ♦/Pentacles
   + upright: hard work, investment, perseverance, diligence.
   + reversed: work without rewards, lack of vision, limited success or reward.
++ The Wanderer's Oracle: Heaven ‖ Rain Clouds
+  + situation: The Wanderer begins their descent with clear skies above, but low clouds and fog obscure 
+    what lies below them all around.
+  + admonition: Your way forward is not clear. You must try to infer the best way, but be ready to retrace 
+    your steps and try again.
 + Greek Myth: The Odyssey - 3\. The Island of Aeaea
   + overview: another encounter with man-eating giants, but then let's see if he's got the kishkes to 
     take on the Sorceress Circe, or, be taken on by her?
@@ -2592,7 +2826,7 @@ you, create your own system entirely.
   + Work out disagreements
   + Beethoven Symphony 9, 2nd movement
   + The power of words
-  + Color: <font color="#C4D5EC">███ Periwinkle Gray ███</font>
+  + Color: <font color="#C4D5EC">███ Periwinkle Gray ███</font> (#C4D5EC)
 
 ---
 
@@ -2619,6 +2853,11 @@ you, create your own system entirely.
 + Rune: ᛁ [Isaz/Ice](#αινιγματα)  
   + poem: "Ice makes hard the fish's roof; then poor heron stands aloof."
   + keywords: static, frozen, structured, patterned, crystalline, regular
++ The Wanderer's Oracle: Rain Clouds ‖ Mountain
+  + situation: The Wander should be nearing their final ascent, but because clouds obscure it, they cannot 
+    see the mountain peak ahead.
+  + admonition: Should you try again later? Do you have any knowledge that can guide you here? Are there 
+    patterns in what you see that may offer a clue as to how to approach this, or not? 
 + Bible: 1 Kings 17:17-24 - Elijah Revives the Widow's Son
 + Additional Concepts: 
   + Gather your will and get up, you…! 
@@ -2626,7 +2865,7 @@ you, create your own system entirely.
   + Audentes Fortuna Iuvat
   + the Heron
   + "Nor shall my Sword sleep in my hand:" (Blake's Jerusalem 14)
-  + Color: <font color="#006FBF">███ Science Blue ███</font>
+  + Color: <font color="#006FBF">███ Science Blue ███</font> (#006FBF)
 
 ---
 
@@ -2648,12 +2887,16 @@ you, create your own system entirely.
 + Tarot: Seven ♠/Swords
   + upright: betrayal, deception, trickery, acting strategically.
   + reversed: come clean, rethink your approach, imposter syndrome, self-deceit, keeping secrets.
++ The Wanderer's Oracle: Rain Clouds ‖ Rain Clouds
+  + situation: The Wanderer is stuck in camp, socked in by clouds, rain, and mists.
+  + admonition: Take this time to make and revise plans. Don't kid yourself--unless a miracle occurs, you're 
+    not going anywhere.
 + Bible: Exodus 14:1-31 - Crossing the Red Sea
 + Additional Concepts: 
   + Thief! Thought you could hide that?!
   + ...make unto thee a Graven Image
   + Le Mot Juste
-  + Color: <font color="#356DBD">███ Mariner ███</font>
+  + Color: <font color="#356DBD">███ Mariner ███</font> (#356DBD)
 
 ---
 
@@ -2683,6 +2926,11 @@ you, create your own system entirely.
 + Tarot: Judgment
   + upright: Judgement, rebirth, inner calling, absolution, reflection, reckoning, awakening.
   + reversed: lack of self awareness, self-doubt, self-loathing, inner critic, ignoring the call.
++ The Wanderer's Oracle: Rain Clouds ‖ Heaven
+  + situation: The Wanderer sees low clouds cover the sky, but no rain is falling at this time.
+  + admonition: Will a storm begin or pass by (clouds on vacation)? Are you prepared to meet the challenges 
+    if a storm does begin? What does your experience, reason, and the accounts of others you meet on the path, 
+    tell you?
 + Greek Myth: The Odyssey - 4\. To Hades and Back
   + overview: is he ready? he's ready; but the journey home begins with a journey to Hades to learn what's 
     fated for him
@@ -2700,7 +2948,7 @@ you, create your own system entirely.
   + Someone is a dirty, lying con man! 
   + "It keeps me looking for a heart of gold"
   + Vishuddha Chakra ("purest", throat)
-  + Color: <font color="#4D7EC4">███ Steel Blue ███</font>
+  + Color: <font color="#4D7EC4">███ Steel Blue ███</font> (#4D7EC4)
 
 ---
 
@@ -2725,6 +2973,10 @@ you, create your own system entirely.
 + Tarot: Queen ♥/Cups
   + upright: caring, emotionally stable, compassionate, calm, comforting.
   + reversed: martyrdom, insecurity, dependence, co-dependency.
++ The Wanderer's Oracle: Wind ‖ Heaven
+  + situation: Winds aloft have cleared the sky and presage more good weather to come for the Wanderer.
+  + admonition: If you can make good use of this time, avoiding distractions and detours, you'll make good 
+    progress toward your final destination.
 + Greek Myth: The Odyssey - 8\. The Hut of the Swineherd
   + overview: At first, Odysseus doesn't recognize his homeland, but Athena reassures him he's arrived. 
     He stores the gifts of the Phaiakians in a cave. Then Athena disguises him as an old, wandering beggar 
@@ -2743,7 +2995,7 @@ you, create your own system entirely.
   + "Prince Swan" (Grimm's Fairy Tales 1st ed. Volume I #59)
   + The Beauty of Hospitality
   + "... makes one a better host."
-  + Color: <font color="#FF4949">███ Sunset Orange ███</font>
+  + Color: <font color="#FF4949">███ Sunset Orange ███</font> (#FF4949)
 
 ---
 
@@ -2765,6 +3017,10 @@ you, create your own system entirely.
 + Tarot: Temperance
   + upright: balance, moderation, middle path, patience, finding meaning.
   + reversed: extremes, excess, imbalance.
++ The Wanderer's Oracle: Wind ‖ Mountain
+  + situation: The Wanderer is refreshed by a cool breeze, clear skies, and a glorious view at a resting 
+    point beneath the mountain's peak.
+  + admonition: You've reached the reward for your climb. Would obtaining a higher point be any more fulfilling? 
 + Bible: Revelation 19:11-16 - The Rider on a White Horse
 + Additional Concepts: 
   + "Wisdom hath mixed her wine" -Proverbs 9
@@ -2773,7 +3029,7 @@ you, create your own system entirely.
   + Empty and Full
   + "He prayeth best who loveth best all things, both great and small"
   + "The Fisherman and his Wife" (Grimm's Fairy Tales 1st ed. Volume I #19)
-  + Color: <font color="#CB3034">███ Persian Red ███</font>
+  + Color: <font color="#CB3034">███ Persian Red ███</font> (#CB3034)
 
 ---
 
@@ -2802,6 +3058,9 @@ you, create your own system entirely.
 + Rune: ᛊ [Sowilo/Sun](#αινιγματα)  
   + poem: "Sun is bright, her honey hair sheds the light whose life we share."
   + keywords: vitality, vigor, health, incitement of desire, life
++ The Wanderer's Oracle: Wind ‖ Rain Clouds
+  + situation: The Wanderer watches the wind disperse the rain clouds ahead on their path.
+  + admonition: Here comes the sun, and I say it's all right! Enjoy the journey.
 + Bible: Revelation 21:1-8 - The New Heaven and Earth
 + Additional Concepts: 
   + "Brooding upon the waters"
@@ -2811,7 +3070,7 @@ you, create your own system entirely.
   + Moses raises up the Bronze Serpent (Nm 21:4-9)
   + The Muse of Invention
   + "Would to God that all the Lords people were Prophets." (Blake's Jerusalem 0, quoting Nm 11:29)
-  + Color: <font color="#802456">███ Disco ███</font>
+  + Color: <font color="#802456">███ Disco ███</font> (#802456)
 
 ---
 
@@ -2837,6 +3096,9 @@ you, create your own system entirely.
 + Tarot: Five ♣/Wands
   + upright: competition, rivalry, conflict, disagreements.
   + reversed: avoid conflict, respect differences.
++ The Wanderer's Oracle: Mountain ‖ Heaven
+  + situation: The Wanderer pauses below the highest peak in the range; the final ascent awaits.
+  + admonition: Few have gone here before. Have you studied their successes and failures? Ascend if you dare.
 + Greek Myth: The Labors of Heracles - 10\. The Cattle of Geryon
   + mode: cross over in the Cup of Helios, kill the herdsman with poison arrows, and take the cattle 
   + results: Heracles gets a share of the herd
@@ -2850,7 +3112,7 @@ you, create your own system entirely.
   + "… Play ball!"
   + "A splendid little war"
   + "And was Jerusalem builded here," (Blake's Jerusalem 7)
-  + Color: <font color="#80F6FF">███ Spray ███</font>
+  + Color: <font color="#80F6FF">███ Spray ███</font> (#80F6FF)
 
 ---
 
@@ -2880,10 +3142,15 @@ you, create your own system entirely.
  + Rune: ᛇ [Eiwaz/Yew](#αινιγματα)  
    + poem: "Yew betokens hallowed ground; nothing ill is therein found."
    + keywords: Yggdrasil (the World Tree), sacred circle, the Runes, luck
++ The Wanderer's Oracle: Mountain ‖ Rain Clouds
+  + situation: The Wanderer pauses before the final mountain ascent. The rain has just cleared, but the climb 
+    is now slippery and treacherous.
+  + admonition: You might make the peak, but the risk is great. If you proceed, every step must be taken with 
+    deliberation, the safest ways of approach considered, and any special equipment brought out. Feeling lucky?
 + Greek Myth: The Odyssey - 2\. The Bag of Winds
   + overview: they arrive at the land of Aiolos, who gives Odysseus safe passage by tying up the winds in a bag.
-  + challenges: the sailors think the bag contains treasure and are jealous and mistrust Odysseus' generosity, 
-    so they open the bag while he sleeps. 
+  + challenges: the sailors think the bag contains treasure, so they are jealous and mistrust Odysseus' generosity, 
+    and they open the bag while he sleeps. 
   + result: back to square one, but things are worse because Aiolos figures out that Odysseus is cursed and 
     refuses to help a second time.
   + comment: oh yeah! there's that trick (suppression), but its not going to work in this case-- the desire 
@@ -2903,7 +3170,7 @@ you, create your own system entirely.
   + What can you *use* it for?
   + Write a proposal
   + "Bring me my Bow of burning gold:" (Blake's Jerusalem 9)
-  + Color: <font color="#009AD5">███ Cerulean ███</font>
+  + Color: <font color="#009AD5">███ Cerulean ███</font> (#009AD5)
 
 ---
 
@@ -2926,14 +3193,18 @@ you, create your own system entirely.
 + Tarot: Eight ♣/Wands
   + upright: rapid action, movement, quick decisions, air travel.
   + reversed: waiting, slowdowns, delays, frustration.
++ The Wanderer's Oracle: Mountain ‖ Mountain
+  + situation: The Wanderer has reached the top of the mountain.
+  + admonition: Savor the moment and enjoy the view. Soon, you must make the descent while you still have 
+    time to return safely.
 + Bible: Revelation 18 - The Fall of Babylon
 + Additional Concepts: 
   + "Just drive, she said"
-  + Stilness in action - Action in stillness
+  + Stillness in action - Action in stillness
   + Engage!
   + [The Battle of Thermopylae](https://en.wikipedia.org/wiki/Battle_of_Thermopylae)
   + The Beauty of Holiness
-  + Color: <font color="#00D9EA">███ Bright Turquoise ███</font>
+  + Color: <font color="#00D9EA">███ Bright Turquoise ███</font> (#00D9EA)
 
 ---
 
@@ -2959,6 +3230,11 @@ you, create your own system entirely.
 + Tarot: Knight ♣/Wands
   + upright: energy, passion, adventure, impulsiveness, action, adventure, fearlessness.
   + reversed: recklessness, haste.
++ The Wanderer's Oracle: Mountain ‖ Quake
+  + situation: While on the mountain path, the Wanderer feels the ground tremble in a quake. Rocks dislodge 
+    into the path before them and behind.
+  + admonition: Don't go down the mountain without a fight! Steel your nerves and make it a day to be 
+    remembered. 
 + Greek Myth: The Labors of Heracles - 12\. Cerberus
   + mode: initiation in the Eleusinian Mysteries and a journey
   + results: nice doggie!
@@ -2978,7 +3254,7 @@ you, create your own system entirely.
   + *Just do it!*
   + "The White Snake" (Grimm's Fairy Tales 1st ed. Volume I #17);
     "The Singing Bone" (Grimm's Fairy Tales 1st ed. Volume I #28)
-  + Color: <font color="#00E1C9">███ Robin's Egg Blue ███</font>
+  + Color: <font color="#00E1C9">███ Robin's Egg Blue ███</font> (#00E1C9)
 
 ---
 
@@ -3022,7 +3298,7 @@ you, create your own system entirely.
   + Captain Jean-Luc Picard (STTNG)
   + Jupiter (Astrology)
   + The one who infers causality and stitches together the story of the self (mental faculty)
-  + Color: <font color="#00EDFF">███ Cyan ███</font>
+  + Color: <font color="#00EDFF">███ Cyan ███</font> (#00EDFF)
 
 ---
 
@@ -3050,6 +3326,10 @@ you, create your own system entirely.
 + Tarot: Ten ♣/Wands
   + upright: accomplishment, responsibility, burden.
   + reversed: inability to delegate, overstressed, burnt out.
++ The Wanderer's Oracle: Mountain ‖ Light
+  + situation: The Wanderer sees their mountain peak destination catch the last rays of the setting sun.
+  + admonition: Consider your goal. Who will be rewarded for your attainment? Grace is when cutting corners 
+    enhances beauty.
 + Greek Myth: The Labors of Heracles - 6\. The Stymphalian Birds
   + mode: Heracles can't reach the birds, so Athena gives him a rattle that causes them to fly away or 
     to within range of his poisoned arrows
@@ -3061,10 +3341,10 @@ you, create your own system entirely.
 + Additional Concepts: 
   + Oversight
   + Lucid beauty
-  + ΠΙΣΤΙΣ = persuasion, i.e. to become convinced (opp. to "faith" as it is normally understood and translated)
+  + ΠΙΣΤΙΣ = persuasion, i.e. to become convinced (opp. to "faith" as this word is normally understood and translated)
   + The burden of proof
   + The elegant solution removes difficulty
-  + Color: <font color="#55EDAA">███ Downy ███</font>
+  + Color: <font color="#55EDAA">███ Downy ███</font> (#55EDAA)
 
 ---
 
@@ -3091,6 +3371,11 @@ you, create your own system entirely.
 + Tarot: Strength
   + upright: strength, bravery, courage, persuasion, influence, focus.
   + reversed: self doubt, weakness, insecurity.
++ The Wanderer's Oracle: Lake ‖ Thunder
+  + situation: The Wanderer contemplates the quiet solitude of a clear, blue lake, undisturbed by the thunder 
+    that rumbles all about them.
+  + admonition: Cultivate stillness and introspection. Courage consists in your acceptance of self and 
+    circumstance.
 + Greek Myth: The Labors of Heracles - 1\. The Nemean Lion
   + mode: bare hands
   + results: Heracles gains an invulnerable cloak
@@ -3107,7 +3392,7 @@ you, create your own system entirely.
   + The Black Dragon
   + "Little Brother and Little Sister" (Grimm's Fairy Tales 1st ed. Volume I #11)
   + The Initiatrix into the Mysteries of the Grail
-  + Color: <font color="#805B56">███ Russet ███</font>
+  + Color: <font color="#805B56">███ Russet ███</font> (#805B56)
 
 ---
 
@@ -3132,6 +3417,11 @@ you, create your own system entirely.
 + Tarot: Three ♣/Wands
   + upright: foresight, looking ahead, expansion, growth.
   + reversed: playing small, lack of foresight, unexpected delays.
++ The Wanderer's Oracle: Lake ‖ Light
+  + situation: Roused from sleep, the Wanderer opens their eyes and sees the surface of a lake 
+    catch and reflect the first light of dawn.
+  + admonition: Anticipate what is just now breaking forth. "The game is afoot", so prepare now in order 
+    to stay one step ahead. Your attitude affects your outcome. Your beginning determines your end.
 + Bible: John 11:45-53 - Because he raised Lazarus, Jesus seals his own death
 + Additional Concepts: 
   + Discernment
@@ -3145,7 +3435,7 @@ you, create your own system entirely.
     that was used in classical antiquity as a seasoning, perfume, aphrodisiac, and medicine." 
     [Silphium](https://en.wikipedia.org/wiki/Silphium)
   + "Bring me my Chariot of fire!" (Blake's Jerusalem 12)
-  + Color: <font color="#FF4F72">███ Wild Watermelon ███</font>
+  + Color: <font color="#FF4F72">███ Wild Watermelon ███</font> (#FF4F72)
 
 ---
 
@@ -3188,7 +3478,7 @@ you, create your own system entirely.
     "experiences", and in which the self can see itself and the κόσμος (cosmos) (mental faculty)
   + "Hansel and Gretel"  (Grimm's Fairy Tales 1st ed. Volume 1 #15)
   + ἄνδρα μοι ἔννεπε, μοῦσα (Tell me of the man, oh Muse...)
-  + Color: <font color="#FF00AB">███ Magenta ███</font>
+  + Color: <font color="#FF00AB">███ Magenta ███</font> (#FF00AB)
 
 ---
 
@@ -3231,7 +3521,7 @@ you, create your own system entirely.
   + Mercury (Astrology)
   + Chief Engineer Geordi La Forge and Chief Operations Officer Data (STTNG)
   + The twins who reason and design, speak and name for the self (mental faculty)
-  + Color: <font color="#0047AB">███ Blue ███</font>
+  + Color: <font color="#0047AB">███ Blue ███</font> (#0047AB)
 
 ---
 
@@ -3254,6 +3544,10 @@ you, create your own system entirely.
 + Tarot: Ten ♠/Swords
   + upright: failure, collapse, defeat, deep wounds, betrayal, loss, crisis, painful endings.
   + reversed: can't get any worse, can only get better, inevitability. 
++ The Wanderer's Oracle: Rain Clouds ‖ Light
+  + situation: A sun shower--the Wanderer is bathed in bright sunlight, even as it continues to rain on 
+    them. (kitsune no yomeiri 狐の嫁入り; "the fox's wedding")
+  + admonition: Enjoy this brief moment of clarity, despite the rain. Were you able to see a rainbow?
 + Bible: Genesis 1:1b - ...God created...
 + Additional Concepts: 
   + "What's the worst that can happen?"
@@ -3261,7 +3555,7 @@ you, create your own system entirely.
   + Become the target
   + You already know the answer
   + The Golden Arrow of Abaris the Hyperborean
-  + Color: <font color="#4D7978">███ Cutty Sark ███</font>
+  + Color: <font color="#4D7978">███ Cutty Sark ███</font> (#4D7978)
 
 ---
 
@@ -3284,6 +3578,11 @@ you, create your own system entirely.
 + Tarot: Knight ♠/Swords
   + upright: action-oriented, impulsive, defending beliefs, driven, fast-thinking
   + reversed: unfocused, no direction, disregarding consequences, unpredictability
++ The Wanderer's Oracle: Rain Clouds ‖ Thunder
+  + situation: The Wanderer hears thunder boom in the rain clouds which surround them, but where, and 
+    whether, lightning will strike is not yet clear.
+  + admonition: Be alert and carefully monitor the signs to determine where the storm front is going. 
+    You'll have to act quickly and decisively once you know, and you can forget about second chances.
 + Greek Myth: The Odyssey - 1\. The Cave
   + overview: After the sack of the Kikonians the sailors wouldn't leave quickly, so they barely escaped. 
     A storm takes them to the Lotus Eaters and more sailors are lost there. Then they come to the cave 
@@ -3306,7 +3605,7 @@ you, create your own system entirely.
   + The Initiator into the Path
   + "Bring me my Arrows of desire:" (Blake's Jerusalem 10)
   + "Beat to quarters!"
-  + Color: <font color="#006C72">███ Mosque ███</font>
+  + Color: <font color="#006C72">███ Mosque ███</font> (#006C72)
 
 ---
 
@@ -3344,7 +3643,7 @@ you, create your own system entirely.
   + Mars (Astrology) 
   + First Officer William Riker (STTNG)
   + The one who calls the self to act and react (mental faculty)
-  + Color: <font color="#00B500">███ Forest Green ███</font>
+  + Color: <font color="#00B500">███ Forest Green ███</font> (#00B500)
 
 ---
 <div style="page-break-after: always"></div>
@@ -3366,12 +3665,16 @@ you, create your own system entirely.
 + Tarot: Knight ♥/Cups
   + upright: charm, following the heart, idealist, romantic.
   + reversed: moodiness, disappointment, overactive imagination, unrealistic, jealous.
++ The Wanderer's Oracle: Thunder ‖ Quake
+  + situation: The Wanderer hears several loud claps of thunder and feels an earthquake. Heaven and 
+    earth are trembling, all at once!
+  + admonition: Are we awake now? Don't panic! But there's no time to deliberate, so act quickly.
 + Bible: Revelation 17 - The Great Whore and the Beast
 + Additional Concepts: 
   + Shock and Awe
   + Fools Rush Inn
   + "Loyal Godfather Sparrow"  (Grimm's Fairy Tales 1st ed. Volume 1 #58)
-  + Color: <font color="#80DA80">███ Pastel Green ███</font>
+  + Color: <font color="#80DA80">███ Pastel Green ███</font> (#80DA80)
 
 ---
 
@@ -3397,13 +3700,19 @@ you, create your own system entirely.
 + Tarot: The Hermit
   + upright: soul-searching, introspection, contemplation, search for truth, inner guidance.
   + reversed: loneliness, isolation, lost your way, withdrawal.
++ The Wanderer's oracle: Quake ‖ Light
+  + situation: The Wanderer sees [earthquake lights](https://en.wikipedia.org/wiki/Earthquake_light) 
+    and knows a large earthquake has happened or is about to happen.
+  + admonition: Significant changes have taken place, or about to. Duty must take precedence over desire. 
+    Fulfill what is required of you without wishing things were different or that the responsibility belonged 
+    to another.
 + Bible: Revelation 19:17-21 - The Beast and Its Armies Defeated
 + Additional Concepts: 
   + Lawn order
   + When enough is enough
   + Svadhishthana Chakra ("where the self is established", sexual)
   + Necromancer/Neuromancer (Uncle Bärchen)
-  + Color: <font color="#55C800">███ Christi ███</font>
+  + Color: <font color="#55C800">███ Christi ███</font> (#55C800)
 
 ---
 
@@ -3471,6 +3780,11 @@ you, create your own system entirely.
 + Tarot: Three ♥/Cups
   + upright: friendship, community, happiness, celebration, collaboration
   + reversed: overindulgence, gossip, isolation, "three's a crowd"
++ The Wanderer's Oracle: Wind ‖ Light
+  + situation: The winds that blew during the day slacken as the evening light fades. The Wanderer makes 
+    camp and prepares the evening meal.
+  + admonition: Pour a libation of thanks for the blessings and beauty of the day, inviting 
+    any companions to join with you.
 + Bible: 1 Kings 18:3-16 - Obadiah saves the prophets
 + Additional Concepts: 
   + "All my relations"
@@ -3479,7 +3793,7 @@ you, create your own system entirely.
   + the Bee
   + The Muse of Prophecy
   + "In Englands green and pleasant Land." (Blake's Jerusalem 16)
-  + Color: <font color="#FF3600">███ Scarlet ███</font>
+  + Color: <font color="#FF3600">███ Scarlet ███</font> (#FF3600)
 
 ---
 
@@ -3503,11 +3817,16 @@ you, create your own system entirely.
 + Tarot: Two ♥/Cups
   + upright: unity, harmonious partnership, mutual attraction, connection
   + reversed: imbalance, broken communication, tension, break-ups, disharmony, distrust
++ The Wanderer's Oracle: Wind ‖ Thunder
+  + situation: The Wanderer sees swirling winds carry leaves aloft, while thunder clouds begin to rise all 
+    around.
+  + admonition: Become inspired by the winds, rise up like the clouds, and go quickly to claim the joy of 
+    arrival at the destination you have chosen.
 + Bible: 1 Kings 17:2-7 - Elijah fed by ravens by the brook Cherith
 + Additional Concepts: 
   + Waxing
   + The Muse of Regeneration
-  + Color: <font color="#BF2D00">███ Thunderbird ███</font>
+  + Color: <font color="#BF2D00">███ Thunderbird ███</font> (#BF2D00)
 
 ---
 
@@ -3571,6 +3890,10 @@ you, create your own system entirely.
 + Tarot: Two ♠/Swords
   + upright: weighing up options, difficult choices, indecision, checkmate
   + reversed: lesser of two evils, no right choice, confusion, indecision, information overload
++ The Wanderer's Oracle: Lightning ‖ Thunder
+  + situation: The Wanderer sees the lightning flash followed immediately by thunder; the storm is upon them.
+  + admonition: Take whatever shelter you can find (not under a solitary tree, please)... even just the lowest 
+    spot around you is better than nothing.
 + Greek Myth: The Labors of Heracles - 5\. The Augean Stables
   + mode: the menial task of cleansing, effected by re-routing two rivers
   + results: Heracles gets a share of the herd of immortal cattle, but not until he kills Augeas and puts 
@@ -3584,7 +3907,7 @@ you, create your own system entirely.
   + Beware Hamlet's Dilemma
   + Take the lesser of two evils
   + "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it." (Mt. 7:14)
-  + Color: <font color="#80D100">███ Lima ███</font>
+  + Color: <font color="#80D100">███ Lima ███</font> (#80D100)
 
 ---
 
@@ -3607,13 +3930,16 @@ you, create your own system entirely.
 + Tarot: Three ♠/Swords
   + upright: heartbreak, sorrow, suffering, grief
   + reversed: recovery, forgiveness, negativity, releasing pain, optimism
++ The Wanderer's oracle: Light ‖ Light
+  + situation: The sun sets and the full moon rises. The Wanderer can journey the entire night.
+  + admonition: Are you up to the challenge? Put aside weariness and take this opportunity. 
 + Bible: Exodus 3 - The Burning Bush
 + Additional Concepts: 
   + Jiutian Xuannü
   + Them's fightin' words! 
   + "Get it? Got it! Good!"
   + Grandmother Spider
-  + Color: <span style="background-color: #2A2A2A;"> <font color="#FFF45D">███ Candy Corn ███</font> </span>
+  + Color: <span style="background-color: #2A2A2A;"> <font color="#FFF45D">███ Candy Corn ███</font> </span> (#FFF45D)
 
 ---
 
@@ -3637,6 +3963,11 @@ you, create your own system entirely.
 + Tarot: Knight ♦/Pentacles
   + upright: efficiency, hard work, responsibility
   + reversed: laziness, obsessiveness, work without reward, boredom, feeling stuck, perfectionism
++ The Wanderer's Oracle: Heaven ‖ Thunder
+  + situation: The Wanderer sees the sky begin to clear and hears the thunder recede into the distance; 
+    the storm has passed.
+  + admonition: Your destination will be your reward for persistence. Make the most of this opportunity to cover 
+    some distance and make up for lost time.
 + Greek Myth: The Labors of Heracles - 9\. The Belt of Hippolyta
   + mode: Heracles almost manages to get the Belt without violence or deceit, but it's not to be
   + results: None, or a tragic loss if you're willing to consider the potential blessing and cooperation 
@@ -3654,7 +3985,7 @@ you, create your own system entirely.
   + the Boar
   + "Puss in Boots"  (Grimm's Fairy Tales 1st ed. Volume 1 #33)
   + "Among these dark Satanic Mills?" (Blake's Jerusalem 8)
-  + Color: <font color="#B3E9B3">███ Celadon ███</font>
+  + Color: <font color="#B3E9B3">███ Celadon ███</font> (#B3E9B3)
 
 ---
 
@@ -3685,6 +4016,10 @@ you, create your own system entirely.
 + Tarot: Ten ♦/Pentacles
   + upright: wealth, financial security, family, long-term success, contribution, legacy, culmination, inheritance
   + reversed: fleeting success, lack of stability, lack of resources, the dark side of wealth, financial loss
++ The Wanderer's Oracle: Heaven ‖ Light
+  + situation: The Wanderer has made good progress under clear skies today. The sun has begun to descend 
+    in the west.
+  + admonition: Your destination is close, perhaps even in sight. One final push and you'll arrive.
 + Greek Myth: The Odyssey - 9\. The Beggar at the Palace
   + overview: With the general outline of a plan, Odysseus must "silently endure a host of indignities, submit 
     to men's violent acts" while he evaluates the characters of his servants and watches for the opportunity 
@@ -3700,7 +4035,7 @@ you, create your own system entirely.
   + Constructing the Philosopher's Stone
   + The Wish Fulfilling Gem (Cintāmaṇi)
   + "Simple Hans"  (Grimm's Fairy Tales 1st ed. Volume 1 #54)
-  + Color: <span style="background-color: black;"><font color="#FFFBC4">███ Lemon Chiffon ███</font></span>
+  + Color: <span style="background-color: black;"><font color="#FFFBC4">███ Lemon Chiffon ███</font></span> (#FFFBC4)
 
 ---
 
@@ -3765,12 +4100,17 @@ you, create your own system entirely.
 + Tarot: Three ♦/Pentacles
   + upright: teamwork, collaboration, learning, building
   + reversed: lack of teamwork, disorganized, group conflict, working alone
++ The Wanderer's Oracle: Earth ‖ Light
+  + situation: The sun has disappeared into the earth, and the moon rises. The Wanderer must make camp for 
+    the night.
+  + admonition: It is time to build a fire, swap stories, repair equipment and listen to the sounds of the 
+    night. You might learn something if you listen closely.
 + Bible: 1 Kings 19:1-8 - Elijah journeys to Horeb the mount of God
 + Additional Concepts: 
   + Baba Yaga
   + Hey buddy, got a light? 
   + Camp Runamok
-  + Color: <font color="#403B00">███ Madras ███</font>
+  + Color: <font color="#403B00">███ Madras ███</font> (#403B00)
 
 ---
 
@@ -3816,7 +4156,7 @@ you, create your own system entirely.
   + The one who realizes and negotiates the place of the self within the various physical contexts of which 
     it is part (including one's own body); also, the various *unconscious* aspects of the self (mental faculty)
   + In the I Ching, Earth often stands for those who are subject to authority in the context of the question
-  + Color: <font color="#000000">███ Black ███</font>
+  + Color: <font color="#000000">███ Black ███</font> (#000000)
 
 ---
 
@@ -3842,6 +4182,10 @@ you, create your own system entirely.
 + Tarot: Two ♦/Pentacles
   + upright: balancing decisions, time management, prioritization, adaptability
   + reversed: over-committed, loss of balance, disorganized, overwhelmed
++ The Wanderer's Oracle: Earth ‖ Thunder
+  + situation: The Wanderer is at rest in a shelter in the valley when they hear thunder; a storm has arrived.
+  + admonition: Stay content in camp until the storm passes. Catch up on unfinished chores that can be 
+    done in camp, or rest.
 + Greek Myth: The Labors of Heracles - 7\. The Cretan Bull
   + mode: capture and release, with no help from the Cretans who suffered from the Bull's rampages
   + results: the Bull was set loose to terrorize another area, and to be dealt with by another hero
@@ -3857,7 +4201,7 @@ you, create your own system entirely.
   + The instigator of ritual
   + Women's Mysteries
   + the Sow
-  + Color: <font color="#003C00">███ Deep Fir ███</font>
+  + Color: <font color="#003C00">███ Deep Fir ███</font> (#003C00)
 
 ---
 
@@ -3882,7 +4226,7 @@ together when they recognize, and act according to, a harmonious partnership, of
 
 ▼ὕδωρ seeks differentiation and multiplicity; ▲πῦρ seeks reproducibility and order/structure
 
-▼ὕδωρ is returning ; ▲πῦρ is going forth
+▼ὕδωρ is returning; ▲πῦρ is going forth
 
 ▼ὕδωρ is attracting; ▲πῦρ is pursuing
 
@@ -4642,5 +4986,29 @@ personality). Yes, well, then they tease us by claiming that the ability to tran
 of progress along these lines, even if it is a potential distraction from that truer end. Again, why not 
 work within the normal order of things? Why spend 30 years learning how to bend a spoon with your mind 
 alone, when you can accomplish the same thing with some tools you can buy at your local hardware store?
+
+
+<div style="page-break-after: always"></div>
+
+## [Epilog](#table-of-contents)
+
+> *The Call*   
+>    
+> Come, my Way, my Truth, my Life:   
+> Such a Way, as gives us breath:   
+> Such a Truth, as ends all strife:   
+> Such a Life, as killeth death.   
+>    
+> Come, my Light, my Feast, my Strength:   
+> Such a Light, as shows a feast:   
+> Such a Feast, as mends in length:   
+> Such a Strength, as makes his guest.   
+>    
+> Come, my Joy, my Love, my Heart:   
+> Such a Joy, as none can move:   
+> Such a Love, as none can part:   
+> Such a Heart, as joyes in love.   
+>   
+> -George Herbert
 
 </span>
