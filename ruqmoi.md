@@ -9,7 +9,7 @@ and Blue Fox, κοινωνός (Spirit Guide) of the aforementioned
 
 © 2025 by Uncle Bärchen
 
-version: 2025.09.13
+version: 2025.09.29
 
 > "To welcome imagination is to welcome hope. To cultivate love is to cultivate blessedness." -Fox
 
@@ -286,12 +286,12 @@ word's origin. But 'ΡΥΘΜΟΙ means much more than that in the Greek. It is t
 We hope that this divinatory system will allow you to discuss all such matters with the divine. It has served us
 well in this way. If you call it something in English, perhaps "Flowings" sounds more pleasing to the ear. And it
 helps remind us that we'll be trying to understand the world in terms of change, not only as a process of repeating
-alternations, but also as patterns which retain some manner of identity despite changes in their composition, their
+alternations, but also as patterns which retain some manner of identity despite changes in their composition and their
 form.
 
 The Hyperboreans, or, at least, their "holy" men and women, were more akin to shamans rather than priests.
 Priests and Priestesses arose when religion became a business; they are, for the most part, specialists in,
-and facilitators of, the transactions between gods and humans. They are also teachers of their culture, 
+and facilitators of, the transactions between gods and humans. They are also the teachers of their culture, 
 usually working as the right-hand men of established authority. Of course, the spirit bloweth where it listeth,
 and many a mystic has found refuge in organized religion. Where else are they to go?
 
@@ -303,7 +303,7 @@ in both senses. Individual shamans may also fulfill the role of priest in the se
 There are also those who practice "divination" for these purposes. But this use of divination, to communicate 
 with the divine primarily to be in relationship with the divine, has largely been forgotten. Here, too, the 
 allure of power and profit that gave birth to the priest makes most diviners into Fortune Tellers. Nothing 
-wrong with this line of work, even though we look down on them quite a bit if we are Modern or Scientific. 
+wrong with this line of work, even though they look down on them quite a bit who consider themselves Modern or Scientific. 
 So you get the workforce you expect, and many modern Fortune Tellers are indeed shysters. Nonetheless, the 
 use of divinatory techniques to communicate across the realms is possible, indeed desirable. 
 
@@ -454,15 +454,15 @@ We then follow the Oath with our vows which act as our reminders of the Eight-fo
 
 **The Vows**
 
-> Fox and Bärchen: I swear by Earth and broad Heaven above and by the down-flowing water of the Styx, that I love you...   
-> Fox: with every Breath...   
-> Bärchen: with all my Heart...   
-> Fox: with every Desire...   
-> Bärchen: with all my Soul...   
-> Fox: with every Thought...   
-> Bärchen: with all my Mind...   
-> Fox: with all that I am.   
-> Bärchen: with all my Strength.   
+> <font color="grey">Fox and Bärchen:</font> I swear by Earth and broad Heaven above and by the down-flowing water of the Styx, that I love you...   
+> <font color="grey">Fox:</font> with every Breath...   
+> <font color="grey">Bärchen:</font> with all my Heart...   
+> <font color="grey">Fox:</font> with every Desire...   
+> <font color="grey">Bärchen:</font> with all my Soul...   
+> <font color="grey">Fox:</font> with every Thought...   
+> <font color="grey">Bärchen:</font> with all my Mind...   
+> <font color="grey">Fox:</font> with all that I am.   
+> <font color="grey">Bärchen:</font> with all my Strength.   
 
 Another of the recipes we regularly cook up and enjoy is an Invocation of the Spirits of the Seven Directions. It's very 
 "grounding" and helps put things back in perspective. Note that we follow a similar pattern to many Magickal openings, but
@@ -476,103 +476,103 @@ housekeeping.
 
  ... we begin facing the East, palms together over our hearts ...
  
-Bärchen: I remember Righteousness...
+<font color="grey">Bärchen:</font> I remember Righteousness...
 
-Fox: and Wholeness.
+<font color="grey">Fox:</font> and Wholeness.
 
-Bärchen: Understanding...
+<font color="grey">Bärchen:</font> Understanding...
 
-Fox: and Knowledge.
+<font color="grey">Fox:</font> and Knowledge.
 
-Bärchen: Justice...
+<font color="grey">Bärchen:</font> Justice...
 
-Fox: and Humility... You are the Priest of the Great Mystery...
+<font color="grey">Fox:</font> and Humility... You are the Priest of the Great Mystery...
 
-Bärchen: and you my Priestess.
+<font color="grey">Bärchen:</font> and you my Priestess.
 
  ... we spread our arms in Orans position (palms forward, forearms outstretched, elbows near body) ...
 
 *The Invocations:*
 
-Fox: My Priest, invoke the Spirit of the East!
+<font color="grey">Fox:</font> My Priest, invoke the Spirit of the East!
 
-Bärchen: ΒΡΟΝΤΗ!
+<font color="grey">Bärchen:</font> ΒΡΟΝΤΗ!
 
  ... An earthquake booms and rumbles across the ground and large Green Dragon rises from the direction of the Sunrise ...
  
-Fox: Arouse us to Righteous action. 
+<font color="grey">Fox:</font> Arouse us to Righteous action. 
 
  ...we face South...
 
-Fox: Invoke the Spirit of the South!
+<font color="grey">Fox:</font> Invoke the Spirit of the South!
 
-Bärchen: ΑΣΤΡΑΠΗ!
+<font color="grey">Bärchen:</font> ΑΣΤΡΑΠΗ!
 
  ... A bright flash of light and fire shines forth and a Vermillion Bird rises from the direction of the Noonday Meridian ...
  
-Fox: Purify our Understanding. 
+<font color="grey">Fox:</font> Purify our Understanding. 
 
  ...we face West...
 
-Fox: Invoke the Spirit of the West!
+<font color="grey">Fox:</font> Invoke the Spirit of the West!
 
-Bärchen: ΑΥΡΑ!
+<font color="grey">Bärchen:</font> ΑΥΡΑ!
 
  ... from the West, a gentle breeze begins then swells to a mighty wind and a White Tiger rises from the direction of the Setting Sun ...
  
-Fox: Fill us with the Beauty of Wholeness. 
+<font color="grey">Fox:</font> Fill us with the Beauty of Wholeness. 
 
  ...we face North...
 
-Fox: Invoke the Spirit of the North!
+<font color="grey">Fox:</font> Invoke the Spirit of the North!
 
-Bärchen: `ΥΕΤΟΣ!
+<font color="grey">Bärchen:</font> `ΥΕΤΟΣ!
 
  ... from the North, a rain of arrows descends and a Black Warrior rises from the direction of the Midnight Meridian ...
  
-Fox: Fix us in the Ancient Wisdom.  
+<font color="grey">Fox:</font> Fix us in the Ancient Wisdom.  
 
  ... we remain facing North...
  
-Fox: My Priest, invoke the Spirit of Below!
+<font color="grey">Fox:</font> My Priest, invoke the Spirit of Below!
 
-Bärchen: ΓΑΙΑ!
+<font color="grey">Bärchen:</font> ΓΑΙΑ!
 
  ... we look Below where dark, black fissures open to display a riot of soil organisms, decaying matter, and roots ...
  
-Fox: In you are the Living, and the Dead, and those about to be born.
+<font color="grey">Fox:</font> In you are the Living, and the Dead, and those about to be born.
 
-Bärchen: May we walk upon you in Humility.
+<font color="grey">Bärchen:</font> May we walk upon you in Humility.
 
  ... we face the East once more...
 
-Fox: Invoke the Spirit of Above!
+<font color="grey">Fox:</font> Invoke the Spirit of Above!
 
-Bärchen: ΟΥΡΑΝΟΣ!
+<font color="grey">Bärchen:</font> ΟΥΡΑΝΟΣ!
 
  ... we look Above where the Dome of Heaven Sparkles a light blue ...
  
-Fox: You are the Shepherd of the Clouds, the Keeper of the Paths of Sun, Moon, and Stars.
+<font color="grey">Fox:</font> You are the Shepherd of the Clouds, the Keeper of the Paths of Sun, Moon, and Stars.
 
-Bärchen: May we stand before you in Justice.
+<font color="grey">Bärchen:</font> May we stand before you in Justice.
 
  ... we keep silence for a moment ...
  
-Fox: Invoke the Spirits of Within!
+<font color="grey">Fox:</font> Invoke the Spirits of Within!
 
-Bärchen: ΛΙΜΝΗ!
+<font color="grey">Bärchen:</font> ΛΙΜΝΗ!
 
-Fox: ΟΡΟΣ! All These fulfill Thy Desire.
+<font color="grey">Fox:</font> ΟΡΟΣ! All These fulfill Thy Desire.
 
-Bärchen: All These obey Thy Command.
+<font color="grey">Bärchen:</font> All These obey Thy Command.
 
-Fox: My Gift!
+<font color="grey">Fox:</font> My Gift!
 
-Bärchen: My Life! ... Blessed,...
+<font color="grey">Bärchen:</font> My Life! ... Blessed,...
 
-Fox: Blessed,...
+<font color="grey">Fox:</font> Blessed,...
 
-Fox and Bärchen: Thrice Blessed are You, Oh Great Mystery.
+<font color="grey">Fox and Bärchen:</font> Thrice Blessed are You, Oh Great Mystery.
 
  ... they end with their palms together over their hearts once more...
 
@@ -641,7 +641,7 @@ added intention to our category definition, but we must be careful lest all sort
 Therefore, we're not going to say that even a rock has a "spirit". We want to avoid the category mistake of thinking 
 that "since a rock has a spirit, ergo it has a personality". It is most definitely true that "since a human being 
 has a personality, ergo they have a spirit". But let's not overly broaden our "spirit" category to include a rock. 
-To say a rock has a "spirit" is to exchange the notion of spirit as a self-regulating system for the notion of that
+To say a rock has a "spirit" is to exchange the notion of spirit as a self-regulating system for the notion that
 it is a set of stimulus/response pairs. (I throw a rock in a pond and it sinks to the bottom--stimulus/response.) 
 We prefer to categorize spirit less broadly, to apply it to self-regulating systems only, and you'll find that this 
 affects this divinatory system.
@@ -664,7 +664,7 @@ said "ΗΘΟΣ ΑΝΘΡΩΠΟΣ ΔΑΙΜΟΝ" (character is destiny). He was rig
 
 If you're new to Divination, we recognize the difficult nature of our language, and recommend you start with a
 simpler system. You could choose a system like the Runes, or the 22 Major Arcana of the Tarot. If you intend to
-keep going and learn to use our more complex system, you could start by learning the meanings we have associated 
+keep going and learn to use our more complex system, you should start by learning the meanings we have associated 
 with the Runes or the Tarot Major Arcana. 
 
 There are many ways of performing divination, but the easiest ones for us have been:
@@ -1263,6 +1263,8 @@ you, create your own system entirely.
 
 ![anagkh](anagkh.png) ▲ΛΙΜΝΗ :: ΛΙΜΝΗ▼
 
+<img src="../symbols/anagkh.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΑΝΑΓΚΗ</span>
 
 + [ΑΝΑΓΚΗ](#ρυθμοι) = Force, constraint, necessity. As an Adverb: perforce, of necessity, it must be that, is 
@@ -1300,6 +1302,8 @@ you, create your own system entirely.
 ### ΑΣΦΟΔΕΛΟΣ
 
 ![asfodelos](asfodelos.png) ▲ΛΙΜΝΗ :: ΑΥΡΑ▼
+
+<img src="../symbols/asfodelos.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΑΣΦΟΔΕΛΟΣ</span>
 
@@ -1471,6 +1475,8 @@ you, create your own system entirely.
 
 ![glauc](glauc.png) ▲ΑΣΤΡΑΠΗ :: ΓΑΙΑ▼
 
+<img src="../symbols/glauc.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΓΛΑΥΞ</span>
 
 + [ΓΛΑΥΞ](#ρυθμοι) = The little owl, *Athene noctua*, so called from its glaring eyes, frequently used as an emblem 
@@ -1509,6 +1515,8 @@ you, create your own system entirely.
 
 ![gorgw](gorgw.png) ▲ΑΣΤΡΑΠΗ :: ΛΙΜΝΗ▼
 
+<img src="../symbols/gorgw.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΓΟΡΓΩ</span>
 
 + [ΓΟΡΓΩ](#ρυθμοι) = The Gorgon, i.e. the Grim One. Her visage turns people to stone (in other words, the
@@ -1545,6 +1553,8 @@ you, create your own system entirely.
 
 ![gruy](gruy.png) ▲ΑΣΤΡΑΠΗ :: ΑΥΡΑ▼
 
+<img src="../symbols/gruy.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΓΡΥΨ</span>
 
 + [ΓΡΥΨ](#ρυθμοι) = A griffin; a legendary creature with the body, tail, and back legs of a lion, and the head and 
@@ -1561,9 +1571,10 @@ you, create your own system entirely.
   + poem: "Cauldron sits in crackling flame, ever changing, ever same."
   + keywords: change, transformation, illumination, fire, process, time
 + The Wanderer's Oracle: Lightning ‖ Wind
-  + situation: The Wanderer sees lightning strike nearby but the winds appear to be in their favor.
-  + admonition: Pay attention to what the situation is telling you! Do you need to change your path or
-    approach? Keep one eye out for shelter, and another on the storm, should the winds change.
+  + situation: The Wanderer had watched the lightning recede but now the winds are changing direction.
+  + admonition: The path you had chosen now no longer appears to be the right one. Pay attention to the
+    wind. You'll have to change your path and your approach, but exactly how will only reveal itself as
+    you, and the storm, move.
 + Bible: John 11 - Jesus raises Lazarus from the tomb at Bethany
 + Additional Concepts: 
   + "...we all want to change the World"
@@ -1582,6 +1593,8 @@ you, create your own system entirely.
 ---
 
 ### ΔΑΙΔΑΛΑ
+
+<img src="../symbols/daidala.card.png" style="float: right;"> 
 
 ![daidala](daidala.png) ▲ΟΥΡΑΝΟΣ :: ΑΥΡΑ▼  
 
@@ -1621,6 +1634,8 @@ you, create your own system entirely.
 ### ΔΟΡΥ
 
 ![doru](doru.png) ▲ΟΥΡΑΝΟΣ :: ΛΙΜΝΗ▼
+
+<img src="../symbols/doru.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΔΟΡΥ</span>
 
@@ -1665,6 +1680,8 @@ you, create your own system entirely.
 ### ΔΡΕΠΑΝΟΝ
 
 ![drepanon](drepanon.png) ▲ΟΥΡΑΝΟΣ :: ΓΑΙΑ▼
+
+<img src="../symbols/drepanon.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΔΡΕΠΑΝΟΝ</span>
 
@@ -1739,6 +1756,8 @@ you, create your own system entirely.
 
 ![elic](elic.png) ▲ΓΑΙΑ :: ΑΥΡΑ▼
 
+<img src="../symbols/elic.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΕΛΙΞ</span>
 
 + [\`ΕΛΙΞ](#ρυθμοι) = The tendril of the vine or of ivy. A curl or lock of hair. The coil of a serpent.
@@ -1772,6 +1791,8 @@ you, create your own system entirely.
 ### \`ΕΣΤΙΑ
 
 ![estia](estia.png) ▲ΓΑΙΑ :: ΛΙΜΝΗ▼
+
+<img src="../symbols/estia.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΕΣΤΙΑ</span>
 
@@ -1862,6 +1883,8 @@ you, create your own system entirely.
 
 ### ΖΥΓΟΝ
 
+<img src="../symbols/zugon.card.png" style="float: right;"> 
+
 ![zugon](zugon.png) ▲\`ΥΕΤΟΣ :: ΛΙΜΝΗ▼
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΖΥΓΟΝ</span>
@@ -1895,6 +1918,8 @@ you, create your own system entirely.
 ---
 
 ### ΖΩΠΥΡΟΝ
+
+<img src="../symbols/zwpuron.card.png" style="float: right;">
 
 ![zwpuron](zwpuron.png) ▲\`ΥΕΤΟΣ :: ΑΥΡΑ▼
 
@@ -1978,6 +2003,8 @@ you, create your own system entirely.
 ---
 
 ### ΗΛΕΚΤΡΟΝ
+
+<img src="../symbols/hlektron.card.png" style="float: right;">
 
 ![hlektron](hlektron.png) ▲ΑΥΡΑ :: ΛΙΜΝΗ▼
 
@@ -2114,6 +2141,8 @@ you, create your own system entirely.
 ### ΘΥΙΑ
 
 ![quia](quia.png) ▲ΟΡΟΣ :: ΑΥΡΑ▼
+
+<img src="../symbols/quia.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΘΥΙΑ</span>
 
@@ -2305,6 +2334,8 @@ you, create your own system entirely.
 ---
 
 ### \`ΙΣΤΟΣ
+
+<img src="../symbols/istos.card.png" style="float: right;"> 
 
 ![istos](istos.png) ▲ΛΙΜΝΗ :: ΟΥΡΑΝΟΣ▼
 
@@ -2628,6 +2659,9 @@ you, create your own system entirely.
 
 ### ΜΕΓΑΡΟΝ
 
+
+<img src="../symbols/megaron.card.png" style="float: right;">
+
 ![megaron](megaron.png) ▲ΓΑΙΑ :: ΟΥΡΑΝΟΣ▼
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΜΕΓΑΡΟΝ</span>
@@ -2662,6 +2696,8 @@ you, create your own system entirely.
 ---
 
 ### ΜΟΙΡΑΙ
+
+<img src="../symbols/moirai.card.png" style="float: right;">  
 
 ![morai](moirai.png) ▲ΓΑΙΑ :: ΟΡΟΣ▼
 
@@ -2789,6 +2825,8 @@ you, create your own system entirely.
 
 ### ΝΟΣΤΟΣ
 
+<img src="../symbols/nostos.card.png" style="float: right;"> 
+
 ![nostos](nostos.png) ▲ΟΥΡΑΝΟΣ :: \`ΥΕΤΟΣ▼
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΝΟΣΤΟΣ</span>
@@ -2905,6 +2943,8 @@ you, create your own system entirely.
 ---
 
 ### ΞΥΛΟΝ
+
+<img src="../symbols/culon.card.png" style="float: right;"> 
 
 ![culon](culon.png) ▲\`ΥΕΤΟΣ :: ΟΥΡΑΝΟΣ▼
 
@@ -3266,6 +3306,8 @@ you, create your own system entirely.
 
 ![raywidos](raywidos.png) ▲ΟΡΟΣ▼ 
 
+<img src="../symbols/raywidos.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΡΑΨΩΙΔΟΣ</span>
 
 + [\`ΡΑΨΩΙΔΟΣ](#ρυθμοι) = A reciter of Epic poems, sometimes applied to the bard who recited his own poem, as to Hesiod, 
@@ -3354,6 +3396,8 @@ you, create your own system entirely.
 
 ### ΣΘΕΝΩ
 
+<img src="../symbols/sqenw.card.png" style="float: right;"> 
+
 ![sqenw](sqenw.png) ▲ΛΙΜΝΗ :: ΒΡΟΝΤΗ▼
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΣΘΕΝΩ</span>
@@ -3404,6 +3448,8 @@ you, create your own system entirely.
 
 ![stefanos](stefanos.png) ▲ΛΙΜΝΗ :: ΑΣΤΡΑΠΗ▼
 
+<img src="../symbols/stefanos.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΣΤΕΦΑΝΟΣ</span>
 
 + [ΣΤΕΦΑΝΟΣ](#ρυθμοι) = That which surrounds or encompasses. A crown, wreath, chaplet. The crown of victory at 
@@ -3446,6 +3492,8 @@ you, create your own system entirely.
 ### ΣΤΥΞ
 
 ![stuc](stuc.png) ▲ΛΙΜΝΗ▼
+
+<img src="../symbols/stuc.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΣΤΥΞ</span>
 
@@ -3565,6 +3613,8 @@ you, create your own system entirely.
 
 ### ΤΥΜΠΑΝΟΝ
 
+<img src="../symbols/tumpanon.card.png" style="float: right;"> 
+
 ![tumpanon](tumpanon.png) ▲\`ΥΕΤΟΣ :: ΒΡΟΝΤΗ▼
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΤΥΜΠΑΝΟΝ</span>
@@ -3654,6 +3704,8 @@ you, create your own system entirely.
 
 ![umnos](umnos.png) ▲ΒΡΟΝΤΗ :: ΒΡΟΝΤΗ▼
 
+<img src="../symbols/umnos.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΥΜΝΟΣ</span>
 
 + [\`ΥΜΝΟΣ](#ρυθμοι) = A hymn, ode, in praise of gods or heroes.
@@ -3673,6 +3725,7 @@ you, create your own system entirely.
 + Additional Concepts: 
   + Shock and Awe
   + Fools Rush Inn
+  + "When in trouble or in doubt, run in circles, scream and shout!"
   + "Loyal Godfather Sparrow"  (Grimm's Fairy Tales 1st ed. Volume 1 #58)
   + Color: <font color="#80DA80">███ Pastel Green ███</font> (#80DA80)
 
@@ -3683,6 +3736,8 @@ you, create your own system entirely.
 ---
 
 ### \`ΥΠΕΡΒΟΡΕΟΙ
+
+<img src="../symbols/uperboreoi.card.png" style="float: right;"> 
 
 ![uperboreoi](uperboreoi.png) ▲ΒΡΟΝΤΗ :: ΑΣΤΡΑΠΗ▼
 
@@ -3758,7 +3813,7 @@ you, create your own system entirely.
   + The one who calls forth the emotions, as the cynosure of what is desirable (and by contrast, undesirable) 
     to the self (mental faculty)
   + "Jorinda and Joringel"  (Grimm's Fairy Tales 1st ed. Volume 1 #69)
-  + Color: <font color="#FF0000">███ Red ███</font>
+  + Color: <font color="#FF0000">███ Red ███</font> (#FF0000)
 
 ---
 
@@ -4089,6 +4144,8 @@ you, create your own system entirely.
 ### ΩΓΥΓΙΗ
 
 ![wgugih](wgugih.png) ▲ΓΑΙΑ :: ΑΣΤΡΑΠΗ▼
+
+<img src="../symbols/wgugih.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΩΓΥΓΙΗ</span>
 
