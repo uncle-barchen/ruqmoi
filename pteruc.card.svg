@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="quia.card.svg"
+   sodipodi:docname="pteruc.card.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="1.4378367"
      inkscape:cx="396.42889"
-     inkscape:cy="560.21661"
+     inkscape:cy="560.9121"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -39,10 +39,22 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g2"
-       inkscape:export-filename="quia.card.png"
+       id="g1"
+       inkscape:export-filename="pteruc.card.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
+         x="94.363991"
+         y="205.34143"
+         id="text8-2-0-7-9-3"
+         transform="scale(1.0736712,0.93138383)"><tspan
+           id="tspan8-8-6-7-6-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
+           x="94.363991"
+           y="205.34143"
+           sodipodi:role="line">ᛇᛖᚹ</tspan></text>
       <g
          id="g7"
          transform="translate(-64.16893,-77.027416)">
@@ -64,93 +76,82 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="82.42157"
-         y="216.39676"
+         x="86.649727"
+         y="210.715"
          id="text8"
          transform="scale(1.0736712,0.93138383)"><tspan
            sodipodi:role="line"
            id="tspan8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="82.42157"
-           y="216.39676">18. Branching Out</tspan></text>
+           x="86.649727"
+           y="210.715">4. New Grass</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="84.597153"
-         y="105.17926"
+         x="82.336815"
+         y="105.17925"
          id="text8-2"
          transform="scale(1.0736712,0.93138383)"><tspan
            id="tspan8-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="84.597153"
-           y="105.17926"
-           sodipodi:role="line">ΟΡΟΣ :: ΑΥΡΑ</tspan></text>
+           x="82.336815"
+           y="105.17925"
+           sodipodi:role="line">ΟΡΟΣ :: `ΥΕΤΟΣ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="86.75412"
-         y="210.91296"
+         x="84.414207"
+         y="216.31064"
          id="text8-2-0-6"
          transform="scale(1.0736712,0.93138383)"><tspan
            id="tspan8-8-6-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="86.75412"
-           y="210.91296"
-           sodipodi:role="line">Six of Wands</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="89.504349"
-         y="205.38927"
-         id="text8-2-0-6-0"
-         transform="scale(1.0736712,0.93138383)"><tspan
-           id="tspan8-8-6-0-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="89.504349"
-           y="205.38927"
-           sodipodi:role="line">The Devil</tspan></text>
-      <g
-         id="g1"
-         transform="translate(-7.1251031)">
-        <path
-           sodipodi:type="star"
-           style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.165;stroke-dasharray:none;stroke-opacity:1"
-           id="path2-7-15"
-           inkscape:flatsided="false"
-           sodipodi:sides="3"
-           sodipodi:cx="129.98804"
-           sodipodi:cy="165.11995"
-           sodipodi:r1="11.580516"
-           sodipodi:r2="5.7902584"
-           sodipodi:arg1="1.5707963"
-           sodipodi:arg2="2.6179939"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           d="m 129.98804,176.70047 -5.01451,-8.68539 -5.01451,-8.68539 10.02902,0 10.02902,0 -5.01451,8.68539 z"
-           inkscape:transform-center-y="4.3299937"
-           transform="matrix(1.4956595,0,0,1.4956155,-82.292743,-103.13297)"
-           inkscape:transform-center-x="-5.532804e-06" />
-        <rect
-           style="fill:#0047ab;fill-opacity:1;stroke:#0047ab;stroke-width:0.175;stroke-dasharray:none;stroke-opacity:1"
-           id="rect2-1-1"
-           width="21.088608"
-           height="21.088608"
-           x="161.70444"
-           y="3.1356049"
-           transform="rotate(45)" />
-      </g>
+           x="84.414207"
+           y="216.31064"
+           sodipodi:role="line">Seven of Wands</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#2b2b2b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="90.322884"
-         y="179.97153"
+         x="85.585182"
+         y="170.79979"
          id="text8-8-1"
          transform="scale(1.0736712,0.93138383)"><tspan
            sodipodi:role="line"
            id="tspan8-6-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'BIBLICAL UNCIAL';-inkscape-font-specification:'BIBLICAL UNCIAL';fill:#2b2b2b;fill-opacity:1;stroke:#000000;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="90.322884"
-           y="179.97153">ΘΥΙΑ</tspan></text>
+           x="85.585182"
+           y="170.79979">ΠΤΕΡΥΞ</tspan></text>
+      <g
+         id="g3"
+         transform="translate(-58.50598,-73.323251)">
+        <g
+           id="g5-7"
+           transform="translate(5.8884721,-11.204173)">
+          <path
+             id="rect1-5-2-8"
+             style="fill:#ff6600;fill-opacity:1;stroke:#ff8989;stroke-width:0.208555;stroke-opacity:1"
+             d="m 173.07014,206.86616 0.98615,14.82879 -0.98615,14.96365 h -0.27994 l -0.98615,-14.96365 0.98615,-14.82879 z"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             id="rect1-2-7-4-8"
+             style="fill:#ff6600;fill-opacity:1;stroke:#ff8989;stroke-width:0.208555;stroke-opacity:1"
+             d="m 169.3089,206.86616 0.98615,14.82879 -0.98615,14.96365 h -0.27994 l -0.98615,-14.96365 0.98615,-14.82879 z"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             id="rect1-23-6-5-29"
+             style="fill:#ff6600;fill-opacity:1;stroke:#ff8989;stroke-width:0.208555;stroke-opacity:1"
+             d="m 165.54766,206.86616 0.98615,14.82879 -0.98615,14.96365 h -0.27994 l -0.98615,-14.96365 0.98615,-14.82879 z"
+             sodipodi:nodetypes="ccccccc" />
+        </g>
+        <rect
+           style="fill:#0047ab;fill-opacity:1;stroke:#0047ab;stroke-width:0.175;stroke-dasharray:none;stroke-opacity:1"
+           id="rect2-1-1"
+           width="21.088608"
+           height="21.088608"
+           x="252.51877"
+           y="24.166893"
+           transform="rotate(45)" />
+      </g>
     </g>
   </g>
 </svg>
