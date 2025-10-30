@@ -1229,6 +1229,8 @@ you, create your own system entirely.
 
 ![amforeus](amforeus.png) ▲ΛΙΜΝΗ :: ΓΑΙΑ▼
 
+<img src="../symbols/amforeus.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΑΜΦΟΡΕΥΣ</span>
 
 + [ΑΜΦΟΡΕΥΣ](#ρυθμοι) = Jar with narrow neck; used for various purposes, esp. for keeping wine in, or milk, or for
@@ -1349,6 +1351,8 @@ you, create your own system entirely.
 
 ![bios](bios.png) ▲ΒΡΟΝΤΗ :: ΑΥΡΑ▼
 
+<img src="../symbols/bios.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΒΙΟΣ</span>
 
 + [ΒΙΟΣ](#ρυθμοι) = Life, i.e. not animal life (ζωή), but mode of life, manner of living (mostly therefore of men, 
@@ -1388,6 +1392,8 @@ you, create your own system entirely.
 ### ΒΟΥΠΕΛΑΤΗΣ
 
 ![boupelaths](boupelaths.png) ▲ΒΡΟΝΤΗ :: ΓΑΙΑ▼
+
+<img src="../symbols/boupelaths.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΒΟΥΠΕΛΑΤΗΣ</span>
 
@@ -1438,6 +1444,8 @@ you, create your own system entirely.
 ### ΒΡΙΑΡΕΩΣ
 
 ![briarews](briarews.png) ▲ΒΡΟΝΤΗ :: ΛΙΜΝΗ▼
+
+<img src="../symbols/briarews.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΒΡΙΑΡΕΩΣ</span>
 
@@ -1718,6 +1726,8 @@ you, create your own system entirely.
 
 ![elaios](elaios.png) ▲ΓΑΙΑ :: ΓΑΙΑ▼ 
 
+<img src="../symbols/elaios.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΕΛΑΙΟΣ</span>
 
 + [ΕΛΑΙΟΣ](#ρυθμοι) = The wild olive.
@@ -1840,6 +1850,8 @@ you, create your own system entirely.
 ### ΖΕΥΓΜΑ
 
 ![zeugma](zeugma.png) ▲\`ΥΕΤΟΣ :: ΓΑΙΑ▼
+
+<img src="../symbols/zeugma.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΖΕΥΓΜΑ</span>
 
@@ -1966,6 +1978,8 @@ you, create your own system entirely.
 
 ![hdonh](hdonh.png) ▲ΑΥΡΑ :: ΑΥΡΑ▼
 
+<img src="../symbols/hdonh.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΗΔΟΝΗ</span>
 
 + [\`ΗΔΟΝΗ](#ρυθμοι) = Desire, enjoyment or (sensual) pleasure.
@@ -2045,6 +2059,8 @@ you, create your own system entirely.
 
 ### ΗΩΣ
 
+<img src="../symbols/hws.card.png" style="float: right;"> 
+
 ![hws](hws.png) ▲ΑΥΡΑ :: ΓΑΙΑ▼
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΗΩΣ</span>
@@ -2089,6 +2105,8 @@ you, create your own system entirely.
 ---
 
 ### ΘΕΜΙΣ
+
+<img src="../symbols/qemis.card.png" style="float: right;"> 
 
 ![qemis](qemis.png) ▲ΟΡΟΣ :: ΓΑΙΑ▼
 
@@ -2191,6 +2209,8 @@ you, create your own system entirely.
 
 ### ΘΥΜΟΝ
 
+<img src="../symbols/qumon.card.png" style="float: right;"> 
+
 ![qumon](qumon.png) ▲ΟΡΟΣ :: ΛΙΜΝΗ▼
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΘΥΜΟΝ</span>
@@ -2236,6 +2256,8 @@ you, create your own system entirely.
 ### \`ΙΜΑΣ
 
 ![imas](imas.png) ▲ΛΙΜΝΗ :: \`ΥΕΤΟΣ▼
+
+<img src="../symbols/imas.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΙΜΑΣ</span>
 
@@ -2296,6 +2318,8 @@ you, create your own system entirely.
 ---
 
 ### ΙΡΙΣ
+
+<img src="../symbols/iris.card.png" style="float: right;"> 
 
 ![iris](iris.png) ▲ΛΙΜΝΗ :: ΟΡΟΣ▼
 
@@ -2377,6 +2401,8 @@ you, create your own system entirely.
 
 ![kaqarmos](kaqarmos.png) ▲ΒΡΟΝΤΗ : ΟΡΟΣ▼
 
+<img src="../symbols/kaqarmos.card.png" style="float: right;">
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΚΑΘΑΡΜΟΣ</span>
 
 + [ΚΑΘΑΡΜΟΣ](#ρυθμοι) = Cleansing; purification (from guilt); purificatory offering; atonement; expiation; an offering 
@@ -2420,6 +2446,8 @@ you, create your own system entirely.
 
 ![keraunos](keraunos.png) ▲ΒΡΟΝΤΗ :: ΟΥΡΑΝΟΣ▼
 
+<img src="../symbols/keraunos.card.png" style="float: right;">
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΚΕΡΑΥΝΟΣ</span>
 
 + [ΚΕΡΑΥΝΟΣ](#ρυθμοι) = A thunderbolt, especially as the weapon of Zeus, forged by the Cyclopes.
@@ -2453,6 +2481,8 @@ you, create your own system entirely.
 ### ΚΗΡΥΚΕΙΟΝ
 
 ![khrukeion](khrukeion.png) ▲ΒΡΟΝΤΗ :: \`ΥΕΤΟΣ▼
+
+<img src="../symbols/khrukeion.card.png" style="float: right;">
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΚΗΡΥΚΕΙΟΝ</span>
 
@@ -2492,6 +2522,8 @@ you, create your own system entirely.
 
 ![laburinqos](laburinqos.png) ▲ΑΣΤΡΑΠΗ :: \`ΥΕΤΟΣ▼
 
+<img src="../symbols/laburinqos.card.png" style="float: right;">
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΛΑΒΥΡΙΝΘΟΣ</span>
 
 + [ΛΑΒΥΡΙΝΘΟΣ](#ρυθμοι) = A labyrinth or maze; a large building consisting of numerous halls connected by intricate and 
@@ -2527,6 +2559,8 @@ you, create your own system entirely.
 ### ΛΑΜΠΑΣ
 
 ![lampas](lampas.png) ▲ΑΣΤΡΑΠΗ :: ΟΥΡΑΝΟΣ▼
+
+<img src="../symbols/lampas.card.png" style="float: right;">
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΛΑΜΠΑΣ</span>
 
@@ -2574,6 +2608,8 @@ you, create your own system entirely.
 
 ![linon](linon.png) ▲ΑΣΤΡΑΠΗ :: ΟΡΟΣ▼
 
+<img src="../symbols/linon.card.png" style="float: right;">
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΛΙΝΟΝ</span>
 
 + [ΛΙΝΟΝ](#ρυθμοι) = anything made of flax: cord; fishingline; thread spun from a distaff; thread for stringing 
@@ -2611,6 +2647,8 @@ you, create your own system entirely.
 ### ΜΑΚΑΡΙΑ
 
 ![makaria](makaria.png) ▲ΓΑΙΑ :: \`ΥΕΤΟΣ▼
+
+<img src="../symbols/makaria.card.png" style="float: right;">
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΜΑΚΑΡΙΑ</span>
 
@@ -2757,6 +2795,8 @@ you, create your own system entirely.
 
 ### ΝΑΡΘΗΞ
 
+<img src="../symbols/narqhc.card.png" style="float: right;"> 
+
 ![narqhc](narqhc.png) ▲ΟΥΡΑΝΟΣ :: ΟΡΟΣ▼
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΝΑΡΘΗΞ</span>
@@ -2794,6 +2834,8 @@ you, create your own system entirely.
 ### ΝΑΥΣ
 
 ![naus](naus.png) ▲ΟΥΡΑΝΟΣ :: ΟΥΡΑΝΟΣ▼
+
+<img src="../symbols/naus.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΝΑΥΣ</span>
 
@@ -2876,6 +2918,8 @@ you, create your own system entirely.
 
 ![cifos](cifos.png) ▲\`ΥΕΤΟΣ :: ΟΡΟΣ▼
 
+<img src="../symbols/cifos.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΞΙΦΟΣ</span>
 
 + [ΞΙΦΟΣ](#ρυθμοι) = Sword
@@ -2914,6 +2958,8 @@ you, create your own system entirely.
 ### ΞΟΑΝΟΝ
 
 ![coanon](coanon.png) ▲\`ΥΕΤΟΣ :: \`ΥΕΤΟΣ▼
+
+<img src="../symbols/coanon.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΞΟΑΝΟΝ</span>
 
@@ -3000,6 +3046,8 @@ you, create your own system entirely.
 
 ![oikos](oikos.png) ▲ΑΥΡΑ :: ΟΥΡΑΝΟΣ▼
 
+<img src="../symbols/oikos.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΟΙΚΟΣ</span>
 
 + [ΟΙΚΟΣ](#ρυθμοι) = A house, not only of built houses, but of any dwelling-place, as that of Achilles at Troy; of the 
@@ -3045,7 +3093,9 @@ you, create your own system entirely.
 
 ### ΟΙΝΟΣ
 
-![oinos](oinos.png) ΑΥΡΑ :: ΟΡΟΣ  
+![oinos](oinos.png) ▲ΑΥΡΑ :: ΟΡΟΣ▼  
+
+<img src="../symbols/oinos.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΟΙΝΟΣ</span>
 
@@ -3080,6 +3130,8 @@ you, create your own system entirely.
 ### ΟΦΙΣ
 
 ![ofis](ofis.png) ▲ΑΥΡΑ :: \`ΥΕΤΟΣ▼
+
+<img src="../symbols/ofis.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΟΦΙΣ</span>
 
@@ -3122,6 +3174,8 @@ you, create your own system entirely.
 
 ![paiwn](paiwn.png) ▲ΟΡΟΣ :: ΟΥΡΑΝΟΣ▼
 
+<img src="../symbols/paiwn.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΠΑΙΩΝ</span>
 
 + [ΠΑΙΩΝ](#ρυθμοι) = A choral song, addressed to Apollo or Artemis in thanksgiving for deliverance from evil, or
@@ -3163,6 +3217,8 @@ you, create your own system entirely.
 ### ΠΤΕΡΥΞ
 
 ![pteruc](pteruc.png) ▲ΟΡΟΣ :: \`ΥΕΤΟΣ▼
+
+<img src="../symbols/pteruc.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΠΤΕΡΥΞ</span>
 
@@ -3222,6 +3278,8 @@ you, create your own system entirely.
 
 ![pulai](pulai.png) ▲ΟΡΟΣ :: ΟΡΟΣ▼
 
+<img src="../symbols/pulai.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΠΥΛΑΙ</span>
 
 + [ΠΥΛΑΙ](#ρυθμοι) = (Plural of πύλη) gates, house door, entrance, orifice, mountain pass, narrow straits.
@@ -3253,6 +3311,8 @@ you, create your own system entirely.
 ---
 
 ### \`ΡΑΒΔΟΣ
+
+<img src="../symbols/rabdos.card.png" style="float: right;"> 
 
 ![rabdos](rabdos.png) ▲ΟΡΟΣ :: ΒΡΟΝΤΗ▼
 
@@ -3351,6 +3411,8 @@ you, create your own system entirely.
 ### \`ΡΥΘΜΟΣ
 
 ![ruqmos](ruqmos.png) ▲ΟΡΟΣ :: ΑΣΤΡΑΠΗ▼
+
+<img src="../symbols/ruqmos.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΡΥΘΜΟΣ</span>
 
@@ -3538,6 +3600,8 @@ you, create your own system entirely.
 
 ![teuxos](teuxos.png) ▲\`ΥΕΤΟΣ▼ 
 
+<img src="../symbols/teuxos.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΤΕΥΧΟΣ</span>
 
 + [ΤΕΥΧΟΣ](#ρυθμοι) = A tool, implement—but mostly in plural (τεύχεα) as implements of war (armor and arms), also the
@@ -3580,6 +3644,8 @@ you, create your own system entirely.
 ### ΤΟΞΟΝ
 
 ![tocon](tocon.png) ▲\`ΥΕΤΟΣ :: ΑΣΤΡΑΠΗ▼
+
+<img src="../symbols/tocon.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΤΟΞΟΝ</span>
 
@@ -3666,6 +3732,8 @@ you, create your own system entirely.
 ### \`ΥΔΡΑ
 
 ![udra](udra.png) ▲ΒΡΟΝΤΗ▼
+
+<img src="../symbols/udra.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΥΔΡΑ</span>
 
@@ -3779,6 +3847,8 @@ you, create your own system entirely.
 
 ![farmakon](farmakon.png) ▲ΑΥΡΑ▼
 
+<img src="../symbols/farmakon.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΦΑΡΜΑΚΟΝ</span>
 
 + [ΦΑΡΜΑΚΟΝ](#ρυθμοι) = A drug, whether healing or noxious. A healing remedy, medicine, in Homer mostly of those 
@@ -3823,6 +3893,8 @@ you, create your own system entirely.
 
 ### ΦΙΑΛΗ
 
+<img src="../symbols/fialh.card.png" style="float: right;"> 
+
 ![fialh](fialh.png) ▲ΑΥΡΑ :: ΑΣΤΡΑΠΗ▼
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΦΙΑΛΗ</span>
@@ -3860,6 +3932,8 @@ you, create your own system entirely.
 
 ![foinic](foinic.png) ▲ΑΥΡΑ :: ΒΡΟΝΤΗ▼
 
+<img src="../symbols/foinic.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΦΟΙΝΙΞ</span>
 
 + [ΦΟΙΝΙΞ](#ρυθμοι) = The fabulous bird phoenix. The date-palm, *Phoenix dactylifera*. A palm-frond, as a badge of 
@@ -3892,6 +3966,8 @@ you, create your own system entirely.
 ### ΧΑΛΚΟΣ
 
 ![xalkos](xalkos.png) ▲ΑΣΤΡΑΠΗ▼
+
+<img src="../symbols/xalkos.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΧΑΛΚΟΣ</span>
 
@@ -3935,6 +4011,8 @@ you, create your own system entirely.
 
 ![xarubdis](xarubdis.png) ▲ΑΣΤΡΑΠΗ :: ΒΡΟΝΤΗ▼
 
+<img src="../symbols/xarubdis.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΧΑΡΥΒΔΙΣ</span>
 
 + [ΧΑΡΥΒΔΙΣ](#ρυθμοι) = Charybdis, a dangerous whirlpool on the coast of Sicily, opposite the Italian rock Scylla.
@@ -3974,6 +4052,8 @@ you, create your own system entirely.
 
 ![xasma](xasma.png) ▲ΑΣΤΡΑΠΗ :: ΑΣΤΡΑΠΗ▼  
 
+<img src="../symbols/xasma.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΧΑΣΜΑ</span>
 
 + [ΧΑΣΜΑ](#ρυθμοι) = A yawning chasm, gulf, χάσμα μέγα = Tartarus. An open, gaping mouth, as forming a helmet, or 
@@ -4005,6 +4085,8 @@ you, create your own system entirely.
 ### ΨΗΓΜΑ
 
 ![yhgma](yhgma.png) ▲ΟΥΡΑΝΟΣ :: ΒΡΟΝΤΗ▼
+
+<img src="../symbols/yhgma.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΨΗΓΜΑ</span>
 
@@ -4051,6 +4133,8 @@ you, create your own system entirely.
 ### ΨΗΦΟΣ
 
 ![yhfos](yhfos.png) ▲ΟΥΡΑΝΟΣ :: ΑΣΤΡΑΠΗ▼
+
+<img src="../symbols/yhfos.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΨΗΦΟΣ</span>
 
@@ -4101,6 +4185,8 @@ you, create your own system entirely.
 ### ΨΥΧΗ
 
 ![yuxh](yuxh.png) ▲ΟΥΡΑΝΟΣ▼
+
+<img src="../symbols/yuxh.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΨΥΧΗ</span>
 
@@ -4179,6 +4265,8 @@ you, create your own system entirely.
 
 ![won](won.png) ▲ΓΑΙΑ▼
 
+<img src="../symbols/won.card.png" style="float: right;"> 
+
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΩΟΝ</span>
 
 + [ΩΟΝ](#ρυθμοι) = Egg
@@ -4224,6 +4312,8 @@ you, create your own system entirely.
 ### \`ΩΡΑΙ
 
 ![wrai](wrai.png) ▲ΓΑΙΑ :: ΒΡΟΝΤΗ▼
+
+<img src="../symbols/wrai.card.png" style="float: right;"> 
 
 <span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΩΡΑΙ</span>
 
