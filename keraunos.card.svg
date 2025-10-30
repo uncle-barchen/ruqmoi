@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="daidala.card.svg"
+   sodipodi:docname="keraunos.card.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4378367"
+     inkscape:zoom="0.71891835"
      inkscape:cx="396.42889"
-     inkscape:cy="560.21661"
+     inkscape:cy="561.25984"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -39,13 +39,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g2"
-       inkscape:export-filename="daidala.card.png"
+       id="g1"
+       transform="translate(278.22708,55.427084)"
+       inkscape:export-filename="keraunos.card.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <g
          id="g7"
-         transform="translate(-64.168926,-77.027416)">
+         transform="translate(-342.39601,-132.4545)">
         <rect
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.33762;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="rect3"
@@ -64,58 +65,64 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="85.31546"
-         y="210.43091"
+         x="-176.53998"
+         y="157.17038"
          id="text8"
          transform="scale(1.0736712,0.93138383)"><tspan
            sodipodi:role="line"
            id="tspan8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="85.31546"
-           y="210.43091">44. Royal Bride</tspan></text>
+           x="-176.53998"
+           y="157.17038">34. Great Strength</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="80.305939"
-         y="105.17926"
+         x="-182.08174"
+         y="45.668797"
          id="text8-2"
          transform="scale(1.0736712,0.93138383)"><tspan
            id="tspan8-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="80.305939"
-           y="105.17926"
-           sodipodi:role="line">ΟΥΡΑΝΟΣ :: ΑΥΡΑ</tspan></text>
+           x="-182.08174"
+           y="45.668797"
+           sodipodi:role="line">ΒΡΟΝΤΗ :: ΟΥΡΑΝΟΣ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="84.655029"
-         y="216.31064"
+         x="-172.1237"
+         y="151.11841"
          id="text8-2-0-6"
          transform="scale(1.0736712,0.93138383)"><tspan
            id="tspan8-8-6-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="84.655029"
-           y="216.31064"
-           sodipodi:role="line">Six of Pentacles</tspan></text>
+           x="-172.1237"
+           y="151.11841"
+           sodipodi:role="line">Five of Cups</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#2b2b2b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="84.324814"
-         y="180.74263"
+         x="-177.46861"
+         y="116.97095"
          id="text8-8-1"
          transform="scale(1.0736712,0.93138383)"><tspan
            sodipodi:role="line"
            id="tspan8-6-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'BIBLICAL UNCIAL';-inkscape-font-specification:'BIBLICAL UNCIAL';fill:#2b2b2b;fill-opacity:1;stroke:#000000;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="84.324814"
-           y="180.74263">ΔΑΙΔΑΛΑ</tspan></text>
+           x="-177.46861"
+           y="116.97095">ΚΕΡΑΥΝΟΣ</tspan></text>
       <g
-         id="g1"
-         transform="translate(0,1.5874999)">
+         id="g34"
+         transform="translate(-342.44898,-116.57951)">
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176;stroke-dasharray:none;stroke-opacity:1"
+           id="path1-8-7"
+           cx="169.22189"
+           cy="204.29544"
+           r="14.912125" />
         <path
            sodipodi:type="star"
-           style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.165;stroke-dasharray:none;stroke-opacity:1"
-           id="path2-7-15"
+           style="fill:#00b500;fill-opacity:1;stroke:#00b500;stroke-width:0.117676;stroke-dasharray:none;stroke-opacity:1"
+           id="path2-7-1-1-1"
            inkscape:flatsided="false"
            sodipodi:sides="3"
            sodipodi:cx="129.98804"
@@ -127,15 +134,8 @@
            inkscape:rounded="0"
            inkscape:randomized="0"
            d="m 129.98804,176.70047 -5.01451,-8.68539 -5.01451,-8.68539 10.02902,0 10.02902,0 -5.01451,8.68539 z"
-           inkscape:transform-center-y="4.3299937"
-           transform="matrix(1.4956595,0,0,1.4956155,-89.417842,-104.11969)"
-           inkscape:transform-center-x="-5.532804e-06" />
-        <circle
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176;stroke-dasharray:none;stroke-opacity:1"
-           id="path1-8-7"
-           cx="105"
-           cy="126.86214"
-           r="14.912125" />
+           inkscape:transform-center-y="-4.2862175"
+           transform="matrix(1.4957361,0,0,-1.4804945,-25.205906,448.433)" />
       </g>
     </g>
   </g>

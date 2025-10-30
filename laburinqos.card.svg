@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="daidala.card.svg"
+   sodipodi:docname="laburinqos.card.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4378367"
+     inkscape:zoom="0.71891835"
      inkscape:cx="396.42889"
-     inkscape:cy="560.21661"
+     inkscape:cy="561.25984"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -39,13 +39,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g2"
-       inkscape:export-filename="daidala.card.png"
+       id="g1"
+       transform="translate(240.92083,43.256254)"
+       inkscape:export-filename="laburinqos.card.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <g
          id="g7"
-         transform="translate(-64.168926,-77.027416)">
+         transform="translate(-305.08976,-120.28367)">
         <rect
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.33762;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="rect3"
@@ -64,78 +65,105 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="85.31546"
-         y="210.43091"
+         x="-142.34439"
+         y="170.23785"
          id="text8"
          transform="scale(1.0736712,0.93138383)"><tspan
            sodipodi:role="line"
            id="tspan8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="85.31546"
-           y="210.43091">44. Royal Bride</tspan></text>
+           x="-142.34439"
+           y="170.23785">64. Not Yet Across</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="80.305939"
-         y="105.17926"
+         x="-146.01962"
+         y="58.736263"
          id="text8-2"
          transform="scale(1.0736712,0.93138383)"><tspan
            id="tspan8-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="80.305939"
-           y="105.17926"
-           sodipodi:role="line">ΟΥΡΑΝΟΣ :: ΑΥΡΑ</tspan></text>
+           x="-146.01962"
+           y="58.736263"
+           sodipodi:role="line">ΑΣΤΡΑΠΗ :: `ΥΕΤΟΣ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="84.655029"
-         y="216.31064"
+         x="-130.10846"
+         y="158.72955"
+         id="text8-2-0-3-1"
+         transform="scale(1.0736712,0.93138383)"><tspan
+           id="tspan8-8-6-9-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
+           x="-130.10846"
+           y="158.72955"
+           sodipodi:role="line">ᚺᚨᛁᛚ</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
+         x="-139.69547"
+         y="164.46997"
          id="text8-2-0-6"
          transform="scale(1.0736712,0.93138383)"><tspan
            id="tspan8-8-6-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;fill-opacity:1;stroke:#292929;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="84.655029"
-           y="216.31064"
-           sodipodi:role="line">Six of Pentacles</tspan></text>
+           x="-139.69547"
+           y="164.46997"
+           sodipodi:role="line">Nine of Swords</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#2b2b2b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-         x="84.324814"
-         y="180.74263"
+         x="-146.14986"
+         y="126.91345"
          id="text8-8-1"
          transform="scale(1.0736712,0.93138383)"><tspan
            sodipodi:role="line"
            id="tspan8-6-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'BIBLICAL UNCIAL';-inkscape-font-specification:'BIBLICAL UNCIAL';fill:#2b2b2b;fill-opacity:1;stroke:#000000;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
-           x="84.324814"
-           y="180.74263">ΔΑΙΔΑΛΑ</tspan></text>
+           x="-146.14986"
+           y="126.91345">ΛΑΒΥΡΙΝΘΟΣ</tspan></text>
       <g
-         id="g1"
-         transform="translate(0,1.5874999)">
-        <path
-           sodipodi:type="star"
-           style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.165;stroke-dasharray:none;stroke-opacity:1"
-           id="path2-7-15"
-           inkscape:flatsided="false"
-           sodipodi:sides="3"
-           sodipodi:cx="129.98804"
-           sodipodi:cy="165.11995"
-           sodipodi:r1="11.580516"
-           sodipodi:r2="5.7902584"
-           sodipodi:arg1="1.5707963"
-           sodipodi:arg2="2.6179939"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           d="m 129.98804,176.70047 -5.01451,-8.68539 -5.01451,-8.68539 10.02902,0 10.02902,0 -5.01451,8.68539 z"
-           inkscape:transform-center-y="4.3299937"
-           transform="matrix(1.4956595,0,0,1.4956155,-89.417842,-104.11969)"
-           inkscape:transform-center-x="-5.532804e-06" />
-        <circle
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176;stroke-dasharray:none;stroke-opacity:1"
-           id="path1-8-7"
-           cx="105"
-           cy="126.86214"
-           r="14.912125" />
+         id="g35"
+         transform="translate(-305.08976,-110.49409)">
+        <g
+           id="g5-7"
+           transform="translate(-4.1158665e-6,-14.915626)">
+          <path
+             id="rect1-5-2-8"
+             style="fill:#ff6600;fill-opacity:1;stroke:#ff8989;stroke-width:0.208555;stroke-opacity:1"
+             d="m 173.07014,206.86616 0.98615,14.82879 -0.98615,14.96365 h -0.27994 l -0.98615,-14.96365 0.98615,-14.82879 z"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             id="rect1-2-7-4-8"
+             style="fill:#ff6600;fill-opacity:1;stroke:#ff8989;stroke-width:0.208555;stroke-opacity:1"
+             d="m 169.3089,206.86616 0.98615,14.82879 -0.98615,14.96365 h -0.27994 l -0.98615,-14.96365 0.98615,-14.82879 z"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             id="rect1-23-6-5-29"
+             style="fill:#ff6600;fill-opacity:1;stroke:#ff8989;stroke-width:0.208555;stroke-opacity:1"
+             d="m 165.54766,206.86616 0.98615,14.82879 -0.98615,14.96365 h -0.27994 l -0.98615,-14.96365 0.98615,-14.82879 z"
+             sodipodi:nodetypes="ccccccc" />
+        </g>
+        <g
+           id="g1-5-3"
+           style="fill:#ffff00;fill-opacity:1;stroke:#898989;stroke-opacity:1"
+           transform="matrix(1.0056337,0,0,1.24415,32.619502,23.284117)">
+          <path
+             id="rect1-7-1"
+             style="fill:#ffff00;fill-opacity:1;stroke:#898989;stroke-width:0.187171;stroke-opacity:1"
+             d="m 120.87804,144.40053 14.83894,-0.79375 14.97389,0.79375 v 0.22532 l -14.97389,0.79375 -14.83894,-0.79375 z"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             id="rect1-2-6-9"
+             style="fill:#ffff00;fill-opacity:1;stroke:#898989;stroke-width:0.187171;stroke-opacity:1"
+             d="m 120.87804,147.42794 14.83894,-0.79375 14.97389,0.79375 v 0.22532 l -14.97389,0.79375 -14.83894,-0.79375 z"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             id="rect1-23-1-8"
+             style="fill:#ffff00;fill-opacity:1;stroke:#898989;stroke-width:0.187171;stroke-opacity:1"
+             d="m 120.87804,150.45535 14.83894,-0.79375 14.97389,0.79375 v 0.22532 l -14.97389,0.79375 -14.83894,-0.79375 z"
+             sodipodi:nodetypes="ccccccc" />
+        </g>
       </g>
     </g>
   </g>
