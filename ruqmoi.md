@@ -9,7 +9,7 @@ and Blue Fox, κοινωνός (Spirit Guide) of the aforementioned
 
 © 2025 by Uncle Bärchen
 
-version: 2025.09.29
+version: 2025.11.04
 
 > "To welcome imagination is to welcome hope. To cultivate love is to cultivate blessedness." -Fox
 
@@ -1222,16 +1222,24 @@ you, create your own system entirely.
 
 <div style="page-break-after: always"></div>
 
+<style>
+img {
+  padding: 20px;
+  border-width: 10px;
+  float: right;
+}
+</style>
+---
+
+<div style="page-break-after: always"></div>
 
 ---
 
-### ΑΜΦΟΡΕΥΣ
+#### ΑΜΦΟΡΕΥΣ
 
-![amforeus](amforeus.png) ▲ΛΙΜΝΗ :: ΓΑΙΑ▼
+▲ΛΙΜΝΗ :: ΓΑΙΑ▼
 
-<img src="../symbols/amforeus.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΑΜΦΟΡΕΥΣ</span>
+<img src="amforeus.card.png" style="float: right;">
 
 + [ΑΜΦΟΡΕΥΣ](#ρυθμοι) = Jar with narrow neck; used for various purposes, esp. for keeping wine in, or milk, or for
   pickles. (Shortened form of ἀμφιφορεύς, q.v., from having two handles.)
@@ -1261,13 +1269,11 @@ you, create your own system entirely.
 
 ---
 
-### ΑΝΑΓΚΗ
+#### ΑΝΑΓΚΗ
 
-![anagkh](anagkh.png) ▲ΛΙΜΝΗ :: ΛΙΜΝΗ▼
+▲ΛΙΜΝΗ :: ΛΙΜΝΗ▼
 
-<img src="../symbols/anagkh.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΑΝΑΓΚΗ</span>
+<img src="anagkh.card.png" style="float: right;"> 
 
 + [ΑΝΑΓΚΗ](#ρυθμοι) = Force, constraint, necessity. As an Adverb: perforce, of necessity, it must be that, is 
   necessary that. Necessity in the philosophical sense, logical necessity. In plural: laws of nature,
@@ -1301,13 +1307,11 @@ you, create your own system entirely.
 
 ---
 
-### ΑΣΦΟΔΕΛΟΣ
+#### ΑΣΦΟΔΕΛΟΣ
 
-![asfodelos](asfodelos.png) ▲ΛΙΜΝΗ :: ΑΥΡΑ▼
+▲ΛΙΜΝΗ :: ΑΥΡΑ▼
 
-<img src="../symbols/asfodelos.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΑΣΦΟΔΕΛΟΣ</span>
+<img src="asfodelos.card.png" style="float: right;"> 
 
 + [ΑΣΦΟΔΕΛΟΣ](#ρυθμοι) = Asphodel (*Asphodelus ramosus*). As Adjective, ἀσφοδελὸς λειμών the asphodel meadow which the 
   shades of heroes haunted, or more generally, a flowery meadow. 
@@ -1347,13 +1351,11 @@ you, create your own system entirely.
 
 ---
 
-### ΒΙΟΣ
+#### ΒΙΟΣ
 
-![bios](bios.png) ▲ΒΡΟΝΤΗ :: ΑΥΡΑ▼
+▲ΒΡΟΝΤΗ :: ΑΥΡΑ▼
 
-<img src="../symbols/bios.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΒΙΟΣ</span>
+<img src="bios.card.png" style="float: right;"> 
 
 + [ΒΙΟΣ](#ρυθμοι) = Life, i.e. not animal life (ζωή), but mode of life, manner of living (mostly therefore of men, 
   but also of animals). Lifetime, livelihood, means of living, to make one's living off, to live by a thing.
@@ -1389,13 +1391,11 @@ you, create your own system entirely.
 
 ---
 
-### ΒΟΥΠΕΛΑΤΗΣ
+#### ΒΟΥΠΕΛΑΤΗΣ
 
-![boupelaths](boupelaths.png) ▲ΒΡΟΝΤΗ :: ΓΑΙΑ▼
+▲ΒΡΟΝΤΗ :: ΓΑΙΑ▼
 
-<img src="../symbols/boupelaths.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΒΟΥΠΕΛΑΤΗΣ</span>
+<img src="boupelaths.card.png" style="float: right;"> 
 
 + [ΒΟΥΠΕΛΑΤΗΣ](#ρυθμοι) = Herdsman (of cows).
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 001:000 16. Excess / Enthusiasm
@@ -1441,13 +1441,11 @@ you, create your own system entirely.
 
 ---
 
-### ΒΡΙΑΡΕΩΣ
+#### ΒΡΙΑΡΕΩΣ
 
-![briarews](briarews.png) ▲ΒΡΟΝΤΗ :: ΛΙΜΝΗ▼
+▲ΒΡΟΝΤΗ :: ΛΙΜΝΗ▼
 
-<img src="../symbols/briarews.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΒΡΙΑΡΕΩΣ</span>
+<img src="briarews.card.png" style="float: right;"> 
 
 + [ΒΡΙΑΡΕΩΣ](#ρυθμοι) = A hundred-handed giant, of the generation of the Titans. In some myths, he is freed from 
   Tartarus by Zeus and guarantees his victory over the Titans.
@@ -1479,13 +1477,11 @@ you, create your own system entirely.
 
 ---
 
-### ΓΛΑΥΞ
+#### ΓΛΑΥΞ
 
-![glauc](glauc.png) ▲ΑΣΤΡΑΠΗ :: ΓΑΙΑ▼
+▲ΑΣΤΡΑΠΗ :: ΓΑΙΑ▼
 
-<img src="../symbols/glauc.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΓΛΑΥΞ</span>
+<img src="glauc.card.png" style="float: right;"> 
 
 + [ΓΛΑΥΞ](#ρυθμοι) = The little owl, *Athene noctua*, so called from its glaring eyes, frequently used as an emblem 
   of Athena.
@@ -1519,13 +1515,11 @@ you, create your own system entirely.
 
 ---
 
-### ΓΟΡΓΩ
+#### ΓΟΡΓΩ
 
-![gorgw](gorgw.png) ▲ΑΣΤΡΑΠΗ :: ΛΙΜΝΗ▼
+▲ΑΣΤΡΑΠΗ :: ΛΙΜΝΗ▼
 
-<img src="../symbols/gorgw.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΓΟΡΓΩ</span>
+<img src="gorgw.card.png" style="float: right;"> 
 
 + [ΓΟΡΓΩ](#ρυθμοι) = The Gorgon, i.e. the Grim One. Her visage turns people to stone (in other words, the
   "freeze" response to fear.)
@@ -1557,13 +1551,11 @@ you, create your own system entirely.
 
 ---
 
-### ΓΡΥΨ
+#### ΓΡΥΨ
 
-![gruy](gruy.png) ▲ΑΣΤΡΑΠΗ :: ΑΥΡΑ▼
+▲ΑΣΤΡΑΠΗ :: ΑΥΡΑ▼
 
-<img src="../symbols/gruy.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΓΡΥΨ</span>
+<img src="gruy.card.png" style="float: right;"> 
 
 + [ΓΡΥΨ](#ρυθμοι) = A griffin; a legendary creature with the body, tail, and back legs of a lion, and the head and 
   wings of an eagle with its talons on the front legs. Since classical antiquity, griffins were known 
@@ -1600,13 +1592,11 @@ you, create your own system entirely.
 
 ---
 
-### ΔΑΙΔΑΛΑ
+#### ΔΑΙΔΑΛΑ
 
-<img src="../symbols/daidala.card.png" style="float: right;"> 
+▲ΟΥΡΑΝΟΣ :: ΑΥΡΑ▼
 
-![daidala](daidala.png) ▲ΟΥΡΑΝΟΣ :: ΑΥΡΑ▼  
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΔΑΙΔΑΛΑ</span>
+<img src="daidala.card.png" style="float: right;"> 
 
 + [ΔΑΙΔΑΛΑ](#ρυθμοι) = Cunning works (as a noun, usually in plural as here); cunningly or curiously wrought (as 
   an adjective).
@@ -1639,13 +1629,11 @@ you, create your own system entirely.
 
 ---
 
-### ΔΟΡΥ
+#### ΔΟΡΥ
 
-![doru](doru.png) ▲ΟΥΡΑΝΟΣ :: ΛΙΜΝΗ▼
+▲ΟΥΡΑΝΟΣ :: ΛΙΜΝΗ▼
 
-<img src="../symbols/doru.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΔΟΡΥ</span>
+<img src="doru.card.png" style="float: right;"> 
 
 + [ΔΟΡΥ](#ρυθμοι) = A spear (especially the shaft), or just a (pointed) stick. Also used as a synecdoche for war.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 111:011 10\. Stepping / Treading (Conduct)
@@ -1685,13 +1673,12 @@ you, create your own system entirely.
 
 ---
 
-### ΔΡΕΠΑΝΟΝ
+#### ΔΡΕΠΑΝΟΝ
 
-![drepanon](drepanon.png) ▲ΟΥΡΑΝΟΣ :: ΓΑΙΑ▼
+▲ΟΥΡΑΝΟΣ :: ΓΑΙΑ▼
 
-<img src="../symbols/drepanon.card.png" style="float: right;"> 
+<img src="drepanon.card.png" style="float: right;"> 
 
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΔΡΕΠΑΝΟΝ</span>
 
 + [ΔΡΕΠΑΝΟΝ](#ρυθμοι) = A scythe, curved sword, or pruning knife.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 111:000 12\. Stagnation / Standstill
@@ -1722,13 +1709,11 @@ you, create your own system entirely.
 
 ---
 
-### ΕΛΑΙΟΣ
+#### ΕΛΑΙΟΣ
 
-![elaios](elaios.png) ▲ΓΑΙΑ :: ΓΑΙΑ▼ 
+▲ΓΑΙΑ :: ΓΑΙΑ▼ 
 
-<img src="../symbols/elaios.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΕΛΑΙΟΣ</span>
+<img src="elaios.card.png" style="float: right;"> 
 
 + [ΕΛΑΙΟΣ](#ρυθμοι) = The wild olive.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:000 2. The Receptive / The Receptive
@@ -1762,13 +1747,11 @@ you, create your own system entirely.
 
 ---
 
-### \`ΕΛΙΞ
+#### `ΕΛΙΞ
 
-![elic](elic.png) ▲ΓΑΙΑ :: ΑΥΡΑ▼
+▲ΓΑΙΑ :: ΑΥΡΑ▼
 
-<img src="../symbols/elic.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΕΛΙΞ</span>
+<img src="elic.card.png" style="float: right;"> 
 
 + [\`ΕΛΙΞ](#ρυθμοι) = The tendril of the vine or of ivy. A curl or lock of hair. The coil of a serpent.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:110 46. Pushing Upwards / Pushing Upward
@@ -1798,13 +1781,11 @@ you, create your own system entirely.
 
 ---
 
-### \`ΕΣΤΙΑ
+#### `ΕΣΤΙΑ
 
-![estia](estia.png) ▲ΓΑΙΑ :: ΛΙΜΝΗ▼
+▲ΓΑΙΑ :: ΛΙΜΝΗ▼
 
-<img src="../symbols/estia.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΕΣΤΙΑ</span>
+<img src="estia.card.png" style="float: right;"> 
 
 + [\`ΕΣΤΙΑ](#ρυθμοι) = The hearth; the house itself; the household or family; an altar; the central fire; the 
   Goddess of the hearth.
@@ -1847,13 +1828,11 @@ you, create your own system entirely.
 
 ---
 
-### ΖΕΥΓΜΑ
+#### ΖΕΥΓΜΑ
 
-![zeugma](zeugma.png) ▲\`ΥΕΤΟΣ :: ΓΑΙΑ▼
+▲\`ΥΕΤΟΣ :: ΓΑΙΑ▼
 
-<img src="../symbols/zeugma.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΖΕΥΓΜΑ</span>
+<img src="zeugma.card.png" style="float: right;"> 
 
 + [ΖΕΥΓΜΑ](#ρυθμοι) = That which is used for joining, band, bond; a bridge of boats or platform formed by lashing 
   several vessels together.
@@ -1893,13 +1872,11 @@ you, create your own system entirely.
 
 ---
 
-### ΖΥΓΟΝ
+#### ΖΥΓΟΝ
 
-<img src="../symbols/zugon.card.png" style="float: right;"> 
+▲\`ΥΕΤΟΣ :: ΛΙΜΝΗ▼
 
-![zugon](zugon.png) ▲\`ΥΕΤΟΣ :: ΛΙΜΝΗ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΖΥΓΟΝ</span>
+<img src="zugon.card.png" style="float: right;"> 
 
 + [ΖΥΓΟΝ](#ρυθμοι) = A yoke, crossbar, or the thwarts (benches) joining opposite sides of a ship. The beam of a
   balance, or the balance itself. A cross-strap of a sandal.
@@ -1929,13 +1906,11 @@ you, create your own system entirely.
 
 ---
 
-### ΖΩΠΥΡΟΝ
+#### ΖΩΠΥΡΟΝ
 
-<img src="../symbols/zwpuron.card.png" style="float: right;">
+▲\`ΥΕΤΟΣ :: ΑΥΡΑ▼
 
-![zwpuron](zwpuron.png) ▲\`ΥΕΤΟΣ :: ΑΥΡΑ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΖΩΠΥΡΟΝ</span>
+<img src="zwpuron.card.png" style="float: right;">
 
 + [ΖΩΠΥΡΟΝ](#ρυθμοι) = A spark or hot coal used to kindle a fire.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 010:110 48\. The Well / The Well
@@ -1974,13 +1949,11 @@ you, create your own system entirely.
 
 ---
 
-### \`ΗΔΟΝΗ
+#### `ΗΔΟΝΗ
 
-![hdonh](hdonh.png) ▲ΑΥΡΑ :: ΑΥΡΑ▼
+▲ΑΥΡΑ :: ΑΥΡΑ▼
 
-<img src="../symbols/hdonh.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΗΔΟΝΗ</span>
+<img src="hdonh.card.png" style="float: right;"> 
 
 + [\`ΗΔΟΝΗ](#ρυθμοι) = Desire, enjoyment or (sensual) pleasure.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:110 57\. Choosing / The Gentle (Penetrating)
@@ -2016,13 +1989,11 @@ you, create your own system entirely.
 
 ---
 
-### ΗΛΕΚΤΡΟΝ
+#### ΗΛΕΚΤΡΟΝ
 
-<img src="../symbols/hlektron.card.png" style="float: right;">
+▲ΑΥΡΑ :: ΛΙΜΝΗ▼
 
-![hlektron](hlektron.png) ▲ΑΥΡΑ :: ΛΙΜΝΗ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΗΛΕΚΤΡΟΝ</span>
+<img src="hlektron.card.png" style="float: right;">
 
 + [ΗΛΕΚΤΡΟΝ](#ρυθμοι) = Amber
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:011 61. Sincere to the Core / Inner Truth
@@ -2057,13 +2028,11 @@ you, create your own system entirely.
 
 ---
 
-### ΗΩΣ
+#### ΗΩΣ
 
-<img src="../symbols/hws.card.png" style="float: right;"> 
+▲ΑΥΡΑ :: ΓΑΙΑ▼
 
-![hws](hws.png) ▲ΑΥΡΑ :: ΓΑΙΑ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΗΩΣ</span>
+<img src="hws.card.png" style="float: right;"> 
 
 + [ΗΩΣ](#ρυθμοι) = Day, life, the East; the Goddess of dawn.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:000 20. Contemplation / Contemplation (View)
@@ -2104,13 +2073,11 @@ you, create your own system entirely.
 
 ---
 
-### ΘΕΜΙΣ
+#### ΘΕΜΙΣ
 
-<img src="../symbols/qemis.card.png" style="float: right;"> 
+▲ΟΡΟΣ :: ΓΑΙΑ▼
 
-![qemis](qemis.png) ▲ΟΡΟΣ :: ΓΑΙΑ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΘΕΜΙΣ</span>
+<img src="qemis.card.png" style="float: right;"> 
 
 + [ΘΕΜΙΣ](#ρυθμοι) = What is meet and right. That which is laid down or established, law (not as fixed by statute, 
   but) as established by custom. Divine law (opp. to ΝΟΜΟΣ). Personsified as the Titan goddess of divine 
@@ -2156,13 +2123,11 @@ you, create your own system entirely.
 
 ---
 
-### ΘΥΙΑ
+#### ΘΥΙΑ
 
-![quia](quia.png) ▲ΟΡΟΣ :: ΑΥΡΑ▼
+▲ΟΡΟΣ :: ΑΥΡΑ▼
 
-<img src="../symbols/quia.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΘΥΙΑ</span>
+<img src="quia.card.png" style="float: right;"> 
 
 + [ΘΥΙΑ](#ρυθμοι) = Juniper (e.g. *Thuja occidentalis*)
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 100:110 18. Branching Out / Work On What Has Been Spoiled (Decay)
@@ -2207,13 +2172,11 @@ you, create your own system entirely.
 
 ---
 
-### ΘΥΜΟΝ
+#### ΘΥΜΟΝ
 
-<img src="../symbols/qumon.card.png" style="float: right;"> 
+▲ΟΡΟΣ :: ΛΙΜΝΗ▼
 
-![qumon](qumon.png) ▲ΟΡΟΣ :: ΛΙΜΝΗ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΘΥΜΟΝ</span>
+<img src="qumon.card.png" style="float: right;"> 
 
 + [ΘΥΜΟΝ](#ρυθμοι) = Thyme (e.g. *Thymus vulgaris*)
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 100:011 41\. Decrease / Decrease
@@ -2253,13 +2216,11 @@ you, create your own system entirely.
 
 ---
 
-### \`ΙΜΑΣ
+#### `ΙΜΑΣ
 
-![imas](imas.png) ▲ΛΙΜΝΗ :: \`ΥΕΤΟΣ▼
+▲ΛΙΜΝΗ :: \`ΥΕΤΟΣ▼
 
-<img src="../symbols/imas.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΙΜΑΣ</span>
+<img src="imas.card.png" style="float: right;"> 
 
 + [\`ΙΜΑΣ](#ρυθμοι) = Leathern strap or thong, mostly in plural, in various senses: traces; reins; straps on which 
   the body of the chariot was hung; lash of a whip formed by several thongs; boxing-glove consisting of 
@@ -2317,13 +2278,11 @@ you, create your own system entirely.
 
 ---
 
-### ΙΡΙΣ
+#### ΙΡΙΣ
 
-<img src="../symbols/iris.card.png" style="float: right;"> 
+▲ΛΙΜΝΗ :: ΟΡΟΣ▼
 
-![iris](iris.png) ▲ΛΙΜΝΗ :: ΟΡΟΣ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΙΡΙΣ</span>
+<img src="iris.card.png" style="float: right;"> 
 
 + [ΙΡΙΣ](#ρυθμοι) = Iris, the messenger of the gods among themselves and Goddess of the rainbow. Any bright-coloured 
   circle surrounding another body, as the lunar rainbow; the halo of a candle; the eyes of a peacock's tail; 
@@ -2357,13 +2316,11 @@ you, create your own system entirely.
 
 ---
 
-### \`ΙΣΤΟΣ
+#### `ΙΣΤΟΣ
 
-<img src="../symbols/istos.card.png" style="float: right;"> 
+▲ΛΙΜΝΗ :: ΟΥΡΑΝΟΣ▼
 
-![istos](istos.png) ▲ΛΙΜΝΗ :: ΟΥΡΑΝΟΣ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΙΣΤΟΣ</span>
+<img src="istos.card.png" style="float: right;"> 
 
 + [\`ΙΣΤΟΣ](#ρυθμοι) = Anything set upright: mast; rod; pole; beam; beam of a loom, which stood upright, instead of 
   lying horizontal as in our looms; the warp fixed to the beam, hence, the web itself; spiders' webs.
@@ -2397,13 +2354,11 @@ you, create your own system entirely.
 
 ---
 
-### ΚΑΘΑΡΜΟΣ
+#### ΚΑΘΑΡΜΟΣ
 
-![kaqarmos](kaqarmos.png) ▲ΒΡΟΝΤΗ : ΟΡΟΣ▼
+▲ΒΡΟΝΤΗ : ΟΡΟΣ▼
 
-<img src="../symbols/kaqarmos.card.png" style="float: right;">
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΚΑΘΑΡΜΟΣ</span>
+<img src="kaqarmos.card.png" style="float: right;">
 
 + [ΚΑΘΑΡΜΟΣ](#ρυθμοι) = Cleansing; purification (from guilt); purificatory offering; atonement; expiation; an offering 
   to avert wrath; purificatory rite of initiation into mysteries; purgation by ordeal; purging; evacuation; 
@@ -2442,13 +2397,11 @@ you, create your own system entirely.
 
 ---
 
-### ΚΕΡΑΥΝΟΣ
+#### ΚΕΡΑΥΝΟΣ
 
-![keraunos](keraunos.png) ▲ΒΡΟΝΤΗ :: ΟΥΡΑΝΟΣ▼
+▲ΒΡΟΝΤΗ :: ΟΥΡΑΝΟΣ▼
 
-<img src="../symbols/keraunos.card.png" style="float: right;">
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΚΕΡΑΥΝΟΣ</span>
+<img src="keraunos.card.png" style="float: right;">
 
 + [ΚΕΡΑΥΝΟΣ](#ρυθμοι) = A thunderbolt, especially as the weapon of Zeus, forged by the Cyclopes.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 001:111 34. Great Strength / The Power of the Great
@@ -2478,13 +2431,11 @@ you, create your own system entirely.
 
 ---
 
-### ΚΗΡΥΚΕΙΟΝ
+#### ΚΗΡΥΚΕΙΟΝ
 
-![khrukeion](khrukeion.png) ▲ΒΡΟΝΤΗ :: \`ΥΕΤΟΣ▼
+▲ΒΡΟΝΤΗ :: \`ΥΕΤΟΣ▼
 
-<img src="../symbols/khrukeion.card.png" style="float: right;">
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΚΗΡΥΚΕΙΟΝ</span>
+<img src="khrukeion.card.png" style="float: right;">
 
 + [ΚΗΡΥΚΕΙΟΝ](#ρυθμοι) = A herald's wand or staff; the Caduceus.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 001:010 40. Released / Deliverance
@@ -2518,13 +2469,11 @@ you, create your own system entirely.
 
 ---
 
-### ΛΑΒΥΡΙΝΘΟΣ
+#### ΛΑΒΥΡΙΝΘΟΣ
 
-![laburinqos](laburinqos.png) ▲ΑΣΤΡΑΠΗ :: \`ΥΕΤΟΣ▼
+▲ΑΣΤΡΑΠΗ :: \`ΥΕΤΟΣ▼
 
-<img src="../symbols/laburinqos.card.png" style="float: right;">
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΛΑΒΥΡΙΝΘΟΣ</span>
+<img src="laburinqos.card.png" style="float: right;">
 
 + [ΛΑΒΥΡΙΝΘΟΣ](#ρυθμοι) = A labyrinth or maze; a large building consisting of numerous halls connected by intricate and 
   tortuous passages. Also used of tortuous questions or arguments.
@@ -2556,13 +2505,11 @@ you, create your own system entirely.
 
 ---
 
-### ΛΑΜΠΑΣ
+#### ΛΑΜΠΑΣ
 
-![lampas](lampas.png) ▲ΑΣΤΡΑΠΗ :: ΟΥΡΑΝΟΣ▼
+▲ΑΣΤΡΑΠΗ :: ΟΥΡΑΝΟΣ▼
 
-<img src="../symbols/lampas.card.png" style="float: right;">
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΛΑΜΠΑΣ</span>
+<img src="lampas.card.png" style="float: right;">
 
 + [ΛΑΜΠΑΣ](#ρυθμοι) = A torch; beacon-light; torches used in festal processions; any light, lamp, wax-light, or oil 
   lamp. Metaphorically, of the sun.
@@ -2604,13 +2551,11 @@ you, create your own system entirely.
 
 ---
 
-### ΛΙΝΟΝ
+#### ΛΙΝΟΝ
 
-![linon](linon.png) ▲ΑΣΤΡΑΠΗ :: ΟΡΟΣ▼
+▲ΑΣΤΡΑΠΗ :: ΟΡΟΣ▼
 
-<img src="../symbols/linon.card.png" style="float: right;">
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΛΙΝΟΝ</span>
+<img src="linon.card.png" style="float: right;">
 
 + [ΛΙΝΟΝ](#ρυθμοι) = anything made of flax: cord; fishingline; thread spun from a distaff; thread for stringing 
   jewels; thread used as a ligature. Metaphorically, the thread of destiny spun by the Fates.
@@ -2644,13 +2589,11 @@ you, create your own system entirely.
 
 ---
 
-### ΜΑΚΑΡΙΑ
+#### ΜΑΚΑΡΙΑ
 
-![makaria](makaria.png) ▲ΓΑΙΑ :: \`ΥΕΤΟΣ▼
+▲ΓΑΙΑ :: \`ΥΕΤΟΣ▼
 
-<img src="../symbols/makaria.card.png" style="float: right;">
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΜΑΚΑΡΙΑ</span>
+<img src="makaria.card.png" style="float: right;">
 
 + [ΜΑΚΑΡΙΑ](#ρυθμοι) = Happiness, bliss, blessedness.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:010 7. The Multitude / The Army
@@ -2695,14 +2638,11 @@ you, create your own system entirely.
 
 ---
 
-### ΜΕΓΑΡΟΝ
+#### ΜΕΓΑΡΟΝ
 
+▲ΓΑΙΑ :: ΟΥΡΑΝΟΣ▼
 
-<img src="../symbols/megaron.card.png" style="float: right;">
-
-![megaron](megaron.png) ▲ΓΑΙΑ :: ΟΥΡΑΝΟΣ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΜΕΓΑΡΟΝ</span>
+<img src="megaron.card.png" style="float: right;">
 
 + [ΜΕΓΑΡΟΝ](#ρυθμοι) = A large room or hall; especially the chief room in the Homeric palace; women's apartment;
   bedchamber. In plural: house, palace. A sanctuary, shrine, frequently in Herodotus (who uses the 
@@ -2733,13 +2673,11 @@ you, create your own system entirely.
 
 ---
 
-### ΜΟΙΡΑΙ
+#### ΜΟΙΡΑΙ
 
-<img src="../symbols/moirai.card.png" style="float: right;">  
+▲ΓΑΙΑ :: ΟΡΟΣ▼
 
-![morai](moirai.png) ▲ΓΑΙΑ :: ΟΡΟΣ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΜΟΙΡΑΙ</span>
+<img src="moirai.card.png" style="float: right;">  
 
 + [ΜΟΙΡΑΙ](#ρυθμοι) = (Plural of μοῖρα) the Goddesses of Fate, that is, of one's portion in life, lot, destiny, or fortune.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:100 15\. Modesty / Modesty
@@ -2793,13 +2731,11 @@ you, create your own system entirely.
 
 ---
 
-### ΝΑΡΘΗΞ
+#### ΝΑΡΘΗΞ
 
-<img src="../symbols/narqhc.card.png" style="float: right;"> 
+▲ΟΥΡΑΝΟΣ :: ΟΡΟΣ▼
 
-![narqhc](narqhc.png) ▲ΟΥΡΑΝΟΣ :: ΟΡΟΣ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΝΑΡΘΗΞ</span>
+<img src="narqhc.card.png" style="float: right;"> 
 
 + [ΝΑΡΘΗΞ](#ρυθμοι) = The giant fennel, *Ferula communis*, the stalk was used by Prometheus to steal Fire from Heaven.
   Also used for the stalk used as a θύρσος (Dionysus). Used as a schoolmaster's cane, as a splint for a
@@ -2831,13 +2767,11 @@ you, create your own system entirely.
 
 ---
 
-### ΝΑΥΣ
+#### ΝΑΥΣ
 
-![naus](naus.png) ▲ΟΥΡΑΝΟΣ :: ΟΥΡΑΝΟΣ▼
+▲ΟΥΡΑΝΟΣ :: ΟΥΡΑΝΟΣ▼
 
-<img src="../symbols/naus.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΝΑΥΣ</span>
+<img src="naus.card.png" style="float: right;"> 
 
 + [ΝΑΥΣ](#ρυθμοι) = Ship
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 111:111 1\. The Creative / The Creative
@@ -2865,13 +2799,11 @@ you, create your own system entirely.
 
 ---
 
-### ΝΟΣΤΟΣ
+#### ΝΟΣΤΟΣ
 
-<img src="../symbols/nostos.card.png" style="float: right;"> 
+▲ΟΥΡΑΝΟΣ :: \`ΥΕΤΟΣ▼
 
-![nostos](nostos.png) ▲ΟΥΡΑΝΟΣ :: \`ΥΕΤΟΣ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΝΟΣΤΟΣ</span>
+<img src="nostos.card.png" style="float: right;"> 
 
 + [ΝΟΣΤΟΣ](#ρυθμοι) = return home, or generally, return, travel, journey, journey after (i. e. in search of) food. 
   In plural, Νόστοι, the homeward journeys of the Greek heroes after the taking of Troy, title of Cyclic 
@@ -2914,13 +2846,11 @@ you, create your own system entirely.
 
 ---
 
-### ΞΙΦΟΣ
+#### ΞΙΦΟΣ
 
-![cifos](cifos.png) ▲\`ΥΕΤΟΣ :: ΟΡΟΣ▼
+▲\`ΥΕΤΟΣ :: ΟΡΟΣ▼
 
-<img src="../symbols/cifos.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΞΙΦΟΣ</span>
+<img src="cifos.card.png" style="float: right;"> 
 
 + [ΞΙΦΟΣ](#ρυθμοι) = Sword
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 010:100 39. Impeded / Obstruction
@@ -2955,13 +2885,11 @@ you, create your own system entirely.
 
 ---
 
-### ΞΟΑΝΟΝ
+#### ΞΟΑΝΟΝ
 
-![coanon](coanon.png) ▲\`ΥΕΤΟΣ :: \`ΥΕΤΟΣ▼
+▲\`ΥΕΤΟΣ :: \`ΥΕΤΟΣ▼
 
-<img src="../symbols/coanon.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΞΟΑΝΟΝ</span>
+<img src="coanon.card.png" style="float: right;"> 
 
 + [ΞΟΑΝΟΝ](#ρυθμοι) = An image carved of wood, then, generally, image, statue, especially of a god.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 010:010 29\. The Abyss / The Abysmal (Water)
@@ -2988,13 +2916,11 @@ you, create your own system entirely.
 
 ---
 
-### ΞΥΛΟΝ
+#### ΞΥΛΟΝ
 
-<img src="../symbols/culon.card.png" style="float: right;"> 
+▲\`ΥΕΤΟΣ :: ΟΥΡΑΝΟΣ▼
 
-![culon](culon.png) ▲\`ΥΕΤΟΣ :: ΟΥΡΑΝΟΣ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΞΥΛΟΝ</span>
+<img src="culon.card.png" style="float: right;"> 
 
 + [ΞΥΛΟΝ](#ρυθμοι) = Wood cut and ready for use, firewood, timber, piece of wood, log, beam, post. An instrument of
   punishment: wooden collar, put on the neck of the prisoner; stocks, in which the feet were confined;
@@ -3042,13 +2968,11 @@ you, create your own system entirely.
 
 ---
 
-### ΟΙΚΟΣ
+#### ΟΙΚΟΣ
 
-![oikos](oikos.png) ▲ΑΥΡΑ :: ΟΥΡΑΝΟΣ▼
+▲ΑΥΡΑ :: ΟΥΡΑΝΟΣ▼
 
-<img src="../symbols/oikos.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΟΙΚΟΣ</span>
+<img src="oikos.card.png" style="float: right;"> 
 
 + [ΟΙΚΟΣ](#ρυθμοι) = A house, not only of built houses, but of any dwelling-place, as that of Achilles at Troy; of the 
   Cyclops' cave; of a tent.  A room, chamber, dining-hall, room in a temple. Also used of public buildings,
@@ -3090,14 +3014,13 @@ you, create your own system entirely.
 <div style="page-break-after: always"></div>
 
 ---
+<a name="oinos"/>
+#### ΟΙΝΟΣ
 
-### ΟΙΝΟΣ
+▲ΑΥΡΑ :: ΟΡΟΣ▼  
 
-![oinos](oinos.png) ▲ΑΥΡΑ :: ΟΡΟΣ▼  
+<img src="oinos.card.png" style="float: right;"> 
 
-<img src="../symbols/oinos.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΟΙΝΟΣ</span>
 
 + [ΟΙΝΟΣ](#ρυθμοι) = Wine
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:100 53\. Gradual Progress / Development
@@ -3127,13 +3050,11 @@ you, create your own system entirely.
 
 ---
 
-### ΟΦΙΣ
+#### ΟΦΙΣ
 
-![ofis](ofis.png) ▲ΑΥΡΑ :: \`ΥΕΤΟΣ▼
+▲ΑΥΡΑ :: \`ΥΕΤΟΣ▼
 
-<img src="../symbols/ofis.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΟΦΙΣ</span>
+<img src="ofis.card.png" style="float: right;"> 
 
 + [ΟΦΙΣ](#ρυθμοι) = Serpent
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:010 59. Dispersion / Dispersion (Dissolution)
@@ -3170,13 +3091,11 @@ you, create your own system entirely.
 
 ---
 
-### ΠΑΙΩΝ
+#### ΠΑΙΩΝ
 
-![paiwn](paiwn.png) ▲ΟΡΟΣ :: ΟΥΡΑΝΟΣ▼
+▲ΟΡΟΣ :: ΟΥΡΑΝΟΣ▼
 
-<img src="../symbols/paiwn.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΠΑΙΩΝ</span>
+<img src="paiwn.card.png" style="float: right;"> 
 
 + [ΠΑΙΩΝ](#ρυθμοι) = A choral song, addressed to Apollo or Artemis in thanksgiving for deliverance from evil, or
   addressed to other gods, as to Poseidon after an earthquake. A song of triumph after victory, properly
@@ -3214,13 +3133,11 @@ you, create your own system entirely.
 
 ---
 
-### ΠΤΕΡΥΞ
+#### ΠΤΕΡΥΞ
 
-![pteruc](pteruc.png) ▲ΟΡΟΣ :: \`ΥΕΤΟΣ▼
+▲ΟΡΟΣ :: \`ΥΕΤΟΣ▼
 
-<img src="../symbols/pteruc.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΠΤΕΡΥΞ</span>
+<img src="pteruc.card.png" style="float: right;"> 
 
 + [ΠΤΕΡΥΞ](#ρυθμοι) = The wing of a bird. A winged creature, bird. Flight, augury, omen. Anything like a wing: fins of 
   fish, the flippers of seals, dolphins and whales. The blade of the steering-paddle, hence, a rudder, an 
@@ -3274,13 +3191,11 @@ you, create your own system entirely.
 
 ---
 
-### ΠΥΛΑΙ
+#### ΠΥΛΑΙ
 
-![pulai](pulai.png) ▲ΟΡΟΣ :: ΟΡΟΣ▼
+▲ΟΡΟΣ :: ΟΡΟΣ▼
 
-<img src="../symbols/pulai.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΠΥΛΑΙ</span>
+<img src="pulai.card.png" style="float: right;"> 
 
 + [ΠΥΛΑΙ](#ρυθμοι) = (Plural of πύλη) gates, house door, entrance, orifice, mountain pass, narrow straits.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 100:100 52. Stillness / Stillness
@@ -3310,13 +3225,11 @@ you, create your own system entirely.
 
 ---
 
-### \`ΡΑΒΔΟΣ
+#### `ΡΑΒΔΟΣ
 
-<img src="../symbols/rabdos.card.png" style="float: right;"> 
+▲ΟΡΟΣ :: ΒΡΟΝΤΗ▼
 
-![rabdos](rabdos.png) ▲ΟΡΟΣ :: ΒΡΟΝΤΗ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΡΑΒΔΟΣ</span>
+<img src="rabdos.card.png" style="float: right;"> 
 
 + [\`ΡΑΒΔΟΣ](#ρυθμοι) = A rod, wand. A magic wand as that of Circe, or that with which Athena touched Odysseus to 
   restore his youthful appearance, or that with which Hermes overpowers the senses of man, or that with 
@@ -3362,13 +3275,11 @@ you, create your own system entirely.
 
 ---
 
-### \`ΡΑΨΩΙΔΟΣ
+#### `ΡΑΨΩΙΔΟΣ
 
-![raywidos](raywidos.png) ▲ΟΡΟΣ▼ 
+▲ΟΡΟΣ▼ 
 
-<img src="../symbols/raywidos.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΡΑΨΩΙΔΟΣ</span>
+<img src="raywidos.card.png" style="float: right;"> 
 
 + [\`ΡΑΨΩΙΔΟΣ](#ρυθμοι) = A reciter of Epic poems, sometimes applied to the bard who recited his own poem, as to Hesiod, 
   but usually of professional reciters, especially of the poems of Homer, etc. Also, ironically, of the 
@@ -3408,13 +3319,11 @@ you, create your own system entirely.
 
 ---
 
-### \`ΡΥΘΜΟΣ
+#### `ΡΥΘΜΟΣ
 
-![ruqmos](ruqmos.png) ▲ΟΡΟΣ :: ΑΣΤΡΑΠΗ▼
+▲ΟΡΟΣ :: ΑΣΤΡΑΠΗ▼
 
-<img src="../symbols/ruqmos.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΡΥΘΜΟΣ</span>
+<img src="ruqmos.card.png" style="float: right;"> 
 
 + [\`ΡΥΘΜΟΣ](#ρυθμοι) = Any regular recurring motion: measured motion, time, whether in sound or motion; rhythm, 
   opp. μέτρον and ἁρμονία; of Prose rhythm. Special phrases: in time, of dancing, marching, etc., respire 
@@ -3456,13 +3365,11 @@ you, create your own system entirely.
 
 ---
 
-### ΣΘΕΝΩ
+#### ΣΘΕΝΩ
 
-<img src="../symbols/sqenw.card.png" style="float: right;"> 
+▲ΛΙΜΝΗ :: ΒΡΟΝΤΗ▼
 
-![sqenw](sqenw.png) ▲ΛΙΜΝΗ :: ΒΡΟΝΤΗ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΣΘΕΝΩ</span>
+<img src="sqenw.card.png" style="float: right;"> 
 
 + [ΣΘΕΝΩ](#ρυθμοι) = In Greek mythology, Euryale (Εὐρυάλη, literally 'far-roaming') and Stheno (Σθενώ, literally
   "forceful") were two of the three Gorgons, including Medusa, sisters who were able to turn anyone 
@@ -3506,13 +3413,11 @@ you, create your own system entirely.
 
 ---
 
-### ΣΤΕΦΑΝΟΣ
+#### ΣΤΕΦΑΝΟΣ
 
-![stefanos](stefanos.png) ▲ΛΙΜΝΗ :: ΑΣΤΡΑΠΗ▼
+▲ΛΙΜΝΗ :: ΑΣΤΡΑΠΗ▼
 
-<img src="../symbols/stefanos.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΣΤΕΦΑΝΟΣ</span>
+<img src="stefanos.card.png" style="float: right;"> 
 
 + [ΣΤΕΦΑΝΟΣ](#ρυθμοι) = That which surrounds or encompasses. A crown, wreath, chaplet. The crown of victory at 
   the public games. An honorary wreath or crown, frequently worked in gold, awarded for public services 
@@ -3551,13 +3456,11 @@ you, create your own system entirely.
 
 ---
 
-### ΣΤΥΞ
+#### ΣΤΥΞ
 
-![stuc](stuc.png) ▲ΛΙΜΝΗ▼
+▲ΛΙΜΝΗ▼
 
-<img src="../symbols/stuc.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΣΤΥΞ</span>
+<img src="stuc.card.png" style="float: right;"> 
 
 + [ΣΤΥΞ](#ρυθμοι) = The Styx, i.e. the Hateful, also the nymph of this river. A well of fatal coldness in Arcadia.
   Piercing chill, as of frost.
@@ -3596,13 +3499,11 @@ you, create your own system entirely.
 
 ---
 
-### ΤΕΥΧΟΣ
+#### ΤΕΥΧΟΣ
 
-![teuxos](teuxos.png) ▲\`ΥΕΤΟΣ▼ 
+▲\`ΥΕΤΟΣ▼ 
 
-<img src="../symbols/teuxos.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΤΕΥΧΟΣ</span>
+<img src="teuxos.card.png" style="float: right;"> 
 
 + [ΤΕΥΧΟΣ](#ρυθμοι) = A tool, implement—but mostly in plural (τεύχεα) as implements of war (armor and arms), also the
   gear of a ship (oars and the like). In Tragedians (rarely in Prose) a vessel of any kind, e.g. 
@@ -3641,13 +3542,11 @@ you, create your own system entirely.
 
 ---
 
-### ΤΟΞΟΝ
+#### ΤΟΞΟΝ
 
-![tocon](tocon.png) ▲\`ΥΕΤΟΣ :: ΑΣΤΡΑΠΗ▼
+▲\`ΥΕΤΟΣ :: ΑΣΤΡΑΠΗ▼
 
-<img src="../symbols/tocon.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΤΟΞΟΝ</span>
+<img src="tocon.card.png" style="float: right;"> 
 
 + [ΤΟΞΟΝ](#ρυθμοι) = A bow. In plural, bow and arrows.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 010:101 63. After the Crossing / After Completion
@@ -3677,13 +3576,11 @@ you, create your own system entirely.
 
 ---
 
-### ΤΥΜΠΑΝΟΝ
+#### ΤΥΜΠΑΝΟΝ
 
-<img src="../symbols/tumpanon.card.png" style="float: right;"> 
+▲\`ΥΕΤΟΣ :: ΒΡΟΝΤΗ▼
 
-![tumpanon](tumpanon.png) ▲\`ΥΕΤΟΣ :: ΒΡΟΝΤΗ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΤΥΜΠΑΝΟΝ</span>
+<img src="tumpanon.card.png" style="float: right;"> 
 
 + [ΤΥΜΠΑΝΟΝ](#ρυθμοι) = A kettledrum, such as was used especially in the worship of the Mother Goddess and Dionysus.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 010:001 3. Sprouting / Difficulty at the Beginning
@@ -3729,13 +3626,12 @@ you, create your own system entirely.
 
 ---
 
-### \`ΥΔΡΑ
 
-![udra](udra.png) ▲ΒΡΟΝΤΗ▼
+#### \`ΥΔΡΑ
 
-<img src="../symbols/udra.card.png" style="float: right;"> 
+▲ΒΡΟΝΤΗ▼
 
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΥΔΡΑ</span>
+<img src="udra.card.png" style="float: right;"> 
 
 + [\`ΥΔΡΑ](#ρυθμοι) = A water-serpent, but especially the Lernaean hydra. Ὕδραν τέμνειν ("to cut the hydra") = 
   proverbially of labour in vain, because two heads sprang up for every one which was cut off.
@@ -3768,13 +3664,11 @@ you, create your own system entirely.
 
 ---
 
-### \`ΥΜΝΟΣ
+#### `ΥΜΝΟΣ
 
-![umnos](umnos.png) ▲ΒΡΟΝΤΗ :: ΒΡΟΝΤΗ▼
+▲ΒΡΟΝΤΗ :: ΒΡΟΝΤΗ▼
 
-<img src="../symbols/umnos.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΥΜΝΟΣ</span>
+<img src="umnos.card.png" style="float: right;"> 
 
 + [\`ΥΜΝΟΣ](#ρυθμοι) = A hymn, ode, in praise of gods or heroes.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 001:001 51. Thunder / The Arousing (Shock)
@@ -3803,13 +3697,11 @@ you, create your own system entirely.
 
 ---
 
-### \`ΥΠΕΡΒΟΡΕΟΙ
+#### `ΥΠΕΡΒΟΡΕΟΙ
 
-<img src="../symbols/uperboreoi.card.png" style="float: right;"> 
+▲ΒΡΟΝΤΗ :: ΑΣΤΡΑΠΗ▼
 
-![uperboreoi](uperboreoi.png) ▲ΒΡΟΝΤΗ :: ΑΣΤΡΑΠΗ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΥΠΕΡΒΟΡΕΟΙ</span>
+<img src="uperboreoi.card.png" style="float: right;"> 
 
 + [\`ΥΠΕΡΒΟΡΕΟΙ](#ρυθμοι) = The Hyperboreans, a people supposed to live in the extreme north.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 001:101 55\. Abundance / Abundance (Fullness)
@@ -3843,13 +3735,11 @@ you, create your own system entirely.
 
 ---
 
-### ΦΑΡΜΑΚΟΝ
+#### ΦΑΡΜΑΚΟΝ
 
-![farmakon](farmakon.png) ▲ΑΥΡΑ▼
+▲ΑΥΡΑ▼
 
-<img src="../symbols/farmakon.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΦΑΡΜΑΚΟΝ</span>
+<img src="farmakon.card.png" style="float: right;"> 
 
 + [ΦΑΡΜΑΚΟΝ](#ρυθμοι) = A drug, whether healing or noxious. A healing remedy, medicine, in Homer mostly of those 
   applied outwardly. Also of potions, an enchanted potion, philtre: hence, charm, spell, poison. Generally, 
@@ -3891,13 +3781,11 @@ you, create your own system entirely.
 
 ---
 
-### ΦΙΑΛΗ
+#### ΦΙΑΛΗ
 
-<img src="../symbols/fialh.card.png" style="float: right;"> 
+▲ΑΥΡΑ :: ΑΣΤΡΑΠΗ▼
 
-![fialh](fialh.png) ▲ΑΥΡΑ :: ΑΣΤΡΑΠΗ▼
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΦΙΑΛΗ</span>
+<img src="fialh.card.png" style="float: right;"> 
 
 + [ΦΙΑΛΗ](#ρυθμοι) = A broad, flat bowl or saucer for drinking or pouring libations.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:101 37. Family / The Family
@@ -3928,13 +3816,11 @@ you, create your own system entirely.
 
 ---
 
-### ΦΟΙΝΙΞ
+#### ΦΟΙΝΙΞ
 
-![foinic](foinic.png) ▲ΑΥΡΑ :: ΒΡΟΝΤΗ▼
+▲ΑΥΡΑ :: ΒΡΟΝΤΗ▼
 
-<img src="../symbols/foinic.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΦΟΙΝΙΞ</span>
+<img src="foinic.card.png" style="float: right;"> 
 
 + [ΦΟΙΝΙΞ](#ρυθμοι) = The fabulous bird phoenix. The date-palm, *Phoenix dactylifera*. A palm-frond, as a badge of 
   victory. A date. A musical instrument, like a guitar, invented by the Phoenicians. Perfume prepared 
@@ -3963,13 +3849,11 @@ you, create your own system entirely.
 
 ---
 
-### ΧΑΛΚΟΣ
+#### ΧΑΛΚΟΣ
 
-![xalkos](xalkos.png) ▲ΑΣΤΡΑΠΗ▼
+▲ΑΣΤΡΑΠΗ▼
 
-<img src="../symbols/xalkos.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΧΑΛΚΟΣ</span>
+<img src="xalkos.card.png" style="float: right;"> 
 
 + [ΧΑΛΚΟΣ](#ρυθμοι) = Copper (alloyed with tin to form bronze, the usual meaning of the word in Homer and frequently
   in later writers). In Poets frequently used for anything made of metal, especially of offensive arms, 
@@ -4007,13 +3891,11 @@ you, create your own system entirely.
 
 ---
 
-### ΧΑΡΥΒΔΙΣ
+#### ΧΑΡΥΒΔΙΣ
 
-![xarubdis](xarubdis.png) ▲ΑΣΤΡΑΠΗ :: ΒΡΟΝΤΗ▼
+▲ΑΣΤΡΑΠΗ :: ΒΡΟΝΤΗ▼
 
-<img src="../symbols/xarubdis.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΧΑΡΥΒΔΙΣ</span>
+<img src="xarubdis.card.png" style="float: right;"> 
 
 + [ΧΑΡΥΒΔΙΣ](#ρυθμοι) = Charybdis, a dangerous whirlpool on the coast of Sicily, opposite the Italian rock Scylla.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 101:001 21. Taking a Bite / Biting Through
@@ -4048,13 +3930,11 @@ you, create your own system entirely.
 
 ---
 
-### ΧΑΣΜΑ
+#### ΧΑΣΜΑ
 
-![xasma](xasma.png) ▲ΑΣΤΡΑΠΗ :: ΑΣΤΡΑΠΗ▼  
+▲ΑΣΤΡΑΠΗ :: ΑΣΤΡΑΠΗ▼  
 
-<img src="../symbols/xasma.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΧΑΣΜΑ</span>
+<img src="xasma.card.png" style="float: right;"> 
 
 + [ΧΑΣΜΑ](#ρυθμοι) = A yawning chasm, gulf, χάσμα μέγα = Tartarus. An open, gaping mouth, as forming a helmet, or 
   of a yawning gulf. Generally, any wide opening.
@@ -4082,13 +3962,11 @@ you, create your own system entirely.
 
 ---
 
-### ΨΗΓΜΑ
+#### ΨΗΓΜΑ
 
-![yhgma](yhgma.png) ▲ΟΥΡΑΝΟΣ :: ΒΡΟΝΤΗ▼
+▲ΟΥΡΑΝΟΣ :: ΒΡΟΝΤΗ▼
 
-<img src="../symbols/yhgma.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΨΗΓΜΑ</span>
+<img src="yhgma.card.png" style="float: right;"> 
 
 + [ΨΗΓΜΑ](#ρυθμοι) = That which is rubbed or scraped off, shavings, scrapings, chips. Used of gold-dust, dust and 
   ashes, wood, and motes in a sunbeam.
@@ -4130,13 +4008,11 @@ you, create your own system entirely.
 
 ---
 
-### ΨΗΦΟΣ
+#### ΨΗΦΟΣ
 
-![yhfos](yhfos.png) ▲ΟΥΡΑΝΟΣ :: ΑΣΤΡΑΠΗ▼
+▲ΟΥΡΑΝΟΣ :: ΑΣΤΡΑΠΗ▼
 
-<img src="../symbols/yhfos.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΨΗΦΟΣ</span>
+<img src="yhfos.card.png" style="float: right;"> 
 
 + [ΨΗΦΟΣ](#ρυθμοι) = A small round worn stone, pebble, a grain of sand, precious stone, gem, especially worn in 
   a ring, according to the various uses made of such pebbles: pebble used for reckoning, counter, cipher, 
@@ -4182,13 +4058,11 @@ you, create your own system entirely.
 
 ---
 
-### ΨΥΧΗ
+#### ΨΥΧΗ
 
-![yuxh](yuxh.png) ▲ΟΥΡΑΝΟΣ▼
+▲ΟΥΡΑΝΟΣ▼
 
-<img src="../symbols/yuxh.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΨΥΧΗ</span>
+<img src="yuxh.card.png" style="float: right;"> 
 
 + [ΨΥΧΗ](#ρυθμοι) = Life. In Homer, a departed spirit or ghost. The immaterial and immortal soul. The conscious 
   self or personality as centre of emotions, desires, and affections. Also, a butterly or moth.
@@ -4227,13 +4101,11 @@ you, create your own system entirely.
 
 ---
 
-### ΩΓΥΓΙΗ
+#### ΩΓΥΓΙΗ
 
-![wgugih](wgugih.png) ▲ΓΑΙΑ :: ΑΣΤΡΑΠΗ▼
+▲ΓΑΙΑ :: ΑΣΤΡΑΠΗ▼
 
-<img src="../symbols/wgugih.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΩΓΥΓΙΗ</span>
+<img src="wgugih.card.png" style="float: right;"> 
 
 + [ΩΓΥΓΙΗ](#ρυθμοι) = Ogygia, a mythical island in the Mediterranean, the abode of Calypso.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:101 36. Wounded Light / Darkened Light
@@ -4261,13 +4133,11 @@ you, create your own system entirely.
 
 ---
 
-### ΩΟΝ
+#### ΩΟΝ
 
-![won](won.png) ▲ΓΑΙΑ▼
+▲ΓΑΙΑ▼
 
-<img src="../symbols/won.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>ΩΟΝ</span>
+<img src="won.card.png" style="float: right;"> 
 
 + [ΩΟΝ](#ρυθμοι) = Egg
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000 Earth (The Receptive)
@@ -4309,13 +4179,11 @@ you, create your own system entirely.
 
 ---
 
-### \`ΩΡΑΙ
+#### `ΩΡΑΙ
 
-![wrai](wrai.png) ▲ΓΑΙΑ :: ΒΡΟΝΤΗ▼
+▲ΓΑΙΑ :: ΒΡΟΝΤΗ▼
 
-<img src="../symbols/wrai.card.png" style="float: right;"> 
-
-<span style='font-family: "BIBLICAL UNCIAL", sans-serif; font-size: 4em;'>`ΩΡΑΙ</span>
+<img src="wrai.card.png" style="float: right;"> 
 
 + [\`ΩΡΑΙ](#ρυθμοι) = (Plural of ὥρα) The Hours, keepers of heaven's cloudgate, and ministers of the gods, especially
   of Aphrodite, three in number, Eunomia (= good order), Dike (= custom, moral order), Eirene (= peace). 
