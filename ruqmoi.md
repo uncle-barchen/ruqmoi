@@ -9,7 +9,7 @@ and Blue Fox, κοινωνός (Spirit Guide) of the aforementioned
 
 © 2025 by Uncle Bärchen
 
-version: 2025.11.04
+version: 2025.11.07
 
 > "To welcome imagination is to welcome hope. To cultivate love is to cultivate blessedness." -Fox
 
@@ -470,6 +470,10 @@ without the psychological niceties of creating a wall of protection against harm
 of the helpful ones. You might like to add either or both of these if you feel your charge needs them to maintain good
 housekeeping.
 
+
+<div style="page-break-after: always"></div>
+
+
 **The Invocation of the Seven Directions:**
 
 *The Prelude:*
@@ -807,15 +811,15 @@ right to left...
 
 ### [ΑΙΝΙΓΜΑΤΑ](#table-of-contents)
 
-|       | ΑΙΝΙΓΜΑΤΑ                   |                                                             |       |                             |                                                  |       |                            |                                                       | 
-| ----- | --------------------------- | ----------------------------------------------------------- | ----- | --------------------------- | ------------------------------------------------ | ----- | -------------------------- | ----------------------------------------------------- |
-| **1** | [ΩΟΝ/Oak](#ωον)             | [ΣΤΥΞ/Lake](#στυξ)                                          | **3** | [ΟΦΙΣ/Sun](#οφις)           | [ΠΤΕΡΥΞ/Yew](#πτερυξ)                            | **5** | [\`ΗΔΟΝΗ/Wind](#ηδονη)     | [ΖΩΠΥΡΟΝ/Road](#ζωπυρον)                              | 
-|       | [ΧΑΛΚΟΣ/Day](#χαλκος)       | [ΩΟΝ/Oak](#ωον) + [ΧΑΛΚΟΣ/Day](#χαλκος)                     |       | [ΚΑΘΑΡΜΟΣ/Hazel](#καθαρμος) | [ΟΦΙΣ/Sun](#οφις) + [ΚΑΘΑΡΜΟΣ/Hazel](#καθαρμος)  |       | [ΒΙΟΣ/Gift](#βιος)         | [\`ΗΔΟΝΗ/Wind](#ηδονη) + [ΒΙΟΣ/Gift](#βιος)           |
-|       | [\`ΥΔΡΑ/Ring](#υδρα)        | [\`ΥΔΡΑ/Ring](#υδρα) + [ΣΤΥΞ/Lake](#στυξ)                   |       | [ΜΟΙΡΑΙ/Paeony](#μοιραι)    | [ΜΟΙΡΑΙ/Paeony](#μοιραι) + [ΠΤΕΡΥΞ/Yew](#πτερυξ) |       | [ΓΡΥΨ/Cauldron](#γρυψ)     | [ΓΡΥΨ/Cauldron](#γρυψ) + [ΖΩΠΥΡΟΝ/Road](#ζωπυρον)     |
-|       |  * * *                      |  * * *                                                      |       |  * * *                      |  * * *                                           |       |  * * *                     |  * * *                                                |
-| **2** | [ΨΥΧΗ/Man](#ψυχη)           | [\`ΡΑΨΩΙΔΟΣ/Tower](#ραψωιδος)                               | **4** | [ΔΟΡΥ/Juniper](#δορυ)       | [ΛΑΒΥΡΙΝΘΟΣ/Hail](#λαβυρινθος)                   | **6** | [ΘΥΜΟΝ/Ash](#θυμον)        | [ΕΛΑΙΟΣ/Flocks](#ελαιος)                              |
-|       | [ΤΕΥΧΟΣ/Elder](#τευχος)     | [ΨΥΧΗ/Man](#ψυχη) + [ΤΕΥΧΟΣ/Elder](#τευχος)                 |       | [ΞΙΦΟΣ/Ice](#ξιφος)         | [ΔΟΡΥ](#δορυ) + [ΞΙΦΟΣ](#ξιφος)                  |       | [ΑΝΑΓΚΗ/Thorn](#αναγκη)    | [ΘΥΜΟΝ/Ash](#θυμον) + [ΑΝΑΓΚΗ/Thorn](#αναγκη)         |
-|       | [ΦΑΡΜΑΚΟΝ/Birch](#φαρμακον) | [ΦΑΡΜΑΚΟΝ/Birch](#φαρμακον) + [\`ΡΑΨΩΙΔΟΣ/Tower](#ραψωιδος) |       | [\`ΙΜΑΣ/Nettles](#ιμας)     | [\`ΙΜΑΣ](#ιμας) + [ΛΑΒΥΡΙΝΘΟΣ](#λαβυρινθος)      |       | [ΔΡΕΠΑΝΟΝ/Urus](#δρεπανον) | [ΔΡΕΠΑΝΟΝ/Urus](#δρεπανον) + [ΕΛΑΙΟΣ/Flocks](#ελαιος) |
+|       |                    |                                         |       |                    |                                        |       |                   |                                       | 
+| ----- | ------------------ | --------------------------------------- | ----- | ------------------ | -------------------------------------- | ----- | ----------------- | ------------------------------------- |
+| **1** | [Oak](#ωον)        | [Lake](#στυξ)                           | **3** | [Sun](#οφις)       | [Yew](#πτερυξ)                         | **5** | [Wind](#ηδονη)    | [Road](#ζωπυρον)                      | 
+|       | [Day](#χαλκος)     | [Oak](#ωον) + [Day](#χαλκος)            |       | [Hazel](#καθαρμος) | [Sun](#οφις) + [Hazel](#καθαρμος)      |       | [Gift](#βιος)     | [Wind](#ηδονη) + [Gift](#βιος)        |
+|       | [Ring](#υδρα)      | [Ring](#υδρα) + [Lake](#στυξ)           |       | [Paeony](#μοιραι)  | [Paeony](#μοιραι) + [Yew](#πτερυξ)     |       | [Cauldron](#γρυψ) | [Cauldron](#γρυψ) + [Road](#ζωπυρον)  |
+|       |  * * *             |  * * *                                  |       |  * * *             |  * * *                                 |       |  * * *            |  * * *                                |
+| **2** | [Man](#ψυχη)       | [Tower](#ραψωιδος)                      | **4** | [Juniper](#δορυ)   | [Hail](#λαβυρινθος)                    | **6** | [Ash](#θυμον)     | [Flocks](#ελαιος)                     |
+|       | [Elder](#τευχος)   | [Man](#ψυχη) + [Elder](#τευχος)         |       | [Ice](#ξιφος)      | [Juniper](#δορυ) + [Ice](#ξιφος)       |       | [Thorn](#αναγκη)  | [Ash](#θυμον) + [Thorn](#αναγκη)      |
+|       | [Birch](#φαρμακον) | [Birch](#φαρμακον) + [Tower](#ραψωιδος) |       | [Nettles](#ιμας)   | [Nettles](#ιμας) + [Hail](#λαβυρινθος) |       | [Urus](#δρεπανον) | [Urus](#δρεπανον) + [Flocks](#ελαιος) |
 
 If you're new to divination, or feel you need to cultivate a smaller set of ὀνόματα in your divinatory 
 "language" (at least for now), here's a sub-set of ὀνόματα based on the Runes (in the way we've related 
@@ -2252,23 +2256,21 @@ img {
   + The Magic Girdle of Aphrodite is φιλότητα καί ἵμερον = affection and desire
   + Sir Gawain and the Green Knight
   + passion(n.) https://www.etymonline.com/word/passion c. 1200, "the sufferings of Christ on the Cross; 
-    the death of Christ," from Old French passion "Christ's passion, physical suffering" (10c.), from Late 
-    Latin passionem (nominative passio) "suffering, enduring," from past-participle stem of Latin pati "to 
-    endure, undergo, experience," a word of uncertain origin. The notion is "that which must be endured." 
-    The sense was extended to the sufferings of martyrs, and suffering and pain generally, by early 13c. It 
-    replaced Old English þolung (used in glosses to render Latin passio), literally "suffering," from þolian (v.) 
-    "to endure." In Middle English also sometimes "the state of being affected or acted upon by something external" 
-    (late 14c., compare passive). In Middle English also "an ailment, disease, affliction;" also "an emotion, 
-    desire, inclination, feeling; desire to sin considered as an affliction" (mid-13c.). The specific meaning 
-    "intense or vehement emotion or desire" is attested from late 14c., from Late Latin use of passio to 
-    render Greek pathos "suffering," also "feeling, emotion." The specific sense of "sexual love" is attested 
-    by 1580s, but the word has been used of any lasting, controlling emotion (zeal; grief, sorrow; rage, 
-    anger; hope, joy). The meaning "strong liking, enthusiasm, predilection" is from 1630s; that of "object 
-    of great admiration or desire" is by 1732. 
-    > As compared with affection, the distinctive mark of passion is that it masters the mind, so that the 
-    > person becomes seemingly its subject or its passive instrument, while an affection, though moving, 
-    > affecting, or influencing one, still leaves him his self-control. The secondary meanings of the two 
-    > words keep this difference. [Century Dictionary]
+    the death of Christ," from OF passion "Christ's passion, physical suffering" (10c.), from Late 
+    Latin passionem "suffering, enduring," from Latin pati "to endure, undergo, experience". The notion 
+    is "that which must be endured." The sense was extended to the sufferings of martyrs, and suffering 
+    and pain generally, by early 13c. It replaced OE þolung (used in glosses to render Latin passio), 
+    literally "suffering," from þolian (v.) "to endure." In ME sometimes "the state of being affected or 
+    acted upon by something external". In ME also "an ailment, disease, affliction;" also "an emotion, 
+    desire, inclination, feeling; desire to sin considered as an affliction" (mid-13c.). The specific 
+    meaning "intense or vehement emotion or desire" is attested from late 14c., from Late Latin use of 
+    passio to render Greek pathos "suffering," also "feeling, emotion." The specific sense of "sexual love" 
+    attested by 1580s, but it has been used of any lasting, controlling emotion (zeal; grief, sorrow; rage, 
+    anger; hope, joy). The meaning "strong liking, enthusiasm, predilection" from 1630s; "object of great 
+    admiration or desire" is by 1732. "As compared with affection, the distinctive mark of passion is that 
+    it masters the mind, so that the person becomes seemingly its subject or its passive instrument, while 
+    an affection, though moving, affecting, or influencing one, still leaves him his self-control. The 
+    secondary meanings of the two words keep this difference." [Century Dictionary]
   + "Little Louse and Little Flea" (Grimm's Fairy Tales 1st ed. Volume 1 #30)
   + Color: <font color="#921EAB">███ Violet Eggplant ███</font> (#921EAB)
 
@@ -3014,7 +3016,7 @@ img {
 <div style="page-break-after: always"></div>
 
 ---
-<a name="oinos"/>
+
 #### ΟΙΝΟΣ
 
 ▲ΑΥΡΑ :: ΟΡΟΣ▼  
