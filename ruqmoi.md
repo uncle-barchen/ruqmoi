@@ -1105,7 +1105,7 @@ appeals to you.
 |           |                                          |                                         |                          |                          |
 | 01 : 02 i | [The Creative](#ναυς)                    | [The Receptive](#ελαιος)                | F6/7 9.Execute/Process   | E5/7 8.(Re)Start/Boot    |
 |           |                                          |                                         |                          |                          |
-| ///////// | /// ***I. The Path of Destiny 1*** ///// | /// ***I. The Path of Destiny 1*** //// | //////////////////////// | //////////////////////// |
+| ///////// | ***I. The Path of Destiny 1***           | ***I. The Path of Destiny 1***          | //////////////////////// | //////////////////////// |
 | 03 : 04   | [Difficulty at the Beginning](#τυμπανον) | [Youthful Folly](#πτερυξ)               |  1. Sense/Detect         |  2. Identify             |
 | 05 : 06   | [Waiting (Nourishment)](#ξυλον)          | [Conflict](#νοστος)                     |  4. Audit/ACK            |  3. Signal/Command       |
 | 07 : 08   | [The Army](#μακαρια)                     | [Holding Together (Union)](#ζευγμα)     |  5. Inter-Communicate    |  6. (Re)Arrange          |
@@ -1113,11 +1113,11 @@ appeals to you.
 |           |                                          |                                         |                          |                          |
 | 11 : 12   | [Peace](#μεγαρον)                        | [Standstill](#δρεπανον)                 |  D4/7 6.(Re)Arrange      | C3/7 4.Audit/ACK         |
 |           |                                          |                                         |                          |                          |
-| ///////// | /// ***I. The Path of Destiny 2*** ///// | /// ***I. The Path of Destiny 2*** //// | //////////////////////// | //////////////////////// |
+| ///////// | ***I. The Path of Destiny 2***           | ***I. The Path of Destiny 2***          | //////////////////////// | //////////////////////// |
 | 13 : 14   | [Fellowship](#ψηφος)                     | [Possession in Great Measure](#λαμπας)  |  9. Execute/Process      | 10. Monitor/Evaluate     |
 | 15 : 16   | [Modesty](#μοιραι)                       | [Enthusiasm](#βουπελατης)               | 12. Replicate/Teach      | 11. Maintain/Improve     |
 |           |                                          |                                         |                          |                          |
-| ::::::::: | ::: ***II. Priesthood of the Flame*** :: | ::: ***II. Priesthood of the Flame*** : | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
+| ::::::::: | ***II. Priesthood of the Flame***        | ***II. Priesthood of the Flame***       | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
 | 17 : 18   | [Following](#σθενω)                      | [Decay](#θυια)                          |  1. Sense/Detect         |  2. Identify             |
 | 19 : 20   | [Approach](#εστια)                       | [Contemplation (View)](#ηως)            |  4. Audit/ACK            |  3. Signal/Command       |
 | 21 : 22   | [Biting Through](#χαρυβδις)              | [Grace](#ρυθμος)                        |  5. Inter-Communicate    |  6. (Re)Arrange          |
@@ -1127,25 +1127,25 @@ appeals to you.
 |           |                                          |                                         |                          |                          |
 | 29 : 30 i | [The Abysmal (Water)](#ξοανον)           | [The Clinging (Fire)](#χασμα)           | B2/7 3.Signal/Command    |  A1/7 1.Sense/Detect     |
 |           |                                          |                                         |                          |                          |
-| ::::::::: | ::: ***III. Phoenix and Dragon*** :::::: | ::: ***III. Phoenix and Dragon*** ::::: | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
+| ::::::::: | ***III. Phoenix and Dragon***            | ***III. Phoenix and Dragon***           | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
 | 31 : 32   | [Influence (Wooing)](#ιρις)              | [Duration](#βιος)                       | 12. Replicate/Teach      | 11. Maintain/Improve     |
 | 33 : 34   | [Retreat](#ναρθηξ)                       | [The POT Great](#κεραυνος)              |  9. Execute/Process      | 10. Monitor/Evaluate     |
 | 35 : 36   | [Progress](#γλαυξ)                       | [Darkened Light](#ωγυγιη)               |  8. (Re)Start/Boot       |  7. (Re)Set              |
 | 37 : 38   | [The Family](#φιαλη)                     | [Opposition](#γοργω)                    |  5. Inter-Communicate    |  6. (Re)Arrange          |
 | 39 : 40   | [Obstruction](#ξιφος)                    | [Deliverance](#κηρυκειον)               |  4. Audit/ACK            |  3. Signal/Command       |
 | 41 : 42   | [Decrease](#θυμον)                       | [Increase](#φοινιξ)                     |  1. Sense/Detect         |  2. Identify             |
-| ::::::::: | ::: ***IV. The Dragon's Hoard*** ::::::: | ::: ***IV. The Dragon's Hoard*** :::::: | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
+| ::::::::: | ***IV. The Dragon's Hoard***             | ***IV. The Dragon's Hoard***            | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
 | 43 : 44   | [Break-through](#ιστος)                  | [Coming to Meet](#δαιδαλα)              | A1/7 1.Sense/Detect      | B2/7 3.Signal/Command    |
 | 45 : 46   | [Gathering Together](#αμφορευς)          | [Pushing Upward](#ελιξ)                 | C3/7 4.Audit/ACK         | D4/7 6.(Re)Arrange       |
 | 47 : 48   | [Oppression](#ιμας)                      | [The Well](#ζωπυρον)                    | E5/7 8.(Re)Start/Boot    | F6/7 9.Execute/Process   |
 | 49 : 50   | [Revolution (Molting)](#στεφανος)        | [The Cauldron](#γρυψ)                   | G#8/7 12.Replicate/Teach | G7/7 11.Maintain/Improve |
 |           |                                          |                                         |                          |                          |
-| ::::::::: | ::: ***V. The Pilgrimage to...*** :::::: | ::: ***V. The Pilgrimage to...*** ::::: | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
+| ::::::::: | ***V. The Pilgrimage to...***            |  ***V. The Pilgrimage to...***          | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
 | 51 : 52   | [The Arousing (Shock)](#υμνος)           | [Stillness](#πυλαι)                     |  1. Sense/Detect         |  2. Identify             |
 | 53 : 54   | [Development](#οινος)                    | [The Marrying Maiden](#βριαρεως)        |  4. Audit/ACK            |  3. Signal/Command       | 
 | 55 : 56   | [Abundance (Fullness)](#υπερβορεοι)      | [The Wanderer](#λινον)                  |  5. Inter-Communicate    |  6. (Re)Arrange          |
 | 57 : 58   | [The Gentle (Penetrating)](#ηδονη)       | [The Joyous](#αναγκη)                   |  8. (Re)Start/Boot       |  7. (Re)Set              |
-| ::::::::: | ::: ***...The Inner Shrine*** :::::::::: | ::: ***...The Inner Shrine*** ::::::::: | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
+| ::::::::: | ***...The Inner Shrine***                | ***...The Inner Shrine***               | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
 | 59 : 60   | [Dispersion (Dissolution)](#οφις)        | [Limitation](#ζυγον)                    |  9. Execute/Process      | 10. Monitor/Evaluate     |
 | 61 : 62 i | [Inner Truth](#ηλεκτρον)                 | [Preponderance of the Small](#καθαρμος) | 12. Replicate/Teach      | 11. Maintain/Improve     |
 |           |                                          |                                         |                          |                          |
@@ -1157,19 +1157,20 @@ appeals to you.
 
 ### ['ΡΥΘΜΟΙ](#table-of-contents)
 
-| **\'ΡΥΘΜΟΙ**  | *ΛΙΜΝΗ*                     | *ΒΡΟΝΤΗ*                    |   | *ΑΣΤΡΑΠΗ*                     | *ΟΥΡΑΝΟΣ*                 |   | *ΓΑΙΑ*                | *\`ΥΕΤΟΣ*               |   | *ΑΥΡΑ*                    | *ΟΡΟΣ*                      | (Tarot)  |
-| ------------- | --------------------------- | --------------------------- | - | ----------------------------- | ------------------------- | - | --------------------- | ----------------------- | - | ------------------------- | --------------------------- | -------- |
-| ***ΛΙΜΝΗ***   | [**ΑΝΑΓΚΗ**](#αναγκη)       | [ΒΡΙΑΡΕΩΣ](#βριαρεως)       | * | [ΓΟΡΓΩ](#γοργω)               | [**ΔΟΡΥ**](#δορυ)         | * | [\`ΕΣΤΙΑ](#εστια)     | [ΖΥΓΟΝ](#ζυγον)         | * | [ΗΛΕΚΤΡΟΝ](#ηλεκτρον)     | [**ΘΥΜΟΝ**](#θυμον)         | Ace/MA   |
-| ***ΒΡΟΝΤΗ***  | [ΣΘΕΝΩ](#σθενω)             | [\`ΥΜΝΟΣ](#υμνος)           | * | [ΧΑΡΥΒΔΙΣ](#χαρυβδις)         | [ΨΗΓΜΑ](#ψηγμα)           | * | [\`ΩΡΑΙ](#ωραι)       | [ΤΥΜΠΑΝΟΝ](#τυμπανον)   | * | [ΦΟΙΝΙΞ](#φοινιξ)         | [\`ΡΑΒΔΟΣ](#ραβδος)         | 2/Knight |
-| ***ΑΣΤΡΑΠΗ*** | [ΣΤΕΦΑΝΟΣ](#στεφανος)       | [\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι) | * | [ΧΑΣΜΑ](#χασμα)               | [ΨΗΦΟΣ](#ψηφος)           | * | [ΩΓΥΓΙΗ](#ωγυγιη)     | [ΤΟΞΟΝ](#τοξον)         | * | [ΦΙΑΛΗ](#φιαλη)           | [\`ΡΥΘΜΟΣ](#ρυθμος)         | 3/10     |
-|               |                             |                             |   |                               |                           |   |                       |                         |   |                           |                             |          |
-| ***ΟΥΡΑΝΟΣ*** | [\`ΙΣΤΟΣ](#ιστος)           | [ΚΕΡΑΥΝΟΣ](#κεραυνος)       | * | [ΛΑΜΠΑΣ](#λαμπας)             | [ΝΑΥΣ](#ναυς)             | * | [ΜΕΓΑΡΟΝ](#μεγαρον)   | [ΞΥΛΟΝ](#ξυλον)         | * | [ΟΙΚΟΣ](#οικος)           | [ΠΑΙΩΝ](#παιων)             | Queen/5  |
-| ***ΓΑΙΑ***    | [ΑΜΦΟΡΕΥΣ](#αμφορευς)       | [ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)   | * | [ΓΛΑΥΞ](#γλαυξ)               | [**ΔΡΕΠΑΝΟΝ**](#δρεπανον) | * | [**ΕΛΑΙΟΣ**](#ελαιος) | [ΖΕΥΓΜΑ](#ζευγμα)       | * | [ΗΩΣ](#ηως)               | [ΘΕΜΙΣ](#θεμις)             | 4/King   |
-| ***\`ΥΕΤΟΣ*** | [**\`ΙΜΑΣ**](#ιμας)         | [ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)     | * | [**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος) | [ΝΟΣΤΟΣ](#νοστος)         | * | [ΜΑΚΑΡΙΑ](#μακαρια)   | [ΞΟΑΝΟΝ](#ξοανον)       | * | [**ΟΦΙΣ**](#οφις)         | [**ΠΤΕΡΥΞ**](#πτερυξ)       | 9/7      |
-|               |                             |                             |   |                               |                           |   |                       |                         |   |                           |                             |          |
-| ***ΑΥΡΑ***    | [ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)     | [**ΒΙΟΣ**](#βιος)           | * | [**ΓΡΥΨ**](#γρυψ)             | [ΔΑΙΔΑΛΑ](#δαιδαλα)       | * | [\`ΕΛΙΞ](#ελιξ)       | [**ΖΩΠΥΡΟΝ**](#ζωπυρον) | * | [**\`ΗΔΟΝΗ**](#ηδονη)     | [ΘΥΙΑ](#θυια)               | Page/6   |
-| ***ΟΡΟΣ***    | [ΙΡΙΣ](#ιρις)               | [**ΚΑΘΑΡΜΟΣ**](#καθαρμος)   | * | [ΛΙΝΟΝ](#λινον)               | [ΝΑΡΘΗΞ](#ναρθηξ)         | * | [**ΜΟΙΡΑΙ**](#μοιραι) | [**ΞΙΦΟΣ**](#ξιφος)     | * | [ΟΙΝΟΣ](#οινος)           | [ΠΥΛΑΙ](#πυλαι)             | MA/8     |
-| *trigrams*    | [**ΣΤΥΞ**](#στυξ)           | [**\`ΥΔΡΑ**](#υδρα)         | * | [**ΧΑΛΚΟΣ**](#χαλκος)         | [**ΨΥΧΗ**](#ψυχη)         | * | [**ΩΟΝ**](#ωον)       | [**ΤΕΥΧΟΣ**](#τευχος)   | * | [**ΦΑΡΜΑΚΟΝ**](#φαρμακον) | [**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος) | MA       |
+
+| **\'ΡΥΘΜΟΙ**                |                             |   |                               |                           |   |                       |                         |   |                           |                             |
+| --------------------------- | --------------------------- | - | ----------------------------- | ------------------------- | - | --------------------- | ----------------------- | - | ------------------------- | --------------------------- |
+| [**ΑΝΑΓΚΗ**](#αναγκη)       | [ΒΡΙΑΡΕΩΣ](#βριαρεως)       | : | [ΓΟΡΓΩ](#γοργω)               | [**ΔΟΡΥ**](#δορυ)         | : | [\`ΕΣΤΙΑ](#εστια)     | [ΖΥΓΟΝ](#ζυγον)         | : | [ΗΛΕΚΤΡΟΝ](#ηλεκτρον)     | [**ΘΥΜΟΝ**](#θυμον)         |
+| [ΣΘΕΝΩ](#σθενω)             | [\`ΥΜΝΟΣ](#υμνος)           | : | [ΧΑΡΥΒΔΙΣ](#χαρυβδις)         | [ΨΗΓΜΑ](#ψηγμα)           | : | [\`ΩΡΑΙ](#ωραι)       | [ΤΥΜΠΑΝΟΝ](#τυμπανον)   | : | [ΦΟΙΝΙΞ](#φοινιξ)         | [\`ΡΑΒΔΟΣ](#ραβδος)         |
+| [ΣΤΕΦΑΝΟΣ](#στεφανος)       | [\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι) | : | [ΧΑΣΜΑ](#χασμα)               | [ΨΗΦΟΣ](#ψηφος)           | : | [ΩΓΥΓΙΗ](#ωγυγιη)     | [ΤΟΞΟΝ](#τοξον)         | : | [ΦΙΑΛΗ](#φιαλη)           | [\`ΡΥΘΜΟΣ](#ρυθμος)         |
+|                             |                             |   |                               |                           |   |                       |                         |   |                           |                             |
+| [\`ΙΣΤΟΣ](#ιστος)           | [ΚΕΡΑΥΝΟΣ](#κεραυνος)       | : | [ΛΑΜΠΑΣ](#λαμπας)             | [ΝΑΥΣ](#ναυς)             | : | [ΜΕΓΑΡΟΝ](#μεγαρον)   | [ΞΥΛΟΝ](#ξυλον)         | : | [ΟΙΚΟΣ](#οικος)           | [ΠΑΙΩΝ](#παιων)             |
+| [ΑΜΦΟΡΕΥΣ](#αμφορευς)       | [ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)   | : | [ΓΛΑΥΞ](#γλαυξ)               | [**ΔΡΕΠΑΝΟΝ**](#δρεπανον) | : | [**ΕΛΑΙΟΣ**](#ελαιος) | [ΖΕΥΓΜΑ](#ζευγμα)       | : | [ΗΩΣ](#ηως)               | [ΘΕΜΙΣ](#θεμις)             |
+| [**\`ΙΜΑΣ**](#ιμας)         | [ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)     | : | [**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος) | [ΝΟΣΤΟΣ](#νοστος)         | : | [ΜΑΚΑΡΙΑ](#μακαρια)   | [ΞΟΑΝΟΝ](#ξοανον)       | : | [**ΟΦΙΣ**](#οφις)         | [**ΠΤΕΡΥΞ**](#πτερυξ)       |
+|                             |                             |   |                               |                           |   |                       |                         |   |                           |                             |
+| [ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)     | [**ΒΙΟΣ**](#βιος)           | : | [**ΓΡΥΨ**](#γρυψ)             | [ΔΑΙΔΑΛΑ](#δαιδαλα)       | : | [\`ΕΛΙΞ](#ελιξ)       | [**ΖΩΠΥΡΟΝ**](#ζωπυρον) | : | [**\`ΗΔΟΝΗ**](#ηδονη)     | [ΘΥΙΑ](#θυια)               |
+| [ΙΡΙΣ](#ιρις)               | [**ΚΑΘΑΡΜΟΣ**](#καθαρμος)   | : | [ΛΙΝΟΝ](#λινον)               | [ΝΑΡΘΗΞ](#ναρθηξ)         | : | [**ΜΟΙΡΑΙ**](#μοιραι) | [**ΞΙΦΟΣ**](#ξιφος)     | : | [ΟΙΝΟΣ](#οινος)           | [ΠΥΛΑΙ](#πυλαι)             |
+| [**ΣΤΥΞ**](#στυξ)           | [**\`ΥΔΡΑ**](#υδρα)         | : | [**ΧΑΛΚΟΣ**](#χαλκος)         | [**ΨΥΧΗ**](#ψυχη)         | : | [**ΩΟΝ**](#ωον)       | [**ΤΕΥΧΟΣ**](#τευχος)   | : | [**ΦΑΡΜΑΚΟΝ**](#φαρμακον) | [**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος) |
 
 
 #### ΠΡΟΣΩΠΑ : The Characters in our Drama
@@ -2255,22 +2256,16 @@ img {
   + "Our life is forfeit to the Dharma" -Fox and Bärchen
   + The Magic Girdle of Aphrodite is φιλότητα καί ἵμερον = affection and desire
   + Sir Gawain and the Green Knight
-  + passion(n.) https://www.etymonline.com/word/passion c. 1200, "the sufferings of Christ on the Cross; 
-    the death of Christ," from OF passion "Christ's passion, physical suffering" (10c.), from Late 
-    Latin passionem "suffering, enduring," from Latin pati "to endure, undergo, experience". The notion 
-    is "that which must be endured." The sense was extended to the sufferings of martyrs, and suffering 
-    and pain generally, by early 13c. It replaced OE þolung (used in glosses to render Latin passio), 
-    literally "suffering," from þolian (v.) "to endure." In ME sometimes "the state of being affected or 
-    acted upon by something external". In ME also "an ailment, disease, affliction;" also "an emotion, 
-    desire, inclination, feeling; desire to sin considered as an affliction" (mid-13c.). The specific 
-    meaning "intense or vehement emotion or desire" is attested from late 14c., from Late Latin use of 
-    passio to render Greek pathos "suffering," also "feeling, emotion." The specific sense of "sexual love" 
-    attested by 1580s, but it has been used of any lasting, controlling emotion (zeal; grief, sorrow; rage, 
-    anger; hope, joy). The meaning "strong liking, enthusiasm, predilection" from 1630s; "object of great 
-    admiration or desire" is by 1732. "As compared with affection, the distinctive mark of passion is that 
-    it masters the mind, so that the person becomes seemingly its subject or its passive instrument, while 
-    an affection, though moving, affecting, or influencing one, still leaves him his self-control. The 
-    secondary meanings of the two words keep this difference." [Century Dictionary]
+  + passion(n.) https://www.etymonline.com/word/passion ... from Late Latin passionem "suffering, enduring," 
+    from Latin pati "to endure, undergo, experience". The notion is "that which must be endured." The sense 
+    was extended to ... suffering and pain generally, by early 13c. It replaced OE þolung (used in glosses 
+    to render Latin passio), literally "suffering," from þolian (v.) "to endure." In ME sometimes "the state 
+    of being affected or acted upon by something external". In ME also "an ailment, disease, affliction;" 
+    also "an emotion, desire, inclination, feeling; ..." (mid-13c.). The specific meaning "intense or vehement 
+    emotion or desire" is attested from late 14c. The sense of "sexual love" attested by 1580s, but it has been 
+    used of any lasting, controlling emotion (zeal; grief, sorrow; rage, anger; hope, joy). "As compared with 
+    affection, the distinctive mark of passion is that it masters the mind, so that the person becomes seemingly 
+    its subject or its passive instrument..." [Century Dictionary]
   + "Little Louse and Little Flea" (Grimm's Fairy Tales 1st ed. Volume 1 #30)
   + Color: <font color="#921EAB">███ Violet Eggplant ███</font> (#921EAB)
 
