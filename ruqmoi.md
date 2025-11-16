@@ -1,3 +1,7 @@
+<img src="tetraktus2b.png" style="float: center;">
+
+<div style="page-break-after: always"></div>
+
 <span style='font-family: "Goudy Type", serif;'>
 
 # \`ΡΥΘΜΟΙ : The Oracle of the Hyperboreans<br/> <small>or, Divination on the Paths of Wisdom and Self-Realization</small>
@@ -9,7 +13,7 @@ and Blue Fox, κοινωνός (Spirit Guide) of the aforementioned
 
 © 2025 by Uncle Bärchen
 
-version: 2025.11.07
+version: 2025.11.15
 
 > "To welcome imagination is to welcome hope. To cultivate love is to cultivate blessedness." -Fox
 
@@ -3167,18 +3171,15 @@ img {
     for wealth, power or status will kill that plan. Maybe your boy Odysseus is beginning to get it. Let's see.
 + Bible: Genesis 1:2c - and the Spirit of God was moving over the face of the waters 
 + Additional Concepts: 
-  + The rough draft
-  + A lot of rope
+  + The rough draft; Write a proposal; Invention; A lot of rope
   + Psalm 91
   + Tread carefully
   + The Art of Enchantment
-  + Invention
   + Odysseus
   + "Contrariwise,' continued Tweedledee, 'if it was so, it might be; and if it were so, it would be; 
     but as it isn't, it ain't. That's logic."
   + The Tree of Knowledge, the Hazel of Wisdom
   + What can you *use* it for?
-  + Write a proposal
   + "Bring me my Bow of burning gold:" (Blake's Jerusalem 9)
   + Color: <font color="#009AD5">███ Cerulean ███</font> (#009AD5)
 
@@ -3715,7 +3716,7 @@ img {
 + The Wanderer's oracle: Quake ‖ Light
   + situation: The Wanderer sees [earthquake lights](https://en.wikipedia.org/wiki/Earthquake_light) 
     and knows a large earthquake has happened or is about to happen.
-  + admonition: Significant changes have taken place, or about to. Duty must take precedence over desire. 
+  + admonition: Significant changes have taken place, or are about to. Duty must take precedence over desire. 
     Fulfill what is required of you without wishing things were different or that the responsibility belonged 
     to another.
 + Bible: Revelation 19:17-21 - The Beast and Its Armies Defeated
