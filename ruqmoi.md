@@ -13,7 +13,7 @@ and Blue Fox, κοινωνός (Spirit Guide) of the aforementioned
 
 © 2025 by Uncle Bärchen
 
-version: 2025.11.15
+version: 2025.11.24
 
 > "To welcome imagination is to welcome hope. To cultivate love is to cultivate blessedness." -Fox
 
@@ -418,6 +418,9 @@ is destined to become. The main thing we can change in order to make it more bea
 can only make something more beautiful if we let it keep its own nature.
 
 
+<div style="page-break-after: always"></div>
+
+
 #### [Fox's Recipes](#table-of-contents)
 
 Fox speaks--
@@ -725,6 +728,9 @@ Use the chart at [ΡΥΘΜΟΙ](#ρυθμοι). Read the dice right to left. Die
    3  * *    * *  6
       * *    * * 
    ```
+
+<div style="page-break-after: always"></div>
+
 
 3. Determines the position of the ὄνομα in this block of six. Count the ὀνόματα starting at the left/top 
    and going down the first column, then down the second.
@@ -1248,7 +1254,7 @@ img {
 
 ▲ΛΙΜΝΗ :: ΓΑΙΑ▼
 
-<img src="amforeus.card.png" style="float: right;">
+<img src="amforeus.card.png" style="float: right;" width="30%">
 
 + [ΑΜΦΟΡΕΥΣ](#ρυθμοι) = Jar with narrow neck; used for various purposes, esp. for keeping wine in, or milk, or for
   pickles. (Shortened form of ἀμφιφορεύς, q.v., from having two handles.)
@@ -1282,7 +1288,7 @@ img {
 
 ▲ΛΙΜΝΗ :: ΛΙΜΝΗ▼
 
-<img src="anagkh.card.png" style="float: right;"> 
+<img src="anagkh.card.png" style="float: right;" width="30%"> 
 
 + [ΑΝΑΓΚΗ](#ρυθμοι) = Force, constraint, necessity. As an Adverb: perforce, of necessity, it must be that, is 
   necessary that. Necessity in the philosophical sense, logical necessity. In plural: laws of nature,
@@ -1320,7 +1326,7 @@ img {
 
 ▲ΛΙΜΝΗ :: ΑΥΡΑ▼
 
-<img src="asfodelos.card.png" style="float: right;"> 
+<img src="asfodelos.card.png" style="float: right;" width="30%"> 
 
 + [ΑΣΦΟΔΕΛΟΣ](#ρυθμοι) = Asphodel (*Asphodelus ramosus*). As Adjective, ἀσφοδελὸς λειμών the asphodel meadow which the 
   shades of heroes haunted, or more generally, a flowery meadow. 
@@ -1364,7 +1370,7 @@ img {
 
 ▲ΒΡΟΝΤΗ :: ΑΥΡΑ▼
 
-<img src="bios.card.png" style="float: right;"> 
+<img src="bios.card.png" style="float: right;" width="30%"> 
 
 + [ΒΙΟΣ](#ρυθμοι) = Life, i.e. not animal life (ζωή), but mode of life, manner of living (mostly therefore of men, 
   but also of animals). Lifetime, livelihood, means of living, to make one's living off, to live by a thing.
@@ -1404,7 +1410,7 @@ img {
 
 ▲ΒΡΟΝΤΗ :: ΓΑΙΑ▼
 
-<img src="boupelaths.card.png" style="float: right;"> 
+<img src="boupelaths.card.png" style="float: right;" width="30%"> 
 
 + [ΒΟΥΠΕΛΑΤΗΣ](#ρυθμοι) = Herdsman (of cows).
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 001:000 16. Excess / Enthusiasm
@@ -1454,7 +1460,7 @@ img {
 
 ▲ΒΡΟΝΤΗ :: ΛΙΜΝΗ▼
 
-<img src="briarews.card.png" style="float: right;"> 
+<img src="briarews.card.png" style="float: right;" width="30%"> 
 
 + [ΒΡΙΑΡΕΩΣ](#ρυθμοι) = A hundred-handed giant, of the generation of the Titans. In some myths, he is freed from 
   Tartarus by Zeus and guarantees his victory over the Titans.
@@ -1490,7 +1496,7 @@ img {
 
 ▲ΑΣΤΡΑΠΗ :: ΓΑΙΑ▼
 
-<img src="glauc.card.png" style="float: right;"> 
+<img src="glauc.card.png" style="float: right;" width="30%"> 
 
 + [ΓΛΑΥΞ](#ρυθμοι) = The little owl, *Athene noctua*, so called from its glaring eyes, frequently used as an emblem 
   of Athena.
@@ -1528,7 +1534,7 @@ img {
 
 ▲ΑΣΤΡΑΠΗ :: ΛΙΜΝΗ▼
 
-<img src="gorgw.card.png" style="float: right;"> 
+<img src="gorgw.card.png" style="float: right;" width="30%"> 
 
 + [ΓΟΡΓΩ](#ρυθμοι) = The Gorgon, i.e. the Grim One. Her visage turns people to stone (in other words, the
   "freeze" response to fear.)
@@ -1564,7 +1570,7 @@ img {
 
 ▲ΑΣΤΡΑΠΗ :: ΑΥΡΑ▼
 
-<img src="gruy.card.png" style="float: right;"> 
+<img src="gruy.card.png" style="float: right;" width="30%"> 
 
 + [ΓΡΥΨ](#ρυθμοι) = A griffin; a legendary creature with the body, tail, and back legs of a lion, and the head and 
   wings of an eagle with its talons on the front legs. Since classical antiquity, griffins were known 
@@ -1605,7 +1611,7 @@ img {
 
 ▲ΟΥΡΑΝΟΣ :: ΑΥΡΑ▼
 
-<img src="daidala.card.png" style="float: right;"> 
+<img src="daidala.card.png" style="float: right;" width="30%"> 
 
 + [ΔΑΙΔΑΛΑ](#ρυθμοι) = Cunning works (as a noun, usually in plural as here); cunningly or curiously wrought (as 
   an adjective).
@@ -1617,6 +1623,10 @@ img {
   + upright: generosity, charity, sharing
   + reversed: strings attached, power and domination, stinginess 
 + The Wanderer's Oracle: Heaven ‖ Wind
+  + poem:   
+    These clouds came carelessly in view,   
+    neatly nebulous, yet they know   
+    the cold cash in heaven's coffers.
   + situation: The Wanderer sees a blue sky laced with white, wispy cirrus clouds blown by winds aloft.
   + admonition: A change of weather will surely come soon, so prepare now to welcome that change when it 
     does come. Meanwhile, make the most of fair weather and skies full of delightful patterns.
@@ -1642,7 +1652,7 @@ img {
 
 ▲ΟΥΡΑΝΟΣ :: ΛΙΜΝΗ▼
 
-<img src="doru.card.png" style="float: right;"> 
+<img src="doru.card.png" style="float: right;" width="30%"> 
 
 + [ΔΟΡΥ](#ρυθμοι) = A spear (especially the shaft), or just a (pointed) stick. Also used as a synecdoche for war.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 111:011 10\. Stepping / Treading (Conduct)
@@ -1686,7 +1696,7 @@ img {
 
 ▲ΟΥΡΑΝΟΣ :: ΓΑΙΑ▼
 
-<img src="drepanon.card.png" style="float: right;"> 
+<img src="drepanon.card.png" style="float: right;" width="30%"> 
 
 
 + [ΔΡΕΠΑΝΟΝ](#ρυθμοι) = A scythe, curved sword, or pruning knife.
@@ -1722,7 +1732,7 @@ img {
 
 ▲ΓΑΙΑ :: ΓΑΙΑ▼ 
 
-<img src="elaios.card.png" style="float: right;"> 
+<img src="elaios.card.png" style="float: right;" width="30%"> 
 
 + [ΕΛΑΙΟΣ](#ρυθμοι) = The wild olive.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:000 2. The Receptive / The Receptive
@@ -1760,7 +1770,7 @@ img {
 
 ▲ΓΑΙΑ :: ΑΥΡΑ▼
 
-<img src="elic.card.png" style="float: right;"> 
+<img src="elic.card.png" style="float: right;" width="30%"> 
 
 + [\`ΕΛΙΞ](#ρυθμοι) = The tendril of the vine or of ivy. A curl or lock of hair. The coil of a serpent.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:110 46. Pushing Upwards / Pushing Upward
@@ -1794,7 +1804,7 @@ img {
 
 ▲ΓΑΙΑ :: ΛΙΜΝΗ▼
 
-<img src="estia.card.png" style="float: right;"> 
+<img src="estia.card.png" style="float: right;" width="30%"> 
 
 + [\`ΕΣΤΙΑ](#ρυθμοι) = The hearth; the house itself; the household or family; an altar; the central fire; the 
   Goddess of the hearth.
@@ -1841,7 +1851,7 @@ img {
 
 ▲\`ΥΕΤΟΣ :: ΓΑΙΑ▼
 
-<img src="zeugma.card.png" style="float: right;"> 
+<img src="zeugma.card.png" style="float: right;" width="30%"> 
 
 + [ΖΕΥΓΜΑ](#ρυθμοι) = That which is used for joining, band, bond; a bridge of boats or platform formed by lashing 
   several vessels together.
@@ -1885,7 +1895,7 @@ img {
 
 ▲\`ΥΕΤΟΣ :: ΛΙΜΝΗ▼
 
-<img src="zugon.card.png" style="float: right;"> 
+<img src="zugon.card.png" style="float: right;" width="30%"> 
 
 + [ΖΥΓΟΝ](#ρυθμοι) = A yoke, crossbar, or the thwarts (benches) joining opposite sides of a ship. The beam of a
   balance, or the balance itself. A cross-strap of a sandal.
@@ -1919,7 +1929,7 @@ img {
 
 ▲\`ΥΕΤΟΣ :: ΑΥΡΑ▼
 
-<img src="zwpuron.card.png" style="float: right;">
+<img src="zwpuron.card.png" style="float: right;" width="30%">
 
 + [ΖΩΠΥΡΟΝ](#ρυθμοι) = A spark or hot coal used to kindle a fire.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 010:110 48\. The Well / The Well
@@ -1935,6 +1945,10 @@ img {
   + poem: "Road runs right beside the sea, where the waves walk ceaselessly."
   + keywords: way, road, path, journey, individuality, liminality, separation
 + The Wanderer's Oracle: Rain Clouds ‖ Wind
+  + poem:   
+    Runs the running rain regardless   
+    of freshened fronds it left behind,    
+    lets the wind wind down its wetness.
   + situation: The Wanderer feels the rain slacken and a fresh breeze begins to blow the clouds away. 
   + admonition: Remove that rain gear or come out from under shelter. The rain has washed your path clean, 
     so you may continue or rejoin your journey refreshed.
@@ -1962,7 +1976,7 @@ img {
 
 ▲ΑΥΡΑ :: ΑΥΡΑ▼
 
-<img src="hdonh.card.png" style="float: right;"> 
+<img src="hdonh.card.png" style="float: right;" width="30%"> 
 
 + [\`ΗΔΟΝΗ](#ρυθμοι) = Desire, enjoyment or (sensual) pleasure.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:110 57\. Choosing / The Gentle (Penetrating)
@@ -2002,7 +2016,7 @@ img {
 
 ▲ΑΥΡΑ :: ΛΙΜΝΗ▼
 
-<img src="hlektron.card.png" style="float: right;">
+<img src="hlektron.card.png" style="float: right;" width="30%">
 
 + [ΗΛΕΚΤΡΟΝ](#ρυθμοι) = Amber
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:011 61. Sincere to the Core / Inner Truth
@@ -2041,7 +2055,7 @@ img {
 
 ▲ΑΥΡΑ :: ΓΑΙΑ▼
 
-<img src="hws.card.png" style="float: right;"> 
+<img src="hws.card.png" style="float: right;" width="30%"> 
 
 + [ΗΩΣ](#ρυθμοι) = Day, life, the East; the Goddess of dawn.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:000 20. Contemplation / Contemplation (View)
@@ -2086,7 +2100,7 @@ img {
 
 ▲ΟΡΟΣ :: ΓΑΙΑ▼
 
-<img src="qemis.card.png" style="float: right;"> 
+<img src="qemis.card.png" style="float: right;" width="30%"> 
 
 + [ΘΕΜΙΣ](#ρυθμοι) = What is meet and right. That which is laid down or established, law (not as fixed by statute, 
   but) as established by custom. Divine law (opp. to ΝΟΜΟΣ). Personsified as the Titan goddess of divine 
@@ -2136,7 +2150,7 @@ img {
 
 ▲ΟΡΟΣ :: ΑΥΡΑ▼
 
-<img src="quia.card.png" style="float: right;"> 
+<img src="quia.card.png" style="float: right;" width="30%"> 
 
 + [ΘΥΙΑ](#ρυθμοι) = Juniper (e.g. *Thuja occidentalis*)
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 100:110 18. Branching Out / Work On What Has Been Spoiled (Decay)
@@ -2185,7 +2199,7 @@ img {
 
 ▲ΟΡΟΣ :: ΛΙΜΝΗ▼
 
-<img src="qumon.card.png" style="float: right;"> 
+<img src="qumon.card.png" style="float: right;" width="30%"> 
 
 + [ΘΥΜΟΝ](#ρυθμοι) = Thyme (e.g. *Thymus vulgaris*)
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 100:011 41\. Decrease / Decrease
@@ -2229,7 +2243,7 @@ img {
 
 ▲ΛΙΜΝΗ :: \`ΥΕΤΟΣ▼
 
-<img src="imas.card.png" style="float: right;"> 
+<img src="imas.card.png" style="float: right;" width="30%"> 
 
 + [\`ΙΜΑΣ](#ρυθμοι) = Leathern strap or thong, mostly in plural, in various senses: traces; reins; straps on which 
   the body of the chariot was hung; lash of a whip formed by several thongs; boxing-glove consisting of 
@@ -2283,7 +2297,7 @@ img {
 
 ▲ΛΙΜΝΗ :: ΟΡΟΣ▼
 
-<img src="iris.card.png" style="float: right;"> 
+<img src="iris.card.png" style="float: right;" width="30%"> 
 
 + [ΙΡΙΣ](#ρυθμοι) = Iris, the messenger of the gods among themselves and Goddess of the rainbow. Any bright-coloured 
   circle surrounding another body, as the lunar rainbow; the halo of a candle; the eyes of a peacock's tail; 
@@ -2321,7 +2335,7 @@ img {
 
 ▲ΛΙΜΝΗ :: ΟΥΡΑΝΟΣ▼
 
-<img src="istos.card.png" style="float: right;"> 
+<img src="istos.card.png" style="float: right;" width="30%"> 
 
 + [\`ΙΣΤΟΣ](#ρυθμοι) = Anything set upright: mast; rod; pole; beam; beam of a loom, which stood upright, instead of 
   lying horizontal as in our looms; the warp fixed to the beam, hence, the web itself; spiders' webs.
@@ -2359,7 +2373,7 @@ img {
 
 ▲ΒΡΟΝΤΗ : ΟΡΟΣ▼
 
-<img src="kaqarmos.card.png" style="float: right;">
+<img src="kaqarmos.card.png" style="float: right;" width="30%">
 
 + [ΚΑΘΑΡΜΟΣ](#ρυθμοι) = Cleansing; purification (from guilt); purificatory offering; atonement; expiation; an offering 
   to avert wrath; purificatory rite of initiation into mysteries; purgation by ordeal; purging; evacuation; 
@@ -2402,7 +2416,7 @@ img {
 
 ▲ΒΡΟΝΤΗ :: ΟΥΡΑΝΟΣ▼
 
-<img src="keraunos.card.png" style="float: right;">
+<img src="keraunos.card.png" style="float: right;" width="30%">
 
 + [ΚΕΡΑΥΝΟΣ](#ρυθμοι) = A thunderbolt, especially as the weapon of Zeus, forged by the Cyclopes.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 001:111 34. Great Strength / The Power of the Great
@@ -2436,7 +2450,7 @@ img {
 
 ▲ΒΡΟΝΤΗ :: \`ΥΕΤΟΣ▼
 
-<img src="khrukeion.card.png" style="float: right;">
+<img src="khrukeion.card.png" style="float: right;" width="30%">
 
 + [ΚΗΡΥΚΕΙΟΝ](#ρυθμοι) = A herald's wand or staff; the Caduceus.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 001:010 40. Released / Deliverance
@@ -2474,7 +2488,7 @@ img {
 
 ▲ΑΣΤΡΑΠΗ :: \`ΥΕΤΟΣ▼
 
-<img src="laburinqos.card.png" style="float: right;">
+<img src="laburinqos.card.png" style="float: right;" width="30%">
 
 + [ΛΑΒΥΡΙΝΘΟΣ](#ρυθμοι) = A labyrinth or maze; a large building consisting of numerous halls connected by intricate and 
   tortuous passages. Also used of tortuous questions or arguments.
@@ -2510,7 +2524,7 @@ img {
 
 ▲ΑΣΤΡΑΠΗ :: ΟΥΡΑΝΟΣ▼
 
-<img src="lampas.card.png" style="float: right;">
+<img src="lampas.card.png" style="float: right;" width="30%">
 
 + [ΛΑΜΠΑΣ](#ρυθμοι) = A torch; beacon-light; torches used in festal processions; any light, lamp, wax-light, or oil 
   lamp. Metaphorically, of the sun.
@@ -2556,7 +2570,7 @@ img {
 
 ▲ΑΣΤΡΑΠΗ :: ΟΡΟΣ▼
 
-<img src="linon.card.png" style="float: right;">
+<img src="linon.card.png" style="float: right;" width="30%">
 
 + [ΛΙΝΟΝ](#ρυθμοι) = anything made of flax: cord; fishingline; thread spun from a distaff; thread for stringing 
   jewels; thread used as a ligature. Metaphorically, the thread of destiny spun by the Fates.
@@ -2594,7 +2608,7 @@ img {
 
 ▲ΓΑΙΑ :: \`ΥΕΤΟΣ▼
 
-<img src="makaria.card.png" style="float: right;">
+<img src="makaria.card.png" style="float: right;" width="30%">
 
 + [ΜΑΚΑΡΙΑ](#ρυθμοι) = Happiness, bliss, blessedness.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:010 7. The Multitude / The Army
@@ -2643,7 +2657,7 @@ img {
 
 ▲ΓΑΙΑ :: ΟΥΡΑΝΟΣ▼
 
-<img src="megaron.card.png" style="float: right;">
+<img src="megaron.card.png" style="float: right;" width="30%">
 
 + [ΜΕΓΑΡΟΝ](#ρυθμοι) = A large room or hall; especially the chief room in the Homeric palace; women's apartment;
   bedchamber. In plural: house, palace. A sanctuary, shrine, frequently in Herodotus (who uses the 
@@ -2678,7 +2692,7 @@ img {
 
 ▲ΓΑΙΑ :: ΟΡΟΣ▼
 
-<img src="moirai.card.png" style="float: right;">  
+<img src="moirai.card.png" style="float: right;" width="30%">  
 
 + [ΜΟΙΡΑΙ](#ρυθμοι) = (Plural of μοῖρα) the Goddesses of Fate, that is, of one's portion in life, lot, destiny, or fortune.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:100 15\. Modesty / Modesty
@@ -2692,7 +2706,8 @@ img {
   + poem: "Paeony, beguiling bloom, blessed portal of the womb."
   + keywords: womb, conception, gestation, hidden beginnings, secrets
 + The Wanderer's Oracle: Earth ‖ Mountain
-  + situation: The Wanderers path through a valley hides, for a time, their mountain destination.
+  + poem: "Roots of mountain mulling, mystic / path occult, obscure, the obverse / of known, needful, ever nascent."
+  + situation: The Wanderer's path through a valley hides, for a time, their mountain destination.
   + admonition: Stick to the path you know is the right one. Although your destination cannot be seen 
     now, only this will bring you closer to it.
 + Greek Myth: The Odyssey - 12\. The Oar as Winnowing Fan
@@ -2736,7 +2751,7 @@ img {
 
 ▲ΟΥΡΑΝΟΣ :: ΟΡΟΣ▼
 
-<img src="narqhc.card.png" style="float: right;"> 
+<img src="narqhc.card.png" style="float: right;" width="30%"> 
 
 + [ΝΑΡΘΗΞ](#ρυθμοι) = The giant fennel, *Ferula communis*, the stalk was used by Prometheus to steal Fire from Heaven.
   Also used for the stalk used as a θύρσος (Dionysus). Used as a schoolmaster's cane, as a splint for a
@@ -2772,7 +2787,7 @@ img {
 
 ▲ΟΥΡΑΝΟΣ :: ΟΥΡΑΝΟΣ▼
 
-<img src="naus.card.png" style="float: right;"> 
+<img src="naus.card.png" style="float: right;" width="30%"> 
 
 + [ΝΑΥΣ](#ρυθμοι) = Ship
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 111:111 1\. The Creative / The Creative
@@ -2804,7 +2819,7 @@ img {
 
 ▲ΟΥΡΑΝΟΣ :: \`ΥΕΤΟΣ▼
 
-<img src="nostos.card.png" style="float: right;"> 
+<img src="nostos.card.png" style="float: right;" width="30%"> 
 
 + [ΝΟΣΤΟΣ](#ρυθμοι) = return home, or generally, return, travel, journey, journey after (i. e. in search of) food. 
   In plural, Νόστοι, the homeward journeys of the Greek heroes after the taking of Troy, title of Cyclic 
@@ -2851,7 +2866,7 @@ img {
 
 ▲\`ΥΕΤΟΣ :: ΟΡΟΣ▼
 
-<img src="cifos.card.png" style="float: right;"> 
+<img src="cifos.card.png" style="float: right;" width="30%"> 
 
 + [ΞΙΦΟΣ](#ρυθμοι) = Sword
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 010:100 39. Impeded / Obstruction
@@ -2890,7 +2905,7 @@ img {
 
 ▲\`ΥΕΤΟΣ :: \`ΥΕΤΟΣ▼
 
-<img src="coanon.card.png" style="float: right;"> 
+<img src="coanon.card.png" style="float: right;" width="30%"> 
 
 + [ΞΟΑΝΟΝ](#ρυθμοι) = An image carved of wood, then, generally, image, statue, especially of a god.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 010:010 29\. The Abyss / The Abysmal (Water)
@@ -2921,7 +2936,7 @@ img {
 
 ▲\`ΥΕΤΟΣ :: ΟΥΡΑΝΟΣ▼
 
-<img src="culon.card.png" style="float: right;"> 
+<img src="culon.card.png" style="float: right;" width="30%"> 
 
 + [ΞΥΛΟΝ](#ρυθμοι) = Wood cut and ready for use, firewood, timber, piece of wood, log, beam, post. An instrument of
   punishment: wooden collar, put on the neck of the prisoner; stocks, in which the feet were confined;
@@ -2973,7 +2988,7 @@ img {
 
 ▲ΑΥΡΑ :: ΟΥΡΑΝΟΣ▼
 
-<img src="oikos.card.png" style="float: right;"> 
+<img src="oikos.card.png" style="float: right;" width="30%"> 
 
 + [ΟΙΚΟΣ](#ρυθμοι) = A house, not only of built houses, but of any dwelling-place, as that of Achilles at Troy; of the 
   Cyclops' cave; of a tent.  A room, chamber, dining-hall, room in a temple. Also used of public buildings,
@@ -3020,7 +3035,7 @@ img {
 
 ▲ΑΥΡΑ :: ΟΡΟΣ▼  
 
-<img src="oinos.card.png" style="float: right;"> 
+<img src="oinos.card.png" style="float: right;" width="30%"> 
 
 
 + [ΟΙΝΟΣ](#ρυθμοι) = Wine
@@ -3032,6 +3047,7 @@ img {
   + upright: balance, moderation, middle path, patience, finding meaning.
   + reversed: extremes, excess, imbalance.
 + The Wanderer's Oracle: Wind ‖ Mountain
+  + poem: "Still the wind wanders while in watch / of calm contemplation the keep / of mountain moves in merriment."
   + situation: The Wanderer is refreshed by a cool breeze, clear skies, and a glorious view at a resting 
     point beneath the mountain's peak.
   + admonition: You've reached the reward for your climb. Would obtaining a higher point be any more fulfilling? 
@@ -3055,7 +3071,7 @@ img {
 
 ▲ΑΥΡΑ :: \`ΥΕΤΟΣ▼
 
-<img src="ofis.card.png" style="float: right;"> 
+<img src="ofis.card.png" style="float: right;" width="30%"> 
 
 + [ΟΦΙΣ](#ρυθμοι) = Serpent
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:010 59. Dispersion / Dispersion (Dissolution)
@@ -3096,7 +3112,7 @@ img {
 
 ▲ΟΡΟΣ :: ΟΥΡΑΝΟΣ▼
 
-<img src="paiwn.card.png" style="float: right;"> 
+<img src="paiwn.card.png" style="float: right;" width="30%"> 
 
 + [ΠΑΙΩΝ](#ρυθμοι) = A choral song, addressed to Apollo or Artemis in thanksgiving for deliverance from evil, or
   addressed to other gods, as to Poseidon after an earthquake. A song of triumph after victory, properly
@@ -3138,7 +3154,7 @@ img {
 
 ▲ΟΡΟΣ :: \`ΥΕΤΟΣ▼
 
-<img src="pteruc.card.png" style="float: right;"> 
+<img src="pteruc.card.png" style="float: right;" width="30%"> 
 
 + [ΠΤΕΡΥΞ](#ρυθμοι) = The wing of a bird. A winged creature, bird. Flight, augury, omen. Anything like a wing: fins of 
   fish, the flippers of seals, dolphins and whales. The blade of the steering-paddle, hence, a rudder, an 
@@ -3193,7 +3209,7 @@ img {
 
 ▲ΟΡΟΣ :: ΟΡΟΣ▼
 
-<img src="pulai.card.png" style="float: right;"> 
+<img src="pulai.card.png" style="float: right;" width="30%"> 
 
 + [ΠΥΛΑΙ](#ρυθμοι) = (Plural of πύλη) gates, house door, entrance, orifice, mountain pass, narrow straits.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 100:100 52. Stillness / Stillness
@@ -3227,7 +3243,7 @@ img {
 
 ▲ΟΡΟΣ :: ΒΡΟΝΤΗ▼
 
-<img src="rabdos.card.png" style="float: right;"> 
+<img src="rabdos.card.png" style="float: right;" width="30%"> 
 
 + [\`ΡΑΒΔΟΣ](#ρυθμοι) = A rod, wand. A magic wand as that of Circe, or that with which Athena touched Odysseus to 
   restore his youthful appearance, or that with which Hermes overpowers the senses of man, or that with 
@@ -3277,7 +3293,7 @@ img {
 
 ▲ΟΡΟΣ▼ 
 
-<img src="raywidos.card.png" style="float: right;"> 
+<img src="raywidos.card.png" style="float: right;" width="30%"> 
 
 + [\`ΡΑΨΩΙΔΟΣ](#ρυθμοι) = A reciter of Epic poems, sometimes applied to the bard who recited his own poem, as to Hesiod, 
   but usually of professional reciters, especially of the poems of Homer, etc. Also, ironically, of the 
@@ -3321,7 +3337,7 @@ img {
 
 ▲ΟΡΟΣ :: ΑΣΤΡΑΠΗ▼
 
-<img src="ruqmos.card.png" style="float: right;"> 
+<img src="ruqmos.card.png" style="float: right;" width="30%"> 
 
 + [\`ΡΥΘΜΟΣ](#ρυθμοι) = Any regular recurring motion: measured motion, time, whether in sound or motion; rhythm, 
   opp. μέτρον and ἁρμονία; of Prose rhythm. Special phrases: in time, of dancing, marching, etc., respire 
@@ -3367,7 +3383,7 @@ img {
 
 ▲ΛΙΜΝΗ :: ΒΡΟΝΤΗ▼
 
-<img src="sqenw.card.png" style="float: right;"> 
+<img src="sqenw.card.png" style="float: right;" width="30%"> 
 
 + [ΣΘΕΝΩ](#ρυθμοι) = In Greek mythology, Euryale (Εὐρυάλη, literally 'far-roaming') and Stheno (Σθενώ, literally
   "forceful") were two of the three Gorgons, including Medusa, sisters who were able to turn anyone 
@@ -3415,7 +3431,7 @@ img {
 
 ▲ΛΙΜΝΗ :: ΑΣΤΡΑΠΗ▼
 
-<img src="stefanos.card.png" style="float: right;"> 
+<img src="stefanos.card.png" style="float: right;" width="30%"> 
 
 + [ΣΤΕΦΑΝΟΣ](#ρυθμοι) = That which surrounds or encompasses. A crown, wreath, chaplet. The crown of victory at 
   the public games. An honorary wreath or crown, frequently worked in gold, awarded for public services 
@@ -3458,7 +3474,7 @@ img {
 
 ▲ΛΙΜΝΗ▼
 
-<img src="stuc.card.png" style="float: right;"> 
+<img src="stuc.card.png" style="float: right;" width="30%"> 
 
 + [ΣΤΥΞ](#ρυθμοι) = The Styx, i.e. the Hateful, also the nymph of this river. A well of fatal coldness in Arcadia.
   Piercing chill, as of frost.
@@ -3501,7 +3517,7 @@ img {
 
 ▲\`ΥΕΤΟΣ▼ 
 
-<img src="teuxos.card.png" style="float: right;"> 
+<img src="teuxos.card.png" style="float: right;" width="30%"> 
 
 + [ΤΕΥΧΟΣ](#ρυθμοι) = A tool, implement—but mostly in plural (τεύχεα) as implements of war (armor and arms), also the
   gear of a ship (oars and the like). In Tragedians (rarely in Prose) a vessel of any kind, e.g. 
@@ -3544,7 +3560,7 @@ img {
 
 ▲\`ΥΕΤΟΣ :: ΑΣΤΡΑΠΗ▼
 
-<img src="tocon.card.png" style="float: right;"> 
+<img src="tocon.card.png" style="float: right;" width="30%"> 
 
 + [ΤΟΞΟΝ](#ρυθμοι) = A bow. In plural, bow and arrows.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 010:101 63. After the Crossing / After Completion
@@ -3578,7 +3594,7 @@ img {
 
 ▲\`ΥΕΤΟΣ :: ΒΡΟΝΤΗ▼
 
-<img src="tumpanon.card.png" style="float: right;"> 
+<img src="tumpanon.card.png" style="float: right;" width="30%"> 
 
 + [ΤΥΜΠΑΝΟΝ](#ρυθμοι) = A kettledrum, such as was used especially in the worship of the Mother Goddess and Dionysus.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 010:001 3. Sprouting / Difficulty at the Beginning
@@ -3629,7 +3645,7 @@ img {
 
 ▲ΒΡΟΝΤΗ▼
 
-<img src="udra.card.png" style="float: right;"> 
+<img src="udra.card.png" style="float: right;" width="30%"> 
 
 + [\`ΥΔΡΑ](#ρυθμοι) = A water-serpent, but especially the Lernaean hydra. Ὕδραν τέμνειν ("to cut the hydra") = 
   proverbially of labour in vain, because two heads sprang up for every one which was cut off.
@@ -3666,7 +3682,7 @@ img {
 
 ▲ΒΡΟΝΤΗ :: ΒΡΟΝΤΗ▼
 
-<img src="umnos.card.png" style="float: right;"> 
+<img src="umnos.card.png" style="float: right;" width="30%"> 
 
 + [\`ΥΜΝΟΣ](#ρυθμοι) = A hymn, ode, in praise of gods or heroes.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 001:001 51. Thunder / The Arousing (Shock)
@@ -3699,7 +3715,7 @@ img {
 
 ▲ΒΡΟΝΤΗ :: ΑΣΤΡΑΠΗ▼
 
-<img src="uperboreoi.card.png" style="float: right;"> 
+<img src="uperboreoi.card.png" style="float: right;" width="30%"> 
 
 + [\`ΥΠΕΡΒΟΡΕΟΙ](#ρυθμοι) = The Hyperboreans, a people supposed to live in the extreme north.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 001:101 55\. Abundance / Abundance (Fullness)
@@ -3737,7 +3753,7 @@ img {
 
 ▲ΑΥΡΑ▼
 
-<img src="farmakon.card.png" style="float: right;"> 
+<img src="farmakon.card.png" style="float: right;" width="30%"> 
 
 + [ΦΑΡΜΑΚΟΝ](#ρυθμοι) = A drug, whether healing or noxious. A healing remedy, medicine, in Homer mostly of those 
   applied outwardly. Also of potions, an enchanted potion, philtre: hence, charm, spell, poison. Generally, 
@@ -3783,7 +3799,7 @@ img {
 
 ▲ΑΥΡΑ :: ΑΣΤΡΑΠΗ▼
 
-<img src="fialh.card.png" style="float: right;"> 
+<img src="fialh.card.png" style="float: right;" width="30%"> 
 
 + [ΦΙΑΛΗ](#ρυθμοι) = A broad, flat bowl or saucer for drinking or pouring libations.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:101 37. Family / The Family
@@ -3818,7 +3834,7 @@ img {
 
 ▲ΑΥΡΑ :: ΒΡΟΝΤΗ▼
 
-<img src="foinic.card.png" style="float: right;"> 
+<img src="foinic.card.png" style="float: right;" width="30%"> 
 
 + [ΦΟΙΝΙΞ](#ρυθμοι) = The fabulous bird phoenix. The date-palm, *Phoenix dactylifera*. A palm-frond, as a badge of 
   victory. A date. A musical instrument, like a guitar, invented by the Phoenicians. Perfume prepared 
@@ -3851,7 +3867,7 @@ img {
 
 ▲ΑΣΤΡΑΠΗ▼
 
-<img src="xalkos.card.png" style="float: right;"> 
+<img src="xalkos.card.png" style="float: right;" width="30%"> 
 
 + [ΧΑΛΚΟΣ](#ρυθμοι) = Copper (alloyed with tin to form bronze, the usual meaning of the word in Homer and frequently
   in later writers). In Poets frequently used for anything made of metal, especially of offensive arms, 
@@ -3893,7 +3909,7 @@ img {
 
 ▲ΑΣΤΡΑΠΗ :: ΒΡΟΝΤΗ▼
 
-<img src="xarubdis.card.png" style="float: right;"> 
+<img src="xarubdis.card.png" style="float: right;" width="30%"> 
 
 + [ΧΑΡΥΒΔΙΣ](#ρυθμοι) = Charybdis, a dangerous whirlpool on the coast of Sicily, opposite the Italian rock Scylla.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 101:001 21. Taking a Bite / Biting Through
@@ -3932,7 +3948,7 @@ img {
 
 ▲ΑΣΤΡΑΠΗ :: ΑΣΤΡΑΠΗ▼  
 
-<img src="xasma.card.png" style="float: right;"> 
+<img src="xasma.card.png" style="float: right;" width="30%"> 
 
 + [ΧΑΣΜΑ](#ρυθμοι) = A yawning chasm, gulf, χάσμα μέγα = Tartarus. An open, gaping mouth, as forming a helmet, or 
   of a yawning gulf. Generally, any wide opening.
@@ -3964,7 +3980,7 @@ img {
 
 ▲ΟΥΡΑΝΟΣ :: ΒΡΟΝΤΗ▼
 
-<img src="yhgma.card.png" style="float: right;"> 
+<img src="yhgma.card.png" style="float: right;" width="30%"> 
 
 + [ΨΗΓΜΑ](#ρυθμοι) = That which is rubbed or scraped off, shavings, scrapings, chips. Used of gold-dust, dust and 
   ashes, wood, and motes in a sunbeam.
@@ -4010,7 +4026,7 @@ img {
 
 ▲ΟΥΡΑΝΟΣ :: ΑΣΤΡΑΠΗ▼
 
-<img src="yhfos.card.png" style="float: right;"> 
+<img src="yhfos.card.png" style="float: right;" width="30%"> 
 
 + [ΨΗΦΟΣ](#ρυθμοι) = A small round worn stone, pebble, a grain of sand, precious stone, gem, especially worn in 
   a ring, according to the various uses made of such pebbles: pebble used for reckoning, counter, cipher, 
@@ -4060,7 +4076,7 @@ img {
 
 ▲ΟΥΡΑΝΟΣ▼
 
-<img src="yuxh.card.png" style="float: right;"> 
+<img src="yuxh.card.png" style="float: right;" width="30%"> 
 
 + [ΨΥΧΗ](#ρυθμοι) = Life. In Homer, a departed spirit or ghost. The immaterial and immortal soul. The conscious 
   self or personality as centre of emotions, desires, and affections. Also, a butterly or moth.
@@ -4103,7 +4119,7 @@ img {
 
 ▲ΓΑΙΑ :: ΑΣΤΡΑΠΗ▼
 
-<img src="wgugih.card.png" style="float: right;"> 
+<img src="wgugih.card.png" style="float: right;" width="30%"> 
 
 + [ΩΓΥΓΙΗ](#ρυθμοι) = Ogygia, a mythical island in the Mediterranean, the abode of Calypso.
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:101 36. Wounded Light / Darkened Light
@@ -4135,7 +4151,7 @@ img {
 
 ▲ΓΑΙΑ▼
 
-<img src="won.card.png" style="float: right;"> 
+<img src="won.card.png" style="float: right;" width="30%"> 
 
 + [ΩΟΝ](#ρυθμοι) = Egg
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000 Earth (The Receptive)
@@ -4181,7 +4197,7 @@ img {
 
 ▲ΓΑΙΑ :: ΒΡΟΝΤΗ▼
 
-<img src="wrai.card.png" style="float: right;"> 
+<img src="wrai.card.png" style="float: right;" width="30%"> 
 
 + [\`ΩΡΑΙ](#ρυθμοι) = (Plural of ὥρα) The Hours, keepers of heaven's cloudgate, and ministers of the gods, especially
   of Aphrodite, three in number, Eunomia (= good order), Dike (= custom, moral order), Eirene (= peace). 
