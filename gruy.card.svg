@@ -45,7 +45,10 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <g
-         id="g2">
+         id="g2"
+         inkscape:export-filename="gruy.card.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300">
         <rect
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.33762;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="rect3"
@@ -84,11 +87,11 @@
            transform="matrix(1.0736712,0,0,0.93138383,-220.71978,-103.6278)"><tspan
              x="33.702847"
              y="228.3185"
-             id="tspan3"><tspan
+             id="tspan6"><tspan
                style="font-size:4.93889px;fill:#292929;stroke:#292929"
-               id="tspan1">ᚲ</tspan><tspan
+               id="tspan4">ᚲ</tspan><tspan
                style="font-family:Garamond;-inkscape-font-specification:Garamond;fill:#292929;stroke:#292929"
-               id="tspan2">ᚨᚢᛚᛞᚱᛟᚾ</tspan></tspan></text>
+               id="tspan5">ᚨᚢᛚᛞᚱᛟᚾ</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#898989;stroke-width:0.076;stroke-dasharray:none;stroke-opacity:1"
