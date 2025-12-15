@@ -590,6 +590,60 @@ housekeeping.
 <div style="page-break-after: always"></div>
 
 
+**Journeying in Non-Ordinary Reality with the Aid of Cannabis**
+
+Fox says the first thing to know about this is...
+551
+ΔΡΕΠΑΝΟΝ
+▲ΟΥΡΑΝΟΣ :: ΓΑΙΑ▼
+ΔΡΕΠΑΝΟΝ = A scythe, curved sword, or pruning knife.
+I Ching: 111:000 12. Stagnation / Standstill
+judgment: Self-serving people cannot help you keep going. The great
+departs; the small approaches.
+image: Fall back on your inner worth to escape difficulties. Don't accept
+revenue.
+alchemy: VI. The Primal Ones - C=3/7 (equivalent to 4. Audit/ACK)
+Tarot: King ♦/Pentacles
+upright: leadership, security, discipline, abundance, prosperity
+reversed: greed, stubborn, indulgence, sensuality
+Rune: ᚢ Uruz/Urus
+poem: "Urus is an unkempt beast; by his horn is strength increased."
+keywords: strength, might, courage, fierceness
+The Wanderer's Oracle: Heaven ‖ Earth
+situation: The Wanderer makes camp as heaven descends to earth and
+twilight fades into night.
+admonition: Do not fear the cold and dark, nor the creatures that roam the
+night. Make your encampment as safe as you can and face the challenges of
+this time.
+
+We quoted all this because this is a complex subject and many aspects of the right relation between the 
+Conscious (Heaven) and Unconscious (Earth) Minds come into play when you want to use Cannabis to aid you
+in your journeys into Non-Ordinary Reality. Actually, our use of the word/metaphor "play" is significant--
+the foremost thing to know is that the journey must be undertaken as a sort of play. Not entirely, as 
+children's play, but also as serious game play as adults do. And at least a little bit in the sense of a
+drama performed for an audience, as well.
+
+Overall, though, what Cannabis is able to add to your Journeying practice is a "thinning of the veil" between
+you and your Spirit Guide. Apparently, it does this primarily by subduing the executive function, or perhaps
+by turning off or toning down some of the "motivating" mind (see [`ΥΔΡΑ](#υδρα)). Probably a bit of both.
+
+Fox uses this time to whisper things in Bärchen's ear MORE LOUDLY THAN SHE USUALLY CAN. (Yes, she shouted
+this time.) It also makes it easier for her to display imagery on his mind's eye. That's how it works for us.
+
+But we can't seriously recommend its use except in instances of Journeying. And we're not saying that to be 
+politically correct and "just say no to drugs". The War on Drugs is actually a culture war conducted by the 
+haves on the have nots. But, really, what is the point of getting drunk or stoned anyway? Okay, some of y'all 
+need a release from time to time. No worries, man. (And yes, I do make Bärchen laugh, a lot, so okay,
+we get it and can see why a chill out session is a good thing now and then.)
+
+That said, we recommend learning the basics of your Journeying method and then experimenting with Cannabis
+to see how, or even if, it effects your work. If you can see what we mean by the "thinning of the veil", then
+you're on your way to learning how to use it in your own practice.
+
+Oh! right...no, there is no magic herb that will deliver what you want on a silver platter. Just allow this thinning
+of the veil to deepen and change your practice of Journeying, as you do the work. 
+
+
 #### [Hyperborea Revisited](#table-of-contents)
 
 Coming back full-circle to the Hyperboreans, we think they represent the Ancient Greeks' notion of what we
@@ -947,6 +1001,61 @@ De/Re-generating phase:
 | 10. Heaven::Lake     | Capricorn   | DEC/JAN | Earth::Cardinal  | establish   | Hanged Man, 10 Treading          | Sense/Id/Transmit  | Practice Makes Perfect    | 
 | 11. Water::Earth     | Aquarius    | JAN/FEB | Air::Fixed       | communicate | King Swords, 8 Holding Together  | Maintain/Improve   | The Path of Prayer        | 
 | 12. Thunder::Wind    | Pisces      | FEB/MAR | Water::Mutable   | engage      | Six Cups, 32 Duration            | Replicate/Teach    | Evangelization            |
+
+Or, try it this way in terms of the months of the year, but not in line with the current position of the Zodiac:
+
+Generating phase:
+| Word                          | Hexagram        | Month     | Colors            | function    | Systems Theory     | Mythology                 |
+| ----------------------------- | --------------- | --------- | ----------------- | ----------- | ------------------ | ------------------------- |
+|  1. [ΘΥΜΟΝ](#θυμον)           | Mountain::Lake  | January   | Blue, Silver      | initiate    | Sense/Detect       | Birth/Incarnation         |
+|  2. [ΔΡΕΠΑΝΟΝ](#δρεπανον)     | Heaven::Earth   | February  | Pink, Lavender    | establish   | Identify           | Overthrow of the Old King |
+|  3. [ΖΩΠΥΡΟΝ](#ζωπυρον)       | Water::Wind     | March     | Green, Purple     | communicate | Signal/Command     | The Journey Begins        |
+|  4. [ΒΡΙΑΡΕΩΣ](#βριαρεως)     | Thunder::Lake	  | April     | Lt. Blue & Pink   | engage      | Audit/ACK          | The Quest                 |
+
+Functioning phase:
+| Word                          | Hexagram        | Month     | Colors            | function    | Systems Theory     | Mythology                 |
+| ----------------------------- | --------------- | --------- | ----------------- | ----------- | ------------------ | ------------------------- |
+|  5. [ΘΕΜΙΣ](#θεμις)           | Mountain::Earth | May       | Green, Gold       | initiate    | Inter-communicate  | The New King is Revealed  | 
+|  6. [ΔΑΙΔΑΛΑ](#δαιδαλα)       | Heaven::Wind    | June      | Violet, Silver    | establish   | (Re)Arrange        | The Heavenly Marriage     | 
+|  7. [ΖΥΓΟΝ](#ζυγον)           | Water::Lake     | July      | Red, Blue         | communicate | (Re)Set            | The Toils                 | 
+|  8. [ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης) | Thunder::Earth  | August    | Turquoise, Brown  | engage      | (Re)Start/Boot     | I am become food          | 
+
+De/Re-generating phase:
+| Word                          | Hexagram        | Month     | Colors            | function    | Systems Theory     | Mythology                 |
+| ----------------------------- | --------------- | --------- | ----------------- | ----------- | ------------------ | ------------------------- |
+|  9. [ΘΥΙΑ](#θυια)             | Mountain::Wind  | September | Amber, Rust       | initiate    | Execute            | Returning Home            | 
+| 10. [ΔΟΡΥ](#δορυ)             | Heaven::Lake    | October   | Orange, Violet    | establish   | Sense/Id/Transmit  | The Final Test            | 
+| 11. [ΖΕΥΓΜΑ](#ζευγμα)         | Water::Earth    | November  | Burgundy, Mustard | communicate | Maintain/Improve   | The Willing Sacrifice     | 
+| 12. [ΒΙΟΣ](#βιος)             | Thunder::Wind   | December  | Red, Green        | engage      | Replicate/Teach    | The Harrowing of Hell     |
+
+
+another take...
+
+Generating phase:
+| Word                          | Hexagram        | Month     | Colors            | function    | Systems Theory     | Mythology                 |
+| ----------------------------- | --------------- | --------- | ----------------- | ----------- | ------------------ | ------------------------- |
+|  1. [ΛΑΒΥΡΙΝΘΟΣ](#λαβυρινθος) | Fire::Water     | January   | Blue, Silver      | initiate    | Sense/Detect       | Birth/Incarnation         |
+|  2. [ΙΡΙΣ](#ιρις)             | Lake::Mountain  | February  | Pink, Lavender    | establish   | Identify           | Overthrow of the Old King |
+|  3. [`ΩΡΑΙ](#ωραι)            | Earth::Thunder  | March     | Green, Purple     | communicate | Signal/Command     | The Journey Begins        |
+|  4. [ΟΦΙΣ](#οφις)             | Wind::Water     | April     | Lt. Blue & Pink   | engage      | Audit/ACK          | The Quest                 |
+
+Functioning phase:
+| Word                          | Hexagram        | Month     | Colors            | function    | Systems Theory     | Mythology                 |
+| ----------------------------- | --------------- | --------- | ----------------- | ----------- | ------------------ | ------------------------- |
+|  5. [ΛΙΝΟΝ](#λινον)           | Fire::Mountain  | May       | Green, Gold       | initiate    | Inter-communicate  | The New King is Revealed  | 
+|  6. [ΣΘΕΝΩ](#σθενω)           | Lake::Thunder   | June      | Violet, Silver    | establish   | (Re)Arrange        | The Heavenly Marriage     | 
+|  7. [ΜΑΚΑΡΙΑ](#μακαρια)       | Earth::Water    | July      | Red, Blue         | communicate | (Re)Set            | The Toils                 | 
+|  8. [ΟΙΝΟΣ](#οινος)           | Wind::Mountain  | August    | Turquoise, Brown  | engage      | (Re)Start/Boot     | I am become food          | 
+
+De/Re-generating phase:
+| Word                          | Hexagram        | Month     | Colors            | function    | Systems Theory     | Mythology                 |
+| ----------------------------- | --------------- | --------- | ----------------- | ----------- | ------------------ | ------------------------- |
+|  9. [ΧΑΡΥΒΔΙΣ](#χαρυβδις)     | Fire::Thunder   | September | Amber, Rust       | initiate    | Execute            | Returning Home            | 
+| 10. [ΖΥΓΟΝ](#ζυγον)           | Lake::Water     | October   | Orange, Violet    | establish   | Sense/Id/Transmit  | The Final Test            | 
+| 11. [ΜΟΙΡΑΙ](#μοιραι)         | Earth::Mountain | November  | Burgundy, Mustard | communicate | Maintain/Improve   | The Willing Sacrifice     | 
+| 12. [ΦΟΙΝΙΞ](#φοινιξ)         | Wind::Thunder   | December  | Red, Green        | engage      | Replicate/Teach    | The Harrowing of Hell     |
+
+
 
 
 #### The Planets
@@ -1339,6 +1448,7 @@ img {
   + upright: ideas, discovery, exploration, excitement, freedom
   + reversed: self-limiting beliefs, procrastination, creating conflict
 + The Wanderer's Oracle: Lake ‖ Wind
+  + poem: "Coruscating, can I calmly / lie like this lake, languid, can let / wind wantonly wrap her wet wings?"
   + situation: The Wanderer sees a lake whose surface is broken by the wind into constantly changing patterns 
     of reflections.
   + admonition: Pause to watch the reflections and let yourself be inspired by new possibilities and new ways 
@@ -1421,6 +1531,7 @@ img {
   + upright: compassion, control, diplomacy, balance
   + reversed: coldness, moodiness, emotionally manipulative
 + The Wanderer's Oracle: Quake ‖ Earth
+  + poem: "Ere earth rest ever and ever / I move myself, mount, remember  / this soaring self's last sleepy sigh."
   + situation: The Wanderer feels the jolt of an earthquake.
   + admonition: Rock falls may have made the path ahead treacherous or even impassable, and fellow travelers 
     you meet may have been injured. Help clear the path and heal those in need.
@@ -1468,7 +1579,7 @@ img {
   + judgment: To undertake something brings misfortune. There is nothing that would be advantageous.
   + image: Understand the transitory in the light of the eternity of the end.
   + alchemy: V. The Pilgrimage to The Inner Shrine - 3. Signal/Command  
-+ Tarot: The Moon
++ Tarot: 18. The Moon
   + upright: unconscious, illusions, subconscious, intuition
   + reversed: confusion, repressed emotions, fear, misinterpretation
 + The Wanderer's Oracle: Quake ‖ Lake
@@ -1508,7 +1619,7 @@ img {
 + Tarot: Four ♠/Swords 
   + upright: rest, restoration, meditation, contemplation
   + reversed: restlessness, burnout, stress, exhaustion
-+ Tarot: Rota Fortuna
++ Tarot: 10. Rota Fortuna
   + upright: change, luck, karma, cycles, fate
   + reversed: no control, resistance to change, breaking cycles, bad luck
 + The Wanderer's Oracle: Light ‖ Earth
@@ -1546,6 +1657,7 @@ img {
   + upright: clarity, breakthrough, sharpness of mind
   + reversed: confusion, chaos, clouded judgement
 + The Wanderer's Oracle: Lightning ‖ Lake
+  + poem: "My goblet greedily gobbles / sky viper's voluble veering, / freezes fast her fulminations."
   + situation: The Wanderer sees a lightning flash amplified by its reflection in a lake.
   + admonition: Restrain fear but do not ignore the imminent danger. Let your actions reflect the true 
     nature of the warning you have been given.
@@ -1623,10 +1735,7 @@ img {
   + upright: generosity, charity, sharing
   + reversed: strings attached, power and domination, stinginess 
 + The Wanderer's Oracle: Heaven ‖ Wind
-  + poem:   
-    These clouds came carelessly in view,   
-    neatly nebulous, yet they know   
-    the cold cash in heaven's coffers.
+  + poem: "Those clouds came carelessly in view. / Neatly nebulous, they denote / the cold cash in heaven's coffers."
   + situation: The Wanderer sees a blue sky laced with white, wispy cirrus clouds blown by winds aloft.
   + admonition: A change of weather will surely come soon, so prepare now to welcome that change when it 
     does come. Meanwhile, make the most of fair weather and skies full of delightful patterns.
@@ -1659,13 +1768,14 @@ img {
   + judgment: Treading on the tiger's tail. It does not bite you. Success is possible.
   + image: Discriminate between high and low; fortify the thinking of the people.
   + alchemy: I. The Path of Destiny - 7\. (Re)Set  
-+ Tarot: The Hanged Man
++ Tarot: 12. The Hanged Man
   + upright: sacrifice, martyrdom, surrender, letting go, new perspectives, release
   + reversed: resistance, stalling, needless sacrifice, fear of sacrifice
 + Rune: ᛃ [Jera/Juniper](#αινιγματα)  
   + poem: "Juniper with twisted beam, holds the daylight's dying gleam."
   + keywords: completion, harvest, year, ending, conclusion, accomplishment
 + The Wanderer's Oracle: Heaven ‖ Lake
+  + poem: "Blue sought blue, blessing sought blessed. / In time, still timeless, I turned toward / that fast and flowing firmament."   
   + situation: The Wanderer sees a clear, blue sky reflected in a calm lake.
   + admonition: Take a respite here to consider, or reconsider, your path, progress, and goal.
 + Greek Myth: The Odyssey - 7\. The Phaiakians
@@ -1711,6 +1821,7 @@ img {
   + poem: "Urus is an unkempt beast; by his horn is strength increased."
   + keywords: strength, might, courage, fierceness
 + The Wanderer's Oracle: Heaven ‖ Earth
+  + poem: "Umbral earth urges us, under / night's near vault now to nestle, not, / as aforetime, anxious, afraid."
   + situation: The Wanderer makes camp as heaven descends to earth and twilight fades into night.
   + admonition: Do not fear the cold and dark, nor the creatures that roam the night. Make your encampment 
     as safe as you can and face the challenges of this time.
@@ -1903,7 +2014,7 @@ img {
   + judgment: Success is possible. Vexatious limitation must not be allowed to continue.
   + image: Create number and measure, and examine the nature of virtue and correct conduct.
   + alchemy: V. The Pilgrimage to The Inner Shrine, Part 2 - 10\. Monitor/Evaluate
-+ Tarot: Death
++ Tarot: 13. Death
   + upright: endings, beginnings, change, metamorphosis, transformation, transition
   + reversed: resistance to change, fear of change, holding on, stagnation
 + The Wanderer's Oracle: Rain Clouds ‖ Lake
@@ -1945,10 +2056,7 @@ img {
   + poem: "Road runs right beside the sea, where the waves walk ceaselessly."
   + keywords: way, road, path, journey, individuality, liminality, separation
 + The Wanderer's Oracle: Rain Clouds ‖ Wind
-  + poem:   
-    Runs the running rain regardless   
-    of freshened fronds it left behind,    
-    lets the wind wind down its wetness.
+  + poem: "Ran the running rain regardless / of freshened fronds it left behind, / lets the wind wind down its wetness?
   + situation: The Wanderer feels the rain slacken and a fresh breeze begins to blow the clouds away. 
   + admonition: Remove that rain gear or come out from under shelter. The rain has washed your path clean, 
     so you may continue or rejoin your journey refreshed.
@@ -1991,6 +2099,7 @@ img {
   + poem: "Wind that whistles o'er the plain, wall nor wattle can restrain."
   + keywords: joy, happiness, freedom, release, inspiration
 + The Wanderer's Oracle: Wind ‖ Wind
+  + poem: "This marching mind is being moved, / sent offstage, saved to savor some / delicate, delicious desert."
   + situation: The Wanderer feels a gentle breeze that brings with it lovely fragrances.
   + admonition: Stop to smell the flowers whose scent is carried by the wind. Put one in your cap so you 
     may continue your journey with a light heart. 
@@ -2161,10 +2270,11 @@ img {
 + Tarot: Six ♣/Wands
   + upright: victory, success, public reward
   + reversed: excessive pride, lack of recognition, fall from grace, egotism
-+ Tarot: The Devil
++ Tarot: 15. The Devil
   + upright: Shadow self, attachment, addiction, materialism
   + reversed: exploring dark thoughts, detachment, release, restoring control
 + The Wanderer's Oracle: Mountain ‖ Wind
+  + poem: "Wind's wild whipping would overturn  / my mountain's mastered, meaningful / stillness; thus spoil or let soar."
   + situation: The Wanderer on the mountain path struggles against a strong wind which threatens, at 
     times, to blow them off the path completely.
   + admonition: Keep your footing and cling to the very rocks when necessary. There's no turning back 
@@ -2208,7 +2318,7 @@ img {
     use two small bowls for the sacrifice.
   + image: Control your anger and restrain instincts.
   + alchemy: III. Phoenix and Dragon - 1\. Sense/Detect
-+ Tarot: The Tower
++ Tarot: 16. The Tower
   + upright: sudden upheaval or change, broken pride, disaster, revelation, awakening
   + reversed: disaster averted or delayed, fear of change
 + Rune: ᚨ [Ansuz/Ash](#αινιγματα) 
@@ -2308,7 +2418,7 @@ img {
     brings good fortune.
   + image: Encourage people to approach you by your readiness to receive them.
   + alchemy: III. Phoenix and Dragon - 12\. Replicate/Teach
-+ Tarot: The Star
++ Tarot: 17. The Star
   + upright: hope, faith, purpose, renewal, rejuvenation
   + reversed: despair, faithlessness, discouragement, insecurity
 + The Wanderer's Oracle: Lake ‖ Mountain
@@ -2391,6 +2501,7 @@ img {
   + poem: "Hazel for the wise man's cake; bounty, all that he can take."
   + keywords: protect, nurture, nourish, sustain, cultivate, preserve
 + The Wanderer's Oracle: Thunder ‖ Mountain
+  + poem: "Here, high and mighty are hidden. / Though we work for wonders, that wish / diligence demands, undoubting."
   + situation: The Wanderer hears thunder as the clouds descend on the the mountain ahead, hiding its 
     peak from view.
   + admonition: Stop for a bit. Can you make the time productive as you wait for conditions to clear? 
@@ -2400,7 +2511,7 @@ img {
   + Arming grail knights since 1952- Our Motto: the Finding is in the Doing
   + Leaving the past behind
   + Bete (vide Beauty and the Beast)
-  + The Gaurdian of the Eternal Flame
+  + The Guardian of the Eternal Flame
   + Don't settle
   + "Herr Fix-It_up" (Grimm's Fairy Tales 1st ed. Volume 1 #16)
   + Ubi Caritas et Amor...
@@ -2463,6 +2574,7 @@ img {
   + upright: opportunities, wishful thinking, illusion, choices, daydreaming
   + reversed: lack of purpose, diversion, confusion, overwhelmed by choices
 + The Wanderer's Oracle: Thunder ‖ Rain Clouds
+  + poem: "What's this?! That's thunder, then thick drops. / Confusing, confounding clatter, / haste and hurry ahead, but halt!"
   + situation: The Wanderer is surprised by a loud thunder clap. The rain immediately begins to fall in 
     big drops.
   + admonition: Caught unaware? Will the rain pass quickly, or settle in? Is there danger of a lightning 
@@ -2504,6 +2616,7 @@ img {
   + poem: "Hail is hurtful to the corn, breaks its stalks with bitter scorn."
   + keywords: death, destruction, decay, anger, fear, Hel
 + The Wanderer's Oracle: Lightning ‖ Rain Clouds
+  + poem: "Sky serpent struck stone, seethed with light, / withdrew, none wounded, but it wreaked / whole havoc on my heart and haste."
   + situation: The Wanderer sees lightning leap from the storm clouds ahead and strike their intended path.
   + admonition: Will lightning strike the same place twice? Keep a clear head because you may indeed need 
     to quickly take shelter, or change your path, to avoid the danger, but stopping here won't help.
@@ -2578,7 +2691,7 @@ img {
   + judgment: Success in small things. To keep going brings good fortune to the wanderer.
   + image: Be clear-minded and cautious in imposing penalties; do not protract lawsuits.
   + alchemy: V. The Pilgrimage to The Inner Shrine - 6\. (Re)Arrange
-+ Tarot: The World
++ Tarot: 21. The World
   + upright: fulfillment, harmony, completion, integration, accomplishment, travel.
   + reversed: incompletion, short-cuts, delays.
 + The Wanderer's Oracle: Light ‖ Mountain
@@ -2619,6 +2732,7 @@ img {
   + upright: fruits of labor, self-sufficiency, financial independence, rewards, luxury.
   + reversed: reckless spending, living beyond your means, false success, hustling.
 + The Wanderer's Oracle: Earth ‖ Rain Clouds
+  + poem: "Gone the rain body but caught breath / raises mine from earth rich in rust, / eld elixir of leaves entombed."
   + situation: The Wanderer sees the earth breathe forth new, misty clouds (rain ghosts) after the recent 
     rains have passed.
   + admonition: Be encouraged! Your path will be soggy and shrouded in mists, but press on with a glad heart, 
@@ -2699,14 +2813,14 @@ img {
   + judgment: You'll create success if you carry things through.
   + image: Reduce what's too much; augment what's too little; weigh things and make them equal.
   + alchemy: I. The Path of Destiny, Part2 - 12\. Replicate/Teach
-+ Tarot: Justice
++ Tarot: 11. Justice
   + upright: justice, fairness, truth, cause and effect, law.
   + reversed: dishonesty, unfairness, lack of accountability.
 + Rune: ᛈ [Pertho/Paeony](#αινιγματα)  
   + poem: "Paeony, beguiling bloom, blessed portal of the womb."
   + keywords: womb, conception, gestation, hidden beginnings, secrets
 + The Wanderer's Oracle: Earth ‖ Mountain
-  + poem: "Roots of mountain mulling, mystic / path occult, obscure, the obverse / of known, needful, ever nascent."
+  + poem: "Roots of mountain mull, o mystic / path occult, obscure, the obverse / of known, of needful e'er nascent."
   + situation: The Wanderer's path through a valley hides, for a time, their mountain destination.
   + admonition: Stick to the path you know is the right one. Although your destination cannot be seen 
     now, only this will bring you closer to it.
@@ -2798,6 +2912,7 @@ img {
   + upright: need, poverty, loss, insecurity.
   + reversed: recovery, charity, improvement.
 + The Wanderer's Oracle: Heaven ‖ Heaven
+  + poem: "Bearers of broad heaven, we bare / celestial souls, sit silent / in precarious poignancy."
   + situation: The Wanderer comes to the rendezvous spot for travelers.
   + admonition: Do not neglect to swap gear, news, and insights, and to help your fellow travelers before 
     you set out again. Maybe you'll find companions to join you, or you can join with others for support.
@@ -2951,7 +3066,7 @@ img {
 + Tarot: Five ♠/Swords
   + upright: conflict, disagreements, competition, unbridled ambition, winning at all costs, sneakiness.
   + reversed: lingering resentment, reconciliation, making amends.
-+ Tarot: Judgment
++ Tarot: 20. Judgment
   + upright: Judgement, rebirth, inner calling, absolution, reflection, reckoning, awakening.
   + reversed: lack of self awareness, self-doubt, self-loathing, inner critic, ignoring the call.
 + The Wanderer's Oracle: Rain Clouds ‖ Heaven
@@ -3043,11 +3158,11 @@ img {
   + judgment: The maiden is given in marriage. Good fortune. To keep going is advantageous.
   + image: Abide in dignity and virtue, in order to improve the mores.
   + alchemy: V. The Pilgrimage to The Inner Shrine - 4\. Audit/ACK
-+ Tarot: Temperance
++ Tarot: 14. Temperance
   + upright: balance, moderation, middle path, patience, finding meaning.
   + reversed: extremes, excess, imbalance.
 + The Wanderer's Oracle: Wind ‖ Mountain
-  + poem: "Still the wind wanders while in watch / of calm contemplation the keep / of mountain moves in merriment."
+  + poem: "Still the wind wanders while I watch / this calm, this contemplative keep / of mountain move in merriment."
   + situation: The Wanderer is refreshed by a cool breeze, clear skies, and a glorious view at a resting 
     point beneath the mountain's peak.
   + admonition: You've reached the reward for your climb. Would obtaining a higher point be any more fulfilling? 
@@ -3082,7 +3197,7 @@ img {
 + Tarot: Nine ♥/Cups
   + upright: contentment, satisfaction, gratitude, wishes come true.
   + reversed: smugness, dissatisfaction, indulgence.
-+ Tarot: The Sun
++ Tarot: 19. The Sun
   + upright: positivity, fun, warmth, vitality, celebration.
   + reversed: negativity, depression, sadness, overly optimistic. 
 + Rune: ᛊ [Sowilo/Sun](#αινιγματα)  
@@ -3310,7 +3425,7 @@ img {
     Related: mountain; bypath; little stones; openings; doors; fruits; seeds; eunuchs; watchmen; fingers; 
     dog; rat; black-billed birds; firm, gnarled trees.
   + alchemy: VII. The Golden Lampstands - G#=8/7 (equivalent to 12\. Replicate/Teach)
-+ Tarot: The Chariot
++ Tarot: 7. The Chariot
   + upright: direction, control, willpower.
   + reversed: lack of control, lack of direction. 
 + Rune: ᛏ [Tiwaz/Tower](#αινιγματα)  
@@ -3354,6 +3469,7 @@ img {
   + upright: accomplishment, responsibility, burden.
   + reversed: inability to delegate, overstressed, burnt out.
 + The Wanderer's Oracle: Mountain ‖ Light
+  + poem: "Stay, light! Your last, lingering peak / goes quiet, leaves no queer questions / of this one, that one, or of those."
   + situation: The Wanderer sees their mountain peak destination catch the last rays of the setting sun.
   + admonition: Consider your goal. Who will be rewarded for your attainment? Grace is when cutting corners 
     enhances beauty.
@@ -3395,7 +3511,7 @@ img {
 + Tarot: Two ♣/Wands
   + upright: planning, decisions, discovery.
   + reversed: playing it safe, bad planning, lack of planning.
-+ Tarot: Strength
++ Tarot: 8. Strength
   + upright: strength, bravery, courage, persuasion, influence, focus.
   + reversed: self doubt, weakness, insecurity.
 + The Wanderer's Oracle: Lake ‖ Thunder
@@ -3483,7 +3599,7 @@ img {
   + related: lake; youngest daughter; sorceress; mouth; tongue; smashing; breaking apart; dropping off; 
     bursting open; hard, salty soil; concubine; sheep
   + alchemy: VII. The Golden Lampstands - G=7/7 (equivalent to 11\. Maintain/Improve)
-+ Tarot: The Fool
++ Tarot: 0. The Fool
   + upright: innocence, new beginnings, spontaneity, free spirit.
   + reversed: recklessness, holding back, risk-taking.
 + Rune: ᛚ [Laguz/Lake](#αινιγματα)  
@@ -3531,7 +3647,7 @@ img {
     horses-- with beautiful backs, with wild courage, which let their heads hang, with thin hoofs, which 
     stumble; chariots with many defects; penetration; moon; thieves; firm trees that have much pith.
   + alchemy: VII. The Golden Lampstands - B=2/7 (equivalent to 3\.Signal/Command)
-+ Tarot: The Priest (Hierophant)
++ Tarot: 5. The Priest (Hierophant)
   + upright: spiritual wisdom, religious beliefs, conformity, traditions, institutions, morality, ethics. 
   + reversed: rebellion, subversiveness, challenging the status quo.
 + Rune: ᛖ [Ehwaz/Elder](#αινιγματα)  
@@ -3655,7 +3771,7 @@ img {
     which neigh well, with white hind legs, which gallop, with a star on the forehead; pod-bearing, useful 
     plants; the strong, anything that grows luxuriantly.
   + alchemy: VII. The Golden Lampstands - C=4/7 (equivalent to 6.(Re)Arrange)
-+ Tarot: The Magician
++ Tarot: 1. The Magician
   + upright: willpower, creation, manifestation, resourcefulness
   + reversed: trickery, illusions, out of touch, manipulation, untapped talents
 + Rune: ᛜ [I**ng**waz/Ri**ng**](#αινιγματα)  
@@ -3694,6 +3810,7 @@ img {
   + upright: charm, following the heart, idealist, romantic.
   + reversed: moodiness, disappointment, overactive imagination, unrealistic, jealous.
 + The Wanderer's Oracle: Thunder ‖ Quake
+  + poem: "It's over! Over the top of / rapid, ragged remonstratives! / Oh! Order only one requires."
   + situation: The Wanderer hears several loud claps of thunder and feels an earthquake. Heaven and 
     earth are trembling, all at once!
   + admonition: Are we awake now? Don't panic! But there's no time to deliberate, so act quickly.
@@ -3722,11 +3839,11 @@ img {
   + judgment: Success is possible. The ruler attains abundance. Be not sad; be like the sun at midday.
   + image: In this way decide lawsuits and carry out punishments.
   + alchemy: V. The Pilgrimage to The Inner Shrine - 5\. Inter-Communicate
-+ Tarot:  Ten ♥/Cups
++ Tarot: Ten ♥/Cups
   + upright: fulfillment, divine love, blissful relationships, harmony, alignment
   + reversed: shattered dreams, broken family, disharmony, disconnection, misaligned values, struggling 
     relationships
-+ Tarot: The Hermit
++ Tarot: 9. The Hermit
   + upright: soul-searching, introspection, contemplation, search for truth, inner guidance.
   + reversed: loneliness, isolation, lost your way, withdrawal.
 + The Wanderer's oracle: Quake ‖ Light
@@ -3764,7 +3881,7 @@ img {
     gray-haired, with broad foreheads, with much white in their eyes, those close to gain, that get 
     threefold value in the market; vehemence.
   + alchemy: VII. The Golden Lampstands - C=3/7 (equivalent to 4\. Audit/ACK)
-+ Tarot: The Lovers
++ Tarot: 6. The Lovers
   + upright: partnership, harmony, love, union.
   + reversed: imbalance, one-sidedness, disharmony. 
 + Rune: ᛒ [Berkanan/Birch](#αινιγματα)  
@@ -3879,7 +3996,7 @@ img {
     dryness; tortoise; crab; snail; mussel; hawkbill tortoise; trees which dry out in the upper part of 
     the trunk.
   + alchemy: VII. The Golden Lampstands - A=1/7 (equivalent to 1.Sense/Detect)
-+ Tarot: The High Priestess
++ Tarot: 2. The High Priestess
   + upright: intuition, sacred knowledge, divine feminine, subconscious mind, unconscious, inner voice
   + reversed: lack of center, lost inner voice, repressed feelings, secrets, withdrawal
 + Rune: ᛞ [Dagaz/Day](#αινιγματα)  
@@ -4046,6 +4163,7 @@ img {
   + upright: wealth, financial security, family, long-term success, contribution, legacy, culmination, inheritance
   + reversed: fleeting success, lack of stability, lack of resources, the dark side of wealth, financial loss
 + The Wanderer's Oracle: Heaven ‖ Light
+  + poem: "To the yeoman yesterday you / journeyed, jauntily garbed the gem / of the perfect with the person. "
   + situation: The Wanderer has made good progress under clear skies today. The sun has begun to descend 
     in the west.
   + admonition: Your destination is close, perhaps even in sight. One final push and you'll arrive.
@@ -4084,7 +4202,7 @@ img {
   + trigram: Existence ... *competes* in the trigram of the Creative; Related: heaven; round; prince;
     father; jade; metal; cold; ice; deep red; horses-- good, old, lean, and wild; tree fruit.
   + alchemy: VII. The Golden Lampstands - F=6/7 (equivalent to 9\. Execute/Run)
-+ Tarot: The Emperor
++ Tarot: 4. The Emperor
   + upright: authority, structure, establishment, control, fatherhood
   + reversed: tyranny, rigidity, coldness, domination, inflexible
 + Rune: ᛗ [Mannaz/Man](#αινιγματα)  
@@ -4159,7 +4277,7 @@ img {
     Related: earth; mother; cloth; kettle; frugality; level; a cow with a calf; a large wagon; form; the 
     multitude; a shaft; black soil.
   + alchemy: VII. The Golden Lampstands - E=5/7 (equivalent to 8\. (Re)Start/Boot)
-+ Tarot: The Empress
++ Tarot: 3. The Empress
   + upright: motherhood, femininity, beauty, nature, nurturing, abundance, fertility
   + reversed: dependence, smothering, emptiness, nosiness
 + Rune: ᛟ [Othala/Oak](#αινιγματα)  
@@ -4212,6 +4330,7 @@ img {
   + upright: balancing decisions, time management, prioritization, adaptability
   + reversed: over-committed, loss of balance, disorganized, overwhelmed
 + The Wanderer's Oracle: Earth ‖ Thunder
+  + poem: "Aroused into inaction and / wasn't earth the one wishing... well, / at least it lengthens days left there."
   + situation: The Wanderer is at rest in a shelter in the valley when they hear thunder; a storm has arrived.
   + admonition: Stay content in camp until the storm passes. Catch up on unfinished chores that can be 
     done in camp, or rest.
@@ -4955,7 +5074,7 @@ Rune: Paeony
 ΜΟΙΡΑΙ = ▲ΓΑΙΑ :: ΟΡΟΣ▼
 I Ching: 000:100 15. Modesty / Modesty
 Reduce what's too much; augment what's too little; weigh things and make them equal.
-Tarot: Justice
+Tarot: 11. Justice
   + Upright: cause and effect, clarity, truth.
   + Reversed: dishonesty, unaccountability, unfairness. 
   + Upright: Justice, fairness, truth, cause and effect, law.
@@ -4969,7 +5088,7 @@ Tarot: Justice
 Rune: Elder
 ΤΕΥΧΟΣ = ▲`ΥΕΤΟΣ▼
 I Ching: 010 Water (The Abyss)
-Tarot: The Priest (Hierophant)
+Tarot: 5. The Priest (Hierophant)
   + Upright: tradition, conformity, morality, ethics.
   + Reversed: rebellion, subversiveness, new approaches. 
   + Upright: Spiritual wisdom, religious beliefs, conformity, tradition,institutions.
@@ -4987,7 +5106,7 @@ Spirit: Raven
 Rune: Oak
 ΩΟΝ = ▲ΓΑΙΑ▼
 I Ching: 000 Earth (The Receptive)
-Tarot: The Empress
+Tarot: 3. The Empress
   + Upright: motherhood, fertility, nature.
   + Reversed: dependence, smothering, emptiness, nosiness. 
   + Upright: Femininity, beauty, nature, nurturing, abundance.
