@@ -13,7 +13,7 @@ and Blue Fox, κοινωνός (Spirit Guide) of the aforementioned
 
 © 2025 by Uncle Bärchen
 
-version: 2025.11.24
+version: 2025.12.15
 
 > "To welcome imagination is to welcome hope. To cultivate love is to cultivate blessedness." -Fox
 
