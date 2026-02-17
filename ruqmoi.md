@@ -11,9 +11,9 @@
 by Uncle Bärchen, postmodernist μάντεις (Seer, Shaman) 
 and Blue Fox, κοινωνός (Spirit Guide) of the aforementioned
 
-© 2025 by Uncle Bärchen
+© 2025, 2026 by Uncle Bärchen
 
-version: 2025.12.15
+version: 2026.02.17
 
 > "To welcome imagination is to welcome hope. To cultivate love is to cultivate blessedness." -Fox
 
@@ -23,37 +23,116 @@ version: 2025.12.15
 
 ### Table of Contents:
 
-+ [Introduction](#introduction)
-  + [Apology to the Rationalists](#apology-to-the-rationalists)
-  + [My Initiation](#my-initiation)
-  + [Remarks on Divination](#remarks-on-divination)
-  + [Why is this called \`ΡΥΘΜΟΙ : the Oracle of the Hyperboreans?](#why-is-this-called-ρυθμοι--the-oracle-of-the-hyperboreans)
-    + [Knowledge and Understanding](#knowledge-and-understanding)
-    + [Righteousness and Wholeness](#righteousness-and-wholeness)
-    + [Justice and Humility](#justice-and-humility)
-    + [Beauty and Love](#beauty-and-love)
-    + [Fox's Recipes](#foxs-recipes)
-    + [Hyperborea Revisited](#hyperborea-revisited)
-+ [How to Use \`ΡΥΘΜΟΙ : The Oracle of the Hyperboreans](#how-to-use-ρυθμοι--the-oracle-of-the-hyperboreans)
-  + [How to find the ὄνομα (name) using 3x6-sided dice](#how-to-find-the-ὄνομα-name-using-3x6-sided-dice)
-  + [How to find the ὄνομα (name) using two 12-sided dice](#how-to-find-the-ὄνομα-name-using-two-12-sided-dice)
-  + [ΑΙΝΙΓΜΑΤΑ](#αινιγματα)
-    + [How to find the enigma using 2x6-sided dice](#how-to-find-the-enigma-using-2x6-sided-dice)
-  + [Astrological Correspondences and Symbolism](#astrological-correspondences-and-symbolism)
-  + [The Wanderer's Oracle](#the-wanderers-oracle)
-  + [The Alchemical Structure of the I Ching](#the-alchemical-structure-of-the-i-ching)
-  + ['ΡΥΘΜΟΙ](#ρυθμοι)
-+ [Shift happens! (Change is Inevitable)](#shift-happens-change-is-inevitable) 
-+ [Ritual](#ritual)
-+ [The Knowledge and Conversation of the Holy Guardian Angel](#the-knowledge-and-conversation-of-the-holy-guardian-angel)
-+ [Alchemists Anonymous (AA)](#alchemists-anonymous-aa)
-  + [The Twelve Steps](#the-twelve-steps)
-  + [The Seven](#the-seven)
-+ [The Three Principles and the Four Elements](#the-three-principles-and-the-four-elements)
-+ [The Sri Yantra in Divination](#the-sri-yantra-in-divination)
-+ [On the Daemon of Socrates](#on-the-daemon-of-socrates)
-+ [What about magic?](#what-about-magic)
-+ [Epilog](#epilog)
+- [\`ΡΥΘΜΟΙ : The Oracle of the Hyperboreans or, Divination on the Paths of Wisdom and Self-Realization](#ρυθμοι--the-oracle-of-the-hyperboreans-or-divination-on-the-paths-of-wisdom-and-self-realization)
+    - [A Postmodernist Reconstruction of an Ancient Oracle](#a-postmodernist-reconstruction-of-an-ancient-oracle)
+    - [Table of Contents:](#table-of-contents)
+  - [Introduction](#introduction)
+    - [Apology to the Rationalists](#apology-to-the-rationalists)
+    - [My Initiation](#my-initiation)
+    - [Remarks on Divination](#remarks-on-divination)
+    - [Why is this called \`ΡΥΘΜΟΙ : the Oracle of the Hyperboreans?](#why-is-this-called-ρυθμοι--the-oracle-of-the-hyperboreans)
+      - [Knowledge and Understanding](#knowledge-and-understanding)
+      - [Righteousness and Wholeness](#righteousness-and-wholeness)
+      - [Justice and Humility](#justice-and-humility)
+      - [Beauty and Love](#beauty-and-love)
+      - [Fox's Recipes](#foxs-recipes)
+      - [Hyperborea Revisited](#hyperborea-revisited)
+  - [How to Use \`ΡΥΘΜΟΙ : The Oracle of the Hyperboreans](#how-to-use-ρυθμοι--the-oracle-of-the-hyperboreans)
+      - [How to find the ὄνομα (name) using 3x6-sided dice](#how-to-find-the-ὄνομα-name-using-3x6-sided-dice)
+      - [How to find the ὄνομα (name) using two 12-sided dice](#how-to-find-the-ὄνομα-name-using-two-12-sided-dice)
+    - [ΑΙΝΙΓΜΑΤΑ](#αινιγματα)
+      - [How to find the enigma using 2x6-sided dice](#how-to-find-the-enigma-using-2x6-sided-dice)
+    - [Astrological Correspondences and Symbolism](#astrological-correspondences-and-symbolism)
+      - [The Zodiac](#the-zodiac)
+      - [The Planets](#the-planets)
+    - [The Eardstapa's Oracle](#the-eardstapas-oracle)
+    - [The Alchemical Structure of the I Ching](#the-alchemical-structure-of-the-i-ching)
+    - ['ΡΥΘΜΟΙ](#ρυθμοι)
+      - [ΠΡΟΣΩΠΑ : The Characters in our Drama](#προσωπα--the-characters-in-our-drama)
+  - [](#)
+      - [ΑΜΦΟΡΕΥΣ](#αμφορευς)
+      - [ΑΝΑΓΚΗ](#αναγκη)
+      - [ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)
+      - [ΒΙΟΣ](#βιος)
+      - [ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)
+      - [ΒΡΙΑΡΕΩΣ](#βριαρεως)
+      - [ΓΛΑΥΞ](#γλαυξ)
+      - [ΓΟΡΓΩ](#γοργω)
+      - [ΓΡΥΨ](#γρυψ)
+      - [ΔΑΙΔΑΛΑ](#δαιδαλα)
+      - [ΔΟΡΥ](#δορυ)
+      - [ΔΡΕΠΑΝΟΝ](#δρεπανον)
+      - [ΕΛΑΙΟΣ](#ελαιος)
+      - [\`ΕΛΙΞ](#ελιξ)
+      - [\`ΕΣΤΙΑ](#εστια)
+      - [ΖΕΥΓΜΑ](#ζευγμα)
+      - [ΖΥΓΟΝ](#ζυγον)
+      - [ΖΩΠΥΡΟΝ](#ζωπυρον)
+      - [\`ΗΔΟΝΗ](#ηδονη)
+      - [ΗΛΕΚΤΡΟΝ](#ηλεκτρον)
+      - [ΗΩΣ](#ηως)
+      - [ΘΕΜΙΣ](#θεμις)
+      - [ΘΥΙΑ](#θυια)
+      - [ΘΥΜΟΝ](#θυμον)
+      - [\`ΙΜΑΣ](#ιμας)
+      - [ΙΡΙΣ](#ιρις)
+      - [\`ΙΣΤΟΣ](#ιστος)
+      - [ΚΑΘΑΡΜΟΣ](#καθαρμος)
+      - [ΚΕΡΑΥΝΟΣ](#κεραυνος)
+      - [ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)
+      - [ΛΑΒΥΡΙΝΘΟΣ](#λαβυρινθος)
+      - [ΛΑΜΠΑΣ](#λαμπας)
+      - [ΛΙΝΟΝ](#λινον)
+      - [ΜΑΚΑΡΙΑ](#μακαρια)
+      - [ΜΕΓΑΡΟΝ](#μεγαρον)
+      - [ΜΟΙΡΑΙ](#μοιραι)
+      - [ΝΑΡΘΗΞ](#ναρθηξ)
+      - [ΝΑΥΣ](#ναυς)
+      - [ΝΟΣΤΟΣ](#νοστος)
+      - [ΞΙΦΟΣ](#ξιφος)
+      - [ΞΟΑΝΟΝ](#ξοανον)
+      - [ΞΥΛΟΝ](#ξυλον)
+      - [ΟΙΚΟΣ](#οικος)
+      - [ΟΙΝΟΣ](#οινος)
+      - [ΟΦΙΣ](#οφις)
+      - [ΠΑΙΩΝ](#παιων)
+      - [ΠΤΕΡΥΞ](#πτερυξ)
+      - [ΠΥΛΑΙ](#πυλαι)
+      - [\`ΡΑΒΔΟΣ](#ραβδος)
+      - [\`ΡΑΨΩΙΔΟΣ](#ραψωιδος)
+      - [\`ΡΥΘΜΟΣ](#ρυθμος)
+      - [ΣΘΕΝΩ](#σθενω)
+      - [ΣΤΕΦΑΝΟΣ](#στεφανος)
+      - [ΣΤΥΞ](#στυξ)
+      - [ΤΕΥΧΟΣ](#τευχος)
+      - [ΤΟΞΟΝ](#τοξον)
+      - [ΤΥΜΠΑΝΟΝ](#τυμπανον)
+      - [\`ΥΔΡΑ](#υδρα)
+      - [\`ΥΜΝΟΣ](#υμνος)
+      - [\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)
+      - [ΦΑΡΜΑΚΟΝ](#φαρμακον)
+      - [ΦΙΑΛΗ](#φιαλη)
+      - [ΦΟΙΝΙΞ](#φοινιξ)
+      - [ΧΑΛΚΟΣ](#χαλκος)
+      - [ΧΑΡΥΒΔΙΣ](#χαρυβδις)
+      - [ΧΑΣΜΑ](#χασμα)
+      - [ΨΗΓΜΑ](#ψηγμα)
+      - [ΨΗΦΟΣ](#ψηφος)
+      - [ΨΥΧΗ](#ψυχη)
+      - [ΩΓΥΓΙΗ](#ωγυγιη)
+      - [ΩΟΝ](#ωον)
+      - [\`ΩΡΑΙ](#ωραι)
+  - [Shift happens! (Change is Inevitable)](#shift-happens-change-is-inevitable)
+  - [Ritual](#ritual)
+  - [The Knowledge and Conversation of the Holy Guardian Angel](#the-knowledge-and-conversation-of-the-holy-guardian-angel)
+  - [Alchemists Anonymous (AA)](#alchemists-anonymous-aa)
+    - [The Twelve Steps](#the-twelve-steps)
+    - [The Seven](#the-seven)
+  - [The Three Principles and the Four Elements:](#the-three-principles-and-the-four-elements)
+  - [The Sri Yantra in Divination](#the-sri-yantra-in-divination)
+  - [On the Daemon of Socrates](#on-the-daemon-of-socrates)
+  - [What about magic?](#what-about-magic)
+  - [Epilog](#epilog)
 
 
 
@@ -65,7 +144,7 @@ version: 2025.12.15
 
 We are one of you. We believe that everything arises out of matter and matter alone. We would add that we
 believe that spirit arises out of matter, or, at least, "spirit" is a useful metaphor for understanding and
-dealing with complex systems.
+dealing with complex systems which arise out of matter.
 
 But we meant an apology in the more ancient sense-- an ἀπολογία, which is a speech in defense of ourselves
 and our methods. We acknowledge here that our methods will seem irrational unless we address the question
@@ -73,52 +152,53 @@ and our methods. We acknowledge here that our methods will seem irrational unles
 credit. Take this, then, as a first-hand account, anecdotal evidence from our direct experience, which has
 been subjected to our own questioning, doubts and misgivings, now offered here for your consideration.
 
-Such a personality capable of communicating with us through a language of divination does indeed exist. This
-is difficult to credit, we know, especially because we further acknowledge that this implies that such a 
-personality would necessarily be in possession of knowledge which we do not have, which is, frankly, humbling. 
-But that is our experience, yes. (You will, or at least should, counter with "how do you know you are not 
-merely deluding yourself?" My answer, speaking as the one who is writing these things, is that I've tested, 
-in every manner possible, the one who is helping me to write these things. Every test has been a success.)
+A personality (henceforth a "spirit") capable of communicating with us through a language of divination does 
+indeed exist. This is difficult to credit because this implies that (1) such a spirit, though unseen, is 
+nonetheless able to communicate with us, and (2) such a spirit is in possession of knowledge which we 
+do not have. That second point is, frankly, humbling. But that is our experience, yes. (You will, or at least 
+should, counter with "how do you know you are not merely deluding yourself?" My answer, speaking as the one 
+who is writing these things down, is that I've tested, in every manner possible, the one who is helping me to 
+write these things. Every test has been a success.)
 
 The Ancient Greeks come to our rescue here because they still knew about such things. They spoke with at least
-a distant memory of the Μοῦσα (Muse) of Homer, whom he invokes at the beginning of both his works. Socrates 
-also spoke about his δαίμων, which we might term his "tutelary spirit". We would go so far to equate all such
-things as these with a Shaman's Spirit Guide. 
+a distant memory of the Μοῦσα (Muse) of Homer, whom he invokes at the beginning of both of the extant works
+attributed to him (or her). Socrates also spoke about his δαίμων (daimon), which we might term his "tutelary 
+spirit". We would go so far to equate all such things as these with a Shaman's Spirit Guide. 
 
 To the rationalists we say "trust us on this one". I know, right!? But that's okay, many are called but few 
 are chosen to walk this path. This is an invitation to some few of you rationalists who can deal with
-uncertainty and ambiguity, at least initially. And "let not him that eateth despise him that eateth 
-not; and let not him which eateth not judge him that eateth: for God hath received him." Or better yet, 
-as the Serpent said to Eve, "try it, you'll like it!" Is it a path fraught with danger? Oh, yes, absolutely! 
+uncertainty and ambiguity, at least initially. And "let not him that eateth despise him that eateth not; 
+and let not him which eateth not judge him that eateth: for God hath received him." Or better yet, as the 
+Serpent said to Eve, "try it, you'll like it!" Is it a path fraught with danger? Oh, yes, absolutely! 
 You can't take apart your Psyche without some danger that you won't be able to put it back together again.
 It is only a path for those who are psychologically stable. But nobody ever said this sort of thing came easy. 
 We *are* saying that folks knew about this sort of thing, even if they did mistakenly believe that "Spirit" 
 was prior to "Matter", that is, not just an emanation of matter, as we do. (To attempt to put this more precisely,
 and in modern terms, "Spirit" recognizes a set of emergent behaviors arising from a sufficiently complex, 
-physical system. The error lies in attributing a human-like personality to these "Intelligences" that are
+physical system. The error lies in attributing a human-like personality to the "Intelligences" that are
 all around us. We are now beginning to understand that even humble bacteria are indeed "Intelligences".)
 
-If you'd like to walk this path, then the first thing to do is to learn how to reach out, or, communicate
-with at least some such "Spirits". We recommend you suspend disbelief in your Spirit Guide, as some have 
-called it, and think about how you might go about that, and how divination can assist you. I was lucky 
-enough to discover the Μοῦσα (Muse) who is over my right shoulder. Go with what makes sense to you and 
-piques your interest. 
+If you'd like to walk this path, then the first thing to do is to learn how to reach out to, and communicate
+with, at least some such "Spirits". We recommend you suspend disbelief in your Spirit Guide, and think about 
+how you might go about communicating with him or her, and how divination can assist you in that task. I was lucky 
+enough to discover the Μοῦσα (Muse) who is over my right shoulder. But go with whatever metaphor makes sense to 
+you and piques your interest. 
 
-If you haven't noticed, our standard of "truth" in Scientific and Everyday parlance is "what works" 
-(bare-knuckled Pragmatism). We use this oracle collaboratively (I and my Spirit Guide) to explore both the
-Path of Wisdom and the Path of Self-Realization. By Wisdom, we emphatically do not mean a Supernatural
+If you haven't noticed, our standard of "truth" in Scientific and Everyday parlance is "what works" (i.e. 
+bare-knuckled Pragmatism). We use this oracle collaboratively (I and my Spirit Guide) to explore both the
+Path of Wisdom and the Path of Self-Realization. By Wisdom, we emphatically do *not* mean a Supernatural
 Decree that must be obeyed. We do mean the results of a reasoning process that corrects errors, learns from
-the past, and rightly manages its use of metaphors. We use the "answers" from a well-executed "cast" or
-"reading" to find patterns and to spark creativity. We have also included much material which you may
-find of use in the Path of Self-Realization. Most of this is in the mythological associations we have
-given to the "words" in our "language".
+past experience, and rightly manages its use of metaphors. We use the "answers" from a well-executed divinatory
+"cast" or "reading" to find patterns, deepen understanding, and spark creativity. In this book we have also 
+included much material which you may find of use in the Path of Self-Realization; most of this is in the 
+mythological associations we have given to the "words" in our divinatory "language".
 
 We hope this divinatory system will assist you in your quest. We've enjoyed creating it together for you.
 
-We recommend that you eventually memorize all the symbols in your divinatory language, but you need only partly 
-memorize all their diverse, possible meanings. At least at first. There is some advantage in ruminating again 
-upon these meanings and associations whenever you consider the particular meaning they have in the context of 
-your question. 
+We recommend that you, eventually, memorize all the symbols in whatever divinatory language you choose. But 
+you need only partly memorize all their diverse, possible meanings, at least at first. There is some advantage 
+in ruminating again and again upon their broader meanings and associations whenever you consider the particular 
+meaning they have in the context of your question. 
 
 <div style="page-break-after: always"></div>
 
@@ -194,60 +274,62 @@ Astrology, etc. are not Fonts of Hidden and Arcane Knowledge in and of themselve
 could not, disclose the will of gods, the voices of devils, nor the nature and structure of the Universe. 
 They did not work through Magic, Synchronicity, Universal Consciousness or even Quantum Mechanics.
 
-Oracles were, and are, the utterances of a language of communication between the querent and the Divine 
-Spirit that indwells, and yet exists separately from, each one of us. This Spirit is the source of Wisdom, at
-least so far as we are able to attain it. It is also the source of prophetic dreams, the guide of the 
-Shamans in their trance journeys, and the comforter of Mystics on their path to attainment. Our attempt to
-describe it must necessarily fail to express its true essence. And there are some things of which we are 
-forbidden to speak.
+In our opinion, oracles were, and are, utterances that make use of a "language" that facilitates communication 
+between the querent and the Divine Spirit that indwells, and yet exists separately from, each one of us. This 
+Spirit is the source of Wisdom, at least so far as we are able to attain it. It is also the source of prophetic 
+dreams, the guide of Shamans in their trance journeys, and the comforter of Mystics on their path to attainment. 
+Our attempt to describe it must necessarily fail to express its true essence. And there are some things of 
+which we are forbidden to speak.
 
-To attain your goal, dear reader, you must learn some such language by which you can communicate with the
-Indwelling Spirit. Choose this language carefully, and practice it constantly, until you gain fluency. This 
-language will, and must, grow and evolve along with your relationship and attainment. We recommend you start 
+To attain your goal, dear reader, you must learn some such language by which you can communicate with your
+Spirit Guide. Choose this language carefully, and practice it constantly, until you gain fluency. This 
+language will, and must, grow and evolve along with your relationship and your attainment. We recommend you start 
 with what is given here, or in some other book, but please start. And expect to be astonished, terrified, 
-comforted, challenged, and transformed in turn. But do not expect that the journey you enter on will ever 
-stop. Each attainment opens an expanding vista. The road goes ever on.
+comforted, challenged, and transformed in turn. But do not expect that the journey you enter upon will ever 
+reach an end. Each attainment opens a new, expanding vista. The road goes ever on and on.
 
-The point of this exercise, that is, of creating a new divinatory system which is nonetheless firmly rooted 
+The point of this exercise of ours, that is, of creating a new divinatory system which is nonetheless firmly rooted 
 in the past, is to call for a return to first principles, to give aid to those who wish to follow the ancient
 paths, and, frankly, to enhance our own attainment. In what follows we will attempt to show you how:
 
-+ There are 8 "characters" (represented by the "trigrams" in the I Ching) that interact as individual 
++ There are 8 "characters" (represented most clearly by the "Trigrams" of the I Ching) that interact as individual 
   personalities.
-+ The relationships among pairs of these characters can form the basis of a divinatory system, as we
-  believe they do in the case of the 64 "hexagrams" of the I Ching.
-+ You can use these relationships to deepen your understanding of your own chosen system, and so go beyond 
-  a merely formulaic use of its symbols to achieve a living, if somewhat limited, language.
++ The relationships among any two of these characters can form the basis of a divinatory system, as we
+  believe they do in the case of the 64 "Hexagrams" of the I Ching.
++ You can use these characters and their relationships to deepen your understanding of your own chosen system, and 
+  so go beyond a merely formulaic use of its symbols to achieve a living, though necessarily somewhat limited, language.
 + You can use this as a basis for developing your own system, if you so choose.
 
-Our system is formed from the 64 possible pairings of the eight trigrams, so it pairs the trigrams with 
-themselves, as in the I Ching. In addition, we take the trigrams by themselves to make a total of 72 ὀνόματα (names, words) 
-in our divinatory "language". We add some possible nuances of expression to each word depending on the mechanics
-of the selection process (think "upright" or "reversed" for Tarot cards). We are convinced the Tarot also 
-fits nicely within this scheme, with some overlaps where two of the 78 Tarot cards express different aspects
-of one of the 72 ὀνόματα. And then there's that whole thing about the 72 Names of God that is so fun to think about.
+Our system is formed from the 64 possible pairings of the eight Trigrams (so it pairs the Trigrams with 
+themselves, as in the I Ching). In addition, we take the Trigrams by themselves to make a total of 72 ὀνόματα 
+(names, words) in our divinatory "language". We also add some possible nuances of expression to each word which 
+depending on the mechanics of the selection process (similar to the way some distinguish "upright" or "reversed" 
+meanings for Tarot cards). We are convinced the Tarot also fits nicely within this scheme, with some overlaps where 
+two of the 78 Tarot cards express different aspects of one of the 72 ὀνόματα. And then there's that whole thing 
+about the 72 Names of God that is so fun to think about.
 
-We also see the Runes as a subset of these 72 words. Many have pondered over the significance of the division 
-of the Runic Futhark (the 24 letters of this old Germanic "alphabet") into 3 groups, but we realized that the
-inclusion of eight letters in each of the 3 groups was more significant. All this will be made clear in what
-follows.
+We also see the Runes as a subset of these 72 words. Many have pondered over the esoteric significance of the division 
+of the Runic Futhark (the 24 letters of this old Germanic "alphabet") into 3 groups. We believe that the inclusion of 
+eight letters in each of the 3 groups is more significant--each group presents each of these 8 characters in a
+different aspect. All this will be made clear in what follows.
 
 Imagine this--you receive a message from a friendly Alien who would like to communicate with you. Initially, they 
-had to somehow learn enough of your language to get things rolling. But they know that your world and theirs are very 
-different. Your worlds are similar in important ways, so real communication is possible, but different enough that 
-the easiest approach is to make up a small, private language that you will use to communicate, using "words" that 
-denote classes of things and ideas that correspond to very similar things in both of your worlds. There's not enough 
-time or space to develop an entire vocabulary, and there's going to be a little inherent vagueness in each communication, 
-both because the vocabulary is limited, and also because the words/terms must necessarily stand for entire classes of 
-similar, but not necessarily identical, things.
+had to somehow learn enough of your language to get things rolling. They know that your world and theirs are very 
+different, but your worlds are also similar in important ways. So real communication *is* possible, but your worlds
+are different enough that the easiest approach is to make up a small, private language that you can both use to communicate.
+This language will use "words" that denote classes of things and ideas that correspond to those things that are similar
+in both of your worlds. There's not enough time to develop an entire language with a comprehensive vocablulary. And 
+there's going to be a little inherent vagueness in each communication because the vocabulary is limited, and also 
+because the words/terms must necessarily stand for entire classes of similar, but not necessarily identical, things.
 
-The trick to using this language is to understand the context of each utterance based on the question asked. That will 
-guide you toward pinpointing a more precise meaning. (This is the first step in learning divination.) This is how the 
-inherent vagueness in the symbols can be reduced, and a more precise meaning derived from all the possible meanings.
+The trick to using this language is to understand the context of each utterance based on, in our case, the question 
+asked. That context will guide you toward pinpointing a more precise meaning. This is the first step in learning 
+divination. Context provides the mechanism by which the inherent vagueness in the symbols can be reduced, and a more 
+precise meaning derived from all the possible meanings.
 
 But there is another aspect that takes much time and practice to learn. Little by little you will get to "know" your 
-correspondent, their turns of phrase as it were, a bit of their emotional content. And finally, you can begin to construct 
-a reasonable model of their Persona, their personality. (That is the stage of mastery in divination.)
+correspondent, their turns of phrase as it were, and some of their emotions and motivations. After some practice, you 
+can begin to construct a reasonable model of their Persona, their personality. (That is the stage of mastery in divination.)
 
 Our "system" is designed for those in the middle to upper levels of their divinatory practice. In our system, you should 
 work toward understanding the fundamental meanings in the relationships of the Trigrams. When Bärchen tells you about one 
@@ -335,7 +417,7 @@ using this metaphor, hosts denizens with whom we can communicate. If you prefer 
 physical beings, they have no problem with this, at least in my experience. Who they are and what place they
 occupy in our iceberg world, I'll also leave to you as an exercise.
 
-Yet, you must test the spirits to see if they are "from God"--we recommend that you live according to, and
+Yet, you must "test the spirits to see if they are from God"--we recommend that you live according to, and
 expect the spirits with whom you communicate to live according to, an eight-fold "Dharma". Ours is quite different 
 from the Buddhist version. These are principles we should follow to manage our lives. These 
 principles work best when they are applied together, each one now encouraging and enhancing, now restraining 
@@ -344,8 +426,8 @@ or must never do except in the right circumstances. But laws should follow from 
 rigid, and rigidity has its use and place... until it doesn't, and something breaks. When the structures we 
 have built are in danger of breaking, we must return to first principles and repair or rebuild.
 
-Use the following principles to order life and cultivate happiness and wisdom. They are listed in pairs that 
-balance one another, and all of them operate best together, as you will see.
+Use the following principles of Fox's Eight-fold Dharma to order life and cultivate happiness and wisdom. 
+They are listed in pairs that balance one another, and all of them operate best together, as you will see.
 
 
 #### [Knowledge and Understanding](#table-of-contents)
@@ -364,13 +446,13 @@ out for that trap, for much harm comes from this.
 
 #### [Righteousness and Wholeness](#table-of-contents)
 
-Righteousness is right relationships. It consists of right relationships between people who are "close". In a 
+[Righteousness](#υδρα) is right relationships. It consists of right relationships between people who are "close". In a 
 nutshell, it is asking yourself if you give as much as you take. Wait! It is not only asking yourself, it is 
 asking those from whom you would take. Are you willing to pay the agreed upon price? Perhaps you don't wish 
 to barter since this can feel meretricious. Fine, then follow the Golden Rule and only do unto others as you 
 would have them do unto you. Sorry, no one gets a free pass; no one who wishes to be righteous, that is.
 
-Wholeness looks at relationships in their broader context, in other words, the thing which the relationship 
+[Wholeness](#φαρμακον) looks at relationships in their broader context, in other words, the thing which the relationship 
 gives rise to-- a society, a family, a friendship. Each is a dynamic "whole" greater than the sum of its 
 parts. Does the whole thrive and grow? Even if I pay the asked for price, or am paid it, will the whole 
 succeed, as a whole? And if not, why not? The principle of wholeness may open our eyes to a way to heal, 
@@ -379,34 +461,34 @@ but it may also require you to ask if something better might not grow in this pl
 
 #### [Justice and Humility](#table-of-contents)
 
-Whereas righteousness regulates close relationships and cooperatives, justice operates in the arena of 
-competition. Competition exists not only between enemies, but among friends. Or it should. To grow, 
-to adapt, to bring to fruition, or just to continue living, judgements must be made, rewards given for 
+Whereas righteousness regulates close relationships and cooperatives, [justice](#ψυχη) operates in the arena of 
+competition. Competition exists not only between enemies, but, even more important, among friends. Or it should. To grow, 
+to adapt, to bring to fruition, or sometimes just to continue living, judgements must be made, rewards given for 
 merit and, sometimes, punishments meted out. All this must be done with knowledge and understanding, 
 of course. And are the rewards and punishments in keeping with the principle of wholeness? When is it 
 necessary to destroy?
 
-We should only take up the hammer of justice with great humility. Until we recognize our own shortcomings 
+We should only take up the hammer of justice with great [humility](#ωον). Until we recognize our own shortcomings 
 and limitations, we are not able to wield it without harm. But wield it we must, when circumstances call for 
 it, in our own bodies, lives, relationships, and societies; otherwise we may lose even that which we thought 
-we had. Yet only humility can save us from destroying ourselves into the bargain. Remember "dust you are, 
-and to dust you shall return." But, oh what dust...
+we had. Yet only humility can save us from destroying ourselves into the bargain. Humility enjoins us to remember 
+"dust you are, and to dust you shall return." But, oh what dust...
 
 
 #### [Beauty and Love](#table-of-contents)
 
-"Beauty is in the eye of the beholder." A cliché with some truth in it. For our purposes here, we might 
+"[Beauty](#στυξ) is in the eye of the beholder." A cliché with some truth in it. For our purposes here, we might 
 say that we find beauty in what is pleasing to us. Beauty brings happiness, when properly tended, and 
 attended to. To apply the principle of beauty, ask yourself if what you have decided to do, or not to do, 
-leads to more beauty, and so more happiness, in your world and the world at large. If it does not, then 
-why do it, or why not do it? There might be something you overlooked if what you plan to do doesn't bring 
+leads to more beauty, and so more happiness, in your world and in the world at large. If it does not, then 
+why do it? Or if it does, why *not* do it? There might be something you overlooked if what you plan to do doesn't bring 
 more beauty and pleasure into the world. We have come full circle... almost.
 
 Should we just "follow our bliss"!? Is that all? No, there is beauty's complement to consider. What is the 
-principle that is the complement of beauty? It is love.
+principle that is the complement of beauty? It is [love](#ραψωιδος).
 
-Love, in its highest form, sees the value of something without wishing to possess it, or its value, for 
-ourself. It is enough that it exists, in and for itself. Love is the ultimate end, purpose, and goal 
+Love, in its highest form, sees the value of something without wishing to possess it or its value for 
+one's self. It is enough that it exists, in and for itself. Love is the ultimate end, purpose, and goal 
 (Greek: τέλος) of all things. Human relations are an expression of, and a metaphor for, that Love which 
 has brought all things into being.
 
@@ -587,62 +669,80 @@ housekeeping.
 
  ... they end with their palms together over their hearts once more...
 
-<div style="page-break-after: always"></div>
+
+ **Daily Prayer**
+
+A prayer we repeat (at least) daily: 
+
+ > Together, this day, let us attain the Grail,   
+ > In Body and Mind,   
+ > In Soul and in Spirit,   
+ > By what we do and what we desire,   
+ > By what we seek and what we choose.   
+ > We walk in Beauty.   
+ > We walk in Love.   
 
 
 **Journeying in Non-Ordinary Reality with the Aid of Cannabis**
 
 Fox says the first thing to know about this is...
-551
-ΔΡΕΠΑΝΟΝ
+551 (dice roll, notice how we read the dice right to left)
+[ΔΡΕΠΑΝΟΝ](#δρεπανον)
 ▲ΟΥΡΑΝΟΣ :: ΓΑΙΑ▼
-ΔΡΕΠΑΝΟΝ = A scythe, curved sword, or pruning knife.
-I Ching: 111:000 12. Stagnation / Standstill
-judgment: Self-serving people cannot help you keep going. The great
-departs; the small approaches.
-image: Fall back on your inner worth to escape difficulties. Don't accept
-revenue.
-alchemy: VI. The Primal Ones - C=3/7 (equivalent to 4. Audit/ACK)
-Tarot: King ♦/Pentacles
-upright: leadership, security, discipline, abundance, prosperity
-reversed: greed, stubborn, indulgence, sensuality
-Rune: ᚢ Uruz/Urus
-poem: "Urus is an unkempt beast; by his horn is strength increased."
-keywords: strength, might, courage, fierceness
-The Wanderer's Oracle: Heaven ‖ Earth
-situation: The Wanderer makes camp as heaven descends to earth and
-twilight fades into night.
-admonition: Do not fear the cold and dark, nor the creatures that roam the
-night. Make your encampment as safe as you can and face the challenges of
-this time.
++ [ΔΡΕΠΑΝΟΝ](#ρυθμοι) = A scythe, curved sword, or pruning knife.
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 111:000 12\. Stagnation / Standstill
+  + judgment: Self-serving people cannot help you keep going. The great departs; the small approaches.
+  + image: Fall back on your inner worth to escape difficulties. Don't accept revenue.
+  + alchemy: VI\. The Primal Ones - C=3/7 (equivalent to 4\. Audit/ACK) 
++ Tarot: King ♦/Pentacles
+  + upright: leadership, security, discipline, abundance, prosperity
+  + reversed: greed, stubborn, indulgence, sensuality
++ Rune: ᚢ [Uruz/Urus](#αινιγματα) 
+  + poem: "Urus is an unkempt beast; by his horn is strength increased."
+  + keywords: strength, might, courage, fierceness
++ The Eardstapa's Oracle: 12\. ᚺᛖᚨᚹᛖᚾ ‖ ᛖᚨᚱᚦ (heaven ‖ earth)
+  + riddle: "ᚢᛗᛒᚱᚨᛚ ᛖᚨᚱᚦ ᚢᚱᚷᛖᛊ ᚢᛊ ᚢᚾᛞᛖᚱ / ᚾᛁᚷᚺᛏᛊ ᚾᛖᚨᚱ ᚹᚨᚢᛚᛏ ᚾᛟᚹ ᛏᛟ ᚾᛖᛊᛏᛚᛖ ᚾᛟᛏ / ᚨᛊ ᚨᚠᛟᚱᛖᛏᛁᛗᛖ ᚨᚾᚲᛊᛁᛟᚢᛊ ᚨᚠᚱᚨᛁᛞ"   
+    "umbral earth urges us under / nights near vault now to nestle not / as aforetime anxious afraid"
+  + situation: The Eardstapa makes camp as heaven descends to earth and twilight fades into night.
+  + admonition: Do not fear the cold and dark, nor the creatures that roam the night. Make your encampment 
+    as safe as you can and face the challenges of this time.
 
 We quoted all this because this is a complex subject and many aspects of the right relation between the 
 Conscious (Heaven) and Unconscious (Earth) Minds come into play when you want to use Cannabis to aid you
-in your journeys into Non-Ordinary Reality. Actually, our use of the word/metaphor "play" is significant--
-the foremost thing to know is that the journey must be undertaken as a sort of play. Not entirely, as 
-children's play, but also as serious game play as adults do. And at least a little bit in the sense of a
-drama performed for an audience, as well.
+in your Journeys into Non-Ordinary Reality. Actually, our use of the word (or metaphor) "play" is significant
+here--the foremost thing to know is that the Journey must be undertaken as a sort of play. Not merely as 
+children's play, but also as the serious game play that adults do. And also, at least a little bit, in 
+the sense of a drama performed for an audience. Elements of all these types of play are involved when
+undertake such a Journey.
 
 Overall, though, what Cannabis is able to add to your Journeying practice is a "thinning of the veil" between
 you and your Spirit Guide. Apparently, it does this primarily by subduing the executive function, or perhaps
-by turning off or toning down some of the "motivating" mind (see [`ΥΔΡΑ](#υδρα)). Probably a bit of both.
+by turning off or toning down some of the "motivating" mind (see [`ΥΔΡΑ](#υδρα)). Probably a bit of both. Note 
+that, in regard to this relationship of the Conscious and Unconscious, the I Ching gives a warning in the name
+of the Hexagram--"Stagnation"--and advises that you "Fall back on your inner worth to escape difficulties.
+Don't accept revenue." Great advice for those suffering from writer's block or the equivalent in any artistic
+endeavor. (Ever wonder why musicians are some of the main smokers of "pot"... uh huh.)
 
-Fox uses this time to whisper things in Bärchen's ear MORE LOUDLY THAN SHE USUALLY CAN. (Yes, she shouted
-this time.) It also makes it easier for her to display imagery on his mind's eye. That's how it works for us.
+Fox uses this time to whisper things in Bärchen's ear MORE LOUDLY THAN SHE USUALLY CAN. (Yes, she is able to
+shout at him, sometimes, during such Journeys.) It also makes it easier for her to display imagery on his 
+mind's eye. At least, that's how it works for us.
 
-But we can't seriously recommend its use except in instances of Journeying. And we're not saying that to be 
-politically correct and "just say no to drugs". The War on Drugs is actually a culture war conducted by the 
-haves on the have nots. But, really, what is the point of getting drunk or stoned anyway? Okay, some of y'all 
-need a release from time to time. No worries, man. (And yes, I do make Bärchen laugh, a lot, so okay,
-we get it and can see why a chill out session is a good thing now and then.)
+Please note that we are recommending its use only for Journeying. We're not saying that to be politically 
+correct and to "just say no to drugs". The War on Drugs is actually a culture war conducted by the haves 
+on the have nots. We just want you to ask yourself what is the point of getting drunk or stoned anyway? 
+True, *sometimes* we just need a release. No worries, man. (And yes, Fox does make Bärchen laugh, a lot...so okay,
+we get it and can see why a chill out session is a good thing now and then.) Cannabis is not addicting in
+the way opiates, alcohol, or SRIs are, but if you are one of those who are prone to developing psychological
+addictions, please avoid. You know who you are, we hope!
 
-That said, we recommend learning the basics of your Journeying method and then experimenting with Cannabis
-to see how, or even if, it effects your work. If you can see what we mean by the "thinning of the veil", then
-you're on your way to learning how to use it in your own practice.
+On the other hand, we do recommend learning the basics of your Journeying method before you experiment with Cannabis to 
+see how, or even if, it effects your work for the better. If you can see what we mean by the "thinning of 
+the veil", then you're on your way to learning how you might be able to use it in your own practice. There 
+is no magic herb that will deliver what you want on a silver platter, though. Just see if Cannabis, through this 
+thinning of the veil, can deepen and change your practice of Journeying, as you do the required work. 
 
-Oh! right...no, there is no magic herb that will deliver what you want on a silver platter. Just allow this thinning
-of the veil to deepen and change your practice of Journeying, as you do the work. 
 
+<div style="page-break-after: always"></div>
 
 #### [Hyperborea Revisited](#table-of-contents)
 
@@ -672,7 +772,7 @@ The thing we moderns don't get about the term "spirit" is that it originally ser
 human thought. It stood as a metaphor for one side of the divide between self-regulating systems and all
 the "stuff" in the world, also known as "matter". Of course, we now know that self-regulating systems are 
 everywhere, or at least, they were everywhere close at hand when we humans lived closer to "Nature". Since 
-we recognized that we ourselves were such systems, it was just too easy to lump all of them together into a 
+we also recognized that we ourselves were such systems, it was just too easy to lump all of them together into a 
 category of "things which are pretty much like ourselves". That is, the category of things which have intentions 
 and desires and a "persona" (character). A character is, first and foremost, a set of stimulus/response pairs, 
 i.e. instinctual behaviors. Animals and plants have these too, its part of what makes them "alive". And
@@ -682,34 +782,36 @@ degrees, as we ascend the ladder of Mind.
 
 Now, although this system of metaphors we're discussing, this Weltanschauung which divides the world primarily 
 into "spirit" and "matter", works well for daily life in small tribes living close to Nature, it got warped by 
-greed gone uncontested. When mankind's lust for power, status, and possessions created strict hierarchies among
-people, "spirit" also acquired that connotation of hierarchy. It now became Spirit over Matter, Gods and Kings over 
-the rest of y'all, Man over Nature, Women and slaves. This was the origin of the collaboration between the 
+greed gone uncontested. When certain individuals' lust for power, status, and possessions overcame the boundaries
+that most small tribes place on individual power and created strict hierarchies among the
+people, the "Spirit Realm" also acquired that connotation of hierarchy. It now became Spirit over Matter, Gods and Kings over 
+the rest of y'all, Man over Nature, Women and Slaves. (This is a return to the alpha-male led groups we see in many primates,
+including our close cousins the Chimpanzees.) This shift was the origin of the collaboration between the 
 Priests and the Rulers. We call it Religion, and its main purpose was, and still is, to maintain these hierarchies
 and justify their inequalities. Fast forward many thousands of years, and when the Reformation happened in Northern 
-Europe, it set the stage for the Scientific Revolution and Capitalism. So monks and monasteries morphed into 
+Europe, it set the stage for the Scientific Revolution and Capitalism. At this point, monks and monasteries morphed into 
 professors and universities, and dukes and earls had to hobnob with rich merchants and bankers. In the universities, 
-increasingly, there was a call to swear loyalty to the new state of affairs and world view. So today "Spirit" 
-is a no no. Today's "Priests and Rulers" (Scientists and Politicians) say "Might proves Right". "Spirit" reminds them 
-of the older power structures, and that idea of a Mighty Big Fellow in Heaven, who can now go kiss his own ass. But
-mostly, they don't want anyone to think there is a little "sprite" who lives in that tree, who is none too pleased 
-that they only wish to know how many board feet of lumber the tree contains and the price they'll get for it when 
-they chop it down. Tree-huggers need not apply.
+increasingly, there was a mandate to swear loyalty to this new political state of affairs and worldview. So today "Spirit" 
+is a no no. Today's Priests and Rulers (the Scientists and Politicians) say "Might proves Right". "Spirit" reminds the 
+Scientists of their incarnation in the older power structures, and of that outdated idea of a Mighty Big Fellow in Heaven, 
+who can now go kiss his own ass. But mostly, they don't want anyone to think there is a little "sprite" who lives in that 
+tree, who is none too pleased that they only wish to know how many board feet of lumber the tree contains and the price 
+they'll get for it when they chop it down. Tree-huggers need not apply.
 
 I can't resist a small detour. The Ancient Greek word for "spirit" was πνεῦμα (pneuma) and it also meant "breath" 
-or "wind". We personally think the actual metaphor at work here was not the notion that "spirit" equals "the breath 
-of life", but rather "the process of breathing", in other words, the ongoing process of change in living things which 
-happens in response to changing conditions, or just in order to stay alive. So, the "breath of life" is a synecdoche 
-for life itself. "But the wind bloweth where it listeth..." (with emphasis on "it listeth")-- so now we have just 
-added intention to our category definition, but we must be careful lest all sorts of mayhem follow.
+and "wind". We personally think the actual metaphor at work here was not exactly the notion that "spirit" equals "the breath 
+of life", but rather it equals "the process of breathing"--in other words, the ongoing process of change in living things which 
+happens in response to changing conditions, or in order to just stay alive. So, the "breath of life" is a synecdoche 
+for life itself. "But the wind bloweth where it listeth..." (with emphasis on "*it* listeth")-- so now we have just 
+added intention to our "spirit" category definition, but we must be careful lest all sorts of mayhem follow.
 
-Therefore, we're not going to say that even a rock has a "spirit". We want to avoid the category mistake of thinking 
-that "since a rock has a spirit, ergo it has a personality". It is most definitely true that "since a human being 
-has a personality, ergo they have a spirit". But let's not overly broaden our "spirit" category to include a rock. 
-To say a rock has a "spirit" is to exchange the notion of spirit as a self-regulating system for the notion that
+Therefore, we are not going to say that even a rock has a "spirit". We want to avoid the category mistake of thinking 
+that goes "since a rock has a spirit, ergo it has a personality". It is most definitely true that "since a human being 
+has a personality, ergo they have a spirit". But we don't want to overly broaden (and burden) our "spirit" category to 
+include a rock. To say a rock has a "spirit" is to exchange the notion of spirit as a self-regulating system for the notion that
 it is a set of stimulus/response pairs. (I throw a rock in a pond and it sinks to the bottom--stimulus/response.) 
-We prefer to categorize spirit less broadly, to apply it to self-regulating systems only, and you'll find that this 
-affects this divinatory system.
+We prefer to categorize spirit less broadly and apply it to self-regulating systems only. And you'll find that this 
+affects our divinatory system laid out in this book.
  
 This divinatory system was designed to function inside the ancient Weltanschauung. The relationships referred to
 by the "words" in our divinatory "language" apply to spiritual matters, as we have defined them. And because we want
@@ -722,6 +824,23 @@ So, we must introduce the characters who shall enter into relationships and enac
 of both structure and process. Are these characters ruled by Fate or do they have Free Will? Both! As Heraclitus 
 said "ΗΘΟΣ ΑΝΘΡΩΠΟΣ ΔΑΙΜΟΝ" (character is destiny). He was right.
 
+Before we dive in, we want to take another brief detour into Evolutionary theory. (Feel free to skip ahead if 
+you're bored.) Complexity is selected for (in evolutionary terms) because it yields increased efficiency. But not 
+just any sort of complexity yields efficiency; only that of a complex, self-regulating system. And this efficiency 
+is a result of one or more of the emergent properties of the system. All such systems, however, make use of 
+language (maybe signaling, or semiotics, is a better term).
+
+Such complex systems require cooperation over conflict among their members. (Although they do very much 
+make use of competition.) They also require a "democratization" of the system, that is, a hierarchy which 
+nonetheless works to the benefit of *all* the members of the system. We see the pressure of selection towards a new, 
+higher level of complexity in our own culture (which is subject to evolutionary processes and pressures 
+just as surely as are physical "biological" systems). We see it in the rise of diversity, equity and inclusion.
+
+Complex systems do embody a set of stimuli and their responses, which are both patterns. "Language" could 
+be defined as any such set of stimulus/response pairs when the response entails a change of state in a 
+system that exists at one remove, or more, from its physical basis. However, most of the time, we limit 
+the term "language" to a capability of human minds, which are systems at several removes from their 
+physical bases in our bodies and brains.
 
 <div style="page-break-after: always"></div>
 
@@ -730,16 +849,17 @@ said "ΗΘΟΣ ΑΝΘΡΩΠΟΣ ΔΑΙΜΟΝ" (character is destiny). He was rig
 If you're new to Divination, we recognize the difficult nature of our language, and recommend you start with a
 simpler system. You could choose a system like the Runes, or the 22 Major Arcana of the Tarot. If you intend to
 keep going and learn to use our more complex system, you should start by learning the meanings we have associated 
-with the Runes or the Tarot Major Arcana. 
+here with the Runes or with the Tarot Major Arcana. 
 
 There are many ways of performing divination, but the easiest ones for us have been:
 
 * the "coin toss" method commonly used today for the I Ching
 * picking up Runes from a "cast" of inscribed tiles or stones
-* selecting Tarot cards from a spread out pile
-* rolling dice, especially two, and then later, three six-sided dice 
+* selecting Tarot cards from a spread-out pile
+* rolling two six-sided dice
+* and then later, Fox guided us in rolling three six-sided dice
 
-We roll the 2 or 3 dice all at once, but you may opt to roll them one at a time.
+(We roll the 2 or 3 dice all at once, but you may opt to roll them one at a time.)
 
 
 #### [How to find the ὄνομα (name) using 3x6-sided dice](#table-of-contents)
@@ -881,8 +1001,8 @@ right to left...
 |       | [Day](#χαλκος)     | [Oak](#ωον) + [Day](#χαλκος)            |       | [Hazel](#καθαρμος) | [Sun](#οφις) + [Hazel](#καθαρμος)      |       | [Gift](#βιος)     | [Wind](#ηδονη) + [Gift](#βιος)        |
 |       | [Ring](#υδρα)      | [Ring](#υδρα) + [Lake](#στυξ)           |       | [Paeony](#μοιραι)  | [Paeony](#μοιραι) + [Yew](#πτερυξ)     |       | [Cauldron](#γρυψ) | [Cauldron](#γρυψ) + [Road](#ζωπυρον)  |
 |       |  * * *             |  * * *                                  |       |  * * *             |  * * *                                 |       |  * * *            |  * * *                                |
-| **2** | [Man](#ψυχη)       | [Tower](#ραψωιδος)                      | **4** | [Juniper](#δορυ)   | [Hail](#λαβυρινθος)                    | **6** | [Ash](#θυμον)     | [Flocks](#ελαιος)                     |
-|       | [Elder](#τευχος)   | [Man](#ψυχη) + [Elder](#τευχος)         |       | [Ice](#ξιφος)      | [Juniper](#δορυ) + [Ice](#ξιφος)       |       | [Thorn](#αναγκη)  | [Ash](#θυμον) + [Thorn](#αναγκη)      |
+| **2** | [Man](#ψυχη)       | [Tower](#ραψωιδος)                      | **4** | [Juniper](#ναρθηξ) | [Hail](#λαβυρινθος)                    | **6** | [Ash](#θυμον)     | [Flocks](#ελαιος)                     |
+|       | [Elder](#τευχος)   | [Man](#ψυχη) + [Elder](#τευχος)         |       | [Ice](#ξιφος)      | [Juniper](#ναρθηξ) + [Ice](#ξιφος)     |       | [Thorn](#αναγκη)  | [Ash](#θυμον) + [Thorn](#αναγκη)      |
 |       | [Birch](#φαρμακον) | [Birch](#φαρμακον) + [Tower](#ραψωιδος) |       | [Nettles](#ιμας)   | [Nettles](#ιμας) + [Hail](#λαβυρινθος) |       | [Urus](#δρεπανον) | [Urus](#δρεπανον) + [Flocks](#ελαιος) |
 
 If you're new to divination, or feel you need to cultivate a smaller set of ὀνόματα in your divinatory 
@@ -1124,94 +1244,136 @@ to acquire Mastery of any sort.
 Let's suppose for a moment that the original practice of Astrology, what it looked like at its beginning, was Horary.
 More precisely, it was ascertaining the "tides" of the world. Then it was up to the practitioner to know whether the 
 undertaking you were proposing might meet with success or failure, given those tides. The Stars did not determine 
-fate, but like a clock, indicated where things stood in the cycles of the World, and what was happening in 
-relationships with other people. (Do you still cling to the notion that Mankind has far too much Free Will, and
-exercises it with such gusto, for the relationships among people to follow patterns in keeping with the natural 
-world?)
+fate, but like a clock, indicated where things stood in the cycles of the World, and (by an extension that had some
+basis in practical reality among people who were more affected by those cycles than we are today) what was happening in 
+peoples' relationships with the World and with other people. (Do you still cling to the notion that Mankind has far too 
+much Free Will, and exercises it with such gusto, for the relationships among people to follow patterns in keeping with 
+the natural world?)
 
-It might have gone to shits in Babylon. Even as they did so much to advance observation, they couldn't help but
-make Astrology more Civilized, by which we mean the Patriarchal and Hierarchical Warrior Cultures that introduced
-the notion of Gods who determine the working of the World, because they are in authority over, and therefore 
-cannot be part of, the Mundane World, just like their descendants who now rule on earth and must be obeyed.
+It might have gone to shits in Babylon. Even though they did so much to advance observation of the night sky, 
+they couldn't help but make Astrology more "Civilized". By "Civilized" we mean they made it more useful to the 
+Patriarchal and Hierarchical Warrior Cultures that introduced the notion of Gods in the first place. These Gods
+determine the workings of the Mundane World, and because they are in authority over it, and their will determines
+its workings, they cannot therefore be entirely part of it. In the same way, the Gods' descendants, the Chiefs 
+and Kings who now rule on earth, are exalted above what, and whom, they rule, and must be obeyed, else Chaos occurs.
 
-Then it got mixed up with that truly horrible Four Elements system that everyone seems to adore. That was another
-major source of confusion for us. Why is it horrible, you ask? What was the original symbolic referents of the 
-Elements was apparently lost early on, and with the reification of the original symbol comes all sorts of 
-illogical associations and illogical thinking. Especially when some or all of the Referents are now a property
-of objects, not even an object or class of objects. (That ol' timey wet/dry, cold/hot fiasco.) Of course it 
-would be turned into what we now consider Proto-Science; that had already been done through the reification.
+Then Astrology got mixed up with that truly horrible Four Elements system that everyone seems to adore. That was another
+major source of confusion for us when we were trying to understand the metaphorical referents of the system. Why do we think the Four
+Elements system horrible, you ask? Whatever were the original symbolic referents of the Elements were apparently 
+lost early on, and the Elements became reified--that is, they were said to refer to actual "substances". 
+And with the reification of the original symbols came all sorts of illogical associations and illogical thinking, especially 
+because some, or all, of the original referents were properties of objects, not themselves objects or classes of 
+objects. (That ol' timey wet/dry vs. cold/hot philosophical fiasco that so many in ancient times, and up to today, have struggled 
+with.) Of course, it would eventually turn into what we now consider Proto-Science in the hands of the early Greek 
+Pre-Socratic philosophers. That was already implied in, and had already really been accomplished through, the reification. 
 
-So, if it's not clear, we cannot pretend to be restoring the original system--whatever it was is buried under
+It has taken us until the Twentieth Century to finally shake off reification and begin to see the Universe as composed 
+of "things" which are actually nothing more than our convenient labels for a set of relationships, expressed mathematically, 
+between various "objects". Now, the existence of such objects is postulated on, and implies no more than, these 
+mathematical relationships. This is the reality expressed by Quantum Mechanics. Most folks, Physicists included, find
+it hard to abandon the reification project, hence much ink has been, and continues to be, spilled on attempts to provide a firm philosophical 
+and ontological basis for Quantum Mechanics. This is reification in scholarly, or religious, garb, and a fool's errand.
+
+So, if it's not already clear, we cannot pretend to be restoring the original system--whatever it was is buried under
 too much of what we consider detritus. Please consider this a rather free re-creation that might be useful for
 some. 
 
 <div style="page-break-after: always"></div>
 
 
-### [The Wanderer's Oracle](#table-of-contents)
+### [The Eardstapa's Oracle](#table-of-contents)
 
 Bärchen often does a cast to get Fox's opinion on how to proceed in a given situation, or, basically, what to do 
 next, in general. (Okay, well, he does this a lot. A lot a lot. This is not *necessarily* a bad thing, as long as 
 he understands that consulting her in this way doesn't absolve him of responsibility for the choices he makes. He
 must remember that life is hard to predict; you have to take risks and there are no guarantees.) So, we came up 
-with the Wanderer's Oracle to cover those times when he wants to do a quick consultation before taking action. 
+with the [Eardstapa's](https://en.wikipedia.org/wiki/The_Wanderer_(Old_English_poem)) Oracle to cover those times 
+when he wants to do a quick consultation before taking action. (Eardstapa is an Anglo-Saxon word usually translated
+as "Wanderer", literally "earth stepper".)
 
-Let's try to put this in more precise terms. The Wanderer's Oracle uses the images of the I Ching Trigrams to, first,
-describe a situation that someone undertaking a journey (a Wanderer) might encounter. You may have noticed that the
-images associated with the Trigrams describe weather and terrain:
+Let's try to put this in more precise terms. The Eardstapa's Oracle uses some of the imagery associated with the 
+individual Trigrams in the I Ching. You may have noticed that the images most frequently associated with the Trigrams 
+describe weather and terrain. In the second table below, we give the equivalent term we are using for the Eardstapa's 
+Oracle (and the equivalent Anglo-Saxon word just for fun), written in Runes according to our own association of each Rune
+with a letter in Modern English:
 
-| Trigram  | Imagery                                                  |
-| -------- | -------------------------------------------------------- |
-| Heaven   | the sky                                                  |
-| Earth    | the land, but especially valleys and plains              |
-| Thunder  | the "boom" produced by lightning, but also an earthquake |
-| Wind     | anything from a gentle breeze to a strong wind           |
-| Water    | rain and clouds containing rain                          |
-| Fire     | lightning, but also the sun or (less often) the moon     |
-| Mountain | mountains generally, or (at least) high places           |
-| Lake     | land-locked bodies of water, and springs                 |
+|   |   |    |   |   |     |   |     |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |    |   |   |
+| - | - | -- | - | - | --- | - | --- | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -- | - | - |
+| ᚠ | ᚢ | ᚦ  | ᚨ | ᚱ | ᚲ   | ᚷ | ᚹ   |   | ᚺ | ᚾ | ᛁ | ᛃ | ᛇ | ᛈ | ᛉ | ᛊ |   | ᛏ | ᛒ | ᛖ | ᛗ | ᛚ | ᛜ  | ᛞ | ᛟ | 
+| F | U | Th | A | R | C,K | G | V,W |   | H | N | I | J | Y | P | Z | S |   | T | B | E | M | L | Ng | D | O |
 
-In the Oracle, we interpret the two Trigrams which together make up the I Ching Hexagram in terms of a "situation"
-which a traveler (the Wanderer) might encounter on their journey. We narrow down the possible interactions of the 
-two elements of weather or terrain to describe a very particular situation. This particular situation implies a 
-challenge or an opportunity presented to the Wanderer. This situation is, of course, a metaphor for what is happening
-right now in the context of the question being posed.
 
-An example is in order. Bärchen asks Fox, as he is writing this, where are we at with this, how to proceed from here...
+| Trigram name  | English word                     | Anglo-Saxon word  | Imagery (in the I Ching and the Earstapa's Oracle)          |
+| ------------- | -------------------------------- | ----------------- | ----------------------------------------------------------- |
+| Heaven        | ᚺᛖᚨᚹᛖᚾ (heaven)                  | ᚺᛖᛟᚠᛟᚾ (heofon)   | the sky                                                     |
+| Earth         | ᛖᚨᚱᚦ (earth)                     | ᛖᚨᚱᛞ (eard)       | the land, but especially valleys and plains                 |
+| Thunder       | ᚦᚢᚾᛞᛖᚱ/ᚲᚹᚢᚨᚲᛖ (thunder/quake)    | ᚦᚢᚾᛟᚱ (thunor)    | the "boom" produced by lightning, but also an earthquake    |
+| Wind          | ᚹᛁᚾᛞ (wind)                      | ᚹᛁᚾᛞ (wind)       | anything from a gentle breeze to a strong wind              |
+| Water         | ᚱᚨᛁᚾ (rain)                      | ᚱᛖᚷᚾ (regn)       | rain and clouds containing rain                             |
+| Fire          | ᛚᛁᚷᚺᛏᚾᛁᛜ/ᛚᛁᚷᚺᛏ (lightning/light) | ᛚᛁᛖᚷᛖᛏᚢ (liegetu) | lightning, but also light, the Sun or (less often) the Moon |
+| Mountain      | ᛗᛟᚢᚾᛏᚨᛁᚾ (mountain)              | ᛒᛖᛟᚱᚷ (beorg)     | mountains generally, or (at least) high places              |
+| Lake          | ᛚᚨᚲᛖ (lake)                      | ᛚᚨᚲᚢ (lacu)       | land-locked bodies of water, including springs              |
 
-+ The Wanderer's Oracle: Heaven ‖ Rain Clouds
-  + situation: The Wanderer begins their descent with clear skies above, but low clouds and fog obscure 
+This imagery is used to describe a situation that someone undertaking a journey (an Eardstapa) 
+might encounter. In the Eardstapa's Oracle, we interpret the two Trigrams which together make up an I Ching Hexagram 
+in terms of a "situation" which a traveler (the Eardstapa) might encounter on their journey. We narrow down the possible 
+interactions of the two elements of weather or terrain to describe a very particular situation. This particular situation 
+then implies a challenge or an opportunity presented to the Eardstapa. This situation is, of course, a metaphor for what 
+is happening right now in the context of the question you have posed.
+
+An example is in order. Bärchen asks Fox, as he is writing this, where we are at with this, how to proceed from here...
+
++ The Eardstapa's Oracle: 6\. ᚺᛖᚨᚹᛖᚾ ‖ ᚱᚨᛁᚾ (heaven ‖ rain)
+  + riddle: "ᛉᛖᚾᛁᚦ ᚷᛟᛖᛊ ᛉᛁᚷᛉᚨᚷ ᚲᛟᛗᛖᛊ ᚦᛖ ᛉᛟᚾᛖ / ᛟᚠ ᚠᛁᚱᛊᛏ ᛟᚠᚠ ᚠᛟᛟᛚᛁᛊᚺ ᚠᚨᚾᚲᛇ ᚠᚱᚨᚢᚷᚺᛏ / ᚹᛁᚦ ᚷᚨᚠᚠᛖᛊ ᚷᚱᛁᚾᛞᛊ ᚦᛖᚾ ᚷᚱᛟᚢᚾᛞᛊ ᚨᚷᚨᛁᚾ ᚷᛟᛚᛞ"   
+    "zenith goes zigzag comes the zone / of first off foolish fancy fraught / with gaffes grinds then grounds again gold"
+  + situation: The Eardstapa begins their descent with clear skies above, but low clouds and fog obscure 
     what lies below them all around.
   + admonition: Your way forward is not clear. You must try to infer the best way, but be ready to retrace 
     your steps and try again.
 
-Okay, this makes sense--we're writing this introduction after making a first pass at developing this Wanderer's Oracle and
-we've been intending to go back and look at it as a whole, and to make changes where we find overlaps or inconsistencies.
+Okay, this makes sense--we're writing this introduction after making a first pass at developing this Eardstapa's Oracle and
+we've been intending to go back and look at individual pieces, and the Oracle as a whole, and to make changes where we find 
+overlaps or inconsistencies. (And in this paranthetical remark, written after we have "completed" the work on the Oracle, we're
+ready to say that, indeed, it has been a process involving more than just correcting overlaps and inconsistencies. {Fox- Completed!?!
+When have you ever seen our collaborations come to a [stand still](#δρεπανον), Bärchen, hmmm?})
 
-As you can see, the "situation" introduces a basic metaphor for where things are at for someone trying to get from point A
+As you can see, the "situation" introduces a basic metaphor for "where things are at" for someone trying to get from point A
 to point B, stated in terms of the weather, time of day, and terrain. The "admonition" gives the corresponding actions that 
 this situation implies. The "admonition" is, itself, a metaphor for how to proceed in regard to a situation in the "real 
 world", of course. In other words, Fox is saying "I think we're at this point in the situation you're asking me about and, 
-given the challenges and opportunities that implies, your best course of action would be this." 
+given the challenges and opportunities that implies, your best course of action would be this, metaphorically." 
 
-You may wonder why we would introduce yet another layer of possible interpretations and metaphors to what is, admittedly, 
+Each entry in the Oracle also has a riddle we composed in a form we invented, and which we call Anglo-Saxon 
+[Haiku](https://en.wikipedia.org/wiki/Haiku). "Traditional Japanese haiku consist of three phrases composed of 17 morae 
+(called *on* in Japanese) in a 5, 7, 5 pattern." Our Anglo-Saxon Haiku is a short riddle consisting of three phrases of eight 
+syllables each, using [alliteration](https://en.wikipedia.org/wiki/Alliteration_(Latin)) in each phrase. This is similar
+to, but not identical with, the use of alliteration in Anglo-Saxon [alliterative verse](https://en.wikipedia.org/wiki/Alliterative_verse).
+
+We've written the riddles and, in the table above, the Anglo-Saxon "translations" of the names of the
+Trigrams in the Runes of the Elder Germanic Futhark. (We didn't use the later Anglo-Saxon Runes which look slightly different 
+and include some additional Runes.) Also, we're using the term "riddle" here in the broader sense it had during Anglo-Saxon 
+times. Well, maybe even a bit more broadly still. We'll let you research that subject further on your own, if you're interested, 
+but this explanation is getting much longer than we intended. And, yes, we're being uabashedly eclectic, as usual, if you 
+haven't figured that out by now.
+
+You may, however, wonder why we would introduce yet another layer of possible interpretations and metaphors to what is, admittedly, 
 a very complex set? After all, we've already correlated each of the 72 ὀνόματα of our 'ΡΥΘΜΟΙ Oracle with I Ching Hexagrams, 
-Tarot cards, Runes, and various myths and stories. These different systems attach similar, though somewhat different 
+Tarot cards, Elder Futhark Runes, and various myths and stories. These different systems attach similar, though somewhat different, 
 interpretations and metaphors to these "symbols". How do we not get confused? 
 
 When Bärchen does a general cast, he looks for the "right" interpretation (that is, what Fox is really trying to say) by considering 
 the context of his question, and taking into account the traditional contexts addressed by the various systems. But he also 
 goes by the "feeling" of which interpretation is the right one. Getting that feeling comes in part by recognizing the subtle 
 cues that distinguish his own desires and expectations from the "promptings" that come from the Spirit. He learned this through 
-time, experience, self-examination, and, when in doubt, by doing a second "cast" to ask whether he's gotten it.
+time, experience, self-examination, and, when in doubt, by doing a second "cast" to ask whether he's really gotten it.
 
-Also, with just 72 ὀνόματα, Fox sometimes feels that her vocabulary is a bit constrained. So sometimes, she wants Bärchen to 
+But with just 72 ὀνόματα, Fox sometimes feels that her vocabulary is a bit constrained. So sometimes she wants Bärchen to 
 look for her meaning in the basic relationships between the Trigrams according to our own "psychological" interpretations of 
 them. This opens a sort of dialog that can be very enlightening for both of us, but it requires quite a bit of time for
-contemplation. 
+contemplation of the relationship (the "story"). 
 
-So, for those situations where what we're after is just a quick "check-in", where, as we said, Bärchen asks "what would you like to 
-do now?" or "where do you think we are at with such-and-so?" we developed this Wanderer's Oracle to cover them. Use it if it 
+So, for those situations in which what we're after is just a quick "check-in", where, as we said, Bärchen asks "what would you like to 
+do now?" or "where do you think we are at with such-and-so?" we developed this Eardstapa's Oracle to cover such questions. Use it if it 
 appeals to you.
 
 <div style="page-break-after: always"></div>
@@ -1277,19 +1439,20 @@ appeals to you.
 ### ['ΡΥΘΜΟΙ](#table-of-contents)
 
 
-| **\'ΡΥΘΜΟΙ**                |                             |   |                               |                           |   |                       |                         |   |                           |                             |
-| --------------------------- | --------------------------- | - | ----------------------------- | ------------------------- | - | --------------------- | ----------------------- | - | ------------------------- | --------------------------- |
-| [**ΑΝΑΓΚΗ**](#αναγκη)       | [ΒΡΙΑΡΕΩΣ](#βριαρεως)       | : | [ΓΟΡΓΩ](#γοργω)               | [**ΔΟΡΥ**](#δορυ)         | : | [\`ΕΣΤΙΑ](#εστια)     | [ΖΥΓΟΝ](#ζυγον)         | : | [ΗΛΕΚΤΡΟΝ](#ηλεκτρον)     | [**ΘΥΜΟΝ**](#θυμον)         |
-| [ΣΘΕΝΩ](#σθενω)             | [\`ΥΜΝΟΣ](#υμνος)           | : | [ΧΑΡΥΒΔΙΣ](#χαρυβδις)         | [ΨΗΓΜΑ](#ψηγμα)           | : | [\`ΩΡΑΙ](#ωραι)       | [ΤΥΜΠΑΝΟΝ](#τυμπανον)   | : | [ΦΟΙΝΙΞ](#φοινιξ)         | [\`ΡΑΒΔΟΣ](#ραβδος)         |
-| [ΣΤΕΦΑΝΟΣ](#στεφανος)       | [\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι) | : | [ΧΑΣΜΑ](#χασμα)               | [ΨΗΦΟΣ](#ψηφος)           | : | [ΩΓΥΓΙΗ](#ωγυγιη)     | [ΤΟΞΟΝ](#τοξον)         | : | [ΦΙΑΛΗ](#φιαλη)           | [\`ΡΥΘΜΟΣ](#ρυθμος)         |
-|                             |                             |   |                               |                           |   |                       |                         |   |                           |                             |
-| [\`ΙΣΤΟΣ](#ιστος)           | [ΚΕΡΑΥΝΟΣ](#κεραυνος)       | : | [ΛΑΜΠΑΣ](#λαμπας)             | [ΝΑΥΣ](#ναυς)             | : | [ΜΕΓΑΡΟΝ](#μεγαρον)   | [ΞΥΛΟΝ](#ξυλον)         | : | [ΟΙΚΟΣ](#οικος)           | [ΠΑΙΩΝ](#παιων)             |
-| [ΑΜΦΟΡΕΥΣ](#αμφορευς)       | [ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)   | : | [ΓΛΑΥΞ](#γλαυξ)               | [**ΔΡΕΠΑΝΟΝ**](#δρεπανον) | : | [**ΕΛΑΙΟΣ**](#ελαιος) | [ΖΕΥΓΜΑ](#ζευγμα)       | : | [ΗΩΣ](#ηως)               | [ΘΕΜΙΣ](#θεμις)             |
-| [**\`ΙΜΑΣ**](#ιμας)         | [ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)     | : | [**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος) | [ΝΟΣΤΟΣ](#νοστος)         | : | [ΜΑΚΑΡΙΑ](#μακαρια)   | [ΞΟΑΝΟΝ](#ξοανον)       | : | [**ΟΦΙΣ**](#οφις)         | [**ΠΤΕΡΥΞ**](#πτερυξ)       |
-|                             |                             |   |                               |                           |   |                       |                         |   |                           |                             |
-| [ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)     | [**ΒΙΟΣ**](#βιος)           | : | [**ΓΡΥΨ**](#γρυψ)             | [ΔΑΙΔΑΛΑ](#δαιδαλα)       | : | [\`ΕΛΙΞ](#ελιξ)       | [**ΖΩΠΥΡΟΝ**](#ζωπυρον) | : | [**\`ΗΔΟΝΗ**](#ηδονη)     | [ΘΥΙΑ](#θυια)               |
-| [ΙΡΙΣ](#ιρις)               | [**ΚΑΘΑΡΜΟΣ**](#καθαρμος)   | : | [ΛΙΝΟΝ](#λινον)               | [ΝΑΡΘΗΞ](#ναρθηξ)         | : | [**ΜΟΙΡΑΙ**](#μοιραι) | [**ΞΙΦΟΣ**](#ξιφος)     | : | [ΟΙΝΟΣ](#οινος)           | [ΠΥΛΑΙ](#πυλαι)             |
-| [**ΣΤΥΞ**](#στυξ)           | [**\`ΥΔΡΑ**](#υδρα)         | : | [**ΧΑΛΚΟΣ**](#χαλκος)         | [**ΨΥΧΗ**](#ψυχη)         | : | [**ΩΟΝ**](#ωον)       | [**ΤΕΥΧΟΣ**](#τευχος)   | : | [**ΦΑΡΜΑΚΟΝ**](#φαρμακον) | [**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος) |
+| **\'ΡΥΘΜΟΙ** |                         |                             |   |                               |                           |   |                       |                         |   |                           |                             |           |
+| ------------ | ----------------------- | --------------------------- | - | ----------------------------- | ------------------------- | - | --------------------- | ----------------------- | - | ------------------------- | --------------------------- | --------- |
+|              | -*ΛΙΜΝΗ*-               | -*ΒΡΟΝΤΗ*-                  |   | *-ΑΣΤΡΑΠΗ*-                   | -*ΟΥΡΑΝΟΣ*-               |   | -*ΓΑΙΑ*-              | -*\`ΥΕΤΟΣ*-             |   | -*ΑΥΡΑ*-                  | -*ΟΡΟΣ*-                    | -*Tarot*- |
+| -*ΛΙΜΝΗ*-    | [**ΑΝΑΓΚΗ**](#αναγκη)   | [ΒΡΙΑΡΕΩΣ](#βριαρεως)       | : | [ΓΟΡΓΩ](#γοργω)               | [ΔΟΡΥ](#δορυ)             | : | [\`ΕΣΤΙΑ](#εστια)     | [ΖΥΓΟΝ](#ζυγον)         | : | [ΗΛΕΚΤΡΟΝ](#ηλεκτρον)     | [**ΘΥΜΟΝ**](#θυμον)         | Ace/MA    |
+| -*ΒΡΟΝΤΗ*-   | [ΣΘΕΝΩ](#σθενω)         | [\`ΥΜΝΟΣ](#υμνος)           | : | [ΧΑΡΥΒΔΙΣ](#χαρυβδις)         | [ΨΗΓΜΑ](#ψηγμα)           | : | [\`ΩΡΑΙ](#ωραι)       | [ΤΥΜΠΑΝΟΝ](#τυμπανον)   | : | [ΦΟΙΝΙΞ](#φοινιξ)         | [\`ΡΑΒΔΟΣ](#ραβδος)         | 2/Knight  |
+| -*ΑΣΤΡΑΠΗ*-  | [ΣΤΕΦΑΝΟΣ](#στεφανος)   | [\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι) | : | [ΧΑΣΜΑ](#χασμα)               | [ΨΗΦΟΣ](#ψηφος)           | : | [ΩΓΥΓΙΗ](#ωγυγιη)     | [ΤΟΞΟΝ](#τοξον)         | : | [ΦΙΑΛΗ](#φιαλη)           | [\`ΡΥΘΜΟΣ](#ρυθμος)         | 3/10      |
+|              |                         |                             |   |                               |                           |   |                       |                         |   |                           |                             |           |
+| -*ΟΥΡΑΝΟΣ*-  | [\`ΙΣΤΟΣ](#ιστος)       | [ΚΕΡΑΥΝΟΣ](#κεραυνος)       | : | [ΛΑΜΠΑΣ](#λαμπας)             | [ΝΑΥΣ](#ναυς)             | : | [ΜΕΓΑΡΟΝ](#μεγαρον)   | [ΞΥΛΟΝ](#ξυλον)         | : | [ΟΙΚΟΣ](#οικος)           | [ΠΑΙΩΝ](#παιων)             | Queen/5   |
+| -*ΓΑΙΑ*-     | [ΑΜΦΟΡΕΥΣ](#αμφορευς)   | [ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)   | : | [ΓΛΑΥΞ](#γλαυξ)               | [**ΔΡΕΠΑΝΟΝ**](#δρεπανον) | : | [**ΕΛΑΙΟΣ**](#ελαιος) | [ΖΕΥΓΜΑ](#ζευγμα)       | : | [ΗΩΣ](#ηως)               | [ΘΕΜΙΣ](#θεμις)             | 4/King    |
+| -*\`ΥΕΤΟΣ*-  | [**\`ΙΜΑΣ**](#ιμας)     | [ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)     | : | [**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος) | [ΝΟΣΤΟΣ](#νοστος)         | : | [ΜΑΚΑΡΙΑ](#μακαρια)   | [ΞΟΑΝΟΝ](#ξοανον)       | : | [**ΟΦΙΣ**](#οφις)         | [**ΠΤΕΡΥΞ**](#πτερυξ)       | 9/7       |
+|              |                         |                             |   |                               |                           |   |                       |                         |   |                           |                             |           |
+| -*ΑΥΡΑ*-     | [ΑΣΦΟΔΕΛΟΣ](#ασφοδελος) | [**ΒΙΟΣ**](#βιος)           | : | [**ΓΡΥΨ**](#γρυψ)             | [ΔΑΙΔΑΛΑ](#δαιδαλα)       | : | [\`ΕΛΙΞ](#ελιξ)       | [**ΖΩΠΥΡΟΝ**](#ζωπυρον) | : | [**\`ΗΔΟΝΗ**](#ηδονη)     | [ΘΥΙΑ](#θυια)               | Page/6    |
+| -*ΟΡΟΣ*-     | [ΙΡΙΣ](#ιρις)           | [**ΚΑΘΑΡΜΟΣ**](#καθαρμος)   | : | [ΛΙΝΟΝ](#λινον)               | [**ΝΑΡΘΗΞ**](#ναρθηξ)     | : | [**ΜΟΙΡΑΙ**](#μοιραι) | [**ΞΙΦΟΣ**](#ξιφος)     | : | [ΟΙΝΟΣ](#οινος)           | [ΠΥΛΑΙ](#πυλαι)             | MA/8      |
+| *(trigram)*  | [**ΣΤΥΞ**](#στυξ)       | [**\`ΥΔΡΑ**](#υδρα)         | : | [**ΧΑΛΚΟΣ**](#χαλκος)         | [**ΨΥΧΗ**](#ψυχη)         | : | [**ΩΟΝ**](#ωον)       | [**ΤΕΥΧΟΣ**](#τευχος)   | : | [**ΦΑΡΜΑΚΟΝ**](#φαρμακον) | [**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος) | MA        |
 
 
 #### ΠΡΟΣΩΠΑ : The Characters in our Drama
@@ -1372,19 +1535,22 @@ img {
     one. This brings success. To keep going is advantageous. To bring great offerings creates good fortune. 
     It is advantageous to undertake something.
   + image: Renew your weapons to meet the unforeseen.
-  + alchemy: IV. The Dragon's Hoard - C=3/7 (equivalent to 4\. Audit/ACK)
+  + alchemy: IV\. The Dragon's Hoard - C=3/7 (equivalent to 4\. Audit/ACK)
 + Tarot: Four ♣/Wands
   + upright: homecoming, community, celebration, harmony
   + reversed: lack of support, conflicts with others
-+ The Wanderer's Oracle: Lake ‖ Earth
-  + situation: The Wanderer comes to a pristine lake in a luxuriant valley.
-  + admonition: Take some time to refresh your supplies and water, explore the lake shore, restore vigor, and maybe
++ The Eardstapa's Oracle: 45\. ᛚᚨᚲᛖ ‖ ᛖᚨᚱᚦ (lake ‖ earth)
+  + riddle: "ᛁᛚᛚ ᛚᛁᛜᛖᚱ ᛚᚨᚲᛖᛊᛁᛞᛖ ᛚᚨᛒᛟᚱ ᛚᛟᛊᛏ / ᚾᛟᚱ ᚨᚾᛇ ᚾᛖᛖᛞ ᚢᚾᚨᚾᛊᚹᛖᚱᛖᛞ ᚾᛟ / ᚱᛖᚨᛊᛟᚾ ᚱᚢᛊᚺᛖᛞ ᛏᛟ ᚺᚢᚱᚱᛇ ᛟᚱ ᚱᛟᚨᛗ"   
+    "ill linger lakeside labor lost / nor any need unanswered no / reason rushed to hurry or roam"
+  + situation: The Eardstapa comes to a pristine lake in a luxuriant valley.
+  + admonition: Take some time to refresh your water and supplies, explore the lake shore, restore vigor, and maybe
     even do some fishing.
 + Bible: John 5 - Jesus heals the lame man at the pool of Bethzatha
 + Additional Concepts: 
   + Safe Haven 
   + The trained model
   + The Wedding Feast of the Lamb
+  + Plant Rune: **Th**istle (*Onopordon acanthium*, et al.)
   + Color: <font color="#920062">███ Fresh Eggplant ███</font> (#920062)
 
 ---
@@ -1407,15 +1573,17 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 011:011 58\. Joy / The Joyous
   + judgment: Success is possible. To keep going is favorable.
   + image: Join together with your friends for discussion and practice.
-  + alchemy: V. The Pilgrimage to The Inner Shrine - 7\. (Re)Set
+  + alchemy: V\. The Pilgrimage to The Inner Shrine - 7\. (Re)Set
 + Tarot: Ace ♣/Wands
   + upright: growth, potential, creation, willpower, inspiration
   + reversed: lack of direction, boredom, distractions, lack of passion
 + Rune: ᚦ [Thurisaz/Thorn](#αινιγματα) 
-  + poem: "Thorn of black that wards the rose- thence her eldritch power flows."
+  + poem: "Thorn dark red that holds the May, wards the working of the Fay."
   + keywords: elemental power, giants/trolls/demons, negativity, duality, barriers
-+ The Wanderer's Oracle: Lake ‖ Lake
-  + situation: The Wanderer comes to a clear, blue mountain lake.
++ The Eardstapa's Oracle: 58\. ᛚᚨᚲᛖ ‖ ᛚᚨᚲᛖ (lake ‖ lake)
+  + riddle: "ᛞᛖᛖᛈ ᛟᚠ ᛞᚨᚱᚲᚾᛖᛊᛊ ᛞᛖᛚᛁᛗᛁᛏ ᛞᛟᛖᛊ / ᛗᛇ ᛗᛖᚨᚾᛞᛖᚱ ᛗᛇ ᚲᚹᚢᚨᚷᛗᛁᚱᛖ ᛗᛖᛏ / ᚠᛁᚾᚨᛚᛚᛇ ᛒᛇ ᚠᛟᚢᚾᛞᛁᛜᛊ ᚠᛚᛟᚹᛁᛜ"   
+    "deep of darkness delimit does / my meander my quagmire met / finally by foundings flowing"
+  + situation: The Eardstapa comes to a clear, blue mountain lake.
   + admonition: Stop for a moment to remove the dust and exhaustion of the trail. Wash self and gear in 
     the cool water. Once you have restored things in this way, you will be ready to rejoin your journey 
     renewed.
@@ -1423,6 +1591,7 @@ img {
 + Additional Concepts: 
   + Uncontrolled mirth
   + the Dragon's Heart (vide Fáfnir)
+  + Plant Rune: Haw**th**orn (*Crataegus oxyacantha*)
   + Color: <font color="#800056">███ Cardinal Pink ███</font> (#800056)
 
 ---
@@ -1439,21 +1608,22 @@ img {
 
 + [ΑΣΦΟΔΕΛΟΣ](#ρυθμοι) = Asphodel (*Asphodelus ramosus*). As Adjective, ἀσφοδελὸς λειμών the asphodel meadow which the 
   shades of heroes haunted, or more generally, a flowery meadow. 
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:110 28. Greatly Surpassing / The Preponderance of the Great
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:110 28\. Greatly Surpassing / The Preponderance of the Great
   + judgment: The ridgepole sags to the breaking point. It is advantageous to have somewhere to go. Success is 
     possible.
   + image: When you stand alone, be unconcerned, if you must renounce the world, be undaunted.
-  + alchemy: II. The Priesthood of the Flame - 11. Maintain/Improve 
+  + alchemy: II\. The Priesthood of the Flame - 11\. Maintain/Improve 
 + Tarot: Page ♣/Wands
   + upright: ideas, discovery, exploration, excitement, freedom
   + reversed: self-limiting beliefs, procrastination, creating conflict
-+ The Wanderer's Oracle: Lake ‖ Wind
-  + poem: "Coruscating, can I calmly / lie like this lake, languid, can let / wind wantonly wrap her wet wings?"
-  + situation: The Wanderer sees a lake whose surface is broken by the wind into constantly changing patterns 
++ The Eardstapa's Oracle: 28\. ᛚᚨᚲᛖ ‖ ᚹᛁᚾᛞ (lake ‖ wind)
+  + riddle: "ᚲᛟᚱᚢᛊᚲᚨᛏᛁᛜ ᚲᚨᚾ ᛁ ᚲᚨᛚᛗᛚᛇ / ᛚᛁᛖ ᛚᛁᚲᛖ ᚦᛁᛊ ᛚᚨᚲᛖ ᛚᚨᛜᚢᛁᛞ ᚲᚨᚾ ᛚᛖᛏ / ᚹᛁᚾᛞ ᚹᚨᚾᛏᛟᚾᛚᛇ ᚹᚱᚨᛈ ᚺᛖᚱ ᚹᛖᛏ ᚹᛁᛜᛊ"   
+    "coruscating can I calmly / lie like this lake languid can let / wind wantonly wrap her wet wings"
+  + situation: The Eardstapa sees a lake whose surface is broken by the wind into constantly changing patterns 
     of reflections.
   + admonition: Pause to watch the reflections and let yourself be inspired by new possibilities and new ways 
     of seeing.
-+ Greek Myth: The Labors of Heracles - 11. The Golden Apples of the Hesperides
++ Greek Myth: The Labors of Heracles - 11\. The Golden Apples of the Hesperides
   + mode: location gotten from the Old Man of the Sea, the killing of Antaeus or the Serpent Ladon
   + results: How do you like them apples?!
   + comment: The other purpose of the Underworld Journey is to bring back the fruit of the Tree of Life which 
@@ -1467,7 +1637,8 @@ img {
   + "Genius is one percent inspiration…"
   + The Holiness of Beauty
   + Without inspiration, life is toil
-  + The Swan of Tuonela
+  + Plant Rune: **Th**yme (*Thymus vulgaris*)
+  + Spirit Animal: Swan (vide The Swan of Tuonela)
   + Color: <font color="#FF0089">███ Rose ███</font> (#FF0089)
 
 ---
@@ -1484,30 +1655,33 @@ img {
 
 + [ΒΙΟΣ](#ρυθμοι) = Life, i.e. not animal life (ζωή), but mode of life, manner of living (mostly therefore of men, 
   but also of animals). Lifetime, livelihood, means of living, to make one's living off, to live by a thing.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:110 32. Duration / Duration
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:110 32\. Duration / Duration
   + judgment: Success without blame is possible. To keep going is advantageous. It is advantageous to 
     have somewhere to go.
   + image: Stand firm and do not change your direction.
-  + alchemy: III. Phoenix and Dragon - 11. Maintain/Improve 
+  + alchemy: III\. Phoenix and Dragon - 11\. Maintain/Improve 
 + Tarot: Six ♥/Cups
   + upright: innocence, familiarity, happy memories
   + reversed: moving forward, leaving home, living in the past
 + Rune: ᚷ [Gebo/Gift](#αινιγματα) 
   + poem: "Gifts are given heartily, when the heart turns gratefully."
   + keywords: giving, sacrifice, receiving, mutual obligation, thankfulness
-+ The Wanderer's Oracle: Thunder ‖ Wind
-  + situation: The Wanderer hears the sound of distant thunder carried on the wind.
-  + admonition: Continue your journey without faltering; but take to heart that, though the weather is clear now, 
-    those distant storms will soon arrive.
++ The Eardstapa's Oracle: 32\. ᚦᚢᚾᛞᛖᚱ ‖ ᚹᛁᚾᛞ (thunder ‖ wind)
+  + riddle: "ᛏᛟ ᚦᛖ ᛏᛖᛗᛈᛖᛊᛏ ᛏᚢᚾᛖᛞ ᚦᛟᚢᚷᚺ ᛏᚢᚱᚾᛊ ᛁᛏ / ᛞᛁᚱᛖ ᛟᚱ ᛞᛁᛊᛏᚨᚾᛏ ᛇᛖᛏ ᛁ ᛞᚨᛚᛚᛇ / ᛖᚹᛖᚾ ᚦᚨᛏ ᛖᚨᚱᚾᛖᛊᛏᛚᛇ ᛖᚾᛃᛟᛇ"   
+    "to the tempest tuned though turns it / dire or distant yet I dally / even that earnestly enjoy"
+  + situation: The Eardstapa hears the sound of distant thunder carried on the wind.
+  + admonition: Continue your journey without faltering; but take to heart that, though the weather wher you are 
+    is clear now, those distant storms will soon arrive.
 + Bible: 2 Kings 1 - Elijah and the death of Ahaziah
 + Additional Concepts: 
   + Becoming father
   + Innocence
-  + Come live with me and be my love…
+  + "Come live with me and be my love…" [The Passionate Shepherd to his Love](#https://www.poetryfoundation.org/poems/44675/the-passionate-shepherd-to-his-love)
   + It's a beautiful life
   + "To those who by patience in well-doing seek for glory and honor and immortality, he will give 
     eternal life"
-  + the Stag
+  + Plant Rune: **G**rape (*Vitis vinifera*)
+  + Spirit Animal: Stag
   + Color: <font color="#557900">███ Green Leaf ███</font> (#557900)
 
 ---
@@ -1523,19 +1697,20 @@ img {
 <img src="boupelaths.card.png" style="float: right;" width="30%"> 
 
 + [ΒΟΥΠΕΛΑΤΗΣ](#ρυθμοι) = Herdsman (of cows).
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:000 16. Excess / Enthusiasm
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:000 16\. Excess / Enthusiasm
   + judgment: It is advantageous to appoint helpers and to set armies marching.
   + image: Make music to honor merit, and offer it with splendor to God, inviting the ancestors' presence.
-  + alchemy: I. The Path of Destiny, Part 2 - 11. Maintain/Improve  
+  + alchemy: I\. The Path of Destiny, Part 2 - 11\. Maintain/Improve  
 + Tarot: King ♥/Cups
   + upright: compassion, control, diplomacy, balance
   + reversed: coldness, moodiness, emotionally manipulative
-+ The Wanderer's Oracle: Quake ‖ Earth
-  + poem: "Ere earth rest ever and ever / I move myself, mount, remember  / this soaring self's last sleepy sigh."
-  + situation: The Wanderer feels the jolt of an earthquake.
++ The Eardstapa's Oracle: 16\. ᚲᚹᚢᚨᚲᛖ  ‖ ᛖᚨᚱᚦ (quake ‖ earth)
+  + riddle: "ᛖᚱᛖ ᛖᚨᚱᚦ ᚱᛖᛊᛏ ᛖᚹᛖᚱ ᚨᚾᛞ ᛖᚹᛖᚱ / ᛁ ᛗᛟᚹᛖ ᛗᛇᛊᛖᛚᚠ ᛗᛟᚹᛖᛞ ᚱᛖᛗᛖᛗᛒᛖᚱ / ᚦᛁᛊ ᛊᛟᚨᚱᛁᛜ ᛊᛖᛚᚠᛊ ᛚᚨᛊᛏ ᛊᛚᛖᛖᛈᛇ ᛊᛁᚷᚺ"   
+    "ere earth rest ever and ever / i move myself moved remember / this soaring selfs last sleepy sigh"
+  + situation: The Eardstapa feels the jolt of an earthquake.
   + admonition: Rock falls may have made the path ahead treacherous or even impassable, and fellow travelers 
     you meet may have been injured. Help clear the path and heal those in need.
-+ Greek Myth: The Odyssey - 11. Reunification
++ Greek Myth: The Odyssey - 11\. Reunification
   + overview: The worst is over, the best is yet to come... almost.
   + challenges: Odysseus must meet his father and reestablish his authority on Ithaka.
   + result: The men of Ithaka come for him, but with Athena's "Mentoring" (again) he opens another 
@@ -1557,7 +1732,8 @@ img {
   + "I know a man's character by how he treats those who serve him"
   + "For he grew up before him as a tender plant, and as a root out of a dry ground" (Is. 53:2)
   + "For thou wilt not leave my soul in hell"
-  + the Stallion
+  + Plant Rune: **G**albanum (*Ferula galbaniflua*)
+  + Spirit Animal: Stallion
   + "And was the holy Lamb of God," (Blake's Jerusalem 3)
   + Color: <font color="#009100">███ Japanese Laurel ███</font> (#009100)
 
@@ -1575,15 +1751,17 @@ img {
 
 + [ΒΡΙΑΡΕΩΣ](#ρυθμοι) = A hundred-handed giant, of the generation of the Titans. In some myths, he is freed from 
   Tartarus by Zeus and guarantees his victory over the Titans.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:011 54. Coming Home / The Marrying Maiden
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:011 54\. Coming Home / The Marrying Maiden
   + judgment: To undertake something brings misfortune. There is nothing that would be advantageous.
   + image: Understand the transitory in the light of the eternity of the end.
-  + alchemy: V. The Pilgrimage to The Inner Shrine - 3. Signal/Command  
+  + alchemy: V\. The Pilgrimage to The Inner Shrine - 3\. Signal/Command  
 + Tarot: 18. The Moon
   + upright: unconscious, illusions, subconscious, intuition
   + reversed: confusion, repressed emotions, fear, misinterpretation
-+ The Wanderer's Oracle: Quake ‖ Lake
-  + situation: The Wanderer's contemplations are disturbed by the tremor of an earthquake that sends ripples 
++ The Eardstapa's Oracle: 54\. ᚲᚹᚢᚨᚲᛖ ‖ ᛚᚨᚲᛖ (quake ‖ lake)
+  + riddle: "ᛏᛁᛗᛟᚱ ᛖᛏ ᛏᚱᛖᛗᛟᚱ ᛏᚱᛟᚢᛒᛚᛁᛜ / ᛚᛁᚲᚹᚢᛁᛞᛊ ᛊᛚᚨᚲᚲ ᛚᛁᛗᛒᛊ ᚹᛁᚦ ᛚᚨᚾᛞᛊ ᛚᛖᛊᛊᛟᚾ / ᛞᛖᛊᛏᛁᚾᛖᛞ ᛞᛖᚨᚦ ᛞᛟᚦ ᛞᛖᛚᛁᛒᛖᚱᚨᛏᛖ"   
+    "timor et tremor troubling / liquids slack limbs with lands lesson / destined death doth deliberate"
+  + situation: The Eardstapa's contemplations are disturbed by the tremor of an earthquake that sends ripples 
     across the erstwhile calm surface of a lake.
   + admonition: What is unsettled within you that answers to the disturbance without? Face this and restore 
     your composure, just as the lake naturally regains its calm reflection. 
@@ -1593,6 +1771,7 @@ img {
   + ΓΝΩΘΙ ΣΕΑΥΤΩΝ (Know Thyself)
   + Honey! I'm home!
   + Δράκων - Here be Dragons
+  + Plant Rune: **G**oldenseal (*Hydrastis canadensis*)
   + "The Gnome" (Grimm's Fairy Tales 1st ed. Volume II #5)
   + Cadmus
   + Color: <font color="#557939">███ Fern Green ███</font> (#557939)
@@ -1615,15 +1794,17 @@ img {
   + judgment: The powerful leader is honored with horses in large numbers. In a single day they are granted 
     audience three times.
   + image: Brighten your own bright virtue.
-  + alchemy: III. Phoenix and Dragon - 8\. (Re)Start/Boot
+  + alchemy: III\. Phoenix and Dragon - 8\. (Re)Start/Boot
 + Tarot: Four ♠/Swords 
   + upright: rest, restoration, meditation, contemplation
   + reversed: restlessness, burnout, stress, exhaustion
 + Tarot: 10. Rota Fortuna
   + upright: change, luck, karma, cycles, fate
   + reversed: no control, resistance to change, breaking cycles, bad luck
-+ The Wanderer's Oracle: Light ‖ Earth
-  + situation: The Wanderer watches the sun begin to descend beneath the plains.
++ The Eardstapa's Oracle: 35\. ᛚᛁᚷᚺᛏ ‖ ᛖᚨᚱᚦ (light ‖ earth)
+  + riddle: "ᛏᛁᛗᛖᛊ ᛏᛁᛞᛖ ᛏᚢᚱᚾᛊ ᛏᚹᛁᛚᛁᚷᚺᛏ ᛏᛁᚾᛏᛊ ᚲᛚᛟᚢᛞ ᛏᛁᛈᛊ / ᛊᚲᚨᚱᛚᛖᛏ ᛊᛖᛖᚲᛊ ᚦᛖ ᛊᚨᛏᛁᛊᚠᚨᚲᛏᛁᛟᚾ / ᛟᚠ ᛞᛖᛒᛏᛊ ᛏᛟ ᛞᚨᛇ ᛊᛏᚨᚱ ᛈᚨᛁᛞ ᛞᚱᛖᚨᛗᛁᛜ"   
+    "times tide turns twilight tints cloud tips / scarlet seeks the satisfaction / of debts to day star paid dreaming"
+  + situation: The Eardstapa watches the sun begin to descend beneath the plains.
   + admonition: Make camp now and be ready to rejoin your journey early tomorrow.
 + Bible: 1 Kings 19:9-18 - Elijah's vision of God
 + Additional Concepts: 
@@ -1632,6 +1813,7 @@ img {
   + Change, cycles, fate, decisive moments, luck, fortune, unexpected events
   + "Dans les champs de l'observation le hasard ne favorise que les esprits préparés" (Pasteur)
   + Fortuna Eruditis Favet
+  + Plant Rune: **C**hamomile (*Anthemis nobilis*)
   + Muladhara Chakra ("root", base of spine)
   + Color: <font color="#807700">███ Olive ███</font> (#807700)
 
@@ -1649,16 +1831,17 @@ img {
 
 + [ΓΟΡΓΩ](#ρυθμοι) = The Gorgon, i.e. the Grim One. Her visage turns people to stone (in other words, the
   "freeze" response to fear.)
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:011 38. Double Vision / Opposition
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:011 38\. Double Vision / Opposition
   + judgment: In small matters good fortune is possible.
   + image: Amid all fellowship, retain your individuality.
-  + alchemy: III. Phoenix and Dragon - 6\. (Re)Arrange
+  + alchemy: III\. Phoenix and Dragon - 6\. (Re)Arrange
 + Tarot: Ace ♠/Swords
   + upright: clarity, breakthrough, sharpness of mind
   + reversed: confusion, chaos, clouded judgement
-+ The Wanderer's Oracle: Lightning ‖ Lake
-  + poem: "My goblet greedily gobbles / sky viper's voluble veering, / freezes fast her fulminations."
-  + situation: The Wanderer sees a lightning flash amplified by its reflection in a lake.
++ The Eardstapa's Oracle: 38\. ᛚᛁᚷᚺᛏᚾᛁᛜ ‖ ᛚᚨᚲᛖ (lightning ‖ lake)
+  + riddle: "ᛗᛇ ᚷᛟᛒᛚᛖᛏ ᚷᚱᛖᛖᛞᛁᛚᛇ ᚷᛟᛒᛒᛚᛖᛊ / ᛊᚲᛇ ᚹᛁᛈᛖᚱᛊ ᚹᛟᛚᚢᛒᛚᛖ ᚹᛖᛖᚱᛁᛜ / ᚠᚱᛖᛖᛉᛖᛊ ᚠᚨᛊᛏ ᚺᛖᚱ ᚠᚢᛚᛗᛁᚾᚨᛏᛁᛟᚾᛊ"   
+   "my goblet greedily gobbles / sky vipers voluble veering / freezes fast her fulminations"
+  + situation: The Eardstapa sees a lightning flash amplified by its reflection in a lake.
   + admonition: Restrain fear but do not ignore the imminent danger. Let your actions reflect the true 
     nature of the warning you have been given.
 + Bible: 1 Kings 18:20-46 - The Contest with the prophets of Baal; the drought ends  
@@ -1669,6 +1852,7 @@ img {
   + Associative thought
   + The goal of ritual
   + The Philosopher's Stone 
+  + Plant Rune: **C**elandine (*Chelidonium majus*)
   + "Till we have built Jerusalem," (Blake's Jerusalem 15)
   + Color: <font color="#FF854B">███ Coral ███</font> (#FF854B)
 
@@ -1687,18 +1871,20 @@ img {
 + [ΓΡΥΨ](#ρυθμοι) = A griffin; a legendary creature with the body, tail, and back legs of a lion, and the head and 
   wings of an eagle with its talons on the front legs. Since classical antiquity, griffins were known 
   for guarding treasures and priceless possessions.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:110 50. (Ting) The Cauldron / The Caldron
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:110 50\. (Ting) The Cauldron / The Caldron
   + judgment: Supreme good fortune and success are possible.
   + image: Consolidate your fate by making your position correct.
-  + alchemy: IV. The Dragon's Hoard - G=7/7 (equivalent to 11\. Maintain/Improve)  
+  + alchemy: IV\. The Dragon's Hoard - G=7/7 (equivalent to 11\. Maintain/Improve)  
 + Tarot: Page ♠/Swords
   + upright: thirst for knowledge, curiosity, restlessness, new ideas, mental energy
   + reversed: deception, manipulation, all talk and no action, haphazard haste
 + Rune: ᚲ [Kenaz/Cauldron](#αινιγματα) 
   + poem: "Cauldron sits in crackling flame, ever changing, ever same."
   + keywords: change, transformation, illumination, fire, process, time
-+ The Wanderer's Oracle: Lightning ‖ Wind
-  + situation: The Wanderer had watched the lightning recede but now the winds are changing direction.
++ The Eardstapa's Oracle: 50\. ᛚᛁᚷᚺᛏᚾᛁᛜ ‖ ᚹᛁᚾᛞ (lightning ‖ wind)
+  + riddle: "ᛊᚨᛗᛖᚾᛖᛊᛊ ᛊᚨᛞ ᚨᚾᛞ ᛊᚺᚨᛗᛖᛚᛖᛊᛊ ᛊᛏᚨᚱᛏᛖᛞ / ᚠᚱᛟᛗ ᚹᛖᛊᛏ ᚹᚨᚾᛞᛖᚱᛁᛜ ᛒᚨᚲᚲ ᛏᛟ ᚹᚺᛖᚱᛖ / ᛖᚨᚷᛖᚱ ᛖᚨᛊᛏ ᛒᛖᚲᚨᛗᛖ ᛖᚾᛚᛁᚷᚺᛏᛖᚾᛖᛞ"   
+    "sameness sad and shameless started / from west wandering back to where / eager east became enlightened"
+  + situation: The Eardstapa had watched the lightning recede but now the winds are changing direction.
   + admonition: The path you had chosen now no longer appears to be the right one. Pay attention to the
     wind. You'll have to change your path and your approach, but exactly how will only reveal itself as
     you, and the storm, move.
@@ -1709,7 +1895,8 @@ img {
   + The Cauldron of Inspiration (vide Cerridwen)
   + Curiosity
   + It's a beautiful view(point)
-  + the Fox
+  + Plant Rune: **C**olumbine (*Aquilegia vulgaris*)
+  + Spirit Animal: Fox
   + "Bring me my Spear: O clouds unfold:" (Blake's Jerusalem 11)
   + Color: <font color="#FFD300">███ Gold ███</font> (#FFD300)
 
@@ -1727,16 +1914,17 @@ img {
 
 + [ΔΑΙΔΑΛΑ](#ρυθμοι) = Cunning works (as a noun, usually in plural as here); cunningly or curiously wrought (as 
   an adjective).
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 111:110 44. Royal Bride / Coming to Meet
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 111:110 44\. Royal Bride / Coming to Meet
   + judgment: The maiden is powerful. One should not marry such a maiden. [Too late! -Fox]
   + image: Act thus when you disseminate your commands and proclaim them to the 4 quarters of heaven.
-  + alchemy: IV. The Dragon's Hoard - B=2/7 (equivalent to 3\. Signal/Command)
+  + alchemy: IV\. The Dragon's Hoard - B=2/7 (equivalent to 3\. Signal/Command)
 + Tarot: Six ♦/Pentacles
   + upright: generosity, charity, sharing
   + reversed: strings attached, power and domination, stinginess 
-+ The Wanderer's Oracle: Heaven ‖ Wind
-  + poem: "Those clouds came carelessly in view. / Neatly nebulous, they denote / the cold cash in heaven's coffers."
-  + situation: The Wanderer sees a blue sky laced with white, wispy cirrus clouds blown by winds aloft.
++ The Eardstapa's Oracle: 44\. ᚺᛖᚨᚹᛖᚾ ‖ ᚹᛁᚾᛞ (heaven ‖ wind)
+  + riddle: "ᚦᛟᛊᛖ ᚲᛚᛟᚢᛞᛊ ᚲᚨᛗᛖ ᚲᚨᚱᛖᛚᛖᛊᛊᛚᛇ ᛁᚾ ᚹᛁᛖᚹ / ᚾᛖᚨᛏᛚᛇ ᚾᛖᛒᚢᛚᛟᚢᛊ ᚦᛖᛇ ᛞᛖᚾᛟᛏᛖ / ᚦᛖ ᚲᛟᛚᛞ ᚲᚨᛊᚺ ᛁᚾ ᚺᛖᚨᚹᛖᚾᛊ ᚲᛟᚠᚠᛖᚱᛊ"   
+    "those clouds came carelessly in view / neatly nebulous they denote / the cold cash in heavens coffers"
+  + situation: The Eardstapa sees a blue sky laced with white, wispy cirrus clouds blown by winds aloft.
   + admonition: A change of weather will surely come soon, so prepare now to welcome that change when it 
     does come. Meanwhile, make the most of fair weather and skies full of delightful patterns.
 + Bible: John 4 - Jesus heals the official's son; the woman at the well
@@ -1748,6 +1936,7 @@ img {
   + It's a beautiful composition
   + Man is truly Man when he desires to create
   + [Sir Gawain and Dame Ragnelle](https://en.wikipedia.org/wiki/The_Wedding_of_Sir_Gawain_and_Dame_Ragnelle)
+  + Plant Rune: **U**nicorn Root (*Aletris farinosa*)
   + "Well, you're a Cunning Linguist, aren't you!?"
   + Color: <font color="#FFA0A0">███ Sweet Pink ███</font> (#FFA0A0)
 
@@ -1767,16 +1956,14 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 111:011 10\. Stepping / Treading (Conduct)
   + judgment: Treading on the tiger's tail. It does not bite you. Success is possible.
   + image: Discriminate between high and low; fortify the thinking of the people.
-  + alchemy: I. The Path of Destiny - 7\. (Re)Set  
-+ Tarot: 12. The Hanged Man
+  + alchemy: I\. The Path of Destiny - 7\. (Re)Set  
++ Tarot: 12\. The Hanged Man
   + upright: sacrifice, martyrdom, surrender, letting go, new perspectives, release
   + reversed: resistance, stalling, needless sacrifice, fear of sacrifice
-+ Rune: ᛃ [Jera/Juniper](#αινιγματα)  
-  + poem: "Juniper with twisted beam, holds the daylight's dying gleam."
-  + keywords: completion, harvest, year, ending, conclusion, accomplishment
-+ The Wanderer's Oracle: Heaven ‖ Lake
-  + poem: "Blue sought blue, blessing sought blessed. / In time, still timeless, I turned toward / that fast and flowing firmament."   
-  + situation: The Wanderer sees a clear, blue sky reflected in a calm lake.
++ The Eardstapa's Oracle: 10\. ᚺᛖᚨᚹᛖᚾ ‖ ᛚᚨᚲᛖ (heaven ‖ lake)
+  + riddle: "ᛒᛚᚢᛖ ᛊᛟᚢᚷᚺᛏ ᛒᛚᚢᛖ ᛒᛚᛖᛊᛊᛁᛜ ᛊᛟᚢᚷᚺᛏ ᛒᛚᛖᛊᛊᛖᛞ / ᛁᚾ ᛏᛁᛗᛖ ᛊᛏᛁᛚᛚ ᛏᛁᛗᛖᛚᛖᛊᛊ ᛁ ᛏᚢᚱᚾᛖᛞ ᛏᛟᚹᚨᚱᛞ / ᚦᛟᛊᛖ ᚠᚨᛊᛏ ᚨᚾᛞ ᚠᛚᛟᚹᛁᛜ ᚠᛁᚱᛗᚨᛗᛖᚾᛏᛊ"   
+    "blue sought blue blessing sought blessed / in time still timeless I turned toward / those fast and flowing firmaments"   
+  + situation: The Eardstapa sees a clear, blue sky reflected in a calm lake.
   + admonition: Take a respite here to consider, or reconsider, your path, progress, and goal.
 + Greek Myth: The Odyssey - 7\. The Phaiakians
   + overview: Odysseus arrives as a suppliant, with nothing but his experiences up to now.
@@ -1791,8 +1978,9 @@ img {
   + Excalibur
   + Life/Identity hangs in the balance 
   + The Spear of Destiny (vide Longinus)
+  + Plant Rune: Rh**u**barb (*Rheum officinale*)
   + Anahata Chakra ("unstruck", heart)
-  + the Wolf
+  + Spirit Animal: Wolf
   + ξένος = guest-friend; "Knowing how to be a guest (or suppliant)..."
   + Color: <font color="#F83D6">███ Persian Pink ███</font> (#F83D6)
 
@@ -1813,16 +2001,17 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 111:000 12\. Stagnation / Standstill
   + judgment: Self-serving people cannot help you keep going. The great departs; the small approaches.
   + image: Fall back on your inner worth to escape difficulties. Don't accept revenue.
-  + alchemy: VI. The Primal Ones - C=3/7 (equivalent to 4\. Audit/ACK) 
+  + alchemy: VI\. The Primal Ones - C=3/7 (equivalent to 4\. Audit/ACK) 
 + Tarot: King ♦/Pentacles
   + upright: leadership, security, discipline, abundance, prosperity
   + reversed: greed, stubborn, indulgence, sensuality
 + Rune: ᚢ [Uruz/Urus](#αινιγματα) 
   + poem: "Urus is an unkempt beast; by his horn is strength increased."
   + keywords: strength, might, courage, fierceness
-+ The Wanderer's Oracle: Heaven ‖ Earth
-  + poem: "Umbral earth urges us, under / night's near vault now to nestle, not, / as aforetime, anxious, afraid."
-  + situation: The Wanderer makes camp as heaven descends to earth and twilight fades into night.
++ The Eardstapa's Oracle: 12\. ᚺᛖᚨᚹᛖᚾ ‖ ᛖᚨᚱᚦ (heaven ‖ earth)
+  + riddle: "ᚢᛗᛒᚱᚨᛚ ᛖᚨᚱᚦ ᚢᚱᚷᛖᛊ ᚢᛊ ᚢᚾᛞᛖᚱ / ᚾᛁᚷᚺᛏᛊ ᚾᛖᚨᚱ ᚹᚨᚢᛚᛏ ᚾᛟᚹ ᛏᛟ ᚾᛖᛊᛏᛚᛖ ᚾᛟᛏ / ᚨᛊ ᚨᚠᛟᚱᛖᛏᛁᛗᛖ ᚨᚾᚲᛊᛁᛟᚢᛊ ᚨᚠᚱᚨᛁᛞ"   
+    "umbral earth urges us under / nights near vault now to nestle not / as aforetime anxious afraid"
+  + situation: The Eardstapa makes camp as heaven descends to earth and twilight fades into night.
   + admonition: Do not fear the cold and dark, nor the creatures that roam the night. Make your encampment 
     as safe as you can and face the challenges of this time.
 + Bible: Genesis 1:14-19 - The 4th Day of Creation: God creates the sun, moon and seasons
@@ -1830,7 +2019,7 @@ img {
   + CEO of his castle
   + Confusion seclusion
   + The stiff and inflexible follows Death
-  + "And he became obedient unto Death... Therefore was he highly exalted..."
+  + Plant Rune: C**u**in (*Cuminum cyminum*)
   + Color: <font color="#BFBFBF">███ Silver ███</font> (#BFBFBF)
 
 ---
@@ -1846,21 +2035,23 @@ img {
 <img src="elaios.card.png" style="float: right;" width="30%"> 
 
 + [ΕΛΑΙΟΣ](#ρυθμοι) = The wild olive.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:000 2. The Receptive / The Receptive
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:000 2\. The Receptive / The Receptive
   + judgment: Extraordinary success is possible; it is advantageous to keep going like a mare. If you 
     undertake something and try to lead, you will go astray, but if you follow, you'll find guidance. 
     It is favorable to find friends in the west and south, and to forego friends in the east and north. 
     Quiet perseverance brings good fortune.
   + image: With breadth of character, carry the world.
-  + Alchemy: VI. The Primal Ones - E=5/7 (equivalent to 8\. (Re)Start/Boot) 
+  + Alchemy: VI\. The Primal Ones - E=5/7 (equivalent to 8\. (Re)Start/Boot) 
 + Tarot: Four ♦/Pentacles
   + upright: conservation, frugality, conservatism
   + reversed: over-spending, scarcity, stinginess, possessiveness
 + Rune: ᚠ [Fehu/Flocks](#αινιγματα) 
   + poem: "Flocks do feed upon the hill, growing fat and fleecy still." 
   + keywords: wealth, abundance, prosperity, increase
-+ The Wanderer's Oracle: Earth ‖ Earth
-  + situation: The Wanderer comes to a hut in the shelter of a valley.
++ The Eardstapa's Oracle: 2\. ᛖᚨᚱᚦ ‖ ᛖᚨᚱᚦ (earth ‖ earth)
+  + riddle: "ᛊᛖᛏ ᚨᛈᚨᚱᛏ ᛇᛖᛏ ᚲᛖᚾᛏᛖᚱᛖᛞ ᚹᛖ ᛊᛁᛏ / ᚨᚾᛇᚦᛁᛜ ᚨᛚᛚᛟᚹᛖᛞ ᚦᚨᛏ ᚨᚾᛊᚹᛖᚱᛊ / ᚺᚨᛚᛏᛁᛜᛚᛇ ᚺᚢᛗᛒᛚᛇ ᚹᛖ ᚨᚱᛖ ᚺᛖᚱᛖ"   
+    "set apart yet centered we sit / anything allowed that answers / haltingly humbly we are here"
+  + situation: The Eardstapa comes to a hut in the shelter of a valley.
   + admonition: Stay your wandering for awhile and spend the time and resources needed, but no more, to 
     be able to continue and complete your journey.
 + Bible: Genesis 1:1b - [God created...] the Earth
@@ -1869,6 +2060,7 @@ img {
   + Preservation, cultivation
   + A penny saved is a penny earned
   + The vehicle of ritual;
+  + Plant Rune: **F**enugreek (*Trigonella foenum-graecum*)
   + Color: <font color="#373737">███ Tuatara ███</font> (#373737)
 
 ---
@@ -1884,24 +2076,27 @@ img {
 <img src="elic.card.png" style="float: right;" width="30%"> 
 
 + [\`ΕΛΙΞ](#ρυθμοι) = The tendril of the vine or of ivy. A curl or lock of hair. The coil of a serpent.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:110 46. Pushing Upwards / Pushing Upward
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:110 46\. Pushing Upwards / Pushing Upward
   + judgment: Supreme success is possible. One must see the great one. Fear not. Departure toward the 
     south brings good fortune.
   + image: With devotion, heap up small things to achieve something high and great.
-  + alchemy: IV. The Dragon's Hoard - D=4/7 (equivelant to 6\. (Re)Arrange)
+  + alchemy: IV\. The Dragon's Hoard - D=4/7 (equivelant to 6\. (Re)Arrange)
 + Tarot: Page ♦/Pentacles
   + upright: opportunity, skill development, ambition, desire, diligence
   + reversed: lack of commitment, laziness, lack of progress, procrastination
-+ The Wanderer's Oracle: Earth ‖ Wind
-  + situation: The Wanderer descends into a valley for protection from strong winds above.
-  + admonition: The indirect path is the best, indeed the only, option now. Don't despise it if it is 
-    also pleasant.
++ The Eardstapa's Oracle: 46\. ᛖᚨᚱᚦ ‖ ᚹᛁᚾᛞ (earth ‖ wind)
+  + riddle: "ᛏᛟ ᛏᛖᚾᚨᚲᛁᛏᛇ ᛏᚢᚱᚾ ᚢᚾᛏᛁᛚ / ᛊᛟ ᛊᛗᚨᛚᛚ ᛇᛟᚢ ᛊᛚᛁᛈ ᛈᚨᛊᛏ ᚦᛟᛊᛖ ᛊᚢᛈᛈᛟᚱᛏᛊ / ᚦᚨᛏ ᚹᛟᚢᛚᛞ ᚹᚨᛊᛏᛖ ᛟᚱ ᚹᛟᚢᚾᛞ ᚹᛟᚢᚾᛞ ᚨᛒᛟᚢᛏ"   
+    "to tenacity turn until / so small you slip past those supports / that would waste or wound wound about"
+  + situation: The Eardstapa descends into a narrow, twisting valley for protection from strong winds above.
+  + admonition: The indirect path, though it involves more work, is the best. Indeed it is the only option now. 
+    Don't despise it if it is also pleasant.
 + Bible: John 6:1-15 - Jesus feeds 5K with 5 loaves and 2 fish
 + Additional Concepts: 
   + Skill Development
   + Train the model
   + Grow by modesty and adaptability
   + It's a beautiful world
+  + Plant Rune: **F**lax (*Linum usitatissimum*)
   + "Cinderella" (Grimm's Fairy Tales 1st ed. Volume 1 #21)
   + Color: <font color="#5B0000">███ Rosewood ███</font> (#5B0000)
 
@@ -1923,15 +2118,17 @@ img {
   + judgment: Supreme success is possible. To keep going is advantageous. When Autumn comes, there will 
     be misfortune.
   + image: Be inexhaustible in your teaching, tolerance, and protection of the people.
-  + alchemy: II. The Priesthood of the Flame - 4\. Audit/ACK
+  + alchemy: II\. The Priesthood of the Flame - 4\. Audit/ACK
 + Tarot: Ace ♦/Pentacles
   + upright: manifestation, opportunity, prosperity, new venture, abundance
   + reversed: lost opportunities, missed chances, bad investments
-+ The Wanderer's Oracle: Earth ‖ Lake
-  + situation: The Wanderer comes to a fertile valley with a gem-like lake that must be crossed by a 
++ The Eardstapa's Oracle: 19\. ᛖᚨᚱᚦ ‖ ᛚᚨᚲᛖ (earth ‖ lake)
+  + riddle: "ᛁ ᛇᛁᛖᛚᛞ ᚠᛟᚱ ᛇᛟᚢ ᛚᚨᚲᛖ ᛇᛟᚢᚦᚠᚢᛚ ᛇᛖᛏ / ᛃᚨᛞᛖᛞ ᛃᚢᛞᚷᛗᛖᚾᛏ ᛚᛖᛏ ᛗᛖ ᛃᚢᛊᛏ ᛃᛟᛁᚾ / ᛖᚹᛖᚱᛇᛟᚾᛖ ᛖᛗᛒᚨᚾᚲᛖᛞ ᛟᚱ ᛖᛗᛒᚨᚱᚲᛖᛞ"   
+    "i yield for you lake youthful yet / jaded judgment let me just join / everyone embanked or embarked"
+  + situation: The Eardstapa comes to a fertile valley with a gem-like lake that must be crossed by a 
     boat tied up on its shore.
-  + admonition: An unexpected new venture requires you to innovate; but you might even get a chance to fish 
-    if you can improvise a bit.
+  + admonition: An unexpected new venture requires more, or different, toil. But you might get a chance 
+    to fish if you can improvise a bit.
 + Greek Myth: The Labors of Heracles - 4\. The Erymanthian Boar
   + mode: capture and release, with a preliminary deadly encounter with unruly centaurs (Heracles uses his 
     poison arrows)
@@ -1939,7 +2136,7 @@ img {
   + comment: To bring back and control the Boar (the Earthly Life Force) is impossible. But only through 
     the process of attempting to do so are you able to accomplish the killing off of those passions of 
     your ΨΥΧΗ that are not capable of being controlled by Reason. The method is to identify and kill them 
-    with the ΦΑΡΜΑΚΟΝ of your repentance. But you must avoid killing the ones who can serve Reason, if you can.
+    with the [ΦΑΡΜΑΚΟΝ](#φαρμακον) of your repentance. But you must avoid killing the ones who can serve Reason, if you can.
 + Bible: Genesis 2:10-14 - Four rivers flow out of Eden
 + Additional Concepts: 
   + Opportunity favors the prepared
@@ -1949,6 +2146,7 @@ img {
   + Hallowed Bread (The Host)
   + Lupercal
   + Ubuntu: I Am Because You Are
+  + Plant Rune: **F**oxglove (*Digitalis purpurea*)
   + "Walk upon England's mountains green:" (Blake's Jerusalem 2)
   + Color: <font color="#490031">███ Blackberry ███</font> (#490031)
 
@@ -1966,17 +2164,19 @@ img {
 
 + [ΖΕΥΓΜΑ](#ρυθμοι) = That which is used for joining, band, bond; a bridge of boats or platform formed by lashing 
   several vessels together.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:000 8. Closeness / Holding Together (Union)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:000 8\. Closeness / Holding Together (Union)
   + judgment: Good fortune is possible. Inquire of the oracle once again-- if you possess greatness, 
     have constancy, and keep going, then there is no blame. Those who are uncertain gradually join. 
     Whoever comes too late meets with misfortune.
   + image: Bestow fiefdoms and cultivate friendly relations.
-  + alchemy: I. The Path of Destiny - 6\. (Re)Arrange
+  + alchemy: I\. The Path of Destiny - 6\. (Re)Arrange
 + Tarot: King ♠/Swords
   + upright: intellectual authority, head over heart, discipline, truth
   + reversed: misuse of power, manipulation, cruelty
-+ The Wanderer's Oracle: Rain Clouds ‖ Earth
-  + situation: It begins to rain as the Wanderer's path descends into a dry gulch.
++ The Eardstapa's Oracle: 8\. ᚱᚨᛁᚾ ‖ ᛖᚨᚱᚦ (rain ‖ earth)
+  + riddle: "ᛒᛚᛖᛊᛊᛁᛜ ᛟᚱ ᛒᛚᚨᛊᛏᛁᛜ ᚹᚺᛁᚲᚺ ᛒᛖᛚᛟᛜᛊ / ᚺᛟᛈᛖ ᛟᚱ ᚺᛖᛚᛈᛚᛖᛊᛊᚾᛖᛊᛊ ᚺᚨᛚᚠ ᚺᛟᚢᚱᛊ ᚱᚨᛁᚾ / ᛊᚺᚱᛁᚹᛖᚾ ᛟᚱ ᛊᚺᚨᛗᛖᚠᚨᚲᛖᛞ ᛊᚺᚨᛚᛚ ᛊᚺᛟᚹ"   
+    "blessing or blasting which belongs / hope or helplessness half hours rain / shriven or shamefaced shall show"
+  + situation: It begins to rain as the Eardstapa's path descends into an erstwhile dry gulch.
   + admonition: Pay attention to the conditions of sky and earth. How long and how hard has it been raining? 
     What are the features of the terrain? To be able to continue unharmed, you must watch out for thick mud, 
     slippery rocks and flash-floods. 
@@ -1994,6 +2194,7 @@ img {
   + Mutual interests
   + The nature of wisdom, the wisdom of nature
   + Pontifex = bridge builder
+  + Plant Rune: **R**osemary (*Rosmarinus officinalis*)
   + Color: <font color="#002456">███ Green Vogue ███</font> (#002456)
 
 ---
@@ -2010,15 +2211,17 @@ img {
 
 + [ΖΥΓΟΝ](#ρυθμοι) = A yoke, crossbar, or the thwarts (benches) joining opposite sides of a ship. The beam of a
   balance, or the balance itself. A cross-strap of a sandal.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:011 60. Limitation / Limitation
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:011 60\. Limitation / Limitation
   + judgment: Success is possible. Vexatious limitation must not be allowed to continue.
   + image: Create number and measure, and examine the nature of virtue and correct conduct.
-  + alchemy: V. The Pilgrimage to The Inner Shrine, Part 2 - 10\. Monitor/Evaluate
+  + alchemy: V\. The Pilgrimage to The Inner Shrine, Part 2 - 10\. Monitor/Evaluate
 + Tarot: 13. Death
   + upright: endings, beginnings, change, metamorphosis, transformation, transition
   + reversed: resistance to change, fear of change, holding on, stagnation
-+ The Wanderer's Oracle: Rain Clouds ‖ Lake
-  + situation: The Wanderers camp site by a lake is flooded by rising rain waters rushing in.
++ The Eardstapa's Oracle: 60\. ᚱᚨᛁᚾ ‖ ᛚᚨᚲᛖ (rain ‖ lake)
+  + riddle: "ᚲᚨᚾᛏ ᛊᛏᚨᛇ ᚠᛟᚱ ᚲᚨᚾᛏ ᚲᚨᛚᛗ ᚦᛖ ᚲᛚᚨᛏᛏᛖᚱ / ᚦᛖ ᚱᚨᛁᚾ ᚱᚨᛗᛈᚨᚾᛏ ᚱᚢᚾᚾᛁᛜ ᚨᛒᛟᚢᛏ / ᚹᛁᚦ ᚹᚨᛏᛖᚱᛊ ᚹᛁᛞᛞᛖᚱᛊᚺᛁᚾᛊ ᚹᚨᛚᚲᛁᛜ"   
+    "cant stay for cant calm the clatter / the rain rampant running about / with waters widdershins walking"
+  + situation: The Eardstapas camp site by a lake is flooded by rising rain waters rushing in.
   + admonition: Time to salvage what you can and quickly move on before you are drowned.
 + Bible: Revelation 21:2-3 - The New Jerusalem
 + Additional Concepts: 
@@ -2028,6 +2231,7 @@ img {
     as Wind along the Waste, I know not Whither, willy-nilly blowing."
   + "I am the first and the last, and the Living one; and I was dead, and behold, I am alive for evermore, 
     and I have the keys of death and of Hades."
+  + Plant Rune: **R**ue (*Ruta graveolens*)
   + Color: <font color="#7427AB">███ Purple Heart ███</font> (#7427AB)
 
 ---
@@ -2048,16 +2252,17 @@ img {
     They come and go and draw from the well. If one gets down almost to the water and the rope does not go 
     all the way, or the jug breaks, it brings misfortune.
   + image: Encourage people at their work, and exhort them to help one another.
-  + alchemy: IV. The Dragon's Hoard - F=6/7 (equivalent to 9\. Execute) 
+  + alchemy: IV\. The Dragon's Hoard - F=6/7 (equivalent to 9\. Execute) 
 + Tarot: Six ♠/Swords
   + upright: transition, change, rite of passage, leaving the past behind, moving on
   + reversed: resisting transition, emotional baggage, unresolved issues
 + Rune: ᚱ [Raido/Road](#αινιγματα) 
   + poem: "Road runs right beside the sea, where the waves walk ceaselessly."
   + keywords: way, road, path, journey, individuality, liminality, separation
-+ The Wanderer's Oracle: Rain Clouds ‖ Wind
-  + poem: "Ran the running rain regardless / of freshened fronds it left behind, / lets the wind wind down its wetness?
-  + situation: The Wanderer feels the rain slacken and a fresh breeze begins to blow the clouds away. 
++ The Eardstapa's Oracle: 48\. ᚱᚨᛁᚾ ‖ ᚹᛁᚾᛞ (rain ‖ wind)
+  + riddle: "ᚱᚨᛁᚾ ᚦᛖ ᚱᚢᚾᚾᛁᛜ ᚱᚨᚾ ᚱᛖᚷᚨᚱᛞᛚᛖᛊᛊ / ᛟᚠ ᚠᚱᛖᛊᚺᛖᚾᛖᛞ ᚠᚱᛟᚾᛞᛊ ᛚᛖᚠᛏ ᛒᛖᚺᛁᚾᛞ ᛁᛏ / ᛚᛖᛏᛊ ᚦᛖ ᚹᛁᚾᛞ ᚹᛁᚾᛞ ᛞᛟᚹᚾ ᛁᛏᛊ ᚹᛖᛏᚾᛖᛊᛊ"   
+    "rain the running ran regardless / of freshened fronds left behind it / lets the wind wind down its wetness"
+  + situation: The Eardstapa feels the rain slacken and a fresh breeze begins to blow the clouds away. 
   + admonition: Remove that rain gear or come out from under shelter. The rain has washed your path clean, 
     so you may continue or rejoin your journey refreshed.
 + Bible: John 9 - Jesus heals the man born blind by sending him to wash in the pool of Siloam
@@ -2071,7 +2276,8 @@ img {
     pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about 
     such things." (Ph. 4:8)
   + "Little Snow White" (Grimm's Fairy Tales 1st ed. Volume 1 #53)
-  + the Bear
+  + Plant Rune: **R**aspberry (*Rubus idaeus*)
+  + Spirit Animal: Bear
   + Color: <font color="#5C2D6D">███ Honey Flower ███</font> (#5C2D6D)
 
 ---
@@ -2091,16 +2297,17 @@ img {
   + judgment: Success comes through small things. It is advantageous to have somewhere to go. It is 
     advantageous to see the great one.
   + image: Spread your commands abroad and carry out your undertakings.
-  + alchemy: V. The Pilgrimage to The Inner Shrine - 8\. (Re)Start/Boot
+  + alchemy: V\. The Pilgrimage to The Inner Shrine - 8\. (Re)Start/Boot
 + Tarot: Page ♥/Cups
   + upright: new ideas, happy surprises, curiosity, possibilities, dreams, emotional sensitivity
   + reversed: emotional immaturity, creative blocks, insecurity, disappointment
 + Rune: ᚹ [Wunjo/Wind](#αινιγματα) 
   + poem: "Wind that whistles o'er the plain, wall nor wattle can restrain."
   + keywords: joy, happiness, freedom, release, inspiration
-+ The Wanderer's Oracle: Wind ‖ Wind
-  + poem: "This marching mind is being moved, / sent offstage, saved to savor some / delicate, delicious desert."
-  + situation: The Wanderer feels a gentle breeze that brings with it lovely fragrances.
++ The Eardstapa's Oracle: 57\. ᚹᛁᚾᛞ ‖ ᚹᛁᚾᛞ (wind ‖ wind)
+  + riddle: "ᛗᚨᚱᚲᚺ ᛗᛁᚾᛞ ᛒᛇ ᚹᛁᚾᛞᛊ ᛗᛟᚹᛖᛞ ᛗᛖᚱᚱᛇ ᚾᛟᚹ / ᛊᛖᚾᛏ ᛟᚠᚠᛊᛏᚨᚷᛖ ᛊᚨᚹᛖᛞ ᛏᛟ ᛊᚨᚹᛟᚱ ᛊᛟᛗᛖ / ᛞᛖᛚᛁᚲᚨᛏᛖ ᛞᛖᛚᛁᚲᛁᛟᚢᛊ ᛞᛖᛊᛖᚱᛏ"   
+    "march mind by winds moved merry now / sent offstage saved to savor some / delicate delicious desert"
+  + situation: The Eardstapa feels a gentle breeze that brings with it lovely fragrances.
   + admonition: Stop to smell the flowers whose scent is carried by the wind. Put one in your cap so you 
     may continue your journey with a light heart. 
 + Bible: Revelation 20:11-15 - The dead are judged by their deeds: the Book of Life
@@ -2112,7 +2319,8 @@ img {
   + "For where your treasure is, there will your heart be also."
   + "The Three Little Men in the Forest" (Grimm's Fairy Tales 1st ed. Volume 1 #13); 
     "Mother Holle" (Grimm's Fairy Tales 1st ed. Volume 1 #24)
-  + the Hind 
+  + Plant Rune: **W**intergreen (*Gaultheria procumbens*)
+  + Spirit Animal: Hind 
   + Color: <font color="#800000">███ Maroon ███</font> (#800000)
 
 ---
@@ -2128,16 +2336,18 @@ img {
 <img src="hlektron.card.png" style="float: right;" width="30%">
 
 + [ΗΛΕΚΤΡΟΝ](#ρυθμοι) = Amber
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:011 61. Sincere to the Core / Inner Truth
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:011 61\. Sincere to the Core / Inner Truth
   + judgment: Pigs and fishes. Good fortune is possible. It is advantageous to cross the big river. To 
     keep going is advantageous.
   + image: Discuss criminal cases in order to delay executions. (Pigs and Fishes)
-  + alchemy: V. The Pilgrimage to The Inner Shrine, Part 2 - 12\. Replicate/Teach
+  + alchemy: V\. The Pilgrimage to The Inner Shrine, Part 2 - 12\. Replicate/Teach
 + Tarot: Ace ♥/Cups
   + upright: love, new relationships, compassion, creativity, spirituality, intuition
   + reversed: emotional loss, blocked creativity, emptiness, repressed emotions
-+ The Wanderer's Oracle: Wind ‖ Lake
-  + situation: The Wanderer watches the wind as it walks across a lake, forming ever-changing, scintillating 
++ The Eardstapa's Oracle: 61\. ᚹᛁᚾᛞ ‖ ᛚᚨᚲᛖ (wind ‖ lake)
+  + riddle: "ᛈᚨᛏᛏᛖᚱᚾ ᛁᛊ ᛇᛟᚢᚱ ᛈᛚᚨᛇᚦᛁᛜ ᛈᚢᚱᛖᛚᛇ / ᚢᛊᛖᛚᛖᛊᛊᛚᛇ ᚢᛊᛖᚠᚢᛚ ᛇᛖᛏ ᛇᛟᚢ ᛇᛁᛖᛚᛞ / ᛒᛖᚨᚢᛏᛇ ᛁᚾ ᚦᛖ ᛒᚱᛖᚨᚦ ᛟᚠ ᚦᛖ ᛒᚨᚱᛞ"   
+    "pattern is your plaything purely / uselessly useful yet you yield / beauty in the breath of the bard"
+  + situation: The Eardstapa watches the wind as it walks across a lake, forming ever-changing, scintillating 
     patterns of reflection.
   + admonition: Don't miss the beauty that comes your way unlooked for. Isn't your true destination your own
     transformation, just as the water cannot touch the lake without them both being transformed?
@@ -2152,6 +2362,7 @@ img {
   + the Rose
   + "Maiden Without Hands" (Grimm's Fairy Tales 1st ed. Volume I #31); "Bluebeard" (Grimm's Fairy Tales 1st ed. Volume I #62)
   + The Muse of Aspiration
+  + Plant Rune: **W**oad (*Ivatis tinctoria*)
   + Color: <font color="#FF0056">███ Razzmatazz ███</font> (#FF0056)
 
 ---
@@ -2167,16 +2378,18 @@ img {
 <img src="hws.card.png" style="float: right;" width="30%"> 
 
 + [ΗΩΣ](#ρυθμοι) = Day, life, the East; the Goddess of dawn.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:000 20. Contemplation / Contemplation (View)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:000 20\. Contemplation / Contemplation (View)
   + judgment: The ablution has been made, but not yet the offering. Full of trust they look up to the
     officiant.
   + image: Visit the regions of the world, contemplate the people, and give them instruction.
-  + alchemy: II. The Priesthood of the Flame - 3\. Signal/Command
+  + alchemy: II\. The Priesthood of the Flame - 3\. Signal/Command
 + Tarot: Four ♥/Cups
   + upright: meditation, apathy, reevaluation, contemplation, disconnectedness
   + reversed: retreat, withdrawal, checking in
-+ The Wanderer's Oracle: Wind ‖ Earth
-  + situation: The Wanderer feels a strong wind blow through the valley, stirring up dust and making the 
++ The Eardstapa's Oracle: 20\. ᚹᛁᚾᛞ ‖ ᛖᚨᚱᚦ (wind ‖ earth)
+  + riddle: "ᛇᛟᚢ ᚲᚨᚾᛏ ᚲᚨᛏᚲᚺ ᚺᛖᚱ ᚲᚨᚱᛖᛖᚾᛁᛜ ᚲᚨᚷᛖ / ᚺᛖᚱ ᛖᛗᛈᚺᚨᛏᛁᚲ ᛖᚾᛏᛖᚱ ᛖᚾᛏᛁᚱᛖ  / ᛟᚾᛚᛇ ᛊᛟ ᛇᛟᚢ ᛊᛁᛏ ᛊᛏᛁᛚᛚ ᛊᛁᛚᛖᚾᛏ"   
+    "you cant catch her careening cage / her emphatic enter entire  / only so you sit still silent"
+  + situation: The Eardstapa feels a strong wind blow through the valley, stirring up dust and making the 
     trees bend and groan.
   + admonition: Wait in a safe spot for the wind to spend itself, lest, in its headlong hurry it fells a 
     branch on you or blows the dust in your eyes.
@@ -2194,7 +2407,8 @@ img {
 + Additional Concepts: 
   + Asceticism
   + After the ablution- awake! aware
-  + the Mare
+  + Plant Rune: **W**illow (*Salix lucida*, et al.)
+  + Spirit Animal: Mare
   + "Briar Rose" (Grimm's Fairy Tales 1st ed. Volume 1 #50)
   + "And did those feet in ancient time," (Blake's Jerusalem 1)
   + Color: <font color="#930000">███ Red Berry ███</font> (#930000)
@@ -2221,12 +2435,14 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 100:000 23\. Peeling / Splitting Apart
   + judgment: It isn't advantageous to go anywhere.
   + image: You can ensure your position only by giving generously to those below.
-  + alchemy: II. The Priesthood of the Flame - 8\. (Re)Start/Boot 
+  + alchemy: II\. The Priesthood of the Flame - 8\. (Re)Start/Boot 
 + Tarot: King ♣/Wands
   + upright: leader, visionary, entrepreneur, overcoming challenges
   + reversed: impulsive, hasty, ruthless, impulsive, overbearing, unachievable expectations
-+ The Wanderer's Oracle: Mountain ‖ Earth
-  + situation: The Wanderer comes to the base of a steep, almost vertical mountain face that rises directly 
++ The Eardstapa's Oracle: 23\. ᛗᛟᚢᚾᛏᚨᛁᚾ ‖ ᛖᚨᚱᚦ (mountain ‖ earth)
+  + riddle: "ᚠᛟᚱ ᛗᛁᚾᛞᚠᚢᛚ ᛗᛟᚢᚾᛏᚨᛁᚾᛊ ᛗᚨᛃᛖᛊᛏᛇ / ᛒᛖᛚᚨᛇᛖᛞ ᛁ ᛒᚨᚱᚷᚨᛁᚾ ᛒᚨᛏᛖᛞ ᛒᚱᛖᚨᚦ / ᛚᛁᚠᛖ ᛚᛁᛗᛒ ᚨᚾᛞ ᚦᛁᛊ ᛚᛟᛊᛏ ᛚᚨᛒᛟᚱᛊ ᛚᛟᚹᛖ"   
+    "for mindful mountains majesty / belayed I bargain bated breath / life limb and this lost labors love"
+  + situation: The Eardstapa comes to the base of a steep, almost vertical mountain face that rises directly 
     from the plain.
   + admonition: This is a technical climb, but it could be very rewarding. To undertake it, you must be 
     practiced and prepared. If you are, then climb with care, taking nothing for granted.
@@ -2245,6 +2461,7 @@ img {
   + Give my 2 cents
   + The Sacred Marriage
   + Humility
+  + Plant Rune: **A**nise (*Pimpinella anisum*)
   + "The Foundling" (Grimm's Fairy Tales 1st ed. Volume 1 #51); "Sweetheart Roland" (Grimm's Fairy Tales 1st ed. Volume 1 #56)
   + "He became obedient unto death... Therefore hath God highly exalted him"
   + Color: <font color="#00848E">███ Blue Lagoon ███</font> (#00848E)
@@ -2262,20 +2479,21 @@ img {
 <img src="quia.card.png" style="float: right;" width="30%"> 
 
 + [ΘΥΙΑ](#ρυθμοι) = Juniper (e.g. *Thuja occidentalis*)
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:110 18. Branching Out / Work On What Has Been Spoiled (Decay)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:110 18\. Branching Out / Work On What Has Been Spoiled (Decay)
   + judgment: Supreme success is possible. It is advantageous to cross the great water. Before the starting 
     point, three days. After the starting point, three days.
   + image: Stir up the people; strengthen their spirit.
-  + alchemy: II. The Priesthood of the Flame - 2\. Identify
+  + alchemy: II\. The Priesthood of the Flame - 2\. Identify
 + Tarot: Six ♣/Wands
   + upright: victory, success, public reward
   + reversed: excessive pride, lack of recognition, fall from grace, egotism
-+ Tarot: 15. The Devil
++ Tarot: 15\. The Devil
   + upright: Shadow self, attachment, addiction, materialism
   + reversed: exploring dark thoughts, detachment, release, restoring control
-+ The Wanderer's Oracle: Mountain ‖ Wind
-  + poem: "Wind's wild whipping would overturn  / my mountain's mastered, meaningful / stillness; thus spoil or let soar."
-  + situation: The Wanderer on the mountain path struggles against a strong wind which threatens, at 
++ The Eardstapa's Oracle: 18\. ᛗᛟᚢᚾᛏᚨᛁᚾ ‖ ᚹᛁᚾᛞ (mountain ‖ wind)
+  + riddle: "ᚹᛁᚾᛞᛊ ᚹᛁᛚᛞ ᚹᚺᛁᛈᛈᛁᛜ ᚹᛟᚢᛚᛞ ᛟᚹᛖᚱᚹᛖᛖᚾ / ᛗᛇ ᛗᛖᚨᚾᛁᛜ ᛗᛇ ᛗᚨᛊᛏᛖᚱᛖᛞ ᛗᛟᚢᚾᛏᚨᛁᚾᛊ / ᛊᛏᛁᛚᛚᚾᛖᛊᛊ ᛊᛖᚾᛞ ᛊᛟᚨᚱᛁᛜ ᛟᚱ ᛊᛈᛟᛁᛚ"   
+    "winds wild whipping would overween / my meaning my mastered mountains / stillness send soaring or spoil"
+  + situation: The Eardstapa on the mountain path struggles against a strong wind which threatens, at 
     times, to blow them off the path completely.
   + admonition: Keep your footing and cling to the very rocks when necessary. There's no turning back 
     now, and if you make it, your reward will be great. 
@@ -2295,6 +2513,7 @@ img {
   + Sahasrara Chakra ("thousand petaled", crown)
   + You must follow your bliss... God help you
   + The recompense of ritual
+  + Plant Rune: **A**pple (*Malus sieversii*, et al.)
   + "The Juniper Tree" (Grimm's Fairy Tales 1st ed. Volume 1 #47); "The Three Sisters" (Grimm's Fairy Tales 1st ed. Volume 1 #82)
   + The Initiate into the Mysteries of the Grail
   + Color: <font color="#678D98">███ Juniper ███</font> (#678D98)
@@ -2317,15 +2536,17 @@ img {
     persevere in this. It advantageous to undertake something. How should this be carried out? You can 
     use two small bowls for the sacrifice.
   + image: Control your anger and restrain instincts.
-  + alchemy: III. Phoenix and Dragon - 1\. Sense/Detect
-+ Tarot: 16. The Tower
+  + alchemy: III\. Phoenix and Dragon - 1\. Sense/Detect
++ Tarot: 16\. The Tower
   + upright: sudden upheaval or change, broken pride, disaster, revelation, awakening
   + reversed: disaster averted or delayed, fear of change
 + Rune: ᚨ [Ansuz/Ash](#αινιγματα) 
   + poem: "Ash is ardent, straight and true, bright bedecked with heaven's dew."
   + keywords: spirit, breath, wisdom, stillness
-+ The Wanderer's Oracle: Mountain ‖ Lake
-  + situation: The Wanderer approaches their mountain goal only to find that it rises directly out of a lake.
++ The Eardstapa's Oracle: 41\. ᛗᛟᚢᚾᛏᚨᛁᚾ ‖ ᛚᚨᚲᛖ (mountain ‖ lake)
+  + riddle: "ᚨᛏᛏᚨᛁᚾ ᚦᛁᛊ ᚨᛊ ᛁᚠ ᚨᛚᛚ ᚦᛟᚢᚷᚺ ᚨᛚᛚ / ᛟᚾᛖ ᚹᛟᚢᛚᛞ ᚹᛁᚾ ᛒᛖ ᚹᛟᚾᛞᛖᚱ ᚹᚺᛇ ᚾᛟᛏ / ᛊᛁᚾᚲ ᛟᚱ ᛊᚹᛁᛗ ᛟᚱ ᛊᛏᚨᚾᛞ ᚨᛏ ᛊᚢᛗᛗᛁᛏ"   
+    "attain this as if all though all / one would win be wonder why not / sink or swim or stand at summit"
+  + situation: The Eardstapa approaches their mountain goal only to find that it rises directly out of a lake.
   + admonition: To reach the mountain and climb to its peak, you'll have to strip yourself of all unnecessary 
     gear and clothing and swim for it. Let's hope the water is not too cold.
 + Bible: 1 Kings 17:1 - Elijah announces the drought
@@ -2335,6 +2556,7 @@ img {
   + Repentance unto Salvation
   + "You shall know the Truth and the Truth shall set you free"
   + Waning
+  + Plant Rune: **A**sh (*Fraxinus excelsior*)
   + "Good Bowling and Card Playing" (Grimm's Fairy Tales 1st ed. Volume 1 #4); "The White Dove", "The
     Queen Bee" (parts of "The Simpleton", Grimm's Fairy Tales 1st ed. Volume 1 #64)
   + A "simpleton" is one who is naive. General "inexperience" is of no use. But if this naivety is a 
@@ -2364,15 +2586,17 @@ img {
   + judgment: Success is possible; keep going. The great one brings about good fortune. No blame. When 
     one has something to say, it is not believed.
   + image: Stake your life on following your will. Sacrifice your life if only this will achieve your goals.
-  + alchemy: IV. The Dragon's Hoard - E=5/7 (equivalent to 8\. (Re)Boot)
+  + alchemy: IV\. The Dragon's Hoard - E=5/7 (equivalent to 8\. (Re)Boot)
 + Tarot: Nine ♣/Wands
   + upright: resilience, courage, persistence, test of faith, boundaries, grit, last stand
   + reversed: exhaustion, fatigue, questioning motivations, inner resources, struggle, overwhelmed, defensive
 + Rune: ᚾ [Naudiz/Nettles](#αινιγματα)  
   + poem: "Nettles for the needy man; takes his hunger what it can."
   + keywords: need, necessity, lack, constraint, binding, destiny, fate, the Norns  
-+ The Wanderer's Oracle: Lake ‖ Rain Clouds
-  + situation: The Wanderer's trail passes by a lake that has overflowed its shores because of recent rains.
++ The Eardstapa's Oracle: 47\. ᛚᚨᚲᛖ ‖ ᚱᚨᛁᚾ (lake ‖ rain)
+  + riddle: "ᚹᚨᛏᛖᚱᛊ ᚹᛁᛚᛚ ᚱᛁᛊᛖ ᚹᛁᛚᛚ ᚹᚨᚾᛞᛖᚱ ᚹᚨᛊᛏᛖ  / ᚠᚢᛚᛚ ᛖᚠᚠᛟᚱᛏ ᚠᛚᚨᚢᚾᛏ ᚠᚱᛖᛖᛞᛟᛗ ᚠᛁᚾᛁᛊᚺ / ᚦᛁᛊ ᛏᚱᛁᚨᛚ ᚨᚾᛞ ᛏᚱᛟᚢᛒᛚᛖ ᛏᚨᚲᛖ ᛏᛟᛞᚨᛇ"   
+    "waters will rise will wander waste  / full effort flaunt freedom finish / this trial and trouble take today"
+  + situation: The Eardstapa's trail passes by a lake that has overflowed its shores because of recent rains.
   + admonition: You must navigate the difficult, wet conditions and keep to the path as much as possible.
 + Bible: John 6:16-21 - Jesus walks on the Sea of Galilee [originally, The Word rising from the Waters])
 + Additional Concepts: 
@@ -2384,6 +2608,7 @@ img {
   + "Our life is forfeit to the Dharma" -Fox and Bärchen
   + The Magic Girdle of Aphrodite is φιλότητα καί ἵμερον = affection and desire
   + Sir Gawain and the Green Knight
+  + Plant Rune: **N**ettles (*Urtica dioica*)
   + passion(n.) https://www.etymonline.com/word/passion ... from Late Latin passionem "suffering, enduring," 
     from Latin pati "to endure, undergo, experience". The notion is "that which must be endured." The sense 
     was extended to ... suffering and pain generally, by early 13c. It replaced OE þolung (used in glosses 
@@ -2413,16 +2638,18 @@ img {
   circle surrounding another body, as the lunar rainbow; the halo of a candle; the eyes of a peacock's tail; 
   the iris of the eye; an iridescent garment; various species of the botanical genus iris, e.g. 
   the purple Iris.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:100 31. Respect / Influence (Wooing)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:100 31\. Respect / Influence (Wooing)
   + judgment: Influence: Success is possible. To keep going is advantageous. To take a maiden to wife 
     brings good fortune.
   + image: Encourage people to approach you by your readiness to receive them.
-  + alchemy: III. Phoenix and Dragon - 12\. Replicate/Teach
-+ Tarot: 17. The Star
+  + alchemy: III\. Phoenix and Dragon - 12\. Replicate/Teach
++ Tarot: 17\. The Star
   + upright: hope, faith, purpose, renewal, rejuvenation
   + reversed: despair, faithlessness, discouragement, insecurity
-+ The Wanderer's Oracle: Lake ‖ Mountain
-  + situation: The Wanderer comes to a clear, gem-like lake fed by a spring, high on a mountain path.
++ The Eardstapa's Oracle: 31\. ᛚᚨᚲᛖ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (lake ‖ mountain)
+  + riddle: "ᛃᛟᚢᚱᚾᛖᛇᛊ ᛃᛟᛇᛊ ᛏᛟ ᛃᚢᚲᛊᛏᚨᛈᛟᛊᛖ ᚺᛖ / ᛚᛁᛖᛊ ᚨᛒᛟᚢᛏ ᛇᛟᚾ ᛚᚨᚲᛖ ᚨᚾᛞ ᛚᛁᛊᛏᛖᚾᛊ / ᛏᛟ ᛏᚱᚢᚦ ᛏᛖᛚᛚᛁᛜ ᛏᚨᛚᛚ ᛗᛟᚢᚾᛏᚨᛁᚾ ᛏᚨᛚᛖᛊ"   
+    "journeys joys to juxtapose he / lies about yon lake and listens / to truth telling tall mountain tales"
+  + situation: The Eardstapa comes to a clear, gem-like lake fed by a spring, high on a mountain path.
   + admonition: Stop for a moment for unexpected refreshment and rest in a difficult landscape. This 
     little gem may make the difference in achieving your goal.
 + Bible: 2 Kings 2:1-12 (Elijah ascends to Heaven and Elisha takes his place)  
@@ -2431,6 +2658,7 @@ img {
   + A little sugar
   + Mutual respect
   + "Now abideth faith, hope & charity"
+  + Plant Rune: **N**asturtium (*Tropaeolum majus*)
   + "The Singing, Springing Lark" (Grimm's Fairy Tales 1st ed. Volume 2 #2)
   + "In thy presence is fulness of joy"
   + Color: <font color="#AA4FC7">███ Fuschia Pink ███</font> (#AA4FC7)
@@ -2449,17 +2677,19 @@ img {
 
 + [\`ΙΣΤΟΣ](#ρυθμοι) = Anything set upright: mast; rod; pole; beam; beam of a loom, which stood upright, instead of 
   lying horizontal as in our looms; the warp fixed to the beam, hence, the web itself; spiders' webs.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:111 43. Resolute / Break-through
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:111 43\. Resolute / Break-through
   + judgment: You must resolutely make the matter known at the court of the ruler. It must be announced 
     truthfully. Danger. It is necessary to notify your own city. It is not advantageous to resort to 
     arms. It is advantageous to undertake something.
   + image: Dispense riches downward and refrain from resting on your virtue.
-  + alchemy: IV. The Dragon's Hoard - A=1/7 (equivalent to 1\. Sense/Detect)
+  + alchemy: IV\. The Dragon's Hoard - A=1/7 (equivalent to 1\. Sense/Detect)
 + Tarot: Queen ♣/Wands
   + upright: courage, confidence, independence, determination
   + reversed: selfishness, jealousy, insecurities
-+ The Wanderer's Oracle: Lake ‖ Heaven
-  + situation: The Wanderer is camped beside a lake. Just before dawn, they see that the clouds have 
++ The Eardstapa's Oracle: 43\. ᛚᚨᚲᛖ ‖ ᚺᛖᚨᚹᛖᚾ (lake ‖ heaven)
+  + riddle: "ᚨᚱᛁᛊᛖ ᚨᚱᚱᚨᛇ ᛇᛟᚢᚱᛊᛖᛚᚠ ᛇᛟᚢ ᚨᚱᛖ / ᚾᛖᛁᚦᛖᚱ ᚾᚨᛗᛖᛚᛖᛊᛊ ᚾᛟᚱ ᛇᛖᛏ ᚾᚨᛗᛖᛞ ᚾᛟᛏ / ᛒᛟᚢᚾᛞᛚᛖᛊᛊ ᛊᚲᛇ ᚾᛟᚱ ᛇᛖᛏ ᛒᛟᚢᚾᛞ ᛒᚨᛈᛏᛁᛊᛖᛞ"   
+    "arise array yourself you are / neither nameless nor yet named not / boundless sky nor yet bound baptised"
+  + situation: The Eardstapa is camped beside a lake. Just before dawn, they see that the clouds have 
     dispersed and the stars are reflected in the lake's surface.
   + admonition: Get up and make an early start on your journey. If you do, it's possible to make better 
     progress than you anticipated.
@@ -2470,6 +2700,7 @@ img {
   + Marianne
   + The Truth in Fiction is in its right relationships
   + Penelope
+  + Plant Rune: **N**utmeg (*Myristica fragrans*)
   + "The Six Swans" (Grimm's Fairy Tales 1st ed. Volume 1 #49)
   + Color: <font color="#FF55C7">███ Hot Pink ███</font> (#FF55C7)
 
@@ -2488,31 +2719,33 @@ img {
 + [ΚΑΘΑΡΜΟΣ](#ρυθμοι) = Cleansing; purification (from guilt); purificatory offering; atonement; expiation; an offering 
   to avert wrath; purificatory rite of initiation into mysteries; purgation by ordeal; purging; evacuation; 
   discharge. 
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:100 62. Minor Surplus / Preponderance of the Small
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:100 62\. Minor Surplus / Preponderance of the Small
   + judgment: Success is possible. To keep going is advantageous. Small things may be done; great things 
     should not be done. The flying bird brings the message: it is not good to strive upward, it is good to 
     remain below. Great good fortune is possible.
   + image: Your conduct: reverent, loyal, thrifty.
-  + alchemy: V. The Pilgrimage to The Inner Shrine, Part 2 - 11\. Maintain/Improve
+  + alchemy: V\. The Pilgrimage to The Inner Shrine, Part 2 - 11\. Maintain/Improve
 + Tarot: Eight ♥/Cups
   + upright: disappointment, withdrawal, disillusionment
   + reversed: avoidance, fear of loss, aimless drifting
 + Rune: ᛉ [Algi**z**/Ha**z**el](#αινιγματα)  
   + poem: "Hazel for the wise man's cake; bounty, all that he can take."
   + keywords: protect, nurture, nourish, sustain, cultivate, preserve
-+ The Wanderer's Oracle: Thunder ‖ Mountain
-  + poem: "Here, high and mighty are hidden. / Though we work for wonders, that wish / diligence demands, undoubting."
-  + situation: The Wanderer hears thunder as the clouds descend on the the mountain ahead, hiding its 
++ The Eardstapa's Oracle: 62\. ᚦᚢᚾᛞᛖᚱ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (thunder ‖ mountain)
+  + riddle: "ᚺᛖᚱᛖ ᚺᛁᚷᚺ ᚨᚾᛞ ᛗᛁᚷᚺᛏᛇ ᚨᚱᛖ ᚺᛁᛞᛞᛖᚾ / ᚦᛟᚢᚷᚺ ᚹᛖ ᚹᛟᚱᚲ ᚠᛟᚱ ᚹᛟᚾᛞᛖᚱᛊ ᚦᚨᛏ ᚹᛁᛊᚺ / ᛞᛁᛚᛁᚷᛖᚾᚲᛖ ᛞᛖᛗᚨᚾᛞᛊ ᚢᚾᛞᛟᚢᛒᛏᛁᛜ"   
+    "here high and mighty are hidden / though we work for wonders that wish / diligence demands undoubting"
+  + situation: The Eardstapa hears thunder as the clouds descend on the the mountain ahead, hiding its 
     peak from view.
   + admonition: Stop for a bit. Can you make the time productive as you wait for conditions to clear? 
     In any case, do not fret.
 + Bible: Revelation 22:1-5 (The River and Tree of Life)
 + Additional Concepts: 
-  + Arming grail knights since 1952- Our Motto: the Finding is in the Doing
+  + Arming Grail knights since 1952- Our Motto: the Finding is in the Doing
   + Leaving the past behind
   + Bete (vide Beauty and the Beast)
   + The Guardian of the Eternal Flame
   + Don't settle
+  + Plant Rune: Ha**z**el (*Corylus americana*, et al.)
   + "Herr Fix-It_up" (Grimm's Fairy Tales 1st ed. Volume 1 #16)
   + Ubi Caritas et Amor...
   + Color: <font color="#00D180">███ Caribbean Green ███</font> (#00D180)
@@ -2530,15 +2763,17 @@ img {
 <img src="keraunos.card.png" style="float: right;" width="30%">
 
 + [ΚΕΡΑΥΝΟΣ](#ρυθμοι) = A thunderbolt, especially as the weapon of Zeus, forged by the Cyclopes.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:111 34. Great Strength / The Power of the Great
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:111 34\. Great Strength / The Power of the Great
   + judgment: To keep going is advantageous.
   + image: Don't tread upon paths that do not accord with established order.
-  + alchemy: III. Phoenix and Dragon - 10\. Monitor/Evaluate
+  + alchemy: III\. Phoenix and Dragon - 10\. Monitor/Evaluate
 + Tarot: Five ♥/Cups
   + upright: regret, failure, disappointment, pessimism, loss, grief, self-pity
   + reversed: acceptance, moving on, finding peace
-+ The Wanderer's Oracle: Thunder ‖ Heaven
-  + situation: The Wanderer hears thunder as clouds quickly gather and cover the once clear, blue skies.
++ The Eardstapa's Oracle: 34\. ᚦᚢᚾᛞᛖᚱ ‖ ᚺᛖᚨᚹᛖᚾ (thunder ‖ heaven)
+  + riddle: "ᚲᛚᚨᛈ ᛟᚠ ᚲᛚᛟᚢᛞᛇ ᚺᚨᚾᛞ ᚲᛟᚾᛊᛁᛞᛖᚱ / ᛞᚱᛟᛈᛈᛁᛜ ᛞᚨᛜᛖᚱ ᛒᛖ ᛞᛖᚱᛖᛚᛁᚲᛏ / ᛊᚺᚢᚾ ᛊᚺᛁᚾᛁᛜ ᚠᛟᚱ ᛊᚺᚨᚲᚲᛚᛁᛜ ᛊᚺᚨᚲᚲᛁᛜ"   
+    "clap of cloudy hand consider / dropping danger be derelict / shun shining for shackling shacking"
+  + situation: The Eardstapa hears thunder as clouds quickly gather and cover the once clear, blue skies.
   + admonition: What promised to be clear day suddenly turns into a challenge. Only proceed as before if 
     you are very confident.
 + Bible: 1 Kings 21 - Elijah confronts Ahab for stealing Naboth's vineyard
@@ -2547,6 +2782,7 @@ img {
   + Hubris
   + Regret, hindsight
   + The moment of impact
+  + Plant Rune: Fur**z**e (*Ulex europaeus*)
   + "And did the Countenance Divine," (Blake's Jerusalem 5)
   + "A Story About a Brave Tailor" (Grimm's Fairy Tales 1st ed. Volume 1 #20)
   + Color: <font color="#55CE55">███ Fern ███</font> (#55CE55)
@@ -2564,18 +2800,19 @@ img {
 <img src="khrukeion.card.png" style="float: right;" width="30%">
 
 + [ΚΗΡΥΚΕΙΟΝ](#ρυθμοι) = A herald's wand or staff; the Caduceus.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:010 40. Released / Deliverance
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:010 40\. Released / Deliverance
   + judgment: The southwest is advantageous. If there is no longer anywhere you have to go, 
     returning brings good fortune. If there is still somewhere you have to go, hastening 
     brings good fortune.
   + image: Pardon mistakes and forgive misdeeds.
-  + alchemy: III. Phoenix and Dragon - 3\. Signal/Command
+  + alchemy: III\. Phoenix and Dragon - 3\. Signal/Command
 + Tarot: Seven ♥/Cups
   + upright: opportunities, wishful thinking, illusion, choices, daydreaming
   + reversed: lack of purpose, diversion, confusion, overwhelmed by choices
-+ The Wanderer's Oracle: Thunder ‖ Rain Clouds
-  + poem: "What's this?! That's thunder, then thick drops. / Confusing, confounding clatter, / haste and hurry ahead, but halt!"
-  + situation: The Wanderer is surprised by a loud thunder clap. The rain immediately begins to fall in 
++ The Eardstapa's Oracle: 40\. ᚦᚢᚾᛞᛖᚱ ‖ ᚱᚨᛁᚾ (thunder ‖ rain)
+  + riddle: "ᚹᚺᛟᛊ ᚦᛁᛊ ᚦᚨᛏ ᚦᚢᚾᛞᛖᚱᛊ ᚦᛖᚾ ᚦᛁᚲᚲ ᛞᚱᛟᛈᛊ / ᚲᛟᚾᚠᚢᛊᛁᛜ ᚲᛟᚾᚠᛟᚢᚾᛞᛁᛜ ᚲᛚᚨᛏᛏᛖᚱ / ᚺᚨᛊᛏᛖᛊ ᚨᚾᛞ ᚺᚢᚱᚱᛁᛖᛊ ᚨᚺᛖᚨᛞ ᚾᛟᚱ ᚺᚨᛚᛏᛊ"   
+    "whos this that thunders then thick drops / confusing confounding clatter / hastes and hurries ahead nor halts"
+  + situation: The Eardstapa is surprised by a loud thunder clap. The rain immediately begins to fall in 
     big drops.
   + admonition: Caught unaware? Will the rain pass quickly, or settle in? Is there danger of a lightning 
     strike? Look for the signs, check your past experience, and hurry slowly (with due deliberation).
@@ -2586,6 +2823,7 @@ img {
   + ΗΘΟΣ ΑΝΘΡΩΠΟΣ ΔΑΙΜΟΝ (character is destiny) -Heraclitus
   + Hermes
   + The Winged Serpent's Other Half
+  + Plant Rune: Kud**z**u (*Pueraria montana*)
   + "The Golden Bird" (Grimm's Fairy Tales 1st ed. Volume I #57)
   + "I will not cease from Mental Fight," (Blake's Jerusalem 13) 
   + Color: <font color="#007E56">███ Tropical Rain Forest ███</font> (#007E56)
@@ -2604,26 +2842,28 @@ img {
 
 + [ΛΑΒΥΡΙΝΘΟΣ](#ρυθμοι) = A labyrinth or maze; a large building consisting of numerous halls connected by intricate and 
   tortuous passages. Also used of tortuous questions or arguments.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:010 64. Not Yet Across / Before Completion
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:010 64\. Not Yet Across / Before Completion
   + judgment: Success is possible, but if the little fox, after nearly completing the crossing, gets her tail 
     in the water, there is nothing that would be advantageous.
   + image: Differentiate between things, so each finds its place.
-  + alchemy: VI. The Primal Ones - G=7/7 (equivalent to 11\. Maintain/Improve)
+  + alchemy: VI\. The Primal Ones - G=7/7 (equivalent to 11\. Maintain/Improve)
 + Tarot: Nine ♠/Swords
   + upright: anxiety, worry, fear, hopelessness, trauma
   + reversed: reaching out, inner turmoil, deep-seated fears, secrets, releasing worry
 + Rune: ᚺ [Hagalaz/Hail](#αινιγματα)  
   + poem: "Hail is hurtful to the corn, breaks its stalks with bitter scorn."
   + keywords: death, destruction, decay, anger, fear, Hel
-+ The Wanderer's Oracle: Lightning ‖ Rain Clouds
-  + poem: "Sky serpent struck stone, seethed with light, / withdrew, none wounded, but it wreaked / whole havoc on my heart and haste."
-  + situation: The Wanderer sees lightning leap from the storm clouds ahead and strike their intended path.
++ The Eardstapa's Oracle: 64\. ᛚᛁᚷᚺᛏᚾᛁᛜ ‖ ᚱᚨᛁᚾ (lightning ‖ rain)
+  + riddle: "ᛊᚲᛇ ᛊᛖᚱᛈᛖᚾᛏ ᛊᛏᚱᚢᚲᚲ ᛊᛏᛟᚾᛖ ᛊᛖᛖᚦᛖᛞ ᚹᛁᚦ ᛚᛁᚷᚺᛏ / ᚹᛁᚦᛞᚱᛖᚹ ᚾᛟᚾᛖ ᚹᛟᚢᚾᛞᛖᛞ ᛒᚢᛏ ᚹᚱᛖᚨᚲᛖᛞ ᛁᛏᛊ / ᚹᚺᛟᛚᛖ ᚺᚨᚹᛟᚲ ᛟᚾ ᛗᛇ ᚺᛖᚨᚱᛏ ᚨᚾᛞ ᚺᚨᛊᛏᛖ"   
+    "sky serpent struck stone seethed with light / withdrew none wounded but wreaked its / whole havoc on my heart and haste"
+  + situation: The Eardstapa sees lightning leap from the storm clouds ahead and strike their intended path.
   + admonition: Will lightning strike the same place twice? Keep a clear head because you may indeed need 
     to quickly take shelter, or change your path, to avoid the danger, but stopping here won't help.
 + Bible: Genesis 1:1a - In the beginning...
 + Additional Concepts: 
   + The old fox knows the right place to cross
   + Worrying won't help, but you're going to anyway
+  + Plant Rune: **H**emlock (*Conium maculatum*)
   + Restate the question and ask again
   + Color: <font color="#B2BB34">███ Earl's Green ███</font> (#B2BB34)
 
@@ -2641,15 +2881,17 @@ img {
 
 + [ΛΑΜΠΑΣ](#ρυθμοι) = A torch; beacon-light; torches used in festal processions; any light, lamp, wax-light, or oil 
   lamp. Metaphorically, of the sun.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:111 14. Great Possession / Possession in Great Measure
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:111 14\. Great Possession / Possession in Great Measure
   + judgment: Supreme success is possible.
   + image: Curb evil and further good, and so obey the benevolent will of heaven.
-  + alchemy: I. The Path of Destiny, Part 2 - 10\. Monitor/Evaluate 
+  + alchemy: I\. The Path of Destiny, Part 2 - 10\. Monitor/Evaluate 
 + Tarot: Queen ♠/Swords
   + upright: perceptiveness, clear mindedness, unbiased judgement, clear boundaries, direct communication.
   + reversed: cold hearted, cruel, bitter, bitchy, cold-hearted.  
-+ The Wanderer's Oracle: Light ‖ Heaven
-  + situation: The Wanderer sees the morning sun rising into a cloudless sky. The day will be hot.
++ The Eardstapa's Oracle: 14\. ᛚᛁᚷᚺᛏ ‖ ᚺᛖᚨᚹᛖᚾ (light ‖ heaven)
+  + riddle: "ᚹᚨᚱᛗ ᚦᛖ ᛊᚲᛇ ᚹᚺᛖᚱᛖ ᚹᛟᚾᛏᛖᛞ ᚹᚨᚾᛞᛖᚱᛊ / ᚦᛖ ᛒᛖᚨᚲᛟᚾ ᛒᚱᛁᚷᚺᛏ ᛒᛖᚾᛖᚹᛟᛚᛖᚾᛏ / ᚺᛟᛚᛞᛊ ᚺᛖᚨᚹᛖᚾᛊ ᚲᛚᛟᛊᛖ ᚺᛟᛚᛁᚾᛖᛊᛊ"   
+    "warm the sky where wonted wanders / the beacon bright benevolent / holds heavens close holiness"
+  + situation: The Eardstapa sees the morning sun rising into a cloudless sky. The day will be hot.
   + admonition: Seize the day! In spite of clear skies, a long journey and significant challenges await 
     you, so pace yourself. Commit yourself fully to whatever this day's journey has in store.
 + Greek Myth: The Odyssey - 10\. The Competition of the Bow
@@ -2671,6 +2913,7 @@ img {
     a hundred battles." -Sun Tzu
   + White Buffalo Calf Woman
   + Beethoven Symphony 9, fourth Movement
+  + Plant Rune: **H**yssop (*Hyssopus officinalis*)
   + Color: <span style="background-color: black"><font color="#FFF56C">███ Paris Daisy ███</font></span> (#FFF56C)
 
 ---
@@ -2690,12 +2933,14 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 101:100 56\. The Wanderer / The Wanderer
   + judgment: Success in small things. To keep going brings good fortune to the wanderer.
   + image: Be clear-minded and cautious in imposing penalties; do not protract lawsuits.
-  + alchemy: V. The Pilgrimage to The Inner Shrine - 6\. (Re)Arrange
-+ Tarot: 21. The World
+  + alchemy: V\. The Pilgrimage to The Inner Shrine - 6\. (Re)Arrange
++ Tarot: 21\. The World
   + upright: fulfillment, harmony, completion, integration, accomplishment, travel.
   + reversed: incompletion, short-cuts, delays.
-+ The Wanderer's Oracle: Light ‖ Mountain
-  + situation: the Wanderer sees their mountain destination ahead, bathed in clear light and shining glory.
++ The Eardstapa's Oracle: 56\. ᛚᛁᚷᚺᛏ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (light ‖ mountain)
+  + riddle: "ᛖᚾᛚᛁᚷᚺᛏᛖᚾᛖᛞ ᛖᚨᚱᚦ ᛖᚾᛏᛖᚱᛊ ᛖᚹᛖᚾ / ᛁᚾᛏᛟ ᚦᛖ ᛖᛇᛖ ᛟᚠ ᛁᚲᚨᚱᚢᛊ / ᛊᛟᚾ ᛟᚠ ᛊᚢᚾᛊ ᛟᚠ ᛊᚲᛁᚾᛏᛁᛚᛚᚨᛏᛁᛟᚾᛊ"   
+    "enlightened earth enters even / into the eye of icarus / son of suns of scintillations"
+  + situation: The Eardstapa sees their mountain destination ahead, bathed in clear light and shining glory.
   + admonition: Become inspired by your destination so that you will not falter in the journey that awaits 
     you. You've got this!
 + Bible: Revelation 20:1-6 - The Dragon is chained; Christ reigns for 1K years
@@ -2708,6 +2953,7 @@ img {
   + We see what we expect to see, and the way we use language guides our perception of the World.
   + The end (telos) of ritual
   + The Norns
+  + Plant Rune: **H**enna (*Lawsonia inermis*)
   + Get all your ducks in a row, then go.
   + Color: <font color="#AAED55">███ Conifer ███</font> (#AAED55)
 
@@ -2724,16 +2970,17 @@ img {
 <img src="makaria.card.png" style="float: right;" width="30%">
 
 + [ΜΑΚΑΡΙΑ](#ρυθμοι) = Happiness, bliss, blessedness.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:010 7. The Multitude / The Army
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:010 7\. The Multitude / The Army
   + judgment: The army needs to keep going and a strong leader to obtain good fortune without blame.
   + image: Increase your followers by generosity to all.
-  + alchemy: I. The Path of Destiny - 5\. Inter-Communicate
+  + alchemy: I\. The Path of Destiny - 5\. Inter-Communicate
 + Tarot: Nine ♦/Pentacles
   + upright: fruits of labor, self-sufficiency, financial independence, rewards, luxury.
   + reversed: reckless spending, living beyond your means, false success, hustling.
-+ The Wanderer's Oracle: Earth ‖ Rain Clouds
-  + poem: "Gone the rain body but caught breath / raises mine from earth rich in rust, / eld elixir of leaves entombed."
-  + situation: The Wanderer sees the earth breathe forth new, misty clouds (rain ghosts) after the recent 
++ The Eardstapa's Oracle: 7\. ᛖᚨᚱᚦ ‖ ᚱᚨᛁᚾ (earth ‖ rain)
+  + riddle: "ᛞᛁᛖᛊ ᚦᛖ ᚱᚨᛁᚾ ᛇᛖᛏ ᛒᛟᚷᚷᛇ ᛒᚱᛖᚨᚦ ᛒᛚᛟᛟᛗᛊ / ᚱᛁᛊᛖᛊ ᚱᛖᚲᚨᛚᛚᛖᛞ ᚠᚱᛟᛗ ᛖᚨᚱᚦᛊ ᚱᛁᚲᚺ ᚱᚢᛊᛏ / ᛖᛚᛞ ᛖᛚᛁᚲᛊᛁᚱ ᛟᚠ ᛚᛖᚨᚹᛖᛊ ᛖᚾᛏᛟᛗᛒᛖᛞ"   
+    "dies the rain yet boggy breath blooms / rises recalled from earths rich rust / eld elixir of leaves entombed"
+  + situation: The Eardstapa sees the earth breathe forth new, misty clouds (rain ghosts) after the recent 
     rains have passed.
   + admonition: Be encouraged! Your path will be soggy and shrouded in mists, but press on with a glad heart, 
     knowing the rain has spent itself and nourished the land, at least for today.
@@ -2758,6 +3005,7 @@ img {
   + Bliss is not Ignorance
   + Beethoven Symphony 9, 3rd Movement
   + Work on your Weltanschauung
+  + Plant Rune: **P**ennyroyal (*Mentha pulegium*)
   + "Rumpelstiltskin" (Grimm's Fairy Tales 1st ed. Volume I #55)
   + Color: <font color="#001C44">███ Tangaroa ███</font> (#001C44)
 
@@ -2780,12 +3028,14 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:111 11\. Peace / Peace
   + judgment: The small departs; the great approaches. Good fortune. Success is possible.
   + image: Divide and complete the course of heaven and earth; Further and regulate their gifts to aid all.
-  + alchemy: VI. The Primal Ones - D=4/7 (equivalent to 6\. (Re)Arrange)
+  + alchemy: VI\. The Primal Ones - D=4/7 (equivalent to 6\. (Re)Arrange)
 + Tarot: Queen ♦/Pentacles
   + upright: nurturing, practicality, creature comforts, financial security.
   + reversed: self-centeredness, jealousy, smothering, self-care, work/life imbalance.
-+ The Wanderer's Oracle: Earth ‖ Heaven
-  + situation: The Wanderer sees the earth and its creatures begin to rouse, now that dawn's first light 
++ The Eardstapa's Oracle: 11\. ᛖᚨᚱᚦ ‖ ᚺᛖᚨᚹᛖᚾ (earth ‖ heaven)
+  + riddle: "ᛈᚨᚱᛏᛁᛜ ᛟᚠ ᛈᛚᚨᛁᚾ ᚨᚾᛞ ᛈᚨᛚᛖ ᛈᚨᚱᛏᚾᛖᚱ / ᛞᛟᛗᛖ ᛊᛏᛁᛚᛚ ᛞᚱᛖᚨᛗᛁᛜ ᛟᚠ ᛞᚨᛇᛊ ᛞᛖᛚᛁᚷᚺᛏ / ᚢᚾᚠᚢᛚᛚᚠᛁᛚᛚᛖᛞ ᛁᚾ ᚠᚨᛁᚱ ᚠᚨᚱᛁᛜᛊ ᚠᛟᚱᚦ"   
+    "parting of plain and pale partner / dome still dreaming of days delight / unfullfilled in fair farings forth"
+  + situation: The Eardstapa sees the earth and its creatures begin to rouse, now that dawn's first light 
     is in the sky.
   + admonition: Enjoy this time of careful preparation. Make it count before you must start your journey once 
     again.
@@ -2793,6 +3043,7 @@ img {
 + Additional Concepts: 
   + The soft and yielding follows Life
   + Better housekeeping through adaptable homeostasis
+  + Plant Rune: **P**umpkin (*Cucurbita pepo*)
   + "King Thrushbeard" (Grimm's Fairy Tales 1st ed. Volume I #52)
   + Color: <font color="#2B2B2B">███ Baltic Sea ███</font> (#2B2B2B)
 
@@ -2812,16 +3063,17 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 000:100 15\. Modesty / Modesty
   + judgment: You'll create success if you carry things through.
   + image: Reduce what's too much; augment what's too little; weigh things and make them equal.
-  + alchemy: I. The Path of Destiny, Part2 - 12\. Replicate/Teach
-+ Tarot: 11. Justice
+  + alchemy: I\. The Path of Destiny, Part2 - 12\. Replicate/Teach
++ Tarot: 11\. Justice
   + upright: justice, fairness, truth, cause and effect, law.
   + reversed: dishonesty, unfairness, lack of accountability.
 + Rune: ᛈ [Pertho/Paeony](#αινιγματα)  
   + poem: "Paeony, beguiling bloom, blessed portal of the womb."
   + keywords: womb, conception, gestation, hidden beginnings, secrets
-+ The Wanderer's Oracle: Earth ‖ Mountain
-  + poem: "Roots of mountain mull, o mystic / path occult, obscure, the obverse / of known, of needful e'er nascent."
-  + situation: The Wanderer's path through a valley hides, for a time, their mountain destination.
++ The Eardstapa's Oracle: 15\. ᛖᚨᚱᚦ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (earth ‖ mountain)
+  + riddle: "ᚱᛟᛟᛏᛊ ᛟᚠ ᛗᛟᚢᚾᛏᚨᛁᚾ ᛗᚢᛚᛚ ᛟ ᛗᛇᛊᛏᛁᚲ / ᛈᚨᚦ ᛟᚲᚲᚢᛚᛏ ᛟᛒᛊᚲᚢᚱᛖ ᚦᛖ ᛟᛒᚹᛖᚱᛊᛖ / ᛟᚠ ᚲᚾᛟᚹᚾ ᛟᚠ ᚾᛖᛖᛞᚠᚢᛚ ᛖᛖᚱ ᚾᚨᛊᚲᛖᚾᛏ"   
+    "roots of mountain mull o mystic / path occult obscure the obverse / of known of needful eer nascent"
+  + situation: The Eardstapa's path through a valley hides, for a time, their mountain destination.
   + admonition: Stick to the path you know is the right one. Although your destination cannot be seen 
     now, only this will bring you closer to it.
 + Greek Myth: The Odyssey - 12\. The Oar as Winnowing Fan
@@ -2839,6 +3091,7 @@ img {
   + The balance wherein Life hangs
   + ΔΑΙΜΟΝ (Tutelary Spirit), Fairy Godmother
   + "...neither wilt thou suffer thine Holy One to see corruption"
+  + Plant Rune: **P**aeony (*Paeonia officinalis*)
   + In Greek Mythology, the Μοῖραι (Moirai), sometimes called the "Fates", from Latin "Fata", are Κλωθώ (Klotho, 
     "spinner") who spins the thread of human life, Λάχεσις (Lachesis, "disposer of lots") who measures the 
     thread spun on Clotho's spindle, and Ἄτροπος (Atropos, "unturning") who chooses the manner of death and 
@@ -2873,12 +3126,17 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 111:100 33\. Retreat / Retreat
   + judgment: Success is possible in what is small; to keep going is advantageous.
   + image: Keep inferior people at a distance, not angrily but with reserve.
-  + alchemy: III. Phoenix and Dragon - 9\. Execute/Process
+  + alchemy: III\. Phoenix and Dragon - 9\. Execute/Process
 + Tarot: Eight ♦/Pentacles
   + upright: apprenticeship, high standards, mastery, skill development.
   + reversed: lack of passion or motivation, uninspired, perfectionism, misdirection.
-+ The Wanderer's Oracle: Heaven ‖ Mountain
-  + situation: The Wanderer has naught but clear sky and mountain peak ahead--a difficult, final ascent awaits.
++ Rune: ᛃ [Jera/Juniper](#αινιγματα)  
+  + poem: "Juniper with twisted beam, holds the daylight's dying gleam."
+  + keywords: completion, harvest, year, ending, conclusion, accomplishment
++ The Eardstapa's Oracle: 33\. ᚺᛖᚨᚹᛖᚾ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (heaven ‖ mountain)
+  + riddle: "ᛊᛏᚨᛇ ᚾᛟᛏ ᛊᛏᚨᚾᛞᛁᛜ ᚾᚨᛇ ᛊᛏᚨᚲᛖ ᛊᚢᛗᛗᛁᛏ / ᛏᛟ ᚺᛟᛚᛞ ᚺᛖᚨᚹᛖᚾᚹᚨᚱᛞ ᚦᚨᛏ ᚹᚺᛟᛚᛖᚾᛖᛊᛊ / ᚹᚺᛁᚲᚺ ᚹᛖᚾᛏᚢᚱᛖᛊ ᛖᚹᛖᚾ ᚨᛞᚹᛖᚾᛏᚢᚱᛖ"   
+    "stay not standing nay stake summit / to hold heavenward that wholeness / which ventures even adventure"
+  + situation: The Eardstapa has naught but clear sky and mountain peak ahead--a difficult, final ascent awaits.
   + admonition: It's up to you now. What others have encountered here is valuable but worth only so much. 
     You must incorporate their experience and call on your own training and discipline to achieve this goal.
 + Bible: 1 Kings 19:19-21 - Elijah calls Elisha as his disciple
@@ -2887,6 +3145,7 @@ img {
   + From apprentice to master
   + Foresight
   + Who do you want to be like?
+  + Plant Rune: **J**uniper (*Juniperus occidentalis*, et al.)
   + "Death and the Goose Boy" (Grimm's Fairy Tales 1st ed. Volume I #27)
   + "Shine forth upon our clouded hills?" (Blake's Jerusalem 6)
   + Color: <font color="#94F7FF">███ Anakiwa ███</font> (#94F7FF)
@@ -2907,13 +3166,14 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 111:111 1\. The Creative / The Creative
   + judgment: Extraordinary success is possible; it is advantageous to keep going.
   + image: Make yourself strong and untiring.
-  + alchemy: VI. The Primal Ones - F=6/7 (equivalent to 9\. Execute)
+  + alchemy: VI\. The Primal Ones - F=6/7 (equivalent to 9\. Execute)
 + Tarot: Five ♦/Pentacles
   + upright: need, poverty, loss, insecurity.
   + reversed: recovery, charity, improvement.
-+ The Wanderer's Oracle: Heaven ‖ Heaven
-  + poem: "Bearers of broad heaven, we bare / celestial souls, sit silent / in precarious poignancy."
-  + situation: The Wanderer comes to the rendezvous spot for travelers.
++ The Eardstapa's Oracle: 1\. ᚺᛖᚨᚹᛖᚾ ‖ ᚺᛖᚨᚹᛖᚾ (heaven ‖ heaven)
+  + riddle: "ᛒᛖᚨᚱᛖᚱᛊ ᛟᚠ ᛒᚱᛟᚨᛞ ᚺᛖᚨᚹᛖᚾ ᚹᛖ ᛒᚨᚱᛖ / ᚲᛖᛚᛖᛊᛏᛁᚨᛚ ᛊᛟᚢᛚᛊ ᛊᛁᛏ ᛊᛁᛚᛖᚾᛏ / ᛁᚾ ᛈᚱᛖᚲᚨᚱᛁᛟᚢᛊ ᛈᛟᛁᚷᚾᚨᚾᚲᛇ"   
+    "bearers of broad heaven we bare / celestial souls sit silent / in precarious poignancy"
+  + situation: The Eardstapa comes to the rendezvous spot for travelers.
   + admonition: Do not neglect to swap gear, news, and insights, and to help your fellow travelers before 
     you set out again. Maybe you'll find companions to join you, or you can join with others for support.
 + Bible: Genesis 1:1 - [In the beginning,] God created...
@@ -2922,6 +3182,7 @@ img {
   + "There are no passengers on spaceship earth. We are all crew"
   + The power of ritual
   + Heaven proposes, Earth disposes
+  + Plant Rune: **J**alapeño (*Capsicum annuum*)
   + Color: <font color="#D8D8D8">███ Iron ███</font> (#D8D8D8)
 
 ---
@@ -2944,12 +3205,14 @@ img {
     through to the end brings misfortune. It advantageous to see the great one. It is not advantageous to 
     cross the big river.
   + image: In all you do, carefully consider the beginning.
-  + alchemy: I. The Path of Destiny - 3\. Signal/Command
+  + alchemy: I\. The Path of Destiny - 3\. Signal/Command
 + Tarot: Seven ♦/Pentacles
   + upright: hard work, investment, perseverance, diligence.
   + reversed: work without rewards, lack of vision, limited success or reward.
-+ The Wanderer's Oracle: Heaven ‖ Rain Clouds
-  + situation: The Wanderer begins their descent with clear skies above, but low clouds and fog obscure 
++ The Eardstapa's Oracle: 6\. ᚺᛖᚨᚹᛖᚾ ‖ ᚱᚨᛁᚾ (heaven ‖ rain)
+  + riddle: "ᛉᛖᚾᛁᚦ ᚷᛟᛖᛊ ᛉᛁᚷᛉᚨᚷ ᚲᛟᛗᛖᛊ ᚦᛖ ᛉᛟᚾᛖ / ᛟᚠ ᚠᛁᚱᛊᛏ ᛟᚠᚠ ᚠᛟᛟᛚᛁᛊᚺ ᚠᚨᚾᚲᛇ ᚠᚱᚨᚢᚷᚺᛏ / ᚹᛁᚦ ᚷᚨᚠᚠᛖᛊ ᚷᚱᛁᚾᛞᛊ ᚦᛖᚾ ᚷᚱᛟᚢᚾᛞᛊ ᚨᚷᚨᛁᚾ ᚷᛟᛚᛞ"   
+    "zenith goes zigzag comes the zone / of first off foolish fancy fraught / with gaffes grinds then grounds again gold"
+  + situation: The Eardstapa begins their descent with clear skies above, but low clouds and fog obscure 
     what lies below them all around.
   + admonition: Your way forward is not clear. You must try to infer the best way, but be ready to retrace 
     your steps and try again.
@@ -2969,6 +3232,7 @@ img {
   + Work out disagreements
   + Beethoven Symphony 9, 2nd movement
   + The power of words
+  + Plant Rune: **J**imsonweed (*Datura stramonium*)
   + Color: <font color="#C4D5EC">███ Periwinkle Gray ███</font> (#C4D5EC)
 
 ---
@@ -2984,11 +3248,11 @@ img {
 <img src="cifos.card.png" style="float: right;" width="30%"> 
 
 + [ΞΙΦΟΣ](#ρυθμοι) = Sword
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:100 39. Impeded / Obstruction
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:100 39\. Impeded / Obstruction
   + judgment: The southwest is advantageous; the northeast is not. It is advantageous to see the great 
     one. To keep going brings good fortune.
   + image: Thus turn your attention to yourself and mold your character.
-  + alchemy: III. Phoenix and Dragon - 4\. Audit/ACK
+  + alchemy: III\. Phoenix and Dragon - 4\. Audit/ACK
 + Tarot: Eight ♠/Swords
   + upright: imprisonment, entrapment, self-imposed restriction, victim mentality.
   + reversed: self acceptance, new perspectives, freedom, release of negative thoughts, opening to new 
@@ -2996,7 +3260,9 @@ img {
 + Rune: ᛁ [Isaz/Ice](#αινιγματα)  
   + poem: "Ice makes hard the fish's roof; then poor heron stands aloof."
   + keywords: static, frozen, structured, patterned, crystalline, regular
-+ The Wanderer's Oracle: Rain Clouds ‖ Mountain
++ The Eardstapa's Oracle: 39\. ᚱᚨᛁᚾ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (rain ‖ mountain)
+  + riddle: "ᚲᛚᛟᚢᛞ ᚲᚨᚢᚷᚺᛏ ᛁᚾ ᚲᛟᚾᛊᛁᛞᛖᚱᚨᛏᛁᛟᚾᛊ / ᛗᚨᛇᛒᛖ ᛗᛟᚢᚾᛏ ᛗᛁᛊᛊᛁᛜ ᛗᛟᚱᛖ ᛗᚨᛇ ᛒᛖ / ᛊᚨᛇ ᛊᛟᛗᛖ ᛊᛏᛟᛈ ᛊᛟᛗᛖ ᛊᚨᛇ ᛊᚨᛚᛚᛇ ᚠᛟᚱᚦ"   
+    "cloud caught in considerations / maybe mount missing more may be / say some stop some say sally forth"
   + situation: The Wander should be nearing their final ascent, but because clouds obscure it, they cannot 
     see the mountain peak ahead.
   + admonition: Should you try again later? Do you have any knowledge that can guide you here? Are there 
@@ -3006,7 +3272,8 @@ img {
   + Gather your will and get up, you…! 
   + Let's cut the crap and figure a way outta here
   + Audentes Fortuna Iuvat
-  + the Heron
+  + Spirit Animal: Heron
+  + Plant Rune: **I**ndigo (*Indigofera tinctoria*)
   + "Nor shall my Sword sleep in my hand:" (Blake's Jerusalem 14)
   + Color: <font color="#006FBF">███ Science Blue ███</font> (#006FBF)
 
@@ -3026,12 +3293,14 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 010:010 29\. The Abyss / The Abysmal (Water)
   + judgment: If you are sincere, you have success in your heart, and whatever you do succeeds.
   + image: Walk in lasting virtue and carry on the business of teaching.
-  + alchemy: VI. The Primal Ones - B=2/7 (equivalent to 3\. Signal)
+  + alchemy: VI\. The Primal Ones - B=2/7 (equivalent to 3\. Signal)
 + Tarot: Seven ♠/Swords
   + upright: betrayal, deception, trickery, acting strategically.
   + reversed: come clean, rethink your approach, imposter syndrome, self-deceit, keeping secrets.
-+ The Wanderer's Oracle: Rain Clouds ‖ Rain Clouds
-  + situation: The Wanderer is stuck in camp, socked in by clouds, rain, and mists.
++ The Eardstapa's Oracle: 29\. ᚱᚨᛁᚾ ‖ ᚱᚨᛁᚾ (rain ‖ rain)
+  + riddle: "ᛏᚱᛁᚲᚲᛚᛖ ᛏᚱᛁᚲᚲᛚᛖ ᛏᚨᛚᚲᛁᛜ ᛚᛁᛏᛏᛚᛖ / ᚲᛚᛟᚢᛞ ᛇᛟᚢ ᛞᚱᛁᛒᛒᛚᛖ ᛞᛟᚹᚾ ᛞᛖᛒᚨᛏᛁᛜ / ᚹᛟᚱᚱᛇ ᚨᛚᛚ ᚹᛟᚱᛞ ᚹᛖᚨᚱᛇ ᚹᛁᛚᛚ ᛇᛟᚢ"   
+    "trickle trickle talking little / cloud you dribble down debating / worry all word weary will you"
+  + situation: The Eardstapa is stuck in camp, socked in by clouds, rain, and mists.
   + admonition: Take this time to make and revise plans. Don't kid yourself--unless a miracle occurs, you're 
     not going anywhere.
 + Bible: Exodus 14:1-31 - Crossing the Red Sea
@@ -3039,6 +3308,7 @@ img {
   + Thief! Thought you could hide that?!
   + ...make unto thee a Graven Image
   + Le Mot Juste
+  + Plant Rune: **I**pecacuanha (*Psychotria ipecacuanha*)
   + Color: <font color="#356DBD">███ Mariner ███</font> (#356DBD)
 
 ---
@@ -3058,19 +3328,21 @@ img {
   gallows; stake on which criminals were impaled; A bench, table, especially a money-changer's table.
   The Hippocratic bench (which used tension to aid in setting bones. It is a forerunner of the traction 
   devices used in modern orthopedics, as well as of the rack, an instrument of torture.)
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:111 5. Waiting / Waiting (Nourishment)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:111 5\. Waiting / Waiting (Nourishment)
   + judgment: If you're sincere, you have light and success. To keep going brings good fortune. It is 
     advantageous to cross the big river.
   + image: Eat and drink, be joyous and of good cheer.
-  + alchemy: I. The Path of Destiny - 4\. Audit/ACK
+  + alchemy: I\. The Path of Destiny - 4\. Audit/ACK
 + Tarot: Five ♠/Swords
   + upright: conflict, disagreements, competition, unbridled ambition, winning at all costs, sneakiness.
   + reversed: lingering resentment, reconciliation, making amends.
 + Tarot: 20. Judgment
   + upright: Judgement, rebirth, inner calling, absolution, reflection, reckoning, awakening.
   + reversed: lack of self awareness, self-doubt, self-loathing, inner critic, ignoring the call.
-+ The Wanderer's Oracle: Rain Clouds ‖ Heaven
-  + situation: The Wanderer sees low clouds cover the sky, but no rain is falling at this time.
++ The Eardstapa's Oracle: 5\. ᚱᚨᛁᚾ ‖ ᚺᛖᚨᚹᛖᚾ (rain ‖ heaven)
+  + riddle: "ᚦᛖ ᚲᛁᛜᛞᛟᛗᛊ ᚲᛖᛇᛊ ᚲᛚᚨᛈᛈᛖᛞ ᛟᚾ ᚨ ᚲᛁᛏᛖ / ᚺᛟᛈᛖᚠᚢᛚ ᚦᛖ ᚺᛟᚨᚱᛇ ᚺᛁᛚᛚᛊ ᚢᛈ ᚺᛁᚷᚺ / ᛃᛟᛊᛏᛚᛖ ᛃᚢᛊᛏ ᛖᚾᛟᚢᚷᚺ ᛏᛟ ᛃᚨᛒᛒᛖᚱ"   
+    "the kingdoms keys clapped on a kite / hopeful the hoary hills up high / jostle just enough to jabber"
+  + situation: The Eardstapa sees low clouds cover the sky, but no rain is falling at this time.
   + admonition: Will a storm begin or pass by (clouds on vacation)? Are you prepared to meet the challenges 
     if a storm does begin? What does your experience, reason, and the accounts of others you meet on the path, 
     tell you?
@@ -3085,11 +3357,15 @@ img {
 + Bible: Genesis 1:4a - And God saw that the light was good
 + Additional Concepts: 
   + "The revolution will not be televised"
+  + [How Coffee Fueled Revolutions—and Revolutionary Ideas](https://www.history.com/articles/coffee-houses-revolutions):
+    "From the Ottoman Empire to the American and French Revolutions, coffeehouses have offered a place 
+    for (sober) people to discuss new waves of thought."
   + Symposium
   + The Uncarved Block
   + Beethoven Symphony 9, 1st movement
   + Someone is a dirty, lying con man! 
   + "It keeps me looking for a heart of gold"
+  + Plant Rune: **I**vy (*Hedera helix*)
   + Vishuddha Chakra ("purest", throat)
   + Color: <font color="#4D7EC4">███ Steel Blue ███</font> (#4D7EC4)
 
@@ -3109,15 +3385,17 @@ img {
   Cyclops' cave; of a tent.  A room, chamber, dining-hall, room in a temple. Also used of public buildings,
   a meeting-house, hall, of treasuries at Delos, temple. A cage for birds. One's household goods, 
   substance, estate, inheritance. A reigning house, also of any family.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:111 9. Smaller Herd / The Taming Power Of The Small
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:111 9\. Smaller Herd / The Taming Power Of The Small
   + judgment: Success is possible. There are dense clouds, but no rain from our western region.
   + image: Refine the outward aspect of your nature.
-  + alchemy: I. The Path of Destiny - 8\. (Re)Start/Boot
+  + alchemy: I\. The Path of Destiny - 8\. (Re)Start/Boot
 + Tarot: Queen ♥/Cups
   + upright: caring, emotionally stable, compassionate, calm, comforting.
   + reversed: martyrdom, insecurity, dependence, co-dependency.
-+ The Wanderer's Oracle: Wind ‖ Heaven
-  + situation: Winds aloft have cleared the sky and presage more good weather to come for the Wanderer.
++ The Eardstapa's Oracle: 9\. ᚹᛁᚾᛞ ‖ ᚺᛖᚨᚹᛖᚾ (wind ‖ heaven)
+  + riddle: "ᛞᚨᛇᛞᚱᛖᚨᛗ ᛞᚱᛁᚹᛖᚾ ᛞᚨᚢᚾᛏᛚᛖᛊᛊ ᚹᛖ ᛞᚨᚱᛖ / ᚺᛖᛚᛈᛖᛞ ᛒᛇ ᚺᛖᚨᚹᛖᚾ ᚺᛟᛗᛖᚹᚨᚱᛞ ᛏᛟ ᚺᛁᛖ / ᛒᚱᛖᛖᛉᛁᛚᛇ ᛁᚾ ᛒᛚᚢᛖ ᛒᛖᛊᛈᚨᛜᛚᛖᛞ"   
+    "daydream driven dauntless we dare / helped by heaven homeward to hie / breezily in blue bespangled"
+  + situation: Winds aloft have cleared the sky and presage more good weather to come for the Eardstapa.
   + admonition: If you can make good use of this time, avoiding distractions and detours, you'll make good 
     progress toward your final destination.
 + Greek Myth: The Odyssey - 8\. The Hut of the Swineherd
@@ -3138,6 +3416,7 @@ img {
   + "Prince Swan" (Grimm's Fairy Tales 1st ed. Volume I #59)
   + The Beauty of Hospitality
   + "... makes one a better host."
+  + Plant Rune: **S**unflower (*Helianthus annuus*)
   + Color: <font color="#FF4949">███ Sunset Orange ███</font> (#FF4949)
 
 ---
@@ -3157,13 +3436,14 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 110:100 53\. Gradual Progress / Development
   + judgment: The maiden is given in marriage. Good fortune. To keep going is advantageous.
   + image: Abide in dignity and virtue, in order to improve the mores.
-  + alchemy: V. The Pilgrimage to The Inner Shrine - 4\. Audit/ACK
-+ Tarot: 14. Temperance
+  + alchemy: V\. The Pilgrimage to The Inner Shrine - 4\. Audit/ACK
++ Tarot: 14\. Temperance
   + upright: balance, moderation, middle path, patience, finding meaning.
   + reversed: extremes, excess, imbalance.
-+ The Wanderer's Oracle: Wind ‖ Mountain
-  + poem: "Still the wind wanders while I watch / this calm, this contemplative keep / of mountain move in merriment."
-  + situation: The Wanderer is refreshed by a cool breeze, clear skies, and a glorious view at a resting 
++ The Eardstapa's Oracle: 53\. ᚹᛁᚾᛞ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (wind ‖ mountain)
+  + riddle: "ᛊᛏᛁᛚᛚ ᚦᛖ ᚹᛁᚾᛞ ᚹᚨᚾᛞᛖᚱᛊ ᚹᚺᛁᛚᛖ ᛁ ᚹᚨᛏᚲᚺ / ᚦᛁᛊ ᚲᚨᛚᛗ ᚦᛁᛊ ᚲᛟᚾᛏᛖᛗᛈᛚᚨᛏᛁᚹᛖ ᚲᛖᛖᛈ / ᛟᚠ ᛗᛟᚢᚾᛏᚨᛁᚾ ᛗᛟᚹᛖᛞ ᛁᚾ ᛗᛖᚱᚱᛁᛗᛖᚾᛏ"   
+    "still the wind wanders while i watch / this calm this contemplative keep / of mountain moved in merriment"
+  + situation: The Eardstapa is refreshed by a cool breeze, clear skies, and a glorious view at a resting 
     point beneath the mountain's peak.
   + admonition: You've reached the reward for your climb. Would obtaining a higher point be any more fulfilling? 
 + Bible: Revelation 19:11-16 - The Rider on a White Horse
@@ -3172,6 +3452,7 @@ img {
   + Virtue
   + Harmonia
   + Empty and Full
+  + Plant Rune: **S**umac (*Rhus glabra*)
   + "He prayeth best who loveth best all things, both great and small"
   + "The Fisherman and his Wife" (Grimm's Fairy Tales 1st ed. Volume I #19)
   + Color: <font color="#CB3034">███ Persian Red ███</font> (#CB3034)
@@ -3189,22 +3470,24 @@ img {
 <img src="ofis.card.png" style="float: right;" width="30%"> 
 
 + [ΟΦΙΣ](#ρυθμοι) = Serpent
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:010 59. Dispersion / Dispersion (Dissolution)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:010 59\. Dispersion / Dispersion (Dissolution)
   + judgment: Success is possible. The ruler approaches their temple. It is advantageous to cross the 
     big river. To keep going is advantageous.
   + image: As rulers, sacrifice to the Great Mystery and build its temples.
-  + alchemy: V. The Pilgrimage to The Inner Shrine, Part 2 - 9\. Execute/Process
+  + alchemy: V\. The Pilgrimage to The Inner Shrine, Part 2 - 9\. Execute/Process
 + Tarot: Nine ♥/Cups
   + upright: contentment, satisfaction, gratitude, wishes come true.
   + reversed: smugness, dissatisfaction, indulgence.
-+ Tarot: 19. The Sun
++ Tarot: 19\. The Sun
   + upright: positivity, fun, warmth, vitality, celebration.
   + reversed: negativity, depression, sadness, overly optimistic. 
 + Rune: ᛊ [Sowilo/Sun](#αινιγματα)  
   + poem: "Sun is bright, her honey hair sheds the light whose life we share."
   + keywords: vitality, vigor, health, incitement of desire, life
-+ The Wanderer's Oracle: Wind ‖ Rain Clouds
-  + situation: The Wanderer watches the wind disperse the rain clouds ahead on their path.
++ The Eardstapa's Oracle: 59\. ᚹᛁᚾᛞ ‖ ᚱᚨᛁᚾ (wind ‖ rain)
+  + riddle: "ᛈᚨᛊᛊᛖᚱᛊᛒᛇ ᚦᛖᛊᛖ ᛈᛚᚢᛗᛈ ᛈᚨᚷᛟᛞᚨᛊ / ᛟᚠ ᚱᚨᛁᚾ ᚷᛟ ᚱᛖᛏᛁᚲᛖᚾᛏ ᚱᛖᛏᛁᚱᛖ / ᚠᚱᛟᛗ ᛒᛚᚢᛖ ᚠᛁᛖᛚᛞᛊ ᚹᚺᛖᚱᛖ ᛒᚱᛖᛖᛉᛖᛊ ᚾᛟᚹ ᛒᛚᛟᚹ"   
+    "passersby these plump pagodas / of rain go reticent retire / from blue fields where breezes now blow"
+  + situation: The Eardstapa watches the wind disperse the rain clouds ahead on their path.
   + admonition: Here comes the sun, and I say it's all right! Enjoy the journey.
 + Bible: Revelation 21:1-8 - The New Heaven and Earth
 + Additional Concepts: 
@@ -3213,6 +3496,7 @@ img {
   + Ajna Chakra ("command", third eye)
   + The Winged Serpent
   + Moses raises up the Bronze Serpent (Nm 21:4-9)
+  + Plant Rune: **S**age (*Salvia officinalis*)
   + The Muse of Invention
   + "Would to God that all the Lords people were Prophets." (Blake's Jerusalem 0, quoting Nm 11:29)
   + Color: <font color="#802456">███ Disco ███</font> (#802456)
@@ -3233,16 +3517,18 @@ img {
   addressed to other gods, as to Poseidon after an earthquake. A song of triumph after victory, properly
   to Apollo. Also, a battle-song addressed to Ares. Any solemn song or chant, especially on beginning an
   undertaking.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:111 26. Great Nurturing / The Taming Power Of The Great
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:111 26\. Great Nurturing / The Taming Power Of The Great
   + judgment: To keep going is advantageous. Not eating at home brings good fortune. It is advantageous 
     to cross the big river.
   + image: Learn many sayings of antiquity and deeds of the past, to strengthen your character thereby.
-  + alchemy: II. The Priesthood of the Flame - 10\. Monitor/Evaluate
+  + alchemy: II\. The Priesthood of the Flame - 10\. Monitor/Evaluate
 + Tarot: Five ♣/Wands
   + upright: competition, rivalry, conflict, disagreements.
   + reversed: avoid conflict, respect differences.
-+ The Wanderer's Oracle: Mountain ‖ Heaven
-  + situation: The Wanderer pauses below the highest peak in the range; the final ascent awaits.
++ The Eardstapa's Oracle: 26\. ᛗᛟᚢᚾᛏᚨᛁᚾ ‖ ᚺᛖᚨᚹᛖᚾ (mountain ‖ heaven)
+  + riddle: "ᛒᛖᚷᚱᚢᛞᚷᛖ ᛗᛖ ᚾᛟᛏ ᛒᛖᚱᚷ ᚢᚾᛒᚱᛟᚲᛖᚾ / ᛊᛏᚨᚾᛞᛁᛜ ᛊᛏᛁᛚᛚ ᚢᚾᚲᛖᚱᛏᚨᛁᚾ ᛊᛁᛚᛖᚾᛏ / ᚨᚹᚨᛁᛏᛁᛜ ᚨᛏᛏᛖᛊᛏᛖᛞ ᚨᛊᛊᛖᚾᛏ"   
+    "begrudge me not berg unbroken / standing still uncertain silent / awaiting attested assent"
+  + situation: The Eardstapa pauses below the highest peak in the range; the final ascent awaits.
   + admonition: Few have gone here before. Have you studied their successes and failures? Ascend if you dare.
 + Greek Myth: The Labors of Heracles - 10\. The Cattle of Geryon
   + mode: cross over in the Cup of Helios, kill the herdsman with poison arrows, and take the cattle 
@@ -3256,6 +3542,7 @@ img {
 + Additional Concepts: 
   + "… Play ball!"
   + "A splendid little war"
+  + Plant Rune: **Y**arrow (*Achillea millefolium*)
   + "And was Jerusalem builded here," (Blake's Jerusalem 7)
   + Color: <font color="#80F6FF">███ Spray ███</font> (#80F6FF)
 
@@ -3280,15 +3567,17 @@ img {
     oracle I give an answer. If they ask two or three times, it is importunity. If they importune, I 
     give them no information. It is advantageous to keep going.
   + image: Foster your character - be thorough in all you do.
-  + alchemy: I. The Path of Destiny - 2\. Identify
+  + alchemy: I\. The Path of Destiny - 2\. Identify
 + Tarot: Seven ♣/Wands
   + upright: challenge, competition, protection, perseverance, defense, maintaining control
   + reversed: give up, confidence destroyed, overwhelmed
  + Rune: ᛇ [Eiwaz/Yew](#αινιγματα)  
    + poem: "Yew betokens hallowed ground; nothing ill is therein found."
    + keywords: Yggdrasil (the World Tree), sacred circle, the Runes, luck
-+ The Wanderer's Oracle: Mountain ‖ Rain Clouds
-  + situation: The Wanderer pauses before the final mountain ascent. The rain has just cleared, but the climb 
++ The Eardstapa's Oracle: 4\. ᛗᛟᚢᚾᛏᚨᛁᚾ ‖ ᚱᚨᛁᚾ (mountain ‖ rain)
+  + riddle: "ᚢᚾᛞᚨᚢᚾᛏᛖᛞ ᛟᚱ ᚢᚾᛞᛟᚾᛖ ᛇᛖᛏ ᚢᛈ / ᛊᛏᚨᚱᛏ ᛊᚢᛒᛗᛁᛏ ᚾᛟᛏ ᛊᛁᛗᛈᛖᚱ ᛟᚱ ᛊᛚᚨᚲᚲ / ᚹᚺᛁᛚᛖ ᚱᚨᛁᚾᛊ ᚱᚢᚾ ᛒᚢᛏ ᚱᛖᛁᚷᚾ ᚱᛖᚷᚨᚱᛞᛚᛖᛊᛊ"   
+    "undaunted or undone yet up / start submit not simper or slack / while rains run but reign regardless"
+  + situation: The Eardstapa pauses before the final mountain ascent. The rain has just cleared, but the climb 
     is now slippery and treacherous.
   + admonition: You might make the peak, but the risk is great. If you proceed, every step must be taken with 
     deliberation, the safest ways of approach considered, and any special equipment brought out. Feeling lucky?
@@ -3310,6 +3599,7 @@ img {
   + "Contrariwise,' continued Tweedledee, 'if it was so, it might be; and if it were so, it would be; 
     but as it isn't, it ain't. That's logic."
   + The Tree of Knowledge, the Hazel of Wisdom
+  + Plant Rune: **Y**ew (*Taxus baccata*, et al.)
   + What can you *use* it for?
   + "Bring me my Bow of burning gold:" (Blake's Jerusalem 9)
   + Color: <font color="#009AD5">███ Cerulean ███</font> (#009AD5)
@@ -3327,16 +3617,18 @@ img {
 <img src="pulai.card.png" style="float: right;" width="30%"> 
 
 + [ΠΥΛΑΙ](#ρυθμοι) = (Plural of πύλη) gates, house door, entrance, orifice, mountain pass, narrow straits.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:100 52. Stillness / Stillness
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:100 52\. Stillness / Stillness
   + judgment: Keep your back still so that you no longer feel your body. You go into your courtyard 
     and do not see your people. No blame.
   + image: Don't let your thoughts go beyond your situation.
-  + alchemy: V. The Pilgrimage to The Inner Shrine - 2\. Identify
+  + alchemy: V\. The Pilgrimage to The Inner Shrine - 2\. Identify
 + Tarot: Eight ♣/Wands
   + upright: rapid action, movement, quick decisions, air travel.
   + reversed: waiting, slowdowns, delays, frustration.
-+ The Wanderer's Oracle: Mountain ‖ Mountain
-  + situation: The Wanderer has reached the top of the mountain.
++ The Eardstapa's Oracle: 52\. ᛗᛟᚢᚾᛏᚨᛁᚾ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (mountain ‖ mountain)
+  + riddle: "ᛟᚠᛏᛖᚾ ᛁᚾ ᛟᛒᛚᛁᚷᚨᛏᛖ ᛟᚱᛞᛖᚱ / ᛊᛟᛗᛖ ᛊᛁᛉᛉᛚᛁᛜ ᛊᚢᚲᚲᛖᛊᛊ ᛊᚢᚲᚲᛖᛖᛞᛊ / ᛏᛟ ᛏᚨᛗᛖᚱ ᛏᚱᚨᛗᛈ ᛏᚢᚱᚾᛁᛜ ᛏᛖᛈᛁᛞ"   
+    "often in obligate order / some sizzling success succeeds / to tamer tramp turning tepid"
+  + situation: The Eardstapa has reached the top of the mountain.
   + admonition: Savor the moment and enjoy the view. Soon, you must make the descent while you still have 
     time to return safely.
 + Bible: Revelation 18 - The Fall of Babylon
@@ -3345,6 +3637,7 @@ img {
   + Stillness in action - Action in stillness
   + Engage!
   + [The Battle of Thermopylae](https://en.wikipedia.org/wiki/Battle_of_Thermopylae)
+  + Plant Rune: **Y**erba Santa (*Eriodictyon californicum*)
   + The Beauty of Holiness
   + Color: <font color="#00D9EA">███ Bright Turquoise ███</font> (#00D9EA)
 
@@ -3364,16 +3657,18 @@ img {
   restore his youthful appearance, or that with which Hermes overpowers the senses of man, or that with 
   which Hades rules the ghosts. A staff of office. The wand borne by the ῥαψῳδός. A rod for chastisement, 
   or riding-switch. A shepherd's staff or crook. A measuring-rod.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:001 27. Jaws / The Corners of the Mouth
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:001 27\. Jaws / The Corners of the Mouth
   + judgment: To keep going brings good fortune. Pay heed to providing nourishment and to what you seek 
     to fill your mouth with.
   + image: Be careful of your words and temperate in eating and drinking.
-  + alchemy: II. The Priesthood of the Flame - 12\. Replicate/Teach
+  + alchemy: II\. The Priesthood of the Flame - 12\. Replicate/Teach
 + Tarot: Knight ♣/Wands
   + upright: energy, passion, adventure, impulsiveness, action, adventure, fearlessness.
   + reversed: recklessness, haste.
-+ The Wanderer's Oracle: Mountain ‖ Quake
-  + situation: While on the mountain path, the Wanderer feels the ground tremble in a quake. Rocks dislodge 
++ The Eardstapa's Oracle: 27\. ᛗᛟᚢᚾᛏᚨᛁᚾ ‖ ᚲᚹᚢᚨᚲᛖ (mountain ‖ quake)
+  + riddle: "ᚲᛚᛟᛊᛖᛞ ᚲᛚᛟᛊᛖᛏᛖᛞ ᚲᚨᚾᚾᛟᛏ ᚲᛖᛖᛈ ᛗᛖ / ᛟᛈᛖᚾ ᛟᛒᛞᚢᚱᚨᛏᛖ ᛟᛒᛊᛏᚱᚢᚲᛏᛁᛟᚾᛊ / ᚦᛖ ᚹᚨᚷᛖᛊ ᛟᚠ ᚹᚨᚲᛖᚠᚢᛚᚾᛖᛊᛊ ᚹᛁᚾ"   
+    "closed closeted cannot keep me / open obdurate obstructions / the wages of wakefulness win"
+  + situation: While on the mountain path, the Eardstapa feels the ground tremble in a quake. Rocks dislodge 
     into the path before them and behind.
   + admonition: Don't go down the mountain without a fight! Steel your nerves and make it a day to be 
     remembered. 
@@ -3394,6 +3689,7 @@ img {
   + Spare the rod…
   + *Let it be*
   + *Just do it!*
+  + Plant Rune: **T**ormentil (*Potentilla erecta*)
   + "The White Snake" (Grimm's Fairy Tales 1st ed. Volume I #17);
     "The Singing Bone" (Grimm's Fairy Tales 1st ed. Volume I #28)
   + Color: <font color="#00E1C9">███ Robin's Egg Blue ███</font> (#00E1C9)
@@ -3425,20 +3721,28 @@ img {
     Related: mountain; bypath; little stones; openings; doors; fruits; seeds; eunuchs; watchmen; fingers; 
     dog; rat; black-billed birds; firm, gnarled trees.
   + alchemy: VII. The Golden Lampstands - G#=8/7 (equivalent to 12\. Replicate/Teach)
-+ Tarot: 7. The Chariot
++ Tarot: 7\. The Chariot
   + upright: direction, control, willpower.
   + reversed: lack of control, lack of direction. 
 + Rune: ᛏ [Tiwaz/Tower](#αινιγματα)  
   + poem: "Tower towers o'er the town, telling of the king's renown."
   + keywords: justice, order, balance, duty, restraint, Tyr, the North Star, nobility
++ The Eardstapa's Oracle: 72\. ᛗᛟᚢᚾᛏᚨᛁᚾ (mountain)
+  + riddle: "ᛗᚨᚾᛇ ᛗᛟᚢᚾᛏᚨᛁᚾᛊ ᛗᚨᚷᚾᛁᚠᛁᚲᛖᚾᛏ / ᛒᛇ ᚲᚺᚨᚾᚲᛖ ᛟᚱ ᚲᚺᛟᛁᚲᛖ ᚲᚺᛁᛚᛚ ᛟᚱ ᚲᚺᚨᚱᛗᛁᛜ / ᛁ ᛗᚢᛊᛏ ᛊᛏᚨᛏᛖ ᚾᛟᚱ ᛊᛏᚨᛚᛚ ᛟᚱ ᛊᛏᚨᛗᛗᛖᚱ"   
+    "many mountains magnificent / by chance or choice chill or charming / i must state nor stall or stammer"
+  + situation: The Eardstapa sees a range of mountain peaks ahead.
+  + admonition: Carefully consider which peaks you want to ascend, and which you want to avoid, based 
+    on your ultimate goals. Consult the oracle again.
 + Systems Theory:
   + prediction 
   + analysis
   + the faculty of choice (among alternatives presented)
 + Additional Concepts: 
+  + Fox's Eight-fold Dharma: the excellence of [Love](#beauty-and-love)
   + "That's my story and I'm sticking to it!"
   + Captain Jean-Luc Picard (STTNG)
   + Jupiter (Astrology)
+  + Plant Rune: **T**amarisk (*Tamarix aphylla*)
   + The one who infers causality and stitches together the story of the self (mental faculty)
   + Color: <font color="#00EDFF">███ Cyan ███</font> (#00EDFF)
 
@@ -3461,18 +3765,19 @@ img {
   Temper, disposition. Form, shape of a thing, the form or shape of the letters, of the shape of a cup, 
   of a breastplate, so of the natural features of a country; structure of a substance. Manner, fashion 
   of a thing.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:101 22. Elegance / Grace
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:101 22\. Elegance / Grace
   + judgment: Success is possible. In small matters it is favorable to undertake something.
   + image: Clear up present affairs with grace. But don't decide controversial issues this way.
-  + alchemy: II. The Priesthood of the Flame - 6\. (Re)Arrange
+  + alchemy: II\. The Priesthood of the Flame - 6\. (Re)Arrange
 + Tarot: Ten ♣/Wands
   + upright: accomplishment, responsibility, burden.
   + reversed: inability to delegate, overstressed, burnt out.
-+ The Wanderer's Oracle: Mountain ‖ Light
-  + poem: "Stay, light! Your last, lingering peak / goes quiet, leaves no queer questions / of this one, that one, or of those."
-  + situation: The Wanderer sees their mountain peak destination catch the last rays of the setting sun.
-  + admonition: Consider your goal. Who will be rewarded for your attainment? Grace is when cutting corners 
-    enhances beauty.
++ The Eardstapa's Oracle: 22\. ᛗᛟᚢᚾᛏᚨᛁᚾ ‖ ᛚᛁᚷᚺᛏ (mountain ‖ light)
+  + riddle: "ᛚᛁᚷᚺᛏ ᛊᛏᚨᛇ ᛇᛟᚢᚱ ᛚᚨᛊᛏ ᛚᛁᛜᛖᚱᛁᛜ ᛈᛖᚨᚲ / ᚲᚹᚢᛁᛖᛏ ᚷᛟᛖᛊ ᚲᚹᚢᛖᛚᛚᛊ ᚹᚨᛁᚾ ᚲᚹᚢᚨᚱᚱᛖᛚᛚᛁᛜ / ᚨᛏᛏᛖᚾᚢᚨᛏᛁᛟᚾ ᚨᛏᛏᚨᛁᚾᛊ ᚨᛚᛚ"   
+    "light stay your last lingering peak / quiet goes quells vain quarrelling / attenuation attains all"
+  + situation: The Eardstapa sees their mountain peak destination catch the last rays of the setting sun.
+  + admonition: Consider your goal. Who will be rewarded for your attainment? What will your attainment attain? 
+    Grace is when cutting corners enhances beauty.
 + Greek Myth: The Labors of Heracles - 6\. The Stymphalian Birds
   + mode: Heracles can't reach the birds, so Athena gives him a rattle that causes them to fly away or 
     to within range of his poisoned arrows
@@ -3487,6 +3792,7 @@ img {
   + ΠΙΣΤΙΣ = persuasion, i.e. to become convinced (opp. to "faith" as this word is normally understood and translated)
   + The burden of proof
   + The elegant solution removes difficulty
+  + Plant Rune: **T**arragon (*Artemisia dracunculus*)
   + Color: <font color="#55EDAA">███ Downy ███</font> (#55EDAA)
 
 ---
@@ -3504,18 +3810,20 @@ img {
 + [ΣΘΕΝΩ](#ρυθμοι) = In Greek mythology, Euryale (Εὐρυάλη, literally 'far-roaming') and Stheno (Σθενώ, literally
   "forceful") were two of the three Gorgons, including Medusa, sisters who were able to turn anyone 
   who looked at them to stone.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:001 17. Following / Following
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:001 17\. Following / Following
   + judgment: Supreme success is possible. To keep going is advantageous. No blame.
   + image: At nightfall, go indoors to rest and recuperate.
-  + alchemy: II. The Priesthood of the Flame - 1\. Sense/Detect
+  + alchemy: II\. The Priesthood of the Flame - 1\. Sense/Detect
 + Tarot: Two ♣/Wands
   + upright: planning, decisions, discovery.
   + reversed: playing it safe, bad planning, lack of planning.
-+ Tarot: 8. Strength
++ Tarot: 8\. Strength
   + upright: strength, bravery, courage, persuasion, influence, focus.
   + reversed: self doubt, weakness, insecurity.
-+ The Wanderer's Oracle: Lake ‖ Thunder
-  + situation: The Wanderer contemplates the quiet solitude of a clear, blue lake, undisturbed by the thunder 
++ The Eardstapa's Oracle: 17\. ᛚᚨᚲᛖ ‖ ᚦᚢᚾᛞᛖᚱ (lake ‖ thunder)
+  + riddle: "ᛞᚨᛜᛖᚱ ᛞᛖᛗᚨᚾᛞᛊ ᚦᛁᛊ ᛞᛖᛖᛈᚾᛖᛊᛊ ᛞᚨᚱᚲ / ᛁᚾ ᛊᛖᚲᚱᛖᛏ ᛊᛟᛚᛁᛏᚨᚱᛇ ᛊᛈᛖᚨᚲ / ᚦᚨᛏ ᚾᚨᛗᛖ ᚾᚨᛗᛖᛞ ᚲᚨᚾᚾᛟᛏ ᚦᛖᚾ ᚢᚾᚾᛖᚱᚹᛖ"   
+    "danger demands this deepness dark / in secret solitary speak / that name named cannot then unnerve"
+  + situation: The Eardstapa contemplates the quiet solitude of a clear, blue lake, undisturbed by the thunder 
     that rumbles all about them.
   + admonition: Cultivate stillness and introspection. Courage consists in your acceptance of self and 
     circumstance.
@@ -3533,6 +3841,7 @@ img {
   + "Believe and you will find your way"
   + Manipura Chakra ("jewel city", navel)
   + The Black Dragon
+  + Rune Plant: **L**eek (*Allium ampeloprasum*)
   + "Little Brother and Little Sister" (Grimm's Fairy Tales 1st ed. Volume I #11)
   + The Initiatrix into the Mysteries of the Grail
   + Color: <font color="#805B56">███ Russet ███</font> (#805B56)
@@ -3552,16 +3861,18 @@ img {
 + [ΣΤΕΦΑΝΟΣ](#ρυθμοι) = That which surrounds or encompasses. A crown, wreath, chaplet. The crown of victory at 
   the public games. An honorary wreath or crown, frequently worked in gold, awarded for public services 
   in war or peace. A crown of glory, honour. A crown as a badge of office.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:101 49. Molting / Revolution (Molting)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:101 49\. Molting / Revolution (Molting)
   + judgment: On your own day you are believed. Supreme success is possible; it is advantageous to keep 
     going. Remorse disappears.
   + image: Set the calendar in order and make the seasons clear.
-  + alchemy: IV. The Dragon's Hoard - G#=8/7 (equivalent to 12\. Replicate/Teach)
+  + alchemy: IV\. The Dragon's Hoard - G#=8/7 (equivalent to 12\. Replicate/Teach)
 + Tarot: Three ♣/Wands
   + upright: foresight, looking ahead, expansion, growth.
   + reversed: playing small, lack of foresight, unexpected delays.
-+ The Wanderer's Oracle: Lake ‖ Light
-  + situation: Roused from sleep, the Wanderer opens their eyes and sees the surface of a lake 
++ The Eardstapa's Oracle: 49\. ᛚᚨᚲᛖ ‖ ᛚᛁᚷᚺᛏ (lake ‖ light)
+  + riddle: "ᛊᚨᛈᛈᚺᛁᚱᛖ ᛟᚠ ᛊᚺᛁᚾᛁᛜ ᛊᚨᚲᚱᚨᛚ ᛞᚨᚹᚾ / ᚱᛖᛗᛖᛗᛒᚱᚨᚾᚲᛖ ᛁᚾ ᚱᛁᛏᛖᛊ ᚱᛖᚨᛞᛇᛁᛜ / ᚹᚺᚨᛏ ᛞᚨᛇᛊ ᛞᛖᛊᛁᚱᛖᛊ ᛞᛖᛗᚨᚾᛞ ᚹᛖ ᛞᛟ"   
+    "sapphire of shining sacral dawn / remembrance in rites readying / what days desires demand we do"
+  + situation: Roused from sleep, the Eardstapa opens their eyes and sees the surface of a lake 
     catch and reflect the first light of dawn.
   + admonition: Anticipate what is just now breaking forth. "The game is afoot", so prepare now in order 
     to stay one step ahead. Your attitude affects your outcome. Your beginning determines your end.
@@ -3574,6 +3885,7 @@ img {
   + Necessity is the Mother of Invention
   + 49 is 7x7 = the perfection of 7 (which is actually Hexagram 50)
   + the Magical Hat
+  + Rune Plant: **L**arkspur (*Delphinium menziesii*, et al.)
   + "Silphium (also known as laserwort or laser; Ancient Greek: σίλφιον, sílphion) is an unidentified plant 
     that was used in classical antiquity as a seasoning, perfume, aphrodisiac, and medicine." 
     [Silphium](https://en.wikipedia.org/wiki/Silphium)
@@ -3598,13 +3910,20 @@ img {
   + trigram: Existence ... gives [all things] *fulfillment* in the trigram of the Joyous.
   + related: lake; youngest daughter; sorceress; mouth; tongue; smashing; breaking apart; dropping off; 
     bursting open; hard, salty soil; concubine; sheep
-  + alchemy: VII. The Golden Lampstands - G=7/7 (equivalent to 11\. Maintain/Improve)
-+ Tarot: 0. The Fool
+  + alchemy: VII\. The Golden Lampstands - G=7/7 (equivalent to 11\. Maintain/Improve)
++ Tarot: 0\. The Fool
   + upright: innocence, new beginnings, spontaneity, free spirit.
   + reversed: recklessness, holding back, risk-taking.
 + Rune: ᛚ [Laguz/Lake](#αινιγματα)  
   + poem: "Lake of languid, liquid skies; in your depths the stars arise."
   + keywords: potential, substance, the Well of Wyrd
++ The Eardstapa's Oracle: 65\. ᛚᚨᚲᛖ (lake)
+  + riddle: "ᚨᚲᚱᛟᛊᛊ ᚦᛁᛊ ᚲᛟᛚᛞ ᚲᛟᚾᛏᛖᛗᛈᛏᚢᛟᚢᛊ / ᛊᚺᛁᚹᛖᚱ ᚾᛟᛏ ᚾᛟᚱ ᛊᚺᛇ ᛊᚺᛟᚱᛏ ᛇᛟᚢ ᛊᚺᛟᚢᛚᛞ / ᛏᚨᚲᛖ ᚹᚺᚨᛏᛊ ᛏᛖᚾᛞᛖᚱᛖᛞ ᛒᛖ ᛁᛏ ᛏᚨᛒᛟᛟ"   
+    "across this cold contemptuous / shiver not nor shy short you should / take whats tendered be it taboo"
+  + situation: The Eardstapa should take account of their water supply for the journey ahead.
+  + admonition: What about water? How much do you have and how much will you need? Do you think you'll be 
+    able to find water or remember what springs, lakes, or rivers lie on your intended path? Consult the 
+    oracle again.
 + Systems Theory:
   + the system's creative and memory faculties
   + pattern recognition and creation
@@ -3613,6 +3932,7 @@ img {
   + The Haunted Mere (vide Grendel's Mother) 
   + You got potential!
   + Saturn (Astrology)
+  + Plant Rune: **L**obelia (*Lobelia inflata*)
   + Mavronéri is a river identified with the River Styx of Greek mythology according to Hesiod's description 
     in Theogony. It is located near Nonakris in the Aroania Mountains of Achaia on the Peloponnesian peninsula. 
     Its waters contain a significant amount of Calicheamicin, a dangerous compound produced by bacteria
@@ -3646,22 +3966,30 @@ img {
     straightening out; bow; wheel; men-- melancholy, with sick hearts, with earache; blood sign; red; 
     horses-- with beautiful backs, with wild courage, which let their heads hang, with thin hoofs, which 
     stumble; chariots with many defects; penetration; moon; thieves; firm trees that have much pith.
-  + alchemy: VII. The Golden Lampstands - B=2/7 (equivalent to 3\.Signal/Command)
-+ Tarot: 5. The Priest (Hierophant)
+  + alchemy: VII\. The Golden Lampstands - B=2/7 (equivalent to 3\.Signal/Command)
++ Tarot: 5\. The Priest (Hierophant)
   + upright: spiritual wisdom, religious beliefs, conformity, traditions, institutions, morality, ethics. 
   + reversed: rebellion, subversiveness, challenging the status quo.
 + Rune: ᛖ [Ehwaz/Elder](#αινιγματα)  
   + poem: "Elder, I dare tell a riddle- magic words lie in the middle."
   + keywords: thought, language, speech, reason, communication, concepts, ideas
++ The Eardstapa's Oracle: 70\. ᚱᚨᛁᚾ (rain)
+  + riddle: "ᚹᚨᛁᛏᛁᛜ ᚹᚨᛏᚲᚺᛁᛜ ᛊᚲᛇ ᚹᚱᛁᛏᛁᛜ ᚹᚺᛁᛚᛖ / ᚦᛖᛊᛖ ᚾᛖᛈᚺᛁᛚᛁᛗ ᚠᚱᛟᛗ ᚾᛟᚹᚺᛖᚱᛖ ᚾᛟᛞ / ᛗᛇ ᛞᛁᚱᛖᚲᛏᛁᛟᚾ ᛒᚢᛏ ᛞᛟᚾᛏ ᛞᛖᚠᛖᚱ"   
+    "waiting watching sky writing while / these nephilim from nowhere nod / my direction but dont defer"
+  + situation: The Eardstapa should take account of the clouds.
+  + admonition: Do you know the lore of the clouds; their different types, what they signify (rain, storms, 
+    fair weather), and how their movements give a clue to what is about to happen? Consult the oracle again.
 + Systems Theory:
   + communication (within the system and with similar systems of which it is a sub-system)
   + categorization and refinement of perceptual information
   + contributes to indexing of information (for retrieval by memory faculties)
   + causal inference (logic) in systems which can learn or plan
 + Additional Concepts: 
+  + Fox's Eight-fold Dharma: the excellence of [Understanding](#knowledge-and-understanding)
   + Black Warrior (North)
   + the Raven
   + Mercury (Astrology)
+  + Plant Rune: **E**lder (*Sambucus nigra*)
   + Chief Engineer Geordi La Forge and Chief Operations Officer Data (STTNG)
   + The twins who reason and design, speak and name for the self (mental faculty)
   + Color: <font color="#0047AB">███ Blue ███</font> (#0047AB)
@@ -3679,16 +4007,18 @@ img {
 <img src="tocon.card.png" style="float: right;" width="30%"> 
 
 + [ΤΟΞΟΝ](#ρυθμοι) = A bow. In plural, bow and arrows.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:101 63. After the Crossing / After Completion
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:101 63\. After the Crossing / After Completion
   + judgment: Success in small matters is possible. To keep going is advantageous. At the beginning 
     there is good fortune, at the end there is disorder.
   + image: Take thought of misfortune and arm yourself against it in advance.
-  + alchemy: VI. The Primal Ones - G=7/7 (equivalent to 11\. Improve)
+  + alchemy: VI\. The Primal Ones - G=7/7 (equivalent to 11\. Improve)
 + Tarot: Ten ♠/Swords
   + upright: failure, collapse, defeat, deep wounds, betrayal, loss, crisis, painful endings.
   + reversed: can't get any worse, can only get better, inevitability. 
-+ The Wanderer's Oracle: Rain Clouds ‖ Light
-  + situation: A sun shower--the Wanderer is bathed in bright sunlight, even as it continues to rain on 
++ The Eardstapa's Oracle: 63\. ᚱᚨᛁᚾ ‖ ᛚᛁᚷᚺᛏ (rain ‖ light)
+  + riddle: "ᛗᛖᚱᚱᛇ ᛗᚨᚲᛖ ᚢᛈ ᛗᛇ ᛗᛁᚾᛞ ᛗᚨᚱᚱᛇ / ᚾᛟᚹ ᛟᚱ ᚾᛟᛏ ᛏᛁᛊ ᚾᛖᛁᚦᛖᚱ ᚲᚾᛟᚹᚾ ᛟᚱ / ᚢᚾᚲᚾᛟᚹᚾ ᚢᛗᛒᚱᛖᛚᛚᚨᛊ ᛟᚱ ᚢᚾᚨᚱᛗᛖᛞ"   
+    "merry make up my mind marry / now or not tis neither known or / unknown umbrellas or unarmed"
+  + situation: A sun shower--the Eardstapa is bathed in bright sunlight, even as it continues to rain on 
     them. (kitsune no yomeiri 狐の嫁入り; "the fox's wedding")
   + admonition: Enjoy this brief moment of clarity, despite the rain. Were you able to see a rainbow?
 + Bible: Genesis 1:1b - ...God created...
@@ -3697,6 +4027,7 @@ img {
   + "Got it!... What was the part in the middle again?"
   + Become the target
   + You already know the answer
+  + Plant Rune: **E**yebright (*Euphrasia officinalis*)
   + The Golden Arrow of Abaris the Hyperborean
   + Color: <font color="#4D7978">███ Cutty Sark ███</font> (#4D7978)
 
@@ -3713,16 +4044,18 @@ img {
 <img src="tumpanon.card.png" style="float: right;" width="30%"> 
 
 + [ΤΥΜΠΑΝΟΝ](#ρυθμοι) = A kettledrum, such as was used especially in the worship of the Mother Goddess and Dionysus.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:001 3. Sprouting / Difficulty at the Beginning
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:001 3\. Sprouting / Difficulty at the Beginning
   + judgment: Supreme success is possible; it is advantageous to keep going. Nothing [new] should be 
     undertaken. It advantageous to appoint helpers.
   + image: Bring order out of confusion.
-  + alchemy: I. The Path of Destiny - 1\. Sense/Detect
+  + alchemy: I\. The Path of Destiny - 1\. Sense/Detect
 + Tarot: Knight ♠/Swords
   + upright: action-oriented, impulsive, defending beliefs, driven, fast-thinking
   + reversed: unfocused, no direction, disregarding consequences, unpredictability
-+ The Wanderer's Oracle: Rain Clouds ‖ Thunder
-  + situation: The Wanderer hears thunder boom in the rain clouds which surround them, but where, and 
++ The Eardstapa's Oracle: 3\. ᚱᚨᛁᚾ ‖ ᚦᚢᚾᛞᛖᚱ (rain ‖ thunder)
+  + riddle: "ᚱᚨᛁᚾ ᚦᚢᚾᛞᛖᚱᛊ ᚦᚢᚾᛞᛖᚱ ᚱᛖᛁᚷᚾᛊ ᛟᛖᚱ ᚱᚢᛚᛖᛊ / ᚾᛟ ᛗᚨᚾᛊ ᚾᚨᛗᛖᛚᛖᛊᛊ ᚾᚨᚱᚱᚨᛏᛁᚹᛖ ᚾᛟ / ᛇᛖᛊ ᛇᛁᛖᛚᛞᛊ ᚢᚾᛚᛖᛊᛊ ᛇᛖᛊ ᛇᛖᚨᚱᚾᛁᛜ ᛇᛁᛖᛚᛞᛊ"   
+    "rain thunders thunder reigns oer rules / no mans nameless narrative no / yes yields unless yes yearning yields"
+  + situation: The Eardstapa hears thunder boom in the rain clouds which surround them, but where, and 
     whether, lightning will strike is not yet clear.
   + admonition: Be alert and carefully monitor the signs to determine where the storm front is going. 
     You'll have to act quickly and decisively once you know, and you can forget about second chances.
@@ -3746,6 +4079,7 @@ img {
   + Become aware of the true ends of your desires
   + The Fruit of the Tree of Knowledge
   + The Initiator into the Path
+  + Plant Rune: **E**lecampane (*Inula helenium*)
   + "Bring me my Arrows of desire:" (Blake's Jerusalem 10)
   + "Beat to quarters!"
   + Color: <font color="#006C72">███ Mosque ███</font> (#006C72)
@@ -3770,21 +4104,29 @@ img {
     spreading out; a great road; eldest son; decisive; vehement; green, young bamboo; reed; rush; horses-- 
     which neigh well, with white hind legs, which gallop, with a star on the forehead; pod-bearing, useful 
     plants; the strong, anything that grows luxuriantly.
-  + alchemy: VII. The Golden Lampstands - C=4/7 (equivalent to 6.(Re)Arrange)
-+ Tarot: 1. The Magician
+  + alchemy: VII\. The Golden Lampstands - C=4/7 (equivalent to 6\. (Re)Arrange)
++ Tarot: 1\. The Magician
   + upright: willpower, creation, manifestation, resourcefulness
   + reversed: trickery, illusions, out of touch, manipulation, untapped talents
 + Rune: ᛜ [I**ng**waz/Ri**ng**](#αινιγματα)  
   + poem: "Ring of toadstools on the grass, sprouting where the Fairies pass."
   + keywords: prolific, fertile, fecund, adaptable, wild, chaotic, the Green Man, sexuality, creativity, Frey (Ing)
++ The Eardstapa's Oracle: 66\. ᚦᚢᚾᛞᛖᚱ (thunder)
+  + riddle: "ᚹᛟᛖ ᚲᛟᛗᛖᛊ ᚨᚾᛞ ᚹᛟᛖᛒᛖᚷᛟᚾᛖ ᚹᛁᛚᛚ ᚹᛖ / ᛒᛖᛖ ᚦᚨᛏ ᛒᚢᛊᛁᛖᛊ ᛖᚹᛖᚱᛇ ᛒᚢᛞ ᛒᛖᚷᛊ / ᛃᚢᛊᛏ ᛃᚢᛊᛏᛁᚠᛁᚲᚨᛏᛁᛟᚾ ᛞᚢ ᛃᛟᚢᚱ"   
+    "woe comes and woebegone will we / bee that busies every bud begs / just justification du jour"
+  + situation: The Eardstapa should stop to listen for thunder.
+  + admonition: Before you choose, or continue, your path, listen for warnings of danger ahead and adjust your
+    way accordingly. Consult the oracle again.
 + Systems Theory:
   + the automatic stimulus/inhibition responses of the system
   + in particular, the means by which the system initiates a process of transition to another state
   + this automatic set of responses is alterable (trainable) in systems which learn or plan
 + Additional Concepts: 
+  + Fox's Eight-fold Dharma: the excellence of [Righteousness](#righteousness-and-wholeness)
   + Azure Dragon of the East
   + Krishna
   + Mars (Astrology) 
+  + Plant Rune: Gi**ng**er (*Zingiber officinale*)
   + First Officer William Riker (STTNG)
   + The one who calls the self to act and react (mental faculty)
   + Color: <font color="#00B500">███ Forest Green ███</font> (#00B500)
@@ -3801,23 +4143,25 @@ img {
 <img src="umnos.card.png" style="float: right;" width="30%"> 
 
 + [\`ΥΜΝΟΣ](#ρυθμοι) = A hymn, ode, in praise of gods or heroes.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:001 51. Thunder / The Arousing (Shock)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:001 51\. Thunder / The Arousing (Shock)
   + judgment: Success is possible. Shock comes— boom, boom! Laughing follows— ha, ha! The shock terrifies 
     for a hundred miles, but you don't let the sacrificial spoon and chalice fall.
   + image: In fear and trembling set your life in order and examine yourself.
-  + alchemy: V. The Pilgrimage to The Inner Shrine - 1\. Sense/Detect
+  + alchemy: V\. The Pilgrimage to The Inner Shrine - 1\. Sense/Detect
 + Tarot: Knight ♥/Cups
   + upright: charm, following the heart, idealist, romantic.
   + reversed: moodiness, disappointment, overactive imagination, unrealistic, jealous.
-+ The Wanderer's Oracle: Thunder ‖ Quake
-  + poem: "It's over! Over the top of / rapid, ragged remonstratives! / Oh! Order only one requires."
-  + situation: The Wanderer hears several loud claps of thunder and feels an earthquake. Heaven and 
++ The Eardstapa's Oracle: 51\. ᚦᚢᚾᛞᛖᚱ ‖ ᚲᚹᚢᚨᚲᛖ (thunder ‖ quake)
+  + riddle: "ᛁᛏᛊ ᛟᚹᛖᚱ ᛟᚹᛖᚱ ᚦᛖ ᛏᛟᛈ ᛟᚠ / ᚱᚨᛈᛁᛞ ᚱᚨᚷᚷᛖᛞ ᚱᛖᛗᛟᚾᛊᛏᚱᚨᛏᛁᚹᛖᛊ / ᛟᚺ ᛟᚱᛞᛖᚱ ᛟᚾᛚᛇ ᛟᚾᛖ ᚱᛖᚲᚹᚢᛁᚱᛖᛊ"   
+    "its over over the top of / rapid ragged remonstratives / oh order only one requires"
+  + situation: The Eardstapa hears several loud claps of thunder and feels an earthquake. Heaven and 
     earth are trembling, all at once!
   + admonition: Are we awake now? Don't panic! But there's no time to deliberate, so act quickly.
 + Bible: Revelation 17 - The Great Whore and the Beast
 + Additional Concepts: 
   + Shock and Awe
   + Fools Rush Inn
+  + Plant Rune: Gala**ng**al (*Alpinia galanga*)
   + "When in trouble or in doubt, run in circles, scream and shout!"
   + "Loyal Godfather Sparrow"  (Grimm's Fairy Tales 1st ed. Volume 1 #58)
   + Color: <font color="#80DA80">███ Pastel Green ███</font> (#80DA80)
@@ -3838,16 +4182,18 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 001:101 55\. Abundance / Abundance (Fullness)
   + judgment: Success is possible. The ruler attains abundance. Be not sad; be like the sun at midday.
   + image: In this way decide lawsuits and carry out punishments.
-  + alchemy: V. The Pilgrimage to The Inner Shrine - 5\. Inter-Communicate
+  + alchemy: V\. The Pilgrimage to The Inner Shrine - 5\. Inter-Communicate
 + Tarot: Ten ♥/Cups
   + upright: fulfillment, divine love, blissful relationships, harmony, alignment
   + reversed: shattered dreams, broken family, disharmony, disconnection, misaligned values, struggling 
     relationships
-+ Tarot: 9. The Hermit
++ Tarot: 9\. The Hermit
   + upright: soul-searching, introspection, contemplation, search for truth, inner guidance.
   + reversed: loneliness, isolation, lost your way, withdrawal.
-+ The Wanderer's oracle: Quake ‖ Light
-  + situation: The Wanderer sees [earthquake lights](https://en.wikipedia.org/wiki/Earthquake_light) 
++ The Eardstapa's oracle: 55\. ᚲᚹᚢᚨᚲᛖ ‖ ᛚᛁᚷᚺᛏ (quake ‖ light)
+  + riddle: "ᚦᚱᛟᚢᚷᚺ ᚷᛇᚱᛖ ᛟᚠ ᚷᚱᛁᚾᛞᛁᛜ ᚷᚨᛚᚹᚨᚾᛁᚲ / ᛊᛏᛟᚾᛖ ᚾᛟᚹ ᛊᚲᛁᚾᛏᛁᛚᛚᚨᛏᛁᛜ ᛊᚲᛇᚹᚨᚱᛞ / ᛊᛖᛖ ᛞᛁᛊᛊᛁᛈᚨᛏᛖ ᛖᚨᚱᚦᛊ ᛞᚨᚱᚲ ᛞᛁᛊᛏᚱᛖᛊᛊ"   
+    "through gyre of grinding galvanic / stone now scintillating skyward / see dissipate earths dark distress"
+  + situation: The Eardstapa sees [earthquake lights](https://en.wikipedia.org/wiki/Earthquake_light) 
     and knows a large earthquake has happened or is about to happen.
   + admonition: Significant changes have taken place, or are about to. Duty must take precedence over desire. 
     Fulfill what is required of you without wishing things were different or that the responsibility belonged 
@@ -3856,6 +4202,7 @@ img {
 + Additional Concepts: 
   + Lawn order
   + When enough is enough
+  + Plant Rune: Ginse**ng** (*Panax ginseng*)
   + Svadhishthana Chakra ("where the self is established", sexual)
   + Necromancer/Neuromancer (Uncle Bärchen)
   + Color: <font color="#55C800">███ Christi ███</font> (#55C800)
@@ -3880,13 +4227,18 @@ img {
     wind; eldest daughter; guideline; work; white; long; high; advance; retreat; undecided; odor; men-- 
     gray-haired, with broad foreheads, with much white in their eyes, those close to gain, that get 
     threefold value in the market; vehemence.
-  + alchemy: VII. The Golden Lampstands - C=3/7 (equivalent to 4\. Audit/ACK)
-+ Tarot: 6. The Lovers
+  + alchemy: VII\. The Golden Lampstands - C=3/7 (equivalent to 4\. Audit/ACK)
++ Tarot: 6\. The Lovers
   + upright: partnership, harmony, love, union.
   + reversed: imbalance, one-sidedness, disharmony. 
 + Rune: ᛒ [Berkanan/Birch](#αινιγματα)  
   + poem: "Birch is bonny, blithe and green, ever first whose leaves are seen."
   + keywords: beginning, birth, youth, beauty, innocence, inexperience, the opener of the gates
++ The Eardstapa's Oracle: 71\. ᚹᛁᚾᛞ (wind)
+  + riddle: "ᚹᛁᛜᛖᛞ ᚹᛁᚾᛞ ᚹᚨᚾᛞᛖᚱᛖᚱᛊ ᚹᛟᛗᚨᚾ / ᚨᛒᛞᚢᚲᛏᛖᛞ ᚨᚾᛞ ᚨᛒᛞᚢᚲᛏᚱᛖᛊᛊ ᚨᚾᛞ / ᛁᚾᚲᛟᚾᛊᛏᚨᚾᛏ ᛇᛖᛏ ᛁᚾᚹᛁᛟᛚᚨᛏᛖ"   
+    "winged wind wanderers woman / abducted and abductress and / inconstant yet inviolate"
+  + situation: The Eardstapa needs to pay attention to the wind.
+  + admonition: Find out which way the wind is blowing, and why, and to what ends. Consult the Oracle again.
 + Systems Theory:
   + the automatic positive and negative feedback characteristics of the system, or more simply, the desire 
     for pleasure and the avoidance of pain
@@ -3895,14 +4247,19 @@ img {
   + in systems which can plan or learn, these guidelines are alterable and are used to identify, evaluate 
     and select patterns and processes for their potential benefit or detriment to the system
 + Additional Concepts: 
+  + Fox's Eight-fold Dharma: the excellence of [Wholeness](#righteousness-and-wholeness)
   + Living Water
   + Eros
   + White Tiger of the West
   + Radha
   + Venus (Astrology)
+  + Plant Rune: **B**irch (*Betula alba*)
   + Ship's Counsellor Deanna Troi (STTNG)
   + The one who calls forth the emotions, as the cynosure of what is desirable (and by contrast, undesirable) 
     to the self (mental faculty)
+  + The Gospel of John, Chapter 3 "...The πνεῦμα (wind/spirit) blows where it wills, and you hear the sound of it, 
+    but you do not know whence it comes or whither it goes; so it is with every one who is born of the πνεῦμα 
+    (Wind/Spirit)..."
   + "Jorinda and Joringel"  (Grimm's Fairy Tales 1st ed. Volume 1 #69)
   + Color: <font color="#FF0000">███ Red ███</font> (#FF0000)
 
@@ -3919,24 +4276,27 @@ img {
 <img src="fialh.card.png" style="float: right;" width="30%"> 
 
 + [ΦΙΑΛΗ](#ρυθμοι) = A broad, flat bowl or saucer for drinking or pouring libations.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:101 37. Family / The Family
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:101 37\. Family / The Family
   + judgment: The perseverance of a care-giver is advantageous.
   + image: Have substance in your words and duration in your way of life.
-  + alchemy: III. Phoenix and Dragon - 5\. Inter-Communicate
+  + alchemy: III\. Phoenix and Dragon - 5\. Inter-Communicate
 + Tarot: Three ♥/Cups
   + upright: friendship, community, happiness, celebration, collaboration
   + reversed: overindulgence, gossip, isolation, "three's a crowd"
-+ The Wanderer's Oracle: Wind ‖ Light
-  + situation: The winds that blew during the day slacken as the evening light fades. The Wanderer makes 
-    camp and prepares the evening meal.
-  + admonition: Pour a libation of thanks for the blessings and beauty of the day, inviting 
-    any companions to join with you.
++ The Eardstapa's Oracle: 37\. ᚹᛁᚾᛞ ‖ ᛚᛁᚷᚺᛏ (wind ‖ light)
+  + riddle: "ᚠᚱᛖᛖᛗᚨᚾ ᛟᚱ ᚠᚱᛖᛖᛚᛟᚨᛞᛖᚱ ᛒᛖ ᚠᚱᛁᛖᚾᛞ / ᛚᛖᚨᚾ ᛟᚱ ᛚᛁᛖ ᚨᛏ ᛚᛖᛁᛊᚢᚱᛖ ᛚᛖᛏ ᛇᛟᚢ / ᛃᚢᛊᛏ ᛃᛟᛚᛚᛇ ᛒᛖ ᚨ ᛃᚢᛊᛏ ᚠᛖᛚᛚᛟᚹ"   
+    "freeman or freeloader be friend / lean or lie at leisure let you / just jolly be a just fellow"
+  + situation: The winds that blew during the day slacken to a gentle breeze as the evening light fades. The 
+    Eardstapa makes camp and prepares the evening meal.
+  + admonition: Pour a libation of thanks for the blessings and beauty of the day, inviting any companions 
+    to join with you.
 + Bible: 1 Kings 18:3-16 - Obadiah saves the prophets
 + Additional Concepts: 
   + "All my relations"
   + Family rules
   + "...but be filled with the Holy Spirit"
-  + the Bee
+  + Spirit Animal: Bee
+  + Plant Rune: **B**alm (*Melissa officinalis*)
   + The Muse of Prophecy
   + "In Englands green and pleasant Land." (Blake's Jerusalem 16)
   + Color: <font color="#FF3600">███ Scarlet ███</font> (#FF3600)
@@ -3956,21 +4316,24 @@ img {
 + [ΦΟΙΝΙΞ](#ρυθμοι) = The fabulous bird phoenix. The date-palm, *Phoenix dactylifera*. A palm-frond, as a badge of 
   victory. A date. A musical instrument, like a guitar, invented by the Phoenicians. Perfume prepared 
   from the fronds of the date-palm.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:001 42. Increase / Increase
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:001 42\. Increase / Increase
   + judgment: It advantageous to undertake something. It advantageous to cross the big river.
   + image: If you see good, imitate it; if you have faults, rid yourself of them.
-  + alchemy: III. Phoenix and Dragon - 2\. Identify
+  + alchemy: III\. Phoenix and Dragon - 2\. Identify
 + Tarot: Two ♥/Cups
   + upright: unity, harmonious partnership, mutual attraction, connection
   + reversed: imbalance, broken communication, tension, break-ups, disharmony, distrust
-+ The Wanderer's Oracle: Wind ‖ Thunder
-  + situation: The Wanderer sees swirling winds carry leaves aloft, while thunder clouds begin to rise all 
-    around.
++ The Eardstapa's Oracle: 42\. ᚹᛁᚾᛞ ‖ ᚦᚢᚾᛞᛖᚱ (wind ‖ thunder)
+  + riddle: "ᚨᚲᚱᛟᛈᛟᛚᛖᛁᛊ ᚨᚲᚲᚢᛗᚢᛚᚨᛏᛖ / ᚲᚨᛈᚱᛁᚲᛁᛟᚢᛊ ᚲᚢᛗᚢᛚᛁ ᚲᚱᛖᚨᛏᛖ / ᚹᚨᛊᛏ ᚹᚨᛜᚢᚨᚱᛞᛊ ᛟᚠ ᚹᚨᚾᚲᚹᚢᛁᛊᚺᛁᛜ ᛞᚢᛊᛏ"   
+    "acropoleis accumulate / capricious cumuli create / vast vanguards of vanquishing dust"
+  + situation: The Eardstapa sees swirling winds carry dust and leaves aloft, while thunder clouds begin to 
+    rise all around.
   + admonition: Become inspired by the winds, rise up like the clouds, and go quickly to claim the joy of 
-    arrival at the destination you have chosen.
+    arrival at the destination you have chosen. You have little time, but it is blessed.
 + Bible: 1 Kings 17:2-7 - Elijah fed by ravens by the brook Cherith
 + Additional Concepts: 
   + Waxing
+  + Plant Rune: **B**orage (*Borago officinalis*)
   + The Muse of Regeneration
   + Color: <font color="#BF2D00">███ Thunderbird ███</font> (#BF2D00)
 
@@ -3995,22 +4358,30 @@ img {
     Related: fire; sun; lightning; middle daughter; coats of mail; helmets; lances; weapons; men-- big-bellied;
     dryness; tortoise; crab; snail; mussel; hawkbill tortoise; trees which dry out in the upper part of 
     the trunk.
-  + alchemy: VII. The Golden Lampstands - A=1/7 (equivalent to 1.Sense/Detect)
-+ Tarot: 2. The High Priestess
+  + alchemy: VII\. The Golden Lampstands - A=1/7 (equivalent to 1\. Sense/Detect)
++ Tarot: 2\. The High Priestess
   + upright: intuition, sacred knowledge, divine feminine, subconscious mind, unconscious, inner voice
   + reversed: lack of center, lost inner voice, repressed feelings, secrets, withdrawal
 + Rune: ᛞ [Dagaz/Day](#αινιγματα)  
   + poem: "Day makes easy to perceive, all beneath the bright sky-eave."
   + keywords: awareness, knowledge, perception, clarity
++ The Eardstapa's Oracle: 67\. ᛚᛁᚷᚺᛏᚾᛁᛜ (lightning)
+  + riddle: "ᚲᚺᚨᛜᛖ ᚲᚺᚨᚾᚾᛖᛚᛊ ᛁᛏᛊ ᚲᚺᚨᚱᚷᛖ ᚲᚺᚨᛚᛚᛖᛜᛖᛊ / ᛊᚢᛈᛈᛟᛊᛁᛏᛁᛟᚾᛊ ᚨᚾᛞ ᛊᚢᛒᛃᛖᚲᛏᛁᚹᛖᛊ / ᛁᚾ ᚨ ᚠᛚᚨᛊᚺ ᚠᚨᚦᛟᛗᛊ ᚾᛟᛏ ᚠᛁᛉᛉᛚᛖᛊ"   
+    "change channels its charge challenges / suppositions and subjectives / in a flash fathoms not fizzles"
+  + situation: The Eardstapa's hair stands on end as they feel an electric charge building.
+  + admonition: Got the feeling that something is up and about to go down? Yeah. What could that be? Consult the
+    Oracle again.
 + Systems Theory:
   + the perceptual apparati of the system
   + pre-processing of information for pattern recognition and conceptualization faculties
   + first-tier alarm/avoidance faculty (reflex)
 + Additional Concepts: 
+  + Fox's Eight-fold Dharma: the excellence of [Knowledge](#knowledge-and-understanding)
   + The Vermillion Bird of the South
   + It happens all the time--a cosmogony is substituted for an epistemology, although either is better 
     than a theogony, by god!
   + The Zodiac (Astrology)
+  + Plant Rune: **D**andelion (*Taraxacum officinale*)
   + Chief Security Officer Natasha "Tasha" Yar (STTNG)
   + The one who gathers and identifies "perceptions" (external and internal) and provides these as 
     useful information for the self (mental faculty)
@@ -4029,15 +4400,17 @@ img {
 <img src="xarubdis.card.png" style="float: right;" width="30%"> 
 
 + [ΧΑΡΥΒΔΙΣ](#ρυθμοι) = Charybdis, a dangerous whirlpool on the coast of Sicily, opposite the Italian rock Scylla.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:001 21. Taking a Bite / Biting Through
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:001 21\. Taking a Bite / Biting Through
   + judgment: Success is possible. It is favorable to let justice be administered.
   + image: As ruler, make firm the laws through clearly defined penalties.
-  + alchemy: II. The Priesthood of the Flame - 5\. Inter-Communicate
+  + alchemy: II\. The Priesthood of the Flame - 5\. Inter-Communicate
 + Tarot: Two ♠/Swords
   + upright: weighing up options, difficult choices, indecision, checkmate
   + reversed: lesser of two evils, no right choice, confusion, indecision, information overload
-+ The Wanderer's Oracle: Lightning ‖ Thunder
-  + situation: The Wanderer sees the lightning flash followed immediately by thunder; the storm is upon them.
++ The Eardstapa's Oracle: 21\. ᛚᛁᚷᚺᛏᚾᛁᛜ ‖ ᚦᚢᚾᛞᛖᚱ (lightning ‖ thunder)
+  + riddle: "ᚺᛁᛖ ᛏᛟ ᚺᚨᚱᛞ ᚱᛟᚲᚲ ᛟᚱ ᚺᚨᚱᛞ ᛈᛚᚨᚲᛖ ᚺᛖᚱᛖ / ᛒᛖᛏᚹᛖᛖᚾ ᛒᛟᚾᛞᚨᚷᛖ ᛟᚱ ᛒᛚᚨᛊᛏᛁᛜ ᛒᛖ / ᚲᚺᛟᛟᛊᛇ ᚹᛁᚦ ᚾᛟ ᚲᚺᚨᚾᚲᛖ ᛏᛟ ᚲᚨᚾᚲᛖᛚ"   
+    "hie to hard rock or hard place here / between bondage or blasting be / choosy with no chance to cancel"
+  + situation: The Eardstapa sees the lightning flash followed immediately by thunder; the storm is upon them.
   + admonition: Take whatever shelter you can find (not under a solitary tree, please)... even just the lowest 
     spot around you is better than nothing.
 + Greek Myth: The Labors of Heracles - 5\. The Augean Stables
@@ -4052,6 +4425,7 @@ img {
   + But don't cut corners
   + Beware Hamlet's Dilemma
   + Take the lesser of two evils
+  + Plant Rune: **D**amiana (*Turnera diffusa*)
   + "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it." (Mt. 7:14)
   + Color: <font color="#80D100">███ Lima ███</font> (#80D100)
 
@@ -4072,19 +4446,22 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 101:101 30\. The Net / The Clinging (Fire)
   + judgment: To keep going is advantageous; it brings success. Care of the cow brings good fortune.
   + image: By perpetuating this brightness, illumine the four quarters of the world.
-  + alchemy: VI. The Primal Ones - A=1/7 (equivalent to 1\. Sense/Detect)
+  + alchemy: VI\. The Primal Ones - A=1/7 (equivalent to 1\. Sense/Detect)
 + Tarot: Three ♠/Swords
   + upright: heartbreak, sorrow, suffering, grief
   + reversed: recovery, forgiveness, negativity, releasing pain, optimism
-+ The Wanderer's oracle: Light ‖ Light
-  + situation: The sun sets and the full moon rises. The Wanderer can journey the entire night.
++ The Eardstapa's oracle: 30\. ᛚᛁᚷᚺᛏ ‖ ᛚᛁᚷᚺᛏ (light ‖ light)
+  + riddle: "ᛚᛁᚷᚺᛏ ᛟᚠ ᚾᛁᚷᚺᛏ ᚠᚱᛟᛗ ᛞᚨᛇ ᛟᚠ ᛁᚾᛊᛁᚷᚺᛏ / ᚷᚨᚦᛖᚱ ᚷᛁᚱᛞ ᛇᛟᚢᚱ ᚷᚱᛁᛏ ᚨᛏ ᚷᚱᛖᚨᛏ ᚲᛟᛊᛏ / ᛈᚨᛁᛞ ᛁᚾ ᛈᚨᛁᚾ ᚨᚾᛞ ᛊᛖᛚᚠ ᛈᛟᛊᛖᛊᛊᛁᛟᚾ"   
+    "light of night from day of insight / gather gird your grit at great cost / paid in pain and self posession"
+  + situation: The sun sets and the full moon rises. The Eardstapa can journey the entire night.
   + admonition: Are you up to the challenge? Put aside weariness and take this opportunity. 
 + Bible: Exodus 3 - The Burning Bush
 + Additional Concepts: 
   + Jiutian Xuannü
   + Them's fightin' words! 
   + "Get it? Got it! Good!"
-  + Grandmother Spider
+  + Spirit Animal: Spider
+  + Plant Rune: **D**ragon's Blood (*Dracaena cinnabari*, et al.)
   + Color: <span style="background-color: #2A2A2A;"> <font color="#FFF45D">███ Candy Corn ███</font> </span> (#FFF45D)
 
 ---
@@ -4105,12 +4482,14 @@ img {
   + judgment: Supreme success is possible. To keep going is advantageous. If someone is not as they should 
     be, they experience misfortune, and it is not advantageous for them to undertake anything.
   + image: As rulers, rich in virtue, and in harmony with the time, foster and nourish all beings.
-  + alchemy: II. The Priesthood of the Flame - 9\. Execute/Process
+  + alchemy: II\. The Priesthood of the Flame - 9\. Execute/Process
 + Tarot: Knight ♦/Pentacles
   + upright: efficiency, hard work, responsibility
   + reversed: laziness, obsessiveness, work without reward, boredom, feeling stuck, perfectionism
-+ The Wanderer's Oracle: Heaven ‖ Thunder
-  + situation: The Wanderer sees the sky begin to clear and hears the thunder recede into the distance; 
++ The Eardstapa's Oracle: 25\. ᚺᛖᚨᚹᛖᚾ ‖ ᚦᚢᚾᛞᛖᚱ (heaven ‖ thunder)
+  + riddle: "ᛊᚺᛖᛈᚺᛖᚱᛞ ᚺᛇᛗᚾᛊ ᚹᚺᛁᛚᛖ ᛊᚺᛁᚾᛁᛜ ᛊᚺᚨᛗᛒᛚᛖᛊ ᛚᛖᚠᛏ / ᛏᛟ ᚱᛁᚷᚺᛏ ᚦᛖ ᚹᚱᛟᛜᛊ ᛟᚠ ᚱᛖᚹᛖᚱᛒᛁᛜ / ᚦᛖᚱᛗᛟᛖᛚᛖᚲᛏᚱᛁᚲ ᚦᚢᚷᚷᛖᚱᛇ"   
+    "shepherd hymns while shining shambles left / to right the wrongs of reverbing / thermoelectric thuggery"
+  + situation: The Eardstapa sees the sky begin to clear and hears the thunder recede into the distance; 
     the storm has passed.
   + admonition: Your destination will be your reward for persistence. Make the most of this opportunity to cover 
     some distance and make up for lost time.
@@ -4128,7 +4507,8 @@ img {
   + "Such a nice boy!"
   + "All work and no play…"
   + You owe it to the world
-  + the Boar
+  + Spirit Animal: Boar
+  + Plant Rune: **M**andrake (*Atropa mandragora*)
   + "Puss in Boots"  (Grimm's Fairy Tales 1st ed. Volume 1 #33)
   + "Among these dark Satanic Mills?" (Blake's Jerusalem 8)
   + Color: <font color="#B3E9B3">███ Celadon ███</font> (#B3E9B3)
@@ -4158,13 +4538,14 @@ img {
   + judgment: Fellowship With Others in the open- Success is possible. It advantageous to cross the 
     big river. To keep going is advantageous.
   + image: Organize the people and distinguish between things.
-  + alchemy: I. The Path of Destiny, Part 2 - 9\. Execute/Process
+  + alchemy: I\. The Path of Destiny, Part 2 - 9\. Execute/Process
 + Tarot: Ten ♦/Pentacles
   + upright: wealth, financial security, family, long-term success, contribution, legacy, culmination, inheritance
   + reversed: fleeting success, lack of stability, lack of resources, the dark side of wealth, financial loss
-+ The Wanderer's Oracle: Heaven ‖ Light
-  + poem: "To the yeoman yesterday you / journeyed, jauntily garbed the gem / of the perfect with the person. "
-  + situation: The Wanderer has made good progress under clear skies today. The sun has begun to descend 
++ The Eardstapa's Oracle: 13\. ᚺᛖᚨᚹᛖᚾ ‖ ᛚᛁᚷᚺᛏ (heaven ‖ light)
+  + riddle: "ᛇᛟᚢᚱ ᛇᛖᛟᛗᚨᚾᛊ ᚹᛟᚱᚲ ᛇᚨᚱᛞᛊ ᚨᚾᛞ ᛇᛖᚨᚱᚾᛁᛜᛊ / ᛃᛟᚢᚱᚾᛖᛇᛖᛞ ᚷᚨᛁᚾᛊ ᚦᚨᛏ ᚷᛖᛗ ᚦᛖ ᚷᛚᛖᚨᛗᛁᛜ / ᛈᛚᛖᚾᛁᛏᚢᛞᛖ ᚠᛁᚱᛊᛏ ᛈᛖᚱᛊᛟᚾ ᛈᛖᚱᚠᛖᚲᛏ"   
+    "your yeomans work yards and yearnings / journeyed gains that gem the gleaming / plenitude first person perfect"
+  + situation: The Eardstapa has made good progress under clear skies today. The sun begins to descend 
     in the west.
   + admonition: Your destination is close, perhaps even in sight. One final push and you'll arrive.
 + Greek Myth: The Odyssey - 9\. The Beggar at the Palace
@@ -4179,6 +4560,7 @@ img {
 + Additional Concepts: 
   + Wealth management
   + Strength in numbers
+  + Plant Rune: **M**yrrh (*Commiphora myrrha*)
   + Constructing the Philosopher's Stone
   + The Wish Fulfilling Gem (Cintāmaṇi)
   + "Simple Hans"  (Grimm's Fairy Tales 1st ed. Volume 1 #54)
@@ -4201,13 +4583,19 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 111 Heaven (The Creative)
   + trigram: Existence ... *competes* in the trigram of the Creative; Related: heaven; round; prince;
     father; jade; metal; cold; ice; deep red; horses-- good, old, lean, and wild; tree fruit.
-  + alchemy: VII. The Golden Lampstands - F=6/7 (equivalent to 9\. Execute/Run)
-+ Tarot: 4. The Emperor
+  + alchemy: VII\. The Golden Lampstands - F=6/7 (equivalent to 9\. Execute/Run)
++ Tarot: 4\. The Emperor
   + upright: authority, structure, establishment, control, fatherhood
   + reversed: tyranny, rigidity, coldness, domination, inflexible
 + Rune: ᛗ [Mannaz/Man](#αινιγματα)  
   + poem: "Man is with twin nature's made: breath of God and dirt of spade."
   + keywords: competition and cooperation, union, joining, humankind, relationships
++ The Eardstapa's Oracle: 69\. ᚺᛖᚨᚹᛖᚾ (heaven)
+  + riddle: "ᛟ ᛟᛒᛊᛖᚱᚹᛖᚱ ᛟᚹᛖᚱᛊᛖᛖᛁᛜ / ᛒᚨᚲᚲᚷᚱᛟᚢᚾᛞ ᛒᛖᛁᛜ ᛁᚾ ᛒᛖᚲᛟᛗᛁᛜ / ᛊᛟ ᚦᛁᛊ ᛊᛖᛚᚠ ᛗᚨᛇ ᛊᛖᛏ ᛁᛏᛊ ᛊᚨᛁᛚᛊ"   
+    "o observer overseeing / background being in becoming / so this self may set its sails"
+  + situation: The Eardstapa should consider the time of day, the weather, and the state of their companions.
+  + admonition: You must have serenity to accept the things you cannot change, courage to change the things you can, and 
+    wisdom to know the difference. Consult the Oracle again.
 + Systems Theory:
   + the system considered as a whole
   + control of the system generally and maintenance of the hierarchical relations among it sub-systems
@@ -4218,9 +4606,11 @@ img {
     + [ΤΕΥΧΟΣ](#τευχος)
     + [`ΡΑΨΩΙΔΟΣ](#ραψωιδος)
 + Additional Concepts: 
+  + Fox's Eight-fold Dharma: the excellence of [Justice](#justice-and-humility)
   + "Light as a feather; nothing in it; A strong man can't hold it more than a minute"
   + Shiva
   + Sun (Astrology)
+  + Plant Rune: **M**istletoe (*Viscum album*)
   + Starfleet (STTNG)
   + The one who realizes and negotiates the place of the self within the various social hierarchies of 
     which it is part; also standing for the various *conscious* aspects of the self (mental faculty)
@@ -4240,15 +4630,17 @@ img {
 <img src="wgugih.card.png" style="float: right;" width="30%"> 
 
 + [ΩΓΥΓΙΗ](#ρυθμοι) = Ogygia, a mythical island in the Mediterranean, the abode of Calypso.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:101 36. Wounded Light / Darkened Light
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:101 36\. Wounded Light / Darkened Light
   + judgment: In adversity it is advantageous to persevere.
   + image: The light has sunk into the earth: live with the masses: veil your light, yet still shine.
-  + alchemy: III. Phoenix and Dragon - 7\. (Re)Set
+  + alchemy: III\. Phoenix and Dragon - 7\. (Re)Set
 + Tarot: Three ♦/Pentacles
   + upright: teamwork, collaboration, learning, building
   + reversed: lack of teamwork, disorganized, group conflict, working alone
-+ The Wanderer's Oracle: Earth ‖ Light
-  + situation: The sun has disappeared into the earth, and the moon rises. The Wanderer must make camp for 
++ The Eardstapa's Oracle: 36\. ᛖᚨᚱᚦ ‖ ᛚᛁᚷᚺᛏ (earth ‖ light)
+  + riddle: "ᚺᛖᚱᛖᛊ ᚺᛖᚨᚱᚦ ᚨᚾᛞ ᚺᛖᛚᛈᛁᛜ ᚺᚨᚾᛞᛊ ᚺᛟᚾᛟᚱ / ᛁᚾ ᛁᛞᛇᛚᛚᛊ ᚹᛁᛚᛚ ᛁ ᛁᚾᛏᛖᚷᚱᚨᛏᛖ / ᚱᛖᛊᛈᛟᚾᛊᛁᛒᛁᛚᛁᛏᛇᛊ ᚱᛖᛊᛈᛟᚾᛊᛖ"   
+    "heres hearth and helping hands honor / in idylls will i integrate / responsibilitys response"
+  + situation: The sun disappears into the earth, and the moon rises. The Eardstapa must make camp for 
     the night.
   + admonition: It is time to build a fire, swap stories, repair equipment and listen to the sounds of the 
     night. You might learn something if you listen closely.
@@ -4257,6 +4649,7 @@ img {
   + Baba Yaga
   + Hey buddy, got a light? 
   + Camp Runamok
+  + Plant Rune: **O**libanum (*Boswellia sacra*, et al.; aka Frankincense)
   + Color: <font color="#403B00">███ Madras ███</font> (#403B00)
 
 ---
@@ -4276,13 +4669,20 @@ img {
   + trigram: Existence ... causes [all things] to *cooperate* with one another in the trigram of the Receptive;
     Related: earth; mother; cloth; kettle; frugality; level; a cow with a calf; a large wagon; form; the 
     multitude; a shaft; black soil.
-  + alchemy: VII. The Golden Lampstands - E=5/7 (equivalent to 8\. (Re)Start/Boot)
-+ Tarot: 3. The Empress
+  + alchemy: VII\. The Golden Lampstands - E=5/7 (equivalent to 8\. (Re)Start/Boot)
++ Tarot: 3\. The Empress
   + upright: motherhood, femininity, beauty, nature, nurturing, abundance, fertility
   + reversed: dependence, smothering, emptiness, nosiness
 + Rune: ᛟ [Othala/Oak](#αινιγματα)  
   + poem: "Oak stands firm without a care, when old Winter rakes her hair."
   + keywords: native land, inheritance, culture, tradition, that which persists
++ The Eardstapa's Oracle: 68\. ᛖᚨᚱᚦ (earth)
+  + riddle: "ᛞᚨᛒᛒᛁᛜ ᛞᚨᚾᚲᛖ ᛟᚠ ᛞᛁᚷᛁᛏᛊ ᚹᛁᚦ ᚹᚺᛁᚲᚺ / ᚹᚨᛇᛚᚨᚾᛞ ᛟᚱ ᚹᚨᚾᛞᛖᚱᛖᚱ ᚹᚨᚲᛖᚾᛊ / ᛖᚹᛖᚱᛚᚨᛊᛏᛁᛜ ᛖᚨᚱᚦ ᚾᛟᚹ ᛖᚾᛃᛟᛁᚾᛖᛞ"   
+    "dabbing dance of digits with which / wayland or wanderer wakens / everlasting earth now enjoined"
+  + situation: The Eardstapa wants to take stock of their health and supplies, the length of the journey ahead, and 
+    what sort of terrain they will be covering.
+  + admonition: Make sure you have what you need, or make it or buy it. Learn the lay of the land and think about
+    where you might refresh your supplies along the way. Consult the Oracle again.
 + Systems Theory:
   + the sub-systems which make up the system
   + physical aspects of the system (power sources, limitations, potentials)
@@ -4293,12 +4693,14 @@ img {
     + [ΧΑΛΚΟΣ](#χαλκος)
     + [ΣΤΥΞ](#στυξ)
 + Additional Concepts: 
+  + Fox's Eight-fold Dharma: the excellence of [Humility](#justice-and-humility)
   + "A box without hinges, key, or lid; Yet golden treasure inside is hid"
   + Prima Materia
   + Mother Goose
   + Cherchez la Femme
   + Parvati
   + Moon (Astrology)
+  + Plant Rune: **O**ak (*Quercus robur*, et al.)
   + The crew of the Enterprise, or the Enterprise itself (STTNG)
   + The one who realizes and negotiates the place of the self within the various physical contexts of which 
     it is part (including one's own body); also, the various *unconscious* aspects of the self (mental faculty)
@@ -4320,20 +4722,21 @@ img {
 + [\`ΩΡΑΙ](#ρυθμοι) = (Plural of ὥρα) The Hours, keepers of heaven's cloudgate, and ministers of the gods, especially
   of Aphrodite, three in number, Eunomia (= good order), Dike (= custom, moral order), Eirene (= peace). 
   The Seasons, especially Springtime, or used of the Year generally.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:001 24. Returning / Return (Turning Point)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:001 24\. Returning / Return (Turning Point)
   + judgment: Success is possible. Going out and coming in are the natural rhythm. Friends come without 
     blame. To and fro goes the Way. On the seventh day comes the return. [Then] it [will be] advantageous 
     to have somewhere to go.
   + image: Close the passes at the Winter Solstice; No one must go about or travel.
-  + alchemy: II. The Priesthood of the Flame - 7\. (Re)Set
+  + alchemy: II\. The Priesthood of the Flame - 7\. (Re)Set
 + Tarot: Two ♦/Pentacles
   + upright: balancing decisions, time management, prioritization, adaptability
   + reversed: over-committed, loss of balance, disorganized, overwhelmed
-+ The Wanderer's Oracle: Earth ‖ Thunder
-  + poem: "Aroused into inaction and / wasn't earth the one wishing... well, / at least it lengthens days left there."
-  + situation: The Wanderer is at rest in a shelter in the valley when they hear thunder; a storm has arrived.
++ The Eardstapa's Oracle: 24\. ᛖᚨᚱᚦ ‖ ᚦᚢᚾᛞᛖᚱ (earth ‖ thunder)
+  + riddle: "ᚨᚱᛟᚢᛊᛖᛞ ᛁᚾᛏᛟ ᛁᚾᚨᚲᛏᛁᛟᚾ ᚨᚾᛞ / ᚹᚨᛊᚾᛏ ᛖᚨᚱᚦ ᚦᛖ ᛟᚾᛖ ᚹᛁᛊᚺᛁᛜ ᚹᛖᛚᛚ / ᚨᛏ ᛚᛖᚨᛊᛏ ᛏᛟ ᛚᛖᛜᚦᛖᚾ ᛞᚨᛇᛊ ᛚᛖᚠᛏ ᚺᛖᚱᛖ"   
+    "aroused into inaction and / wasnt earth the one wishing well / at least to lengthen days left here"
+  + situation: The Eardstapa is at rest in a shelter in the valley when they hear thunder; a storm has arrived.
   + admonition: Stay content in camp until the storm passes. Catch up on unfinished chores that can be 
-    done in camp, or rest.
+    done in camp, or rest if that's more needful.
 + Greek Myth: The Labors of Heracles - 7\. The Cretan Bull
   + mode: capture and release, with no help from the Cretans who suffered from the Bull's rampages
   + results: the Bull was set loose to terrorize another area, and to be dealt with by another hero
@@ -4348,7 +4751,8 @@ img {
     but if it die, it bringeth forth much fruit"
   + The instigator of ritual
   + Women's Mysteries
-  + the Sow
+  + Spirit Animal: Sow
+  + Plant Rune: **O**at (*Avena sativa*)
   + Color: <font color="#003C00">███ Deep Fir ███</font> (#003C00)
 
 ---
