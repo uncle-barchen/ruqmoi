@@ -132,6 +132,7 @@ version: 2026.02.17
   - [The Sri Yantra in Divination](#the-sri-yantra-in-divination)
   - [On the Daemon of Socrates](#on-the-daemon-of-socrates)
   - [What about magic?](#what-about-magic)
+  - [Art and Beauty](#art-and-beauty)
   - [Epilog](#epilog)
 
 
@@ -1550,7 +1551,7 @@ img {
   + Safe Haven 
   + The trained model
   + The Wedding Feast of the Lamb
-  + Plant Rune: **Th**istle (*Onopordon acanthium*, et al.)
+  + Plant Rune: **ᚦ**ᛁᛊᛏᛚᛖ / **Th**istle (*Onopordon acanthium*, et al.)
   + Color: <font color="#920062">███ Fresh Eggplant ███</font> (#920062)
 
 ---
@@ -1591,7 +1592,7 @@ img {
 + Additional Concepts: 
   + Uncontrolled mirth
   + the Dragon's Heart (vide Fáfnir)
-  + Plant Rune: Haw**th**orn (*Crataegus oxyacantha*)
+  + Plant Rune: ᚺᚨᚹ**ᚦ**ᛟᚱᚾ / Haw**th**orn (*Crataegus oxyacantha*)
   + Color: <font color="#800056">███ Cardinal Pink ███</font> (#800056)
 
 ---
@@ -1637,7 +1638,7 @@ img {
   + "Genius is one percent inspiration…"
   + The Holiness of Beauty
   + Without inspiration, life is toil
-  + Plant Rune: **Th**yme (*Thymus vulgaris*)
+  + Plant Rune: **ᚦ**ᛇᛗᛖ / **Th**yme (*Thymus vulgaris*)
   + Spirit Animal: Swan (vide The Swan of Tuonela)
   + Color: <font color="#FF0089">███ Rose ███</font> (#FF0089)
 
@@ -1680,7 +1681,7 @@ img {
   + It's a beautiful life
   + "To those who by patience in well-doing seek for glory and honor and immortality, he will give 
     eternal life"
-  + Plant Rune: **G**rape (*Vitis vinifera*)
+  + Plant Rune: **ᚷ**ᚱᚨᛈᛖ / **G**rape (*Vitis vinifera*)
   + Spirit Animal: Stag
   + Color: <font color="#557900">███ Green Leaf ███</font> (#557900)
 
@@ -1732,7 +1733,7 @@ img {
   + "I know a man's character by how he treats those who serve him"
   + "For he grew up before him as a tender plant, and as a root out of a dry ground" (Is. 53:2)
   + "For thou wilt not leave my soul in hell"
-  + Plant Rune: **G**albanum (*Ferula galbaniflua*)
+  + Plant Rune: **ᚷ**ᚨᛚᛒᚨᚾᚢᛗ / **G**albanum (*Ferula galbaniflua*)
   + Spirit Animal: Stallion
   + "And was the holy Lamb of God," (Blake's Jerusalem 3)
   + Color: <font color="#009100">███ Japanese Laurel ███</font> (#009100)
@@ -1771,7 +1772,7 @@ img {
   + ΓΝΩΘΙ ΣΕΑΥΤΩΝ (Know Thyself)
   + Honey! I'm home!
   + Δράκων - Here be Dragons
-  + Plant Rune: **G**oldenseal (*Hydrastis canadensis*)
+  + Plant Rune: **ᚷ**ᛟᛚᛞᛖᚾᛊᛖᚨᛚ / **G**oldenseal (*Hydrastis canadensis*)
   + "The Gnome" (Grimm's Fairy Tales 1st ed. Volume II #5)
   + Cadmus
   + Color: <font color="#557939">███ Fern Green ███</font> (#557939)
@@ -1813,7 +1814,7 @@ img {
   + Change, cycles, fate, decisive moments, luck, fortune, unexpected events
   + "Dans les champs de l'observation le hasard ne favorise que les esprits préparés" (Pasteur)
   + Fortuna Eruditis Favet
-  + Plant Rune: **C**hamomile (*Anthemis nobilis*)
+  + Plant Rune: **ᚲ**ᚺᚨᛗᛟᛗᛁᛚᛖ / **C**hamomile (*Anthemis nobilis*)
   + Muladhara Chakra ("root", base of spine)
   + Color: <font color="#807700">███ Olive ███</font> (#807700)
 
@@ -1852,7 +1853,7 @@ img {
   + Associative thought
   + The goal of ritual
   + The Philosopher's Stone 
-  + Plant Rune: **C**elandine (*Chelidonium majus*)
+  + Plant Rune: **ᚲ**ᛖᛚᚨᚾᛞᛁᚾᛖ / **C**elandine (*Chelidonium majus*)
   + "Till we have built Jerusalem," (Blake's Jerusalem 15)
   + Color: <font color="#FF854B">███ Coral ███</font> (#FF854B)
 
@@ -1895,7 +1896,7 @@ img {
   + The Cauldron of Inspiration (vide Cerridwen)
   + Curiosity
   + It's a beautiful view(point)
-  + Plant Rune: **C**olumbine (*Aquilegia vulgaris*)
+  + Plant Rune: **ᚲ**ᛟᛚᚢᛗᛒᛁᚾᛖ / **C**olumbine (*Aquilegia vulgaris*)
   + Spirit Animal: Fox
   + "Bring me my Spear: O clouds unfold:" (Blake's Jerusalem 11)
   + Color: <font color="#FFD300">███ Gold ███</font> (#FFD300)
@@ -1936,7 +1937,7 @@ img {
   + It's a beautiful composition
   + Man is truly Man when he desires to create
   + [Sir Gawain and Dame Ragnelle](https://en.wikipedia.org/wiki/The_Wedding_of_Sir_Gawain_and_Dame_Ragnelle)
-  + Plant Rune: **U**nicorn Root (*Aletris farinosa*)
+  + Plant Rune: **ᚢ**ᚾᛁᚲᛟᚱᚾ ᚱᛟᛟᛏ / **U**nicorn Root (*Aletris farinosa*)
   + "Well, you're a Cunning Linguist, aren't you!?"
   + Color: <font color="#FFA0A0">███ Sweet Pink ███</font> (#FFA0A0)
 
@@ -1978,7 +1979,7 @@ img {
   + Excalibur
   + Life/Identity hangs in the balance 
   + The Spear of Destiny (vide Longinus)
-  + Plant Rune: Rh**u**barb (*Rheum officinale*)
+  + Plant Rune: ᚱᚺ**ᚢ**ᛒᚨᚱᛒ / Rh**u**barb (*Rheum officinale*)
   + Anahata Chakra ("unstruck", heart)
   + Spirit Animal: Wolf
   + ξένος = guest-friend; "Knowing how to be a guest (or suppliant)..."
@@ -2019,7 +2020,7 @@ img {
   + CEO of his castle
   + Confusion seclusion
   + The stiff and inflexible follows Death
-  + Plant Rune: C**u**in (*Cuminum cyminum*)
+  + Plant Rune: ᚲ**ᚢ**ᛗᛁᚾ / C**u**min (*Cuminum cyminum*)
   + Color: <font color="#BFBFBF">███ Silver ███</font> (#BFBFBF)
 
 ---
@@ -2060,7 +2061,7 @@ img {
   + Preservation, cultivation
   + A penny saved is a penny earned
   + The vehicle of ritual;
-  + Plant Rune: **F**enugreek (*Trigonella foenum-graecum*)
+  + Plant Rune: **ᚠ**ᛖᚾᚢᚷᚱᛖᛖᚲ / **F**enugreek (*Trigonella foenum-graecum*)
   + Color: <font color="#373737">███ Tuatara ███</font> (#373737)
 
 ---
@@ -2096,7 +2097,7 @@ img {
   + Train the model
   + Grow by modesty and adaptability
   + It's a beautiful world
-  + Plant Rune: **F**lax (*Linum usitatissimum*)
+  + Plant Rune: **ᚠ**ᛚᚨᚲᛊ / **F**lax (*Linum usitatissimum*)
   + "Cinderella" (Grimm's Fairy Tales 1st ed. Volume 1 #21)
   + Color: <font color="#5B0000">███ Rosewood ███</font> (#5B0000)
 
@@ -2146,7 +2147,7 @@ img {
   + Hallowed Bread (The Host)
   + Lupercal
   + Ubuntu: I Am Because You Are
-  + Plant Rune: **F**oxglove (*Digitalis purpurea*)
+  + Plant Rune: **ᚠ**ᛟᚲᛊᚷᛚᛟᚹᛖ / **F**oxglove (*Digitalis purpurea*)
   + "Walk upon England's mountains green:" (Blake's Jerusalem 2)
   + Color: <font color="#490031">███ Blackberry ███</font> (#490031)
 
@@ -2194,7 +2195,7 @@ img {
   + Mutual interests
   + The nature of wisdom, the wisdom of nature
   + Pontifex = bridge builder
-  + Plant Rune: **R**osemary (*Rosmarinus officinalis*)
+  + Plant Rune: **ᚱ**ᛟᛊᛖᛗᚨᚱᛇ / **R**osemary (*Rosmarinus officinalis*)
   + Color: <font color="#002456">███ Green Vogue ███</font> (#002456)
 
 ---
@@ -2231,7 +2232,7 @@ img {
     as Wind along the Waste, I know not Whither, willy-nilly blowing."
   + "I am the first and the last, and the Living one; and I was dead, and behold, I am alive for evermore, 
     and I have the keys of death and of Hades."
-  + Plant Rune: **R**ue (*Ruta graveolens*)
+  + Plant Rune: **ᚱ**ᚢᛖ / **R**ue (*Ruta graveolens*)
   + Color: <font color="#7427AB">███ Purple Heart ███</font> (#7427AB)
 
 ---
@@ -2276,7 +2277,7 @@ img {
     pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about 
     such things." (Ph. 4:8)
   + "Little Snow White" (Grimm's Fairy Tales 1st ed. Volume 1 #53)
-  + Plant Rune: **R**aspberry (*Rubus idaeus*)
+  + Plant Rune: **ᚱ**ᚨᛊᛈᛒᛖᚱᚱᛇ / **R**aspberry (*Rubus idaeus*)
   + Spirit Animal: Bear
   + Color: <font color="#5C2D6D">███ Honey Flower ███</font> (#5C2D6D)
 
@@ -2319,7 +2320,7 @@ img {
   + "For where your treasure is, there will your heart be also."
   + "The Three Little Men in the Forest" (Grimm's Fairy Tales 1st ed. Volume 1 #13); 
     "Mother Holle" (Grimm's Fairy Tales 1st ed. Volume 1 #24)
-  + Plant Rune: **W**intergreen (*Gaultheria procumbens*)
+  + Plant Rune: **ᚹ**ᛁᚾᛏᛖᚱᚷᚱᛖᛖᚾ / **W**intergreen (*Gaultheria procumbens*)
   + Spirit Animal: Hind 
   + Color: <font color="#800000">███ Maroon ███</font> (#800000)
 
@@ -2362,7 +2363,7 @@ img {
   + the Rose
   + "Maiden Without Hands" (Grimm's Fairy Tales 1st ed. Volume I #31); "Bluebeard" (Grimm's Fairy Tales 1st ed. Volume I #62)
   + The Muse of Aspiration
-  + Plant Rune: **W**oad (*Ivatis tinctoria*)
+  + Plant Rune: **ᚹ**ᛟᚨᛞ / **W**oad (*Ivatis tinctoria*)
   + Color: <font color="#FF0056">███ Razzmatazz ███</font> (#FF0056)
 
 ---
@@ -2407,7 +2408,7 @@ img {
 + Additional Concepts: 
   + Asceticism
   + After the ablution- awake! aware
-  + Plant Rune: **W**illow (*Salix lucida*, et al.)
+  + Plant Rune: **ᚹ**ᛁᛚᛚᛟᚹ / **W**illow (*Salix lucida*, et al.)
   + Spirit Animal: Mare
   + "Briar Rose" (Grimm's Fairy Tales 1st ed. Volume 1 #50)
   + "And did those feet in ancient time," (Blake's Jerusalem 1)
@@ -2461,7 +2462,7 @@ img {
   + Give my 2 cents
   + The Sacred Marriage
   + Humility
-  + Plant Rune: **A**nise (*Pimpinella anisum*)
+  + Plant Rune: **ᚨ**ᚾᛁᛊᛖ / **A**nise (*Pimpinella anisum*)
   + "The Foundling" (Grimm's Fairy Tales 1st ed. Volume 1 #51); "Sweetheart Roland" (Grimm's Fairy Tales 1st ed. Volume 1 #56)
   + "He became obedient unto death... Therefore hath God highly exalted him"
   + Color: <font color="#00848E">███ Blue Lagoon ███</font> (#00848E)
@@ -2513,7 +2514,7 @@ img {
   + Sahasrara Chakra ("thousand petaled", crown)
   + You must follow your bliss... God help you
   + The recompense of ritual
-  + Plant Rune: **A**pple (*Malus sieversii*, et al.)
+  + Plant Rune: **ᚨ**ᛈᛈᛚᛖ / **A**pple (*Malus sieversii*, et al.)
   + "The Juniper Tree" (Grimm's Fairy Tales 1st ed. Volume 1 #47); "The Three Sisters" (Grimm's Fairy Tales 1st ed. Volume 1 #82)
   + The Initiate into the Mysteries of the Grail
   + Color: <font color="#678D98">███ Juniper ███</font> (#678D98)
@@ -2556,7 +2557,7 @@ img {
   + Repentance unto Salvation
   + "You shall know the Truth and the Truth shall set you free"
   + Waning
-  + Plant Rune: **A**sh (*Fraxinus excelsior*)
+  + Plant Rune: **ᚨ**ᛊᚺ / **A**sh (*Fraxinus excelsior*)
   + "Good Bowling and Card Playing" (Grimm's Fairy Tales 1st ed. Volume 1 #4); "The White Dove", "The
     Queen Bee" (parts of "The Simpleton", Grimm's Fairy Tales 1st ed. Volume 1 #64)
   + A "simpleton" is one who is naive. General "inexperience" is of no use. But if this naivety is a 
@@ -2608,7 +2609,7 @@ img {
   + "Our life is forfeit to the Dharma" -Fox and Bärchen
   + The Magic Girdle of Aphrodite is φιλότητα καί ἵμερον = affection and desire
   + Sir Gawain and the Green Knight
-  + Plant Rune: **N**ettles (*Urtica dioica*)
+  + Plant Rune: **ᚾ**ᛖᛏᛏᛚᛖᛊ / **N**ettles (*Urtica dioica*)
   + passion(n.) https://www.etymonline.com/word/passion ... from Late Latin passionem "suffering, enduring," 
     from Latin pati "to endure, undergo, experience". The notion is "that which must be endured." The sense 
     was extended to ... suffering and pain generally, by early 13c. It replaced OE þolung (used in glosses 
@@ -2658,7 +2659,7 @@ img {
   + A little sugar
   + Mutual respect
   + "Now abideth faith, hope & charity"
-  + Plant Rune: **N**asturtium (*Tropaeolum majus*)
+  + Plant Rune: **ᚾ**ᚨᛊᛏᚢᚱᛏᛁᚢᛗ / **N**asturtium (*Tropaeolum majus*)
   + "The Singing, Springing Lark" (Grimm's Fairy Tales 1st ed. Volume 2 #2)
   + "In thy presence is fulness of joy"
   + Color: <font color="#AA4FC7">███ Fuschia Pink ███</font> (#AA4FC7)
@@ -2700,7 +2701,7 @@ img {
   + Marianne
   + The Truth in Fiction is in its right relationships
   + Penelope
-  + Plant Rune: **N**utmeg (*Myristica fragrans*)
+  + Plant Rune: **ᚾ**ᚢᛏᛗᛖᚷ / **N**utmeg (*Myristica fragrans*)
   + "The Six Swans" (Grimm's Fairy Tales 1st ed. Volume 1 #49)
   + Color: <font color="#FF55C7">███ Hot Pink ███</font> (#FF55C7)
 
@@ -2745,7 +2746,7 @@ img {
   + Bete (vide Beauty and the Beast)
   + The Guardian of the Eternal Flame
   + Don't settle
-  + Plant Rune: Ha**z**el (*Corylus americana*, et al.)
+  + Plant Rune: ᚺᚨ**ᛉ**ᛖᛚ / Ha**z**el (*Corylus americana*, et al.)
   + "Herr Fix-It_up" (Grimm's Fairy Tales 1st ed. Volume 1 #16)
   + Ubi Caritas et Amor...
   + Color: <font color="#00D180">███ Caribbean Green ███</font> (#00D180)
@@ -2782,7 +2783,7 @@ img {
   + Hubris
   + Regret, hindsight
   + The moment of impact
-  + Plant Rune: Fur**z**e (*Ulex europaeus*)
+  + Plant Rune: ᚠᚢᚱ**ᛉ**ᛖ / Fur**z**e (*Ulex europaeus*)
   + "And did the Countenance Divine," (Blake's Jerusalem 5)
   + "A Story About a Brave Tailor" (Grimm's Fairy Tales 1st ed. Volume 1 #20)
   + Color: <font color="#55CE55">███ Fern ███</font> (#55CE55)
@@ -2823,7 +2824,7 @@ img {
   + ΗΘΟΣ ΑΝΘΡΩΠΟΣ ΔΑΙΜΟΝ (character is destiny) -Heraclitus
   + Hermes
   + The Winged Serpent's Other Half
-  + Plant Rune: Kud**z**u (*Pueraria montana*)
+  + Plant Rune: ᚲᚢᛞ**ᛉ**ᚢ / Kud**z**u (*Pueraria montana*)
   + "The Golden Bird" (Grimm's Fairy Tales 1st ed. Volume I #57)
   + "I will not cease from Mental Fight," (Blake's Jerusalem 13) 
   + Color: <font color="#007E56">███ Tropical Rain Forest ███</font> (#007E56)
@@ -2863,7 +2864,7 @@ img {
 + Additional Concepts: 
   + The old fox knows the right place to cross
   + Worrying won't help, but you're going to anyway
-  + Plant Rune: **H**emlock (*Conium maculatum*)
+  + Plant Rune: **ᚺ**ᛖᛗᛚᛟᚲᚲ / **H**emlock (*Conium maculatum*)
   + Restate the question and ask again
   + Color: <font color="#B2BB34">███ Earl's Green ███</font> (#B2BB34)
 
@@ -2913,7 +2914,7 @@ img {
     a hundred battles." -Sun Tzu
   + White Buffalo Calf Woman
   + Beethoven Symphony 9, fourth Movement
-  + Plant Rune: **H**yssop (*Hyssopus officinalis*)
+  + Plant Rune: **ᚺ**ᛇᛊᛊᛟᛈ / **H**yssop (*Hyssopus officinalis*)
   + Color: <span style="background-color: black"><font color="#FFF56C">███ Paris Daisy ███</font></span> (#FFF56C)
 
 ---
@@ -2953,7 +2954,7 @@ img {
   + We see what we expect to see, and the way we use language guides our perception of the World.
   + The end (telos) of ritual
   + The Norns
-  + Plant Rune: **H**enna (*Lawsonia inermis*)
+  + Plant Rune: **ᚺ**ᛖᚾᚾᚨ / **H**enna (*Lawsonia inermis*)
   + Get all your ducks in a row, then go.
   + Color: <font color="#AAED55">███ Conifer ███</font> (#AAED55)
 
@@ -3005,7 +3006,7 @@ img {
   + Bliss is not Ignorance
   + Beethoven Symphony 9, 3rd Movement
   + Work on your Weltanschauung
-  + Plant Rune: **P**ennyroyal (*Mentha pulegium*)
+  + Plant Rune: **ᛈ**ᛖᚾᚾᛇᚱᛟᛇᚨᛚ / **P**ennyroyal (*Mentha pulegium*)
   + "Rumpelstiltskin" (Grimm's Fairy Tales 1st ed. Volume I #55)
   + Color: <font color="#001C44">███ Tangaroa ███</font> (#001C44)
 
@@ -3043,7 +3044,7 @@ img {
 + Additional Concepts: 
   + The soft and yielding follows Life
   + Better housekeeping through adaptable homeostasis
-  + Plant Rune: **P**umpkin (*Cucurbita pepo*)
+  + Plant Rune: **ᛈ**ᚢᛗᛈᚲᛁᚾ / **P**umpkin (*Cucurbita pepo*)
   + "King Thrushbeard" (Grimm's Fairy Tales 1st ed. Volume I #52)
   + Color: <font color="#2B2B2B">███ Baltic Sea ███</font> (#2B2B2B)
 
@@ -3091,7 +3092,7 @@ img {
   + The balance wherein Life hangs
   + ΔΑΙΜΟΝ (Tutelary Spirit), Fairy Godmother
   + "...neither wilt thou suffer thine Holy One to see corruption"
-  + Plant Rune: **P**aeony (*Paeonia officinalis*)
+  + Plant Rune: **ᛈ**ᚨᛖᛟᚾᛇ / **P**aeony (*Paeonia officinalis*)
   + In Greek Mythology, the Μοῖραι (Moirai), sometimes called the "Fates", from Latin "Fata", are Κλωθώ (Klotho, 
     "spinner") who spins the thread of human life, Λάχεσις (Lachesis, "disposer of lots") who measures the 
     thread spun on Clotho's spindle, and Ἄτροπος (Atropos, "unturning") who chooses the manner of death and 
@@ -3145,7 +3146,7 @@ img {
   + From apprentice to master
   + Foresight
   + Who do you want to be like?
-  + Plant Rune: **J**uniper (*Juniperus occidentalis*, et al.)
+  + Plant Rune: **ᛃ**ᚢᚾᛁᛈᛖᚱ / **J**uniper (*Juniperus occidentalis*, et al.)
   + "Death and the Goose Boy" (Grimm's Fairy Tales 1st ed. Volume I #27)
   + "Shine forth upon our clouded hills?" (Blake's Jerusalem 6)
   + Color: <font color="#94F7FF">███ Anakiwa ███</font> (#94F7FF)
@@ -3182,7 +3183,7 @@ img {
   + "There are no passengers on spaceship earth. We are all crew"
   + The power of ritual
   + Heaven proposes, Earth disposes
-  + Plant Rune: **J**alapeño (*Capsicum annuum*)
+  + Plant Rune: **ᛃ**ᚨᛚᚨᛈᛖᚾᛟ / **J**alapeño (*Capsicum annuum*)
   + Color: <font color="#D8D8D8">███ Iron ███</font> (#D8D8D8)
 
 ---
@@ -3232,7 +3233,7 @@ img {
   + Work out disagreements
   + Beethoven Symphony 9, 2nd movement
   + The power of words
-  + Plant Rune: **J**imsonweed (*Datura stramonium*)
+  + Plant Rune: **ᛃ**ᛁᛗᛊᛟᚾᚹᛖᛖᛞ / **J**imsonweed (*Datura stramonium*)
   + Color: <font color="#C4D5EC">███ Periwinkle Gray ███</font> (#C4D5EC)
 
 ---
@@ -3273,7 +3274,7 @@ img {
   + Let's cut the crap and figure a way outta here
   + Audentes Fortuna Iuvat
   + Spirit Animal: Heron
-  + Plant Rune: **I**ndigo (*Indigofera tinctoria*)
+  + Plant Rune: **ᛁ**ᚾᛞᛁᚷᛟ / **I**ndigo (*Indigofera tinctoria*)
   + "Nor shall my Sword sleep in my hand:" (Blake's Jerusalem 14)
   + Color: <font color="#006FBF">███ Science Blue ███</font> (#006FBF)
 
@@ -3308,7 +3309,7 @@ img {
   + Thief! Thought you could hide that?!
   + ...make unto thee a Graven Image
   + Le Mot Juste
-  + Plant Rune: **I**pecacuanha (*Psychotria ipecacuanha*)
+  + Plant Rune: **ᛁ**ᛈᛖᚲᚨᚲᚢᚨᚾᚺᚨ / **I**pecacuanha (*Psychotria ipecacuanha*)
   + Color: <font color="#356DBD">███ Mariner ███</font> (#356DBD)
 
 ---
@@ -3365,7 +3366,7 @@ img {
   + Beethoven Symphony 9, 1st movement
   + Someone is a dirty, lying con man! 
   + "It keeps me looking for a heart of gold"
-  + Plant Rune: **I**vy (*Hedera helix*)
+  + Plant Rune: **ᛁ**ᚹᛇ / **I**vy (*Hedera helix*)
   + Vishuddha Chakra ("purest", throat)
   + Color: <font color="#4D7EC4">███ Steel Blue ███</font> (#4D7EC4)
 
@@ -3416,7 +3417,7 @@ img {
   + "Prince Swan" (Grimm's Fairy Tales 1st ed. Volume I #59)
   + The Beauty of Hospitality
   + "... makes one a better host."
-  + Plant Rune: **S**unflower (*Helianthus annuus*)
+  + Plant Rune: **ᛊ**ᚢᚾᚠᛚᛟᚹᛖᚱ / **S**unflower (*Helianthus annuus*)
   + Color: <font color="#FF4949">███ Sunset Orange ███</font> (#FF4949)
 
 ---
@@ -3452,7 +3453,7 @@ img {
   + Virtue
   + Harmonia
   + Empty and Full
-  + Plant Rune: **S**umac (*Rhus glabra*)
+  + Plant Rune: **ᛊ**ᚢᛗᚨᚲ / **S**umac (*Rhus glabra*)
   + "He prayeth best who loveth best all things, both great and small"
   + "The Fisherman and his Wife" (Grimm's Fairy Tales 1st ed. Volume I #19)
   + Color: <font color="#CB3034">███ Persian Red ███</font> (#CB3034)
@@ -3496,7 +3497,7 @@ img {
   + Ajna Chakra ("command", third eye)
   + The Winged Serpent
   + Moses raises up the Bronze Serpent (Nm 21:4-9)
-  + Plant Rune: **S**age (*Salvia officinalis*)
+  + Plant Rune: **ᛊ**ᚨᚷᛖ / **S**age (*Salvia officinalis*)
   + The Muse of Invention
   + "Would to God that all the Lords people were Prophets." (Blake's Jerusalem 0, quoting Nm 11:29)
   + Color: <font color="#802456">███ Disco ███</font> (#802456)
@@ -3542,7 +3543,7 @@ img {
 + Additional Concepts: 
   + "… Play ball!"
   + "A splendid little war"
-  + Plant Rune: **Y**arrow (*Achillea millefolium*)
+  + Plant Rune: **ᛇ**ᚨᚱᚱᛟᚹ / **Y**arrow (*Achillea millefolium*)
   + "And was Jerusalem builded here," (Blake's Jerusalem 7)
   + Color: <font color="#80F6FF">███ Spray ███</font> (#80F6FF)
 
@@ -3599,7 +3600,7 @@ img {
   + "Contrariwise,' continued Tweedledee, 'if it was so, it might be; and if it were so, it would be; 
     but as it isn't, it ain't. That's logic."
   + The Tree of Knowledge, the Hazel of Wisdom
-  + Plant Rune: **Y**ew (*Taxus baccata*, et al.)
+  + Plant Rune: **ᛇ**ᛖᚹ / **Y**ew (*Taxus baccata*, et al.)
   + What can you *use* it for?
   + "Bring me my Bow of burning gold:" (Blake's Jerusalem 9)
   + Color: <font color="#009AD5">███ Cerulean ███</font> (#009AD5)
@@ -3637,7 +3638,7 @@ img {
   + Stillness in action - Action in stillness
   + Engage!
   + [The Battle of Thermopylae](https://en.wikipedia.org/wiki/Battle_of_Thermopylae)
-  + Plant Rune: **Y**erba Santa (*Eriodictyon californicum*)
+  + Plant Rune: **ᛇ**ᛖᚱᛒᚨ ᛊᚨᚾᛏᚨ / **Y**erba Santa (*Eriodictyon californicum*)
   + The Beauty of Holiness
   + Color: <font color="#00D9EA">███ Bright Turquoise ███</font> (#00D9EA)
 
@@ -3689,7 +3690,7 @@ img {
   + Spare the rod…
   + *Let it be*
   + *Just do it!*
-  + Plant Rune: **T**ormentil (*Potentilla erecta*)
+  + Plant Rune: **ᛏ**ᛟᚱᛗᛖᚾᛏᛁᛚ / **T**ormentil (*Potentilla erecta*)
   + "The White Snake" (Grimm's Fairy Tales 1st ed. Volume I #17);
     "The Singing Bone" (Grimm's Fairy Tales 1st ed. Volume I #28)
   + Color: <font color="#00E1C9">███ Robin's Egg Blue ███</font> (#00E1C9)
@@ -3742,7 +3743,7 @@ img {
   + "That's my story and I'm sticking to it!"
   + Captain Jean-Luc Picard (STTNG)
   + Jupiter (Astrology)
-  + Plant Rune: **T**amarisk (*Tamarix aphylla*)
+  + Plant Rune: **ᛏ**ᚨᛗᚨᚱᛁᛊᚲ / **T**amarisk (*Tamarix aphylla*)
   + The one who infers causality and stitches together the story of the self (mental faculty)
   + Color: <font color="#00EDFF">███ Cyan ███</font> (#00EDFF)
 
@@ -3792,7 +3793,7 @@ img {
   + ΠΙΣΤΙΣ = persuasion, i.e. to become convinced (opp. to "faith" as this word is normally understood and translated)
   + The burden of proof
   + The elegant solution removes difficulty
-  + Plant Rune: **T**arragon (*Artemisia dracunculus*)
+  + Plant Rune: **ᛏ**ᚨᚱᚱᚨᚷᛟᚾ / **T**arragon (*Artemisia dracunculus*)
   + Color: <font color="#55EDAA">███ Downy ███</font> (#55EDAA)
 
 ---
@@ -3841,7 +3842,7 @@ img {
   + "Believe and you will find your way"
   + Manipura Chakra ("jewel city", navel)
   + The Black Dragon
-  + Rune Plant: **L**eek (*Allium ampeloprasum*)
+  + Plant Rune: **ᛚ**ᛖᛖᚲ / **L**eek (*Allium ampeloprasum*)
   + "Little Brother and Little Sister" (Grimm's Fairy Tales 1st ed. Volume I #11)
   + The Initiatrix into the Mysteries of the Grail
   + Color: <font color="#805B56">███ Russet ███</font> (#805B56)
@@ -3885,7 +3886,7 @@ img {
   + Necessity is the Mother of Invention
   + 49 is 7x7 = the perfection of 7 (which is actually Hexagram 50)
   + the Magical Hat
-  + Rune Plant: **L**arkspur (*Delphinium menziesii*, et al.)
+  + Plant Rune: **ᛚ**ᚨᚱᚲᛊᛈᚢᚱ / **L**arkspur (*Delphinium menziesii*, et al.)
   + "Silphium (also known as laserwort or laser; Ancient Greek: σίλφιον, sílphion) is an unidentified plant 
     that was used in classical antiquity as a seasoning, perfume, aphrodisiac, and medicine." 
     [Silphium](https://en.wikipedia.org/wiki/Silphium)
@@ -3932,7 +3933,7 @@ img {
   + The Haunted Mere (vide Grendel's Mother) 
   + You got potential!
   + Saturn (Astrology)
-  + Plant Rune: **L**obelia (*Lobelia inflata*)
+  + Plant Rune: **ᛚ**ᛟᛒᛖᛚᛁᚨ / **L**obelia (*Lobelia inflata*)
   + Mavronéri is a river identified with the River Styx of Greek mythology according to Hesiod's description 
     in Theogony. It is located near Nonakris in the Aroania Mountains of Achaia on the Peloponnesian peninsula. 
     Its waters contain a significant amount of Calicheamicin, a dangerous compound produced by bacteria
@@ -3989,7 +3990,7 @@ img {
   + Black Warrior (North)
   + the Raven
   + Mercury (Astrology)
-  + Plant Rune: **E**lder (*Sambucus nigra*)
+  + Plant Rune: **ᛖ**ᛚᛞᛖᚱ / **E**lder (*Sambucus nigra*)
   + Chief Engineer Geordi La Forge and Chief Operations Officer Data (STTNG)
   + The twins who reason and design, speak and name for the self (mental faculty)
   + Color: <font color="#0047AB">███ Blue ███</font> (#0047AB)
@@ -4027,7 +4028,7 @@ img {
   + "Got it!... What was the part in the middle again?"
   + Become the target
   + You already know the answer
-  + Plant Rune: **E**yebright (*Euphrasia officinalis*)
+  + Plant Rune: **ᛖ**ᛇᛖᛒᚱᛁᚷᚺᛏ / **E**yebright (*Euphrasia officinalis*)
   + The Golden Arrow of Abaris the Hyperborean
   + Color: <font color="#4D7978">███ Cutty Sark ███</font> (#4D7978)
 
@@ -4079,7 +4080,7 @@ img {
   + Become aware of the true ends of your desires
   + The Fruit of the Tree of Knowledge
   + The Initiator into the Path
-  + Plant Rune: **E**lecampane (*Inula helenium*)
+  + Plant Rune: **ᛖ**ᛚᛖᚲᚨᛗᛈᚨᚾᛖ / **E**lecampane (*Inula helenium*)
   + "Bring me my Arrows of desire:" (Blake's Jerusalem 10)
   + "Beat to quarters!"
   + Color: <font color="#006C72">███ Mosque ███</font> (#006C72)
@@ -4126,7 +4127,7 @@ img {
   + Azure Dragon of the East
   + Krishna
   + Mars (Astrology) 
-  + Plant Rune: Gi**ng**er (*Zingiber officinale*)
+  + Plant Rune: ᚷᛁ**ᛜ**ᛖᚱ / Gi**ng**er (*Zingiber officinale*)
   + First Officer William Riker (STTNG)
   + The one who calls the self to act and react (mental faculty)
   + Color: <font color="#00B500">███ Forest Green ███</font> (#00B500)
@@ -4161,7 +4162,7 @@ img {
 + Additional Concepts: 
   + Shock and Awe
   + Fools Rush Inn
-  + Plant Rune: Gala**ng**al (*Alpinia galanga*)
+  + Plant Rune: ᚷᚨᛚᚨ**ᛜ**ᚨᛚ / Gala**ng**al (*Alpinia galanga*)
   + "When in trouble or in doubt, run in circles, scream and shout!"
   + "Loyal Godfather Sparrow"  (Grimm's Fairy Tales 1st ed. Volume 1 #58)
   + Color: <font color="#80DA80">███ Pastel Green ███</font> (#80DA80)
@@ -4202,7 +4203,7 @@ img {
 + Additional Concepts: 
   + Lawn order
   + When enough is enough
-  + Plant Rune: Ginse**ng** (*Panax ginseng*)
+  + Plant Rune: ᚷᛁᚾᛊᛖ**ᛜ** / Ginse**ng** (*Panax ginseng*)
   + Svadhishthana Chakra ("where the self is established", sexual)
   + Necromancer/Neuromancer (Uncle Bärchen)
   + Color: <font color="#55C800">███ Christi ███</font> (#55C800)
@@ -4253,7 +4254,7 @@ img {
   + White Tiger of the West
   + Radha
   + Venus (Astrology)
-  + Plant Rune: **B**irch (*Betula alba*)
+  + Plant Rune: **ᛒ**ᛁᚱᚲᚺ / **B**irch (*Betula alba*)
   + Ship's Counsellor Deanna Troi (STTNG)
   + The one who calls forth the emotions, as the cynosure of what is desirable (and by contrast, undesirable) 
     to the self (mental faculty)
@@ -4296,7 +4297,7 @@ img {
   + Family rules
   + "...but be filled with the Holy Spirit"
   + Spirit Animal: Bee
-  + Plant Rune: **B**alm (*Melissa officinalis*)
+  + Plant Rune: **ᛒ**ᚨᛚᛗ / **B**alm (*Melissa officinalis*)
   + The Muse of Prophecy
   + "In Englands green and pleasant Land." (Blake's Jerusalem 16)
   + Color: <font color="#FF3600">███ Scarlet ███</font> (#FF3600)
@@ -4333,7 +4334,7 @@ img {
 + Bible: 1 Kings 17:2-7 - Elijah fed by ravens by the brook Cherith
 + Additional Concepts: 
   + Waxing
-  + Plant Rune: **B**orage (*Borago officinalis*)
+  + Plant Rune: **ᛒ**ᛟᚱᚨᚷᛖ / **B**orage (*Borago officinalis*)
   + The Muse of Regeneration
   + Color: <font color="#BF2D00">███ Thunderbird ███</font> (#BF2D00)
 
@@ -4381,7 +4382,7 @@ img {
   + It happens all the time--a cosmogony is substituted for an epistemology, although either is better 
     than a theogony, by god!
   + The Zodiac (Astrology)
-  + Plant Rune: **D**andelion (*Taraxacum officinale*)
+  + Plant Rune: **ᛞ**ᚨᚾᛞᛖᛚᛁᛟᚾ / **D**andelion (*Taraxacum officinale*)
   + Chief Security Officer Natasha "Tasha" Yar (STTNG)
   + The one who gathers and identifies "perceptions" (external and internal) and provides these as 
     useful information for the self (mental faculty)
@@ -4425,7 +4426,7 @@ img {
   + But don't cut corners
   + Beware Hamlet's Dilemma
   + Take the lesser of two evils
-  + Plant Rune: **D**amiana (*Turnera diffusa*)
+  + Plant Rune: **ᛞ**ᚨᛗᛁᚨᚾᚨ / **D**amiana (*Turnera diffusa*)
   + "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it." (Mt. 7:14)
   + Color: <font color="#80D100">███ Lima ███</font> (#80D100)
 
@@ -4461,7 +4462,7 @@ img {
   + Them's fightin' words! 
   + "Get it? Got it! Good!"
   + Spirit Animal: Spider
-  + Plant Rune: **D**ragon's Blood (*Dracaena cinnabari*, et al.)
+  + Plant Rune: **ᛞ**ᚱᚨᚷᛟᚾ'ᛊ ᛒᛚᛟᛟᛞ / **D**ragon's Blood (*Dracaena cinnabari*, et al.)
   + Color: <span style="background-color: #2A2A2A;"> <font color="#FFF45D">███ Candy Corn ███</font> </span> (#FFF45D)
 
 ---
@@ -4508,7 +4509,7 @@ img {
   + "All work and no play…"
   + You owe it to the world
   + Spirit Animal: Boar
-  + Plant Rune: **M**andrake (*Atropa mandragora*)
+  + Plant Rune: **ᛗ**ᚨᚾᛞᚱᚨᚲᛖ / **M**andrake (*Atropa mandragora*)
   + "Puss in Boots"  (Grimm's Fairy Tales 1st ed. Volume 1 #33)
   + "Among these dark Satanic Mills?" (Blake's Jerusalem 8)
   + Color: <font color="#B3E9B3">███ Celadon ███</font> (#B3E9B3)
@@ -4560,7 +4561,7 @@ img {
 + Additional Concepts: 
   + Wealth management
   + Strength in numbers
-  + Plant Rune: **M**yrrh (*Commiphora myrrha*)
+  + Plant Rune: **ᛗ**ᛇᚱᚱᚺ / **M**yrrh (*Commiphora myrrha*)
   + Constructing the Philosopher's Stone
   + The Wish Fulfilling Gem (Cintāmaṇi)
   + "Simple Hans"  (Grimm's Fairy Tales 1st ed. Volume 1 #54)
@@ -4610,7 +4611,7 @@ img {
   + "Light as a feather; nothing in it; A strong man can't hold it more than a minute"
   + Shiva
   + Sun (Astrology)
-  + Plant Rune: **M**istletoe (*Viscum album*)
+  + Plant Rune: **ᛗ**ᛁᛊᛏᛚᛖᛏᛟᛖ / **M**istletoe (*Viscum album*)
   + Starfleet (STTNG)
   + The one who realizes and negotiates the place of the self within the various social hierarchies of 
     which it is part; also standing for the various *conscious* aspects of the self (mental faculty)
@@ -4649,7 +4650,7 @@ img {
   + Baba Yaga
   + Hey buddy, got a light? 
   + Camp Runamok
-  + Plant Rune: **O**libanum (*Boswellia sacra*, et al.; aka Frankincense)
+  + Plant Rune: **ᛟ**ᛚᛁᛒᚨᚾᚢᛗ / **O**libanum (*Boswellia sacra*, et al.; aka Frankincense)
   + Color: <font color="#403B00">███ Madras ███</font> (#403B00)
 
 ---
@@ -4700,7 +4701,7 @@ img {
   + Cherchez la Femme
   + Parvati
   + Moon (Astrology)
-  + Plant Rune: **O**ak (*Quercus robur*, et al.)
+  + Plant Rune: **ᛟ**ᚨᚲ / **O**ak (*Quercus robur*, et al.)
   + The crew of the Enterprise, or the Enterprise itself (STTNG)
   + The one who realizes and negotiates the place of the self within the various physical contexts of which 
     it is part (including one's own body); also, the various *unconscious* aspects of the self (mental faculty)
@@ -4752,7 +4753,7 @@ img {
   + The instigator of ritual
   + Women's Mysteries
   + Spirit Animal: Sow
-  + Plant Rune: **O**at (*Avena sativa*)
+  + Plant Rune: **ᛟ**ᚨᛏ / **O**at (*Avena sativa*)
   + Color: <font color="#003C00">███ Deep Fir ███</font> (#003C00)
 
 ---
@@ -5538,6 +5539,66 @@ personality). Yes, well, then they tease us by claiming that the ability to tran
 of progress along these lines, even if it is a potential distraction from that truer end. Again, why not 
 work within the normal order of things? Why spend 30 years learning how to bend a spoon with your mind 
 alone, when you can accomplish the same thing with some tools you can buy at your local hardware store?
+
+
+<div style="page-break-after: always"></div>
+
+## [Art and Beauty](#table-of-contents)
+
+*Perhaps we are writing this more for B than anyone else; he needs reminding of these definitions and their 
+implications for our actions in the world. Perhaps others might find something of interest and motivation
+here as well.*
+
+*When I asked Fox for clarification of the things she had been telling me about Art and Beauty, she gave me 
+this answer:*
+
+346
+ΦΙΑΛΗ
+▲ΑΥΡΑ :: ΑΣΤΡΑΠΗ▼
+ΦΙΑΛΗ = A broad, flat bowl or saucer for drinking or pouring libations.
+I Ching: 110:101 37. Family / The Family
+judgment: The perseverance of a care-giver is advantageous.
+image: Have substance in your words and duration in your way of life.
+alchemy: III. Phoenix and Dragon - 5. Inter-Communicate
+Tarot: Three ♥/Cups
+upright: friendship, community, happiness, celebration, collaboration
+reversed: overindulgence, gossip, isolation, "three's a crowd"
+The Eardstapa's Oracle: 37. ᚹᛁᚾᛞ ‖ ᛚᛁᚷᚺᛏ (wind ‖ light)
+riddle: "ᚠᚱᛖᛖᛗᚨᚾ ᛟᚱ ᚠᚱᛖᛖᛚᛟᚨᛞᛖᚱ ᛒᛖ ᚠᚱᛁᛖᚾᛞ / ᛚᛖᚨᚾ ᛟᚱ ᛚᛁᛖ ᚨᛏ ᛚᛖᛁᛊᚢᚱᛖ ᛚᛖᛏ ᛇᛟᚢ / ᛃᚢᛊᛏ ᛃᛟᛚᛚᛇ ᛒᛖ ᚨ
+ᛃᚢᛊᛏ ᚠᛖᛚᛚᛟᚹ"
+"freeman or freeloader be friend / lean or lie at leisure let you / just jolly be a just fellow"
+situation: The winds that blew during the day slacken to a gentle breeze as the evening light
+fades. The Eardstapa makes camp and prepares the evening meal.
+admonition: Pour a libation of thanks for the blessings and beauty of the day, inviting any
+companions to join with you.
+
+Art has much to do with Beauty, but they are different. Art is an act of communication. And the
+subject that is communicated is, often, Beauty. It need not be, of course; it might be about ugliness or 
+tragedy. But what makes an act of communication Art is when the act itself is Beautiful.
+
+Beauty is in the perfection of a thing. Of course, from the standpoint of the Great Mystery...
+
+“ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते ।   
+पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥   
+ॐ शान्तिः शान्तिः शान्तिः ॥”   
+
+Om Purnamadah Purnamidam   
+Purnat Purnamudachyate   
+Purnasya Purnamadaya   
+Purnamevavashishyate   
+
+"That is perfect (complete); this is perfect. From the perfect, the perfect emerges. When the 
+perfect is taken from the perfect, the perfect remains."
+
+But sometimes it is through our Desire (selfish, by definition) that we are enabled to catch a glimpse
+of this Beauty which is the highest. One must, contrary to Plato, worship at the altar of Aphrodite
+Pamdemos (Ἀφροδίτη Πάνδημος, the Common Aphrodite) as well as that of Aphrodite Urania (Ἀφροδίτη Οὐρανία, 
+the Heavenly Aphrodite).
+
+So, Art lies in the lap of the Beauty of Communication = [ΦΙΑΛΗ](#φιαλη). And the other sorts suggested
+by our scheme are:
+
+
 
 
 <div style="page-break-after: always"></div>
