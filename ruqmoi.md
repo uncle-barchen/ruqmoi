@@ -1394,7 +1394,7 @@ appeals to you.
 |           |                                            |                                           |                          |                          |
 | 01 : 02 i | ䷀ [The Creative](#ναυς)                    | ䷁ [The Receptive](#ελαιος)                | F6/7 9.Execute/Process   | E5/7 8.(Re)Start/Boot    |
 |           |                                            |                                           |                          |                          |
-| ///////// | ***I. The Path of Destiny 1***             | ***I. The Path of Destiny 1***            | //////////////////////// | //////////////////////// |
+| ///////// | **I. The Path of Destiny 1**               | **I. The Path of Destiny 1**              | //////////////////////// | //////////////////////// |
 | 03 : 04   | ䷂ [Difficulty at the Beginning](#τυμπανον) | ䷃ [Youthful Folly](#πτερυξ)               |  1. Sense/Detect         |  2. Identify             |
 | 05 : 06   | ䷄ [Waiting (Nourishment)](#ξυλον)          | ䷅ [Conflict](#νοστος)                     |  4. Audit/ACK            |  3. Signal/Command       |
 | 07 : 08   | ䷆ [The Army](#μακαρια)                     | ䷇ [Holding Together (Union)](#ζευγμα)     |  5. Inter-Communicate    |  6. (Re)Arrange          |
@@ -1402,11 +1402,11 @@ appeals to you.
 |           |                                            |                                           |                          |                          |
 | 11 : 12   | ䷊ [Peace](#μεγαρον)                        | ䷋ [Standstill](#δρεπανον)                 |  D4/7 6.(Re)Arrange      | C3/7 4.Audit/ACK         |
 |           |                                            |                                           |                          |                          |
-| ///////// | ***I. The Path of Destiny 2***             | ***I. The Path of Destiny 2***            | //////////////////////// | //////////////////////// |
+| ///////// | **I. The Path of Destiny 2**               | **I. The Path of Destiny 2**              | //////////////////////// | //////////////////////// |
 | 13 : 14   | ䷌ [Fellowship](#ψηφος)                     | ䷍ [Possession in Great Measure](#λαμπας)  |  9. Execute/Process      | 10. Monitor/Evaluate     |
 | 15 : 16   | ䷎ [Modesty](#μοιραι)                       | ䷏ [Enthusiasm](#βουπελατης)               | 12. Replicate/Teach      | 11. Maintain/Improve     |
 |           |                                            |                                           |                          |                          |
-| ::::::::: | ***II. Priesthood of the Flame***          | ***II. Priesthood of the Flame***         | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
+| ::::::::: | **II. Priesthood of the Flame**            | **II. Priesthood of the Flame**           | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
 | 17 : 18   | ䷐ [Following](#σθενω)                      | ䷑ [Decay](#θυια)                          |  1. Sense/Detect         |  2. Identify             |
 | 19 : 20   | ䷒ [Approach](#εστια)                       | ䷓ [Contemplation (View)](#ηως)            |  4. Audit/ACK            |  3. Signal/Command       |
 | 21 : 22   | ䷔ [Biting Through](#χαρυβδις)              | ䷕ [Grace](#ρυθμος)                        |  5. Inter-Communicate    |  6. (Re)Arrange          |
@@ -1416,25 +1416,25 @@ appeals to you.
 |           |                                            |                                           |                          |                          |
 | 29 : 30 i | ䷜ [The Abysmal (Water)](#ξοανον)           | ䷝ [The Clinging (Fire)](#χασμα)           | B2/7 3.Signal/Command    |  A1/7 1.Sense/Detect     |
 |           |                                            |                                           |                          |                          |
-| ::::::::: | ***III. Phoenix and Dragon***              | ***III. Phoenix and Dragon***             | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
+| ::::::::: | **III. Phoenix and Dragon**                | **III. Phoenix and Dragon**               | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
 | 31 : 32   | ䷞ [Influence (Wooing)](#ιρις)              | ䷟ [Duration](#βιος)                       | 12. Replicate/Teach      | 11. Maintain/Improve     |
 | 33 : 34   | ䷠ [Retreat](#ναρθηξ)                       | ䷡ [The POT Great](#κεραυνος)              |  9. Execute/Process      | 10. Monitor/Evaluate     |
 | 35 : 36   | ䷢ [Progress](#γλαυξ)                       | ䷣ [Darkened Light](#ωγυγιη)               |  8. (Re)Start/Boot       |  7. (Re)Set              |
 | 37 : 38   | ䷤ [The Family](#φιαλη)                     | ䷥ [Opposition](#γοργω)                    |  5. Inter-Communicate    |  6. (Re)Arrange          |
 | 39 : 40   | ䷦ [Obstruction](#ξιφος)                    | ䷧ [Deliverance](#κηρυκειον)               |  4. Audit/ACK            |  3. Signal/Command       |
 | 41 : 42   | ䷨ [Decrease](#θυμον)                       | ䷩ [Increase](#φοινιξ)                     |  1. Sense/Detect         |  2. Identify             |
-| ::::::::: | ***IV. The Dragon's Hoard***               | ***IV. The Dragon's Hoard***              | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
+| ::::::::: | **IV. The Dragon's Hoard**                 | **IV. The Dragon's Hoard**                | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
 | 43 : 44   | ䷪ [Break-through](#ιστος)                  | ䷫ [Coming to Meet](#δαιδαλα)              | A1/7 1.Sense/Detect      | B2/7 3.Signal/Command    |
 | 45 : 46   | ䷬ [Gathering Together](#αμφορευς)          | ䷭ [Pushing Upward](#ελιξ)                 | C3/7 4.Audit/ACK         | D4/7 6.(Re)Arrange       |
 | 47 : 48   | ䷮ [Oppression](#ιμας)                      | ䷯ [The Well](#ζωπυρον)                    | E5/7 8.(Re)Start/Boot    | F6/7 9.Execute/Process   |
 | 49 : 50   | ䷰ [Revolution (Molting)](#στεφανος)        | ䷱ [The Cauldron](#γρυψ)                   | G#8/7 12.Replicate/Teach | G7/7 11.Maintain/Improve |
 |           |                                            |                                           |                          |                          |
-| ::::::::: | ***V. The Pilgrimage to...***              |  ***V. The Pilgrimage to...***            | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
+| ::::::::: | **V. The Pilgrimage to...**                |  **V. The Pilgrimage to...**              | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
 | 51 : 52   | ䷲ [The Arousing (Shock)](#υμνος)           | ䷳ [Stillness](#πυλαι)                     |  1. Sense/Detect         |  2. Identify             |
 | 53 : 54   | ䷴ [Development](#οινος)                    | ䷵ [The Marrying Maiden](#βριαρεως)        |  4. Audit/ACK            |  3. Signal/Command       | 
 | 55 : 56   | ䷶ [Abundance (Fullness)](#υπερβορεοι)      | ䷷ [The Wanderer](#λινον)                  |  5. Inter-Communicate    |  6. (Re)Arrange          |
 | 57 : 58   | ䷸ [The Gentle (Penetrating)](#ηδονη)       | ䷹ [The Joyous](#αναγκη)                   |  8. (Re)Start/Boot       |  7. (Re)Set              |
-| ::::::::: | ***...The Inner Shrine***                  | ***...The Inner Shrine***                 | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
+| ::::::::: | **...The Inner Shrine**                    | **...The Inner Shrine**                   | :::::::::::::::::::::::: | :::::::::::::::::::::::: |
 | 59 : 60   | ䷺ [Dispersion (Dissolution)](#οφις)        | ䷻ [Limitation](#ζυγον)                    |  9. Execute/Process      | 10. Monitor/Evaluate     |
 | 61 : 62 i | ䷼ [Inner Truth](#ηλεκτρον)                 | ䷽ [Preponderance of the Small](#καθαρμος) | 12. Replicate/Teach      | 11. Maintain/Improve     |
 |           |                                            |                                           |                          |                          |
@@ -1775,7 +1775,7 @@ img {
 
 + [ΑΜΦΟΡΕΥΣ](#ρυθμοι) = Jar with narrow neck; used for various purposes, esp. for keeping wine in, or milk, or for
   pickles. (Shortened form of ἀμφιφορεύς, q.v., from having two handles.)
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:000 45\. Gathered Together / Gathering Together
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 45\. ䷬ Gathered Together / Gathering Together
   + judgment: Success is possible. The leader approaches their temple. It is advantageous to see the great 
     one. This brings success. To keep going is advantageous. To bring great offerings creates good fortune. 
     It is advantageous to undertake something.
@@ -1820,7 +1820,7 @@ img {
   natural need, fate, destiny, frequently personified by Poets. Compulsion exerted by a superior, 
   violence, punishment, especially of torture, duress, 'force majeure', stress of circumstances.
   Tie of blood, kindred.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:011 58\. Joy / The Joyous
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 58\. ䷹ Joy / The Joyous
   + judgment: Success is possible. To keep going is favorable.
   + image: Join together with your friends for discussion and practice.
   + alchemy: V\. The Pilgrimage to The Inner Shrine - 7\. (Re)Set
@@ -1863,7 +1863,7 @@ img {
 
 + [ΑΣΦΟΔΕΛΟΣ](#ρυθμοι) = Asphodel (*Asphodelus ramosus*). As Adjective, ἀσφοδελὸς λειμών the asphodel meadow which the 
   shades of heroes haunted, or more generally, a flowery meadow. 
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:110 28\. Greatly Surpassing / The Preponderance of the Great
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 28\. ䷛ Greatly Surpassing / The Preponderance of the Great
   + judgment: The ridgepole sags to the breaking point. It is advantageous to have somewhere to go. Success is 
     possible.
   + image: When you stand alone, be unconcerned, if you must renounce the world, be undaunted.
@@ -1915,7 +1915,7 @@ img {
 
 + [ΒΙΟΣ](#ρυθμοι) = Life, i.e. not animal life (ζωή), but mode of life, manner of living (mostly therefore of men, 
   but also of animals). Lifetime, livelihood, means of living, to make one's living off, to live by a thing.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:110 32\. Duration / Duration
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 32\. ䷟ Duration / Duration
   + judgment: Success without blame is possible. To keep going is advantageous. It is advantageous to 
     have somewhere to go.
   + image: Stand firm and do not change your direction.
@@ -1962,7 +1962,7 @@ img {
 <img src="boupelaths.card.png" style="float: right;" width="30%"> 
 
 + [ΒΟΥΠΕΛΑΤΗΣ](#ρυθμοι) = Herdsman (of cows).
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:000 16\. Excess / Enthusiasm
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 16\. ䷏ Excess / Enthusiasm
   + judgment: It is advantageous to appoint helpers and to set armies marching.
   + image: Make music to honor merit, and offer it with splendor to God, inviting the ancestors' presence.
   + alchemy: I\. The Path of Destiny, Part 2 - 11\. Maintain/Improve  
@@ -2021,7 +2021,7 @@ img {
 
 + [ΒΡΙΑΡΕΩΣ](#ρυθμοι) = A hundred-handed giant, of the generation of the Titans. In some myths, he is freed from 
   Tartarus by Zeus and guarantees his victory over the Titans.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:011 54\. Coming Home / The Marrying Maiden
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 54\. ䷵ Coming Home / The Marrying Maiden
   + judgment: To undertake something brings misfortune. There is nothing that would be advantageous.
   + image: Understand the transitory in the light of the eternity of the end.
   + alchemy: V\. The Pilgrimage to The Inner Shrine - 3\. Signal/Command  
@@ -2065,7 +2065,7 @@ img {
 
 + [ΓΛΑΥΞ](#ρυθμοι) = The little owl, *Athene noctua*, so called from its glaring eyes, frequently used as an emblem 
   of Athena.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:000 35\. Advancing / Progress
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 35\. ䷢ Advancing / Progress
   + judgment: The powerful leader is honored with horses in large numbers. In a single day they are granted 
     audience three times.
   + image: Brighten your own bright virtue.
@@ -2111,7 +2111,7 @@ img {
 
 + [ΓΟΡΓΩ](#ρυθμοι) = The Gorgon, i.e. the Grim One. Her visage turns people to stone (in other words, the
   "freeze" response to fear.)
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:011 38\. Double Vision / Opposition
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 38\. ䷥ Double Vision / Opposition
   + judgment: In small matters good fortune is possible.
   + image: Amid all fellowship, retain your individuality.
   + alchemy: III\. Phoenix and Dragon - 6\. (Re)Arrange
@@ -2156,7 +2156,7 @@ img {
 + [ΓΡΥΨ](#ρυθμοι) = A griffin; a legendary creature with the body, tail, and back legs of a lion, and the head and 
   wings of an eagle with its talons on the front legs. Since classical antiquity, griffins were known 
   for guarding treasures and priceless possessions.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:110 50\. (Ting) The Cauldron / The Caldron
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 50\. ䷱ (Ting) The Cauldron / The Caldron
   + judgment: Supreme good fortune and success are possible.
   + image: Consolidate your fate by making your position correct.
   + alchemy: IV\. The Dragon's Hoard - G=7/7 (equivalent to 11\. Maintain/Improve)  
@@ -2204,7 +2204,7 @@ img {
 
 + [ΔΑΙΔΑΛΑ](#ρυθμοι) = Cunning works (as a noun, usually in plural as here); cunningly or curiously wrought (as 
   an adjective).
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 111:110 44\. Royal Bride / Coming to Meet
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 44\. ䷫ Royal Bride / Coming to Meet
   + judgment: The maiden is powerful. One should not marry such a maiden. [Too late! -Fox]
   + image: Act thus when you disseminate your commands and proclaim them to the 4 quarters of heaven.
   + alchemy: IV\. The Dragon's Hoard - B=2/7 (equivalent to 3\. Signal/Command)
@@ -2248,7 +2248,7 @@ img {
 <img src="doru.card.png" style="float: right;" width="30%"> 
 
 + [ΔΟΡΥ](#ρυθμοι) = A spear (especially the shaft), or just a (pointed) stick. Also used as a synecdoche for war.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 111:011 10\. Stepping / Treading (Conduct)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 10\. ䷉ Stepping / Treading (Conduct)
   + judgment: Treading on the tiger's tail. It does not bite you. Success is possible.
   + image: Discriminate between high and low; fortify the thinking of the people.
   + alchemy: I\. The Path of Destiny - 7\. (Re)Set  
@@ -2298,7 +2298,7 @@ img {
 
 
 + [ΔΡΕΠΑΝΟΝ](#ρυθμοι) = A scythe, curved sword, or pruning knife.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 111:000 12\. Stagnation / Standstill
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 12\. ䷋ Stagnation / Standstill
   + judgment: Self-serving people cannot help you keep going. The great departs; the small approaches.
   + image: Fall back on your inner worth to escape difficulties. Don't accept revenue.
   + alchemy: VI\. The Primal Ones - C=3/7 (equivalent to 4\. Audit/ACK) 
@@ -2340,7 +2340,7 @@ img {
 <img src="elaios.card.png" style="float: right;" width="30%"> 
 
 + [ΕΛΑΙΟΣ](#ρυθμοι) = The wild olive.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:000 2\. The Receptive / The Receptive
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 2\. ䷁ The Receptive / The Receptive
   + judgment: Extraordinary success is possible; it is advantageous to keep going like a mare. If you 
     undertake something and try to lead, you will go astray, but if you follow, you'll find guidance. 
     It is favorable to find friends in the west and south, and to forego friends in the east and north. 
@@ -2386,7 +2386,7 @@ img {
 <img src="elic.card.png" style="float: right;" width="30%"> 
 
 + [\`ΕΛΙΞ](#ρυθμοι) = The tendril of the vine or of ivy. A curl or lock of hair. The coil of a serpent.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:110 46\. Pushing Upwards / Pushing Upward
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 46\. ䷭ Pushing Upwards / Pushing Upward
   + judgment: Supreme success is possible. One must see the great one. Fear not. Departure toward the 
     south brings good fortune.
   + image: With devotion, heap up small things to achieve something high and great.
@@ -2429,7 +2429,7 @@ img {
 
 + [\`ΕΣΤΙΑ](#ρυθμοι) = The hearth; the house itself; the household or family; an altar; the central fire; the 
   Goddess of the hearth.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:011 19\. The Forest / Approach
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 19\. ䷒ The Forest / Approach
   + judgment: Supreme success is possible. To keep going is advantageous. When Autumn comes, there will 
     be misfortune.
   + image: Be inexhaustible in your teaching, tolerance, and protection of the people.
@@ -2484,7 +2484,7 @@ img {
 
 + [ΖΕΥΓΜΑ](#ρυθμοι) = That which is used for joining, band, bond; a bridge of boats or platform formed by lashing 
   several vessels together.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:000 8\. Closeness / Holding Together (Union)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 8\. ䷇ Closeness / Holding Together (Union)
   + judgment: Good fortune is possible. Inquire of the oracle once again-- if you possess greatness, 
     have constancy, and keep going, then there is no blame. Those who are uncertain gradually join. 
     Whoever comes too late meets with misfortune.
@@ -2536,7 +2536,7 @@ img {
 
 + [ΖΥΓΟΝ](#ρυθμοι) = A yoke, crossbar, or the thwarts (benches) joining opposite sides of a ship. The beam of a
   balance, or the balance itself. A cross-strap of a sandal.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:011 60\. Limitation / Limitation
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 60\. ䷻ Limitation / Limitation
   + judgment: Success is possible. Vexatious limitation must not be allowed to continue.
   + image: Create number and measure, and examine the nature of virtue and correct conduct.
   + alchemy: V\. The Pilgrimage to The Inner Shrine, Part 2 - 10\. Monitor/Evaluate
@@ -2577,7 +2577,7 @@ img {
 <img src="zwpuron.card.png" style="float: right;" width="30%">
 
 + [ΖΩΠΥΡΟΝ](#ρυθμοι) = A spark or hot coal used to kindle a fire.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:110 48\. The Well / The Well
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 48\. ䷯ The Well / The Well
   + judgment: The town can be changed, but the well cannot be changed. It neither decreases nor increases. 
     They come and go and draw from the well. If one gets down almost to the water and the rope does not go 
     all the way, or the jug breaks, it brings misfortune.
@@ -2628,7 +2628,7 @@ img {
 <img src="hdonh.card.png" style="float: right;" width="30%"> 
 
 + [\`ΗΔΟΝΗ](#ρυθμοι) = Desire, enjoyment or (sensual) pleasure.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:110 57\. Choosing / The Gentle (Penetrating)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 57\. ䷸ Choosing / The Gentle (Penetrating)
   + judgment: Success comes through small things. It is advantageous to have somewhere to go. It is 
     advantageous to see the great one.
   + image: Spread your commands abroad and carry out your undertakings.
@@ -2676,7 +2676,7 @@ img {
 <img src="hlektron.card.png" style="float: right;" width="30%">
 
 + [ΗΛΕΚΤΡΟΝ](#ρυθμοι) = Amber
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:011 61\. Sincere to the Core / Inner Truth
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 61\. ䷼ Sincere to the Core / Inner Truth
   + judgment: Pigs and fishes. Good fortune is possible. It is advantageous to cross the big river. To 
     keep going is advantageous.
   + image: Discuss criminal cases in order to delay executions. (Pigs and Fishes)
@@ -2723,7 +2723,7 @@ img {
 <img src="hws.card.png" style="float: right;" width="30%"> 
 
 + [ΗΩΣ](#ρυθμοι) = Day, life, the East; the Goddess of dawn.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:000 20\. Contemplation / Contemplation (View)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 20\. ䷓ Contemplation / Contemplation (View)
   + judgment: The ablution has been made, but not yet the offering. Full of trust they look up to the
     officiant.
   + image: Visit the regions of the world, contemplate the people, and give them instruction.
@@ -2782,7 +2782,7 @@ img {
   divine voice (themistes) who first instructed mankind in the primal laws of justice and morality, such as 
   the precepts of piety, the rules of hospitality, good governance, conduct of assembly, and pious offerings 
   to the gods.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:000 23\. Peeling / Splitting Apart
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 23\. ䷖ Peeling / Splitting Apart
   + judgment: It isn't advantageous to go anywhere.
   + image: You can ensure your position only by giving generously to those below.
   + alchemy: II\. The Priesthood of the Flame - 8\. (Re)Start/Boot 
@@ -2834,7 +2834,7 @@ img {
 <img src="quia.card.png" style="float: right;" width="30%"> 
 
 + [ΘΥΙΑ](#ρυθμοι) = Juniper (e.g. *Thuja occidentalis*)
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:110 18\. Branching Out / Work On What Has Been Spoiled (Decay)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 18\. ䷑ Branching Out / Work On What Has Been Spoiled (Decay)
   + judgment: Supreme success is possible. It is advantageous to cross the great water. Before the starting 
     point, three days. After the starting point, three days.
   + image: Stir up the people; strengthen their spirit.
@@ -2891,7 +2891,7 @@ img {
 <img src="qumon.card.png" style="float: right;" width="30%"> 
 
 + [ΘΥΜΟΝ](#ρυθμοι) = Thyme (e.g. *Thymus vulgaris*)
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:011 41\. Decrease / Decrease
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 41\. ䷨ Decrease / Decrease
   + judgment: Decrease combined with sincerity brings about supreme good fortune without blame. You can 
     persevere in this. It advantageous to undertake something. How should this be carried out? You can 
     use two small bowls for the sacrifice.
@@ -2947,7 +2947,7 @@ img {
   several straps put round the hand. In singular, the magic girdle of Aphrodite; the chin-strap of the
   helmet; a thong by which the bolt was shot home into the socket; a thong or latchet of a sandal; a 
   rail-rope; well-rope; dog-leash; whip; scourge; or cord. 
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:010 47\. Exhaustion / Oppression
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 47\. ䷮ Exhaustion / Oppression
   + judgment: Success is possible; keep going. The great one brings about good fortune. No blame. When 
     one has something to say, it is not believed.
   + image: Stake your life on following your will. Sacrifice your life if only this will achieve your goals.
@@ -3008,7 +3008,7 @@ img {
   circle surrounding another body, as the lunar rainbow; the halo of a candle; the eyes of a peacock's tail; 
   the iris of the eye; an iridescent garment; various species of the botanical genus iris, e.g. 
   the purple Iris.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:100 31\. Respect / Influence (Wooing)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 31\. ䷞ Respect / Influence (Wooing)
   + judgment: Influence: Success is possible. To keep going is advantageous. To take a maiden to wife 
     brings good fortune.
   + image: Encourage people to approach you by your readiness to receive them.
@@ -3052,7 +3052,7 @@ img {
 
 + [\`ΙΣΤΟΣ](#ρυθμοι) = Anything set upright: mast; rod; pole; beam; beam of a loom, which stood upright, instead of 
   lying horizontal as in our looms; the warp fixed to the beam, hence, the web itself; spiders' webs.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:111 43\. Resolute / Break-through
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 43\. ䷪ Resolute / Break-through
   + judgment: You must resolutely make the matter known at the court of the ruler. It must be announced 
     truthfully. Danger. It is necessary to notify your own city. It is not advantageous to resort to 
     arms. It is advantageous to undertake something.
@@ -3099,7 +3099,7 @@ img {
 + [ΚΑΘΑΡΜΟΣ](#ρυθμοι) = Cleansing; purification (from guilt); purificatory offering; atonement; expiation; an offering 
   to avert wrath; purificatory rite of initiation into mysteries; purgation by ordeal; purging; evacuation; 
   discharge. 
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:100 62\. Minor Surplus / Preponderance of the Small
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 62\. ䷽ Minor Surplus / Preponderance of the Small
   + judgment: Success is possible. To keep going is advantageous. Small things may be done; great things 
     should not be done. The flying bird brings the message: it is not good to strive upward, it is good to 
     remain below. Great good fortune is possible.
@@ -3148,7 +3148,7 @@ img {
 <img src="keraunos.card.png" style="float: right;" width="30%">
 
 + [ΚΕΡΑΥΝΟΣ](#ρυθμοι) = A thunderbolt, especially as the weapon of Zeus, forged by the Cyclopes.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:111 34\. Great Strength / The Power of the Great
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 34\. ䷡ Great Strength / The Power of the Great
   + judgment: To keep going is advantageous.
   + image: Don't tread upon paths that do not accord with established order.
   + alchemy: III\. Phoenix and Dragon - 10\. Monitor/Evaluate
@@ -3190,7 +3190,7 @@ img {
 <img src="khrukeion.card.png" style="float: right;" width="30%">
 
 + [ΚΗΡΥΚΕΙΟΝ](#ρυθμοι) = A herald's wand or staff; the Caduceus.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:010 40\. Released / Deliverance
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 40\. ䷧ Released / Deliverance
   + judgment: The southwest is advantageous. If there is no longer anywhere you have to go, 
     returning brings good fortune. If there is still somewhere you have to go, hastening 
     brings good fortune.
@@ -3237,7 +3237,7 @@ img {
 
 + [ΛΑΒΥΡΙΝΘΟΣ](#ρυθμοι) = A labyrinth or maze; a large building consisting of numerous halls connected by intricate and 
   tortuous passages. Also used of tortuous questions or arguments.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:010 64\. Not Yet Across / Before Completion
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 64\. ䷿ Not Yet Across / Before Completion
   + judgment: Success is possible, but if the little fox, after nearly completing the crossing, gets her tail 
     in the water, there is nothing that would be advantageous.
   + image: Differentiate between things, so each finds its place.
@@ -3281,7 +3281,7 @@ img {
 
 + [ΛΑΜΠΑΣ](#ρυθμοι) = A torch; beacon-light; torches used in festal processions; any light, lamp, wax-light, or oil 
   lamp. Metaphorically, of the sun.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:111 14\. Great Possession / Possession in Great Measure
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 14\. ䷍ Great Possession / Possession in Great Measure
   + judgment: Supreme success is possible.
   + image: Curb evil and further good, and so obey the benevolent will of heaven.
   + alchemy: I\. The Path of Destiny, Part 2 - 10\. Monitor/Evaluate 
@@ -3335,7 +3335,7 @@ img {
 
 + [ΛΙΝΟΝ](#ρυθμοι) = anything made of flax: cord; fishingline; thread spun from a distaff; thread for stringing 
   jewels; thread used as a ligature. Metaphorically, the thread of destiny spun by the Fates.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:100 56\. The Wanderer / The Wanderer
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 56\. ䷷ The Wanderer / The Wanderer
   + judgment: Success in small things. To keep going brings good fortune to the wanderer.
   + image: Be clear-minded and cautious in imposing penalties; do not protract lawsuits.
   + alchemy: V\. The Pilgrimage to The Inner Shrine - 6\. (Re)Arrange
@@ -3380,7 +3380,7 @@ img {
 <img src="makaria.card.png" style="float: right;" width="30%">
 
 + [ΜΑΚΑΡΙΑ](#ρυθμοι) = Happiness, bliss, blessedness.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:010 7\. The Multitude / The Army
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 7\. ䷆ The Multitude / The Army
   + judgment: The army needs to keep going and a strong leader to obtain good fortune without blame.
   + image: Increase your followers by generosity to all.
   + alchemy: I\. The Path of Destiny - 5\. Inter-Communicate
@@ -3440,7 +3440,7 @@ img {
   bedchamber. In plural: house, palace. A sanctuary, shrine, frequently in Herodotus (who uses the 
   word in this sense only). μέγαρα, τά, pits sacred to Demeter and Persephone, into which young 
   pigs were let down in the Thesmophoria.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:111 11\. Peace / Peace
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 11\. ䷊ Peace / Peace
   + judgment: The small departs; the great approaches. Good fortune. Success is possible.
   + image: Divide and complete the course of heaven and earth; Further and regulate their gifts to aid all.
   + alchemy: VI\. The Primal Ones - D=4/7 (equivalent to 6\. (Re)Arrange)
@@ -3480,7 +3480,7 @@ img {
 <img src="moirai.card.png" style="float: right;" width="30%">  
 
 + [ΜΟΙΡΑΙ](#ρυθμοι) = (Plural of μοῖρα) the Goddesses of Fate, that is, of one's portion in life, lot, destiny, or fortune.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:100 15\. Modesty / Modesty
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 15\. ䷎ Modesty / Modesty
   + judgment: You'll create success if you carry things through.
   + image: Reduce what's too much; augment what's too little; weigh things and make them equal.
   + alchemy: I\. The Path of Destiny, Part2 - 12\. Replicate/Teach
@@ -3548,7 +3548,7 @@ img {
 + [ΝΑΡΘΗΞ](#ρυθμοι) = The giant fennel, *Ferula communis*, the stalk was used by Prometheus to steal Fire from Heaven.
   Also used for the stalk used as a θύρσος (Dionysus). Used as a schoolmaster's cane, as a splint for a
   broken limb, and as a singlestick for military exercises (martial arts).
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 111:100 33\. Retreat / Retreat
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 33\. ䷠ Retreat / Retreat
   + judgment: Success is possible in what is small; to keep going is advantageous.
   + image: Keep inferior people at a distance, not angrily but with reserve.
   + alchemy: III\. Phoenix and Dragon - 9\. Execute/Process
@@ -3593,7 +3593,7 @@ img {
 <img src="naus.card.png" style="float: right;" width="30%"> 
 
 + [ΝΑΥΣ](#ρυθμοι) = Ship
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 111:111 1\. The Creative / The Creative
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 1\. ䷀ The Creative / The Creative
   + judgment: Extraordinary success is possible; it is advantageous to keep going.
   + image: Make yourself strong and untiring.
   + alchemy: VI\. The Primal Ones - F=6/7 (equivalent to 9\. Execute)
@@ -3635,7 +3635,7 @@ img {
 + [ΝΟΣΤΟΣ](#ρυθμοι) = return home, or generally, return, travel, journey, journey after (i. e. in search of) food. 
   In plural, Νόστοι, the homeward journeys of the Greek heroes after the taking of Troy, title of Cyclic 
   Epic (a work by Anticlides). Yield or produce of grain when ground. 
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 111:010 6\. Strife / Conflict
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 6\. ䷅ Strife / Conflict
   + judgment: You are sincere and are being obstructed. A cautious halt halfway brings good fortune. Going 
     through to the end brings misfortune. It advantageous to see the great one. It is not advantageous to 
     cross the big river.
@@ -3688,7 +3688,7 @@ img {
 <img src="cifos.card.png" style="float: right;" width="30%"> 
 
 + [ΞΙΦΟΣ](#ρυθμοι) = Sword
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:100 39\. Impeded / Obstruction
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 39\. ䷦ Impeded / Obstruction
   + judgment: The southwest is advantageous; the northeast is not. It is advantageous to see the great 
     one. To keep going brings good fortune.
   + image: Thus turn your attention to yourself and mold your character.
@@ -3735,7 +3735,7 @@ img {
 <img src="coanon.card.png" style="float: right;" width="30%"> 
 
 + [ΞΟΑΝΟΝ](#ρυθμοι) = An image carved of wood, then, generally, image, statue, especially of a god.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:010 29\. The Abyss / The Abysmal (Water)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 29\. ䷜ The Abyss / The Abysmal (Water)
   + judgment: If you are sincere, you have success in your heart, and whatever you do succeeds.
   + image: Walk in lasting virtue and carry on the business of teaching.
   + alchemy: VI\. The Primal Ones - B=2/7 (equivalent to 3\. Signal)
@@ -3778,7 +3778,7 @@ img {
   gallows; stake on which criminals were impaled; A bench, table, especially a money-changer's table.
   The Hippocratic bench (which used tension to aid in setting bones. It is a forerunner of the traction 
   devices used in modern orthopedics, as well as of the rack, an instrument of torture.)
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:111 5\. Waiting / Waiting (Nourishment)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 5\. ䷄ Waiting / Waiting (Nourishment)
   + judgment: If you're sincere, you have light and success. To keep going brings good fortune. It is 
     advantageous to cross the big river.
   + image: Eat and drink, be joyous and of good cheer.
@@ -3840,7 +3840,7 @@ img {
   Cyclops' cave; of a tent.  A room, chamber, dining-hall, room in a temple. Also used of public buildings,
   a meeting-house, hall, of treasuries at Delos, temple. A cage for birds. One's household goods, 
   substance, estate, inheritance. A reigning house, also of any family.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:111 9\. Smaller Herd / The Taming Power Of The Small
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 9\. ䷈ Smaller Herd / The Taming Power Of The Small
   + judgment: Success is possible. There are dense clouds, but no rain from our western region.
   + image: Refine the outward aspect of your nature.
   + alchemy: I\. The Path of Destiny - 8\. (Re)Start/Boot
@@ -3893,7 +3893,7 @@ img {
 
 
 + [ΟΙΝΟΣ](#ρυθμοι) = Wine
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:100 53\. Gradual Progress / Development
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 53\. ䷴ Gradual Progress / Development
   + judgment: The maiden is given in marriage. Good fortune. To keep going is advantageous.
   + image: Abide in dignity and virtue, in order to improve the mores.
   + alchemy: V\. The Pilgrimage to The Inner Shrine - 4\. Audit/ACK
@@ -3935,7 +3935,7 @@ img {
 <img src="ofis.card.png" style="float: right;" width="30%"> 
 
 + [ΟΦΙΣ](#ρυθμοι) = Serpent
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:010 59\. Dispersion / Dispersion (Dissolution)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 59\. ䷺ Dispersion / Dispersion (Dissolution)
   + judgment: Success is possible. The ruler approaches their temple. It is advantageous to cross the 
     big river. To keep going is advantageous.
   + image: As rulers, sacrifice to the Great Mystery and build its temples.
@@ -3987,7 +3987,7 @@ img {
   addressed to other gods, as to Poseidon after an earthquake. A song of triumph after victory, properly
   to Apollo. Also, a battle-song addressed to Ares. Any solemn song or chant, especially on beginning an
   undertaking.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:111 26\. Great Nurturing / The Taming Power Of The Great
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 26\. ䷙ Great Nurturing / The Taming Power Of The Great
   + judgment: To keep going is advantageous. Not eating at home brings good fortune. It is advantageous 
     to cross the big river.
   + image: Learn many sayings of antiquity and deeds of the past, to strengthen your character thereby.
@@ -4037,7 +4037,7 @@ img {
   fish, the flippers of seals, dolphins and whales. The blade of the steering-paddle, hence, a rudder, an 
   oar. The flap of a cuirass. The broad edge of a knife or hunting-spear. Anything that covers or protects 
   like wings.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:010 4\. New Grass / Youthful Folly
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 4\. ䷃ New Grass / Youthful Folly
   + judgment: Success is possible. I don't seek the young fool; the young fool seeks me. At the first 
     oracle I give an answer. If they ask two or three times, it is importunity. If they importune, I 
     give them no information. It is advantageous to keep going.
@@ -4097,7 +4097,7 @@ img {
 <img src="pulai.card.png" style="float: right;" width="30%"> 
 
 + [ΠΥΛΑΙ](#ρυθμοι) = (Plural of πύλη) gates, house door, entrance, orifice, mountain pass, narrow straits.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:100 52\. Stillness / Stillness
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 52\. ䷳ Stillness / Stillness
   + judgment: Keep your back still so that you no longer feel your body. You go into your courtyard 
     and do not see your people. No blame.
   + image: Don't let your thoughts go beyond your situation.
@@ -4142,7 +4142,7 @@ img {
   restore his youthful appearance, or that with which Hermes overpowers the senses of man, or that with 
   which Hades rules the ghosts. A staff of office. The wand borne by the ῥαψῳδός. A rod for chastisement, 
   or riding-switch. A shepherd's staff or crook. A measuring-rod.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:001 27\. Jaws / The Corners of the Mouth
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 27\. ䷚ Jaws / The Corners of the Mouth
   + judgment: To keep going brings good fortune. Pay heed to providing nourishment and to what you seek 
     to fill your mouth with.
   + image: Be careful of your words and temperate in eating and drinking.
@@ -4206,7 +4206,7 @@ img {
   virtually the same in every "singing", thus securing the projection of underlying themes such as of morality 
   or honour. The performance of epic poetry was called in classical Greek rhapsōidia (ῥαψῳδία), and its 
   performer rhapsōidos.' [wikipedia](https://en.wikipedia.org/wiki/Rhapsode)
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100 Mountain (Stillness)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): ☶ Mountain (Stillness)
   + trigram: Existence ... brings [all things] to their various *identities* in the sign of Stillness.
     Related: mountain; bypath; little stones; openings; doors; fruits; seeds; eunuchs; watchmen; fingers; 
     dog; rat; black-billed birds; firm, gnarled trees.
@@ -4259,7 +4259,7 @@ img {
   Temper, disposition. Form, shape of a thing, the form or shape of the letters, of the shape of a cup, 
   of a breastplate, so of the natural features of a country; structure of a substance. Manner, fashion 
   of a thing.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 100:101 22\. Elegance / Grace
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 22\. ䷕ Elegance / Grace
   + judgment: Success is possible. In small matters it is favorable to undertake something.
   + image: Clear up present affairs with grace. But don't decide controversial issues this way.
   + alchemy: II\. The Priesthood of the Flame - 6\. (Re)Arrange
@@ -4309,7 +4309,7 @@ img {
 + [ΣΘΕΝΩ](#ρυθμοι) = In Greek mythology, Euryale (Εὐρυάλη, literally 'far-roaming') and Stheno (Σθενώ, literally
   "forceful") were two of the three Gorgons, including Medusa, sisters who were able to turn anyone 
   who looked at them to stone.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:001 17\. Following / Following
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 17\. ䷐ Following / Following
   + judgment: Supreme success is possible. To keep going is advantageous. No blame.
   + image: At nightfall, go indoors to rest and recuperate.
   + alchemy: II\. The Priesthood of the Flame - 1\. Sense/Detect
@@ -4365,7 +4365,7 @@ img {
 + [ΣΤΕΦΑΝΟΣ](#ρυθμοι) = That which surrounds or encompasses. A crown, wreath, chaplet. The crown of victory at 
   the public games. An honorary wreath or crown, frequently worked in gold, awarded for public services 
   in war or peace. A crown of glory, honour. A crown as a badge of office.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011:101 49\. Molting / Revolution (Molting)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 49\. ䷰ Molting / Revolution (Molting)
   + judgment: On your own day you are believed. Supreme success is possible; it is advantageous to keep 
     going. Remorse disappears.
   + image: Set the calendar in order and make the seasons clear.
@@ -4415,7 +4415,7 @@ img {
 
 + [ΣΤΥΞ](#ρυθμοι) = The Styx, i.e. the Hateful, also the nymph of this river. A well of fatal coldness in Arcadia.
   Piercing chill, as of frost.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 011 Lake (The Joyous)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): ☱ Lake (The Joyous)
   + trigram: Existence ... gives [all things] *fulfillment* in the trigram of the Joyous.
   + related: lake; youngest daughter; sorceress; mouth; tongue; smashing; breaking apart; dropping off; 
     bursting open; hard, salty soil; concubine; sheep
@@ -4474,7 +4474,7 @@ img {
   scent-pot, matula, pot or jar, chests, meal-barrel, bee-hive, or capsule of a poppy. In medicine, of the
   vessels of the body, also, the human frame, body, as holding the intestines. A case for holding papyrus 
   rolls, roll of writing-material.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010 Water (The Abyss)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): ☵ Water (The Abyss)
   + trigram: Existence ... *toils* in the sign of the Abysmal; Related: water; ditches; ambush; bending; 
     straightening out; bow; wheel; men-- melancholy, with sick hearts, with earache; blood sign; red; 
     horses-- with beautiful backs, with wild courage, which let their heads hang, with thin hoofs, which 
@@ -4524,7 +4524,7 @@ img {
 <img src="tocon.card.png" style="float: right;" width="30%"> 
 
 + [ΤΟΞΟΝ](#ρυθμοι) = A bow. In plural, bow and arrows.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:101 63\. After the Crossing / After Completion
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 63\. ䷾ After the Crossing / After Completion
   + judgment: Success in small matters is possible. To keep going is advantageous. At the beginning 
     there is good fortune, at the end there is disorder.
   + image: Take thought of misfortune and arm yourself against it in advance.
@@ -4566,7 +4566,7 @@ img {
 <img src="tumpanon.card.png" style="float: right;" width="30%"> 
 
 + [ΤΥΜΠΑΝΟΝ](#ρυθμοι) = A kettledrum, such as was used especially in the worship of the Mother Goddess and Dionysus.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 010:001 3\. Sprouting / Difficulty at the Beginning
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 3\. ䷂ Sprouting / Difficulty at the Beginning
   + judgment: Supreme success is possible; it is advantageous to keep going. Nothing [new] should be 
     undertaken. It advantageous to appoint helpers.
   + image: Bring order out of confusion.
@@ -4626,7 +4626,7 @@ img {
 
 + [\`ΥΔΡΑ](#ρυθμοι) = A water-serpent, but especially the Lernaean hydra. Ὕδραν τέμνειν ("to cut the hydra") = 
   proverbially of labour in vain, because two heads sprang up for every one which was cut off.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001 Thunder (The Arousing)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): ☳ Thunder (The Arousing)
   + trigram: Existence *comes forth* in the trigram of the Arousing. Related: thunder; dragon; dark yellow;
     spreading out; a great road; eldest son; decisive; vehement; green, young bamboo; reed; rush; horses-- 
     which neigh well, with white hind legs, which gallop, with a star on the forehead; pod-bearing, useful 
@@ -4674,7 +4674,7 @@ img {
 <img src="umnos.card.png" style="float: right;" width="30%"> 
 
 + [\`ΥΜΝΟΣ](#ρυθμοι) = A hymn, ode, in praise of gods or heroes.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:001 51\. Thunder / The Arousing (Shock)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 51\. ䷲ Thunder / The Arousing (Shock)
   + judgment: Success is possible. Shock comes— boom, boom! Laughing follows— ha, ha! The shock terrifies 
     for a hundred miles, but you don't let the sacrificial spoon and chalice fall.
   + image: In fear and trembling set your life in order and examine yourself.
@@ -4715,7 +4715,7 @@ img {
 <img src="uperboreoi.card.png" style="float: right;" width="30%"> 
 
 + [\`ΥΠΕΡΒΟΡΕΟΙ](#ρυθμοι) = The Hyperboreans, a people supposed to live in the extreme north.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 001:101 55\. Abundance / Abundance (Fullness)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 55\. ䷶ Abundance / Abundance (Fullness)
   + judgment: Success is possible. The ruler attains abundance. Be not sad; be like the sun at midday.
   + image: In this way decide lawsuits and carry out punishments.
   + alchemy: V\. The Pilgrimage to The Inner Shrine - 5\. Inter-Communicate
@@ -4763,7 +4763,7 @@ img {
 + [ΦΑΡΜΑΚΟΝ](#ρυθμοι) = A drug, whether healing or noxious. A healing remedy, medicine, in Homer mostly of those 
   applied outwardly. Also of potions, an enchanted potion, philtre: hence, charm, spell, poison. Generally, 
   remedy, cure.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110 Wind/Wood (The Penetrating)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): ☴ Wind/Wood (The Penetrating)
   + trigram: Existence ... brings all things to *completion* in the trigram of the Gentle. Related: wood;
     wind; eldest daughter; guideline; work; white; long; high; advance; retreat; undecided; odor; men-- 
     gray-haired, with broad foreheads, with much white in their eyes, those close to gain, that get 
@@ -4821,7 +4821,7 @@ img {
 <img src="fialh.card.png" style="float: right;" width="30%"> 
 
 + [ΦΙΑΛΗ](#ρυθμοι) = A broad, flat bowl or saucer for drinking or pouring libations.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:101 37\. Family / The Family
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 37\. ䷤ Family / The Family
   + judgment: The perseverance of a care-giver is advantageous.
   + image: Have substance in your words and duration in your way of life.
   + alchemy: III\. Phoenix and Dragon - 5\. Inter-Communicate
@@ -4866,7 +4866,7 @@ img {
 + [ΦΟΙΝΙΞ](#ρυθμοι) = The fabulous bird phoenix. The date-palm, *Phoenix dactylifera*. A palm-frond, as a badge of 
   victory. A date. A musical instrument, like a guitar, invented by the Phoenicians. Perfume prepared 
   from the fronds of the date-palm.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 110:001 42\. Increase / Increase
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 42\. ䷩ Increase / Increase
   + judgment: It advantageous to undertake something. It advantageous to cross the big river.
   + image: If you see good, imitate it; if you have faults, rid yourself of them.
   + alchemy: III\. Phoenix and Dragon - 2\. Identify
@@ -4908,7 +4908,7 @@ img {
   in later writers). In Poets frequently used for anything made of metal, especially of offensive arms, 
   of a spear, a sword, a knife, an axe, a fish-hook, or of defensive arms, as the plates laid on a shield. 
   Of vessels, copper, cauldron, urn, a cinerary urn. A bronze mirror.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101 Fire (The Clinging)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): ☲ Fire (The Clinging)
   + trigram: Existence ... causes existents to *perceive* one another in the trigram of the Clinging (light);
     Related: fire; sun; lightning; middle daughter; coats of mail; helmets; lances; weapons; men-- big-bellied;
     dryness; tortoise; crab; snail; mussel; hawkbill tortoise; trees which dry out in the upper part of 
@@ -4959,7 +4959,7 @@ img {
 <img src="xarubdis.card.png" style="float: right;" width="30%"> 
 
 + [ΧΑΡΥΒΔΙΣ](#ρυθμοι) = Charybdis, a dangerous whirlpool on the coast of Sicily, opposite the Italian rock Scylla.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:001 21\. Taking a Bite / Biting Through
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 21\. ䷔ Taking a Bite / Biting Through
   + judgment: Success is possible. It is favorable to let justice be administered.
   + image: As ruler, make firm the laws through clearly defined penalties.
   + alchemy: II\. The Priesthood of the Flame - 5\. Inter-Communicate
@@ -5007,7 +5007,7 @@ img {
 
 + [ΧΑΣΜΑ](#ρυθμοι) = A yawning chasm, gulf, χάσμα μέγα = Tartarus. An open, gaping mouth, as forming a helmet, or 
   of a yawning gulf. Generally, any wide opening.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 101:101 30\. The Net / The Clinging (Fire)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 30\. ䷝ The Net / The Clinging (Fire)
   + judgment: To keep going is advantageous; it brings success. Care of the cow brings good fortune.
   + image: By perpetuating this brightness, illumine the four quarters of the world.
   + alchemy: VI\. The Primal Ones - A=1/7 (equivalent to 1\. Sense/Detect)
@@ -5021,7 +5021,7 @@ img {
   + reversed: recovery, forgiveness, negativity, releasing pain, optimism
 + The Eardstapa's oracle: 30\. ᛚᛁᚷᚺᛏ ‖ ᛚᛁᚷᚺᛏ (light ‖ light)
   + riddle: "ᛚᛁᚷᚺᛏ ᛟᚠ ᚾᛁᚷᚺᛏ ᚠᚱᛟᛗ ᛞᚨᛇ ᛟᚠ ᛁᚾᛊᛁᚷᚺᛏ / ᚷᚨᚦᛖᚱ ᚷᛁᚱᛞ ᛇᛟᚢᚱ ᚷᚱᛁᛏ ᚨᛏ ᚷᚱᛖᚨᛏ ᚲᛟᛊᛏ / ᛈᚨᛁᛞ ᛁᚾ ᛈᚨᛁᚾ ᚨᚾᛞ ᛊᛖᛚᚠ ᛈᛟᛊᛖᛊᛊᛁᛟᚾ"   
-    "light of night from day of insight / gather gird your grit at great cost / paid in pain and self posession"
+    "light of night from day of insight / gather gird your grit at great cost / paid in pain and self possession"
   + situation: The sun sets and the full moon rises. The Eardstapa can journey the entire night.
   + admonition: Are you up to the challenge? Put aside weariness and take this opportunity. 
 + Bible: Exodus 3 - The Burning Bush
@@ -5047,7 +5047,7 @@ img {
 
 + [ΨΗΓΜΑ](#ρυθμοι) = That which is rubbed or scraped off, shavings, scrapings, chips. Used of gold-dust, dust and 
   ashes, wood, and motes in a sunbeam.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 111:001 25\. Not False / Innocence (The Unexpected)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 25\. ䷘ Not False / Innocence (The Unexpected)
   + judgment: Supreme success is possible. To keep going is advantageous. If someone is not as they should 
     be, they experience misfortune, and it is not advantageous for them to undertake anything.
   + image: As rulers, rich in virtue, and in harmony with the time, foster and nourish all beings.
@@ -5108,7 +5108,7 @@ img {
   a vote of banishment, hence any resolve or decree, public opinion, Ἀθηνᾶς ψ. (calculus Minervae) = 
   proverbial phrase to express acquittal, when the votes were even, negligible quantity, cipher, place 
   of voting, tribunal, (metaphorically) influence.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 111:101 13\. Friendship / Fellowship
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 13\. ䷌ Friendship / Fellowship
   + judgment: Fellowship With Others in the open- Success is possible. It advantageous to cross the 
     big river. To keep going is advantageous.
   + image: Organize the people and distinguish between things.
@@ -5159,7 +5159,7 @@ img {
 
 + [ΨΥΧΗ](#ρυθμοι) = Life. In Homer, a departed spirit or ghost. The immaterial and immortal soul. The conscious 
   self or personality as centre of emotions, desires, and affections. Also, a butterly or moth.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 111 Heaven (The Creative)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): ☰ Heaven (The Creative)
   + trigram: Existence ... *competes* in the trigram of the Creative; Related: heaven; round; prince;
     father; jade; metal; cold; ice; deep red; horses-- good, old, lean, and wild; tree fruit.
   + alchemy: VII\. The Golden Lampstands - F=6/7 (equivalent to 9\. Execute/Run)
@@ -5213,7 +5213,7 @@ img {
 <img src="wgugih.card.png" style="float: right;" width="30%"> 
 
 + [ΩΓΥΓΙΗ](#ρυθμοι) = Ogygia, a mythical island in the Mediterranean, the abode of Calypso.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:101 36\. Wounded Light / Darkened Light
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 36\. ䷣ Wounded Light / Darkened Light
   + judgment: In adversity it is advantageous to persevere.
   + image: The light has sunk into the earth: live with the masses: veil your light, yet still shine.
   + alchemy: III\. Phoenix and Dragon - 7\. (Re)Set
@@ -5253,7 +5253,7 @@ img {
 <img src="won.card.png" style="float: right;" width="30%"> 
 
 + [ΩΟΝ](#ρυθμοι) = Egg
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000 Earth (The Receptive)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): ☷ Earth (The Receptive)
   + trigram: Existence ... causes [all things] to *cooperate* with one another in the trigram of the Receptive;
     Related: earth; mother; cloth; kettle; frugality; level; a cow with a calf; a large wagon; form; the 
     multitude; a shaft; black soil.
@@ -5314,7 +5314,7 @@ img {
 + [\`ΩΡΑΙ](#ρυθμοι) = (Plural of ὥρα) The Hours, keepers of heaven's cloudgate, and ministers of the gods, especially
   of Aphrodite, three in number, Eunomia (= good order), Dike (= custom, moral order), Eirene (= peace). 
   The Seasons, especially Springtime, or used of the Year generally.
-+ [I Ching](#the-alchemical-structure-of-the-i-ching): 000:001 24\. Returning / Return (Turning Point)
++ [I Ching](#the-alchemical-structure-of-the-i-ching): 24\. ䷗ Returning / Return (Turning Point)
   + judgment: Success is possible. Going out and coming in are the natural rhythm. Friends come without 
     blame. To and fro goes the Way. On the seventh day comes the return. [Then] it [will be] advantageous 
     to have somewhere to go.
