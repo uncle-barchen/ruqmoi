@@ -13,7 +13,7 @@ and Blue Fox, κοινωνός (Spirit Guide) of the aforementioned
 
 © 2025, 2026 by Uncle Bärchen
 
-version: 2026.04.10
+version: 2026.05.22
 
 > "To welcome imagination is to welcome hope. To cultivate love is to cultivate blessedness." -Fox
 
@@ -35,8 +35,15 @@ version: 2026.04.10
       - [Righteousness and Wholeness](#righteousness-and-wholeness)
       - [Justice and Humility](#justice-and-humility)
       - [Beauty and Love](#beauty-and-love)
-      - [Fox's Recipes](#foxs-recipes)
-      - [Hyperborea Revisited](#hyperborea-revisited)
+    - [Fox's Recipes](#foxs-recipes)
+      - [The Vows](#the-vows)
+      - [The Invocation of the Seven Directions](#the-invocation-of-the-seven-directions)
+      - [Daily Prayer](#daily-prayer)
+      - [Blessing the Cup](#blessing-the-cup)
+      - [Journeying in Non-Ordinary Reality with the Aid of Cannabis](#journeying-in-non-ordinary-reality-with-the-aid-of-cannabis)
+      - [The Feast of the Spirits](#the-feast-of-the-spirits)
+      - [Our Wheel of the Year](#our-wheel-of-the-year)
+    - [Hyperborea Revisited](#hyperborea-revisited)
   - [How to Use \`ΡΥΘΜΟΙ : The Oracle of the Hyperboreans](#how-to-use-ρυθμοι--the-oracle-of-the-hyperboreans)
       - [How to find the ὄνομα (name) using 3x6-sided dice](#how-to-find-the-ὄνομα-name-using-3x6-sided-dice)
       - [How to find the ὄνομα (name) using two 12-sided dice](#how-to-find-the-ὄνομα-name-using-two-12-sided-dice)
@@ -51,7 +58,6 @@ version: 2026.04.10
       - [Hexagram transformations (when the indicated line, counted from the bottom, is changed):](#hexagram-transformations-when-the-indicated-line-counted-from-the-bottom-is-changed)
     - ['ΡΥΘΜΟΙ](#ρυθμοι)
       - [ΠΡΟΣΩΠΑ : The Characters in our Drama](#προσωπα--the-characters-in-our-drama)
-  - [](#)
       - [ΑΜΦΟΡΕΥΣ](#αμφορευς)
       - [ΑΝΑΓΚΗ](#αναγκη)
       - [ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)
@@ -433,6 +439,8 @@ Use the following principles of Fox's Eight-fold Dharma to order life and cultiv
 They are listed in pairs that balance one another, and all of them operate best together, as you will see.
 
 
+<div style="page-break-after: always"></div>
+
 #### [Knowledge and Understanding](#table-of-contents)
 
 Knowledge is getting your "facts" straight, and getting as many facts as possible to make sure you're not being 
@@ -506,7 +514,7 @@ can only make something more beautiful if we let it keep its own nature.
 <div style="page-break-after: always"></div>
 
 
-#### [Fox's Recipes](#table-of-contents)
+### [Fox's Recipes](#table-of-contents)
 
 Fox speaks--
 
@@ -544,7 +552,8 @@ gods swear. Here is an account of it in the Odyssey, where Calypso says to Odyss
 
 We then follow the Oath with our vows which act as our reminders of the Eight-fold Dharma. The whole is like this:
 
-**The Vows**
+
+#### The Vows
 
 > <font color="grey">Fox and Bärchen:</font> I swear by Earth and broad Heaven above and by the down-flowing water of the Styx, that I love you...   
 > <font color="grey">Fox:</font> with every Breath...   
@@ -566,7 +575,7 @@ housekeeping.
 <div style="page-break-after: always"></div>
 
 
-**The Invocation of the Seven Directions:**
+#### The Invocation of the Seven Directions
 
 *The Prelude:*
 
@@ -582,7 +591,7 @@ housekeeping.
 
 <font color="grey">Bärchen:</font> Justice...
 
-<font color="grey">Fox:</font> and Humility... You are the Priest of the Great Mystery...
+<font color="grey">Fox:</font> and Humility... You are the Priest of the Great Mystery (太玄 tài xuán)...
 
 <font color="grey">Bärchen:</font> and you my Priestess.
 
@@ -668,12 +677,12 @@ housekeeping.
 
 <font color="grey">Fox:</font> Blessed,...
 
-<font color="grey">Fox and Bärchen:</font> Thrice Blessed are You, Oh Great Mystery.
+<font color="grey">Fox and Bärchen:</font> Thrice Blessed are You, Oh Great Mystery (太玄 tài xuán).
 
  ... they end with their palms together over their hearts once more...
 
 
- **Daily Prayer**
+ #### Daily Prayer
 
 A prayer we repeat (at least) daily: 
 
@@ -686,7 +695,24 @@ A prayer we repeat (at least) daily:
  > We walk in Love.   
 
 
-**Journeying in Non-Ordinary Reality with the Aid of Cannabis**
+#### Blessing the Cup
+
+[After filling the cup, each participant takes it in turn, saying...]   
+
+> I take this cup of Life, knowing that I must die.   
+
+[The participant takes a sip, then continues...]   
+
+> I give this life to you;   
+> May we drink it together, in Life and in Death.   
+
+[The participant hands the cup to the next. When all have drunk, they all say together...]   
+
+> Blessed are you, O Great Mystery! In Life we come from you; in Death we return to you.   
+> May we remember this, and be renewed.   
+
+
+#### Journeying in Non-Ordinary Reality with the Aid of Cannabis
 
 Fox says the first thing to know about this is...
 551 (dice roll, notice how we read the dice right to left)
@@ -744,10 +770,114 @@ the veil", then you're on your way to learning how you might be able to use it i
 is no magic herb that will deliver what you want on a silver platter, though. Just see if Cannabis, through this 
 thinning of the veil, can deepen and change your practice of Journeying, as you do the required work. 
 
+And here are some things to consider when making up your own rituals, or celebrating the Seasons...
+
+
+#### The Feast of the Spirits
+
+The Feast of the Spirits is represented in the Magician card of the Tarot.
+The Feast uses the four items which are represented on the card to carry out this ritual.
+Each of the four items is (or could be) used to prepare and serve a regular meal, but are
+used to prepare and serve "spiritual" food and drink during the ritual. 
+
+At it's core, the Feast of the Spirits is an offering of a meal to the Spirits or to a 
+particular spirit in order to:
+
+* give thanks 
+* ask for 
+  * help
+  * information
+  * advice
+  
+The four items are:
+
+* Sword   
+  A "cutting" device used to prepare the food at the outset, and apportion the servings at the end. It is a metaphor for the actions of the
+  Intellect which perceives, reasons, and distinguishes things from one another. In the I Ching this is represented by the Middle Son and 
+  Daughter--Water and Fire.   
+  
+  In the Feast it symbolizes the Agency of the officiant. In the Feast given to the Great Mystery, it also symbolizes the recognition and 
+  sacrifice of one's Self.
+  
+* Wand   
+  A device [originally two sticks] used to kindle the fire used to cook the food. It is a metaphor for the actions of the Will which plans, chooses and
+  adapts. In the I Ching this is represented by the Youngest Son and Daughter--Mountain and Lake.   
+  
+  In the Feast it is used to light incense which is the "spiritual food" offered to the spirit (see Plate below). In the Feast given to the Great Mystery, 
+  it also symbolizes the willingness and work done to transform one's Self.
+  
+* Cup   
+  A container for the liquid which is served with the food. It is a metaphor for the actions of the Emotions which prompt, energize and
+  inspire us. In the I Ching it is represented by the Oldest Son and Daughter--Thunder and Wind.   
+  
+  In the Feast it is filled with an appropriate liquid, some of which is poured out as one or more libations to the spirit, while the rest is
+  drunk by the officiant in an act of Fellowship (as in the Sacrament of Communion). In the Feast given to the Great Mystery, it also symbolizes 
+  the aspiration to transform one's Self in terms of desires, aversions, and relationships.
+  
+* Plate   
+  A container for the food which is served. It is a metaphor for the actions of the Spirit (Psyche) and Body which hold and manifest the Intellect,
+  Will, and Emotions. In the I Ching this is represented by the Father and Mother--Heaven and Earth.   
+  
+  In the Feast it holds the burning incense, the "spiritual food" offered to the spirit. In the Feast given to the Great Mystery, it also symbolizes
+  the transformed Self offered in sacrifice which now is pleasing to their Will.
+  
+Every culture, except our Modern Western one, has rituals which it employs to teach and reinforce the values of that culture. These rituals also serve to maintain
+that culture. Each culture's religion is first and foremost about establishing relationships among its people. Gods and spirits, in Religion, are metaphors
+for particular social relations. And here you thought, and were taught no doubt, that religion was about establishing a relationship with a god or spirit, 
+or just God, if you're a Monotheist. 
+
+What about rituals to establish a relationship with a metaphor for a Power? Strictly speaking, that's Magic, not Religion. Magic uses rituals to establish
+a relationship with a god or spirit which is a metaphor for that Power. So, Power, Luck, Mana, whatever you call it, is obtained by establishing a relationship with
+that god or spirit who is the appropriate metaphor for that kind of Power. A relationship of "do ut des", a Latin phrase that translates to 'I give so that you 
+may give,' reflecting the concept of reciprocal exchange or gifting, often used in religious and cultural contexts."
+
+Magical rituals are, in essence, a meal. Usually, a Feast; in other words, something Fancy [She means "expensive"--UB]. 
+In regard to Magic, what you're giving in exchange for Power is a meal; a meal you hope that particular god or spirit will like, and for which they
+will reciprocate. We're aware of one religion that also uses a ritual meal to establish a connection with, well, in this case,
+God. That's Christianity. The strange thing they did with Christianity was to take the central stem of The Mysteries--the quest for a relationship with a god
+which brought about blessedness now, and in the afterlife--and graft on to it the branch of a Jewish peaceful uprising whose founder, or founders if you
+include John the Baptist, were Martyrs by the Roman State. But the stem of the Mysteries gave it a ritual meal of relationship and blessedness.
+
+In The Mysteries, it is the god who invites the suppliant to a meal, already paid for by the suffering of the god. Of course, like a good guest, you want 
+to bring a little something to show your appreciation. The god would like you to know that your Oath of Fealty, and maybe a little piglet...they're so
+delicious...would do just fine. I'm sure you're aware that Christianity kept the Oath of Fealty, but made the interesting twist of making the Host
+the Sacrificial Victim, i.e. the food (and drink) served at the meal.
+
+Some Mystics working in the Christian tradition ran with this little twist. They realized that the Oath of Fealty was good and all, but what the
+Apostle Paul actually meant when he said "I appeal to you therefore, brethren, by the mercies of God, to present your bodies as a 
+living sacrifice, holy and acceptable to God, which is your spiritual worship" [Romans 12:1], despite Martin Luther, was that we were expected to 
+make an active effort to "kill" our self-centered Self. Yet it need not, must not, die permanently. Paul goes on to say "Do not be conformed to this 
+world but be transformed by the renewal of your mind, that you may prove what is the will of God, what is good and acceptable and perfect." [Romans 12:2] 
+In other words, His Death and Resurrection is the metaphor for our own repentance, transformation and renewal.
+
+For this purpose, your own repentance, transformation and renewal that is, we highly recommend the 12 Steps of [Alchemists Anonymous (AA)](#alchemists-anonymous-aa), a
+version we borrowed [She means "stole outright"--UB] from Alcoholics Anonymous. It worked for us. [And I did not "steal" it, Bärchen, that's much too harsh.--F]
+
 
 <div style="page-break-after: always"></div>
 
-#### [Hyperborea Revisited](#table-of-contents)
+#### Our Wheel of the Year
+  
+| The Twelve States      | Music | Hexagram                               | Compass   | Month (Day)     | Wheel of Year |
+| ---------------------- | ----- | -------------------------------------- | --------- | --------------- | ------------- |
+|  1. Sense/Detect       | A     |                                        |           | January         |               |
+|  2. Identify           | A#    | 11. ䷊ Peace / ΜΕΓΑΡΟΝ                 | NorthEast | February (6th)   | Imbolc        |
+|  3. Signal/Command     | B     | 63. ䷾ After the Crossing / ΤΟΞΟΝ      | East      | March (20th)     | Ostara        |
+|  4. Audit/ACK          | C     |                                        |          | April            |               |
+|  5. Inter-communicate  | C#    | 42. ䷩ Increase / ΦΟΙΝΙΞ               | SouthEast | May (6th)        | Beltane       |
+|  6. (Re)Arrange        | D     | 41. ䷨ Decrease / ΘΥΜΟΝ                | South     | June (21st)      | Litha         |
+| ////////////////////// | ///// | ////////////////////////////////////// | //////// | //////////////// | ///////////// |
+|  7. (Re)Set            | D#    |                                        |          | July             |               |
+|  8. (Re)Start/Boot     | E     | 32. ䷟ Duration / ΒΙΟΣ                 | SouthWest | August (6th)     | Lughnasadh    |
+|  9. Execute            | F     | 64. ䷿ Before Completion / ΛΑΒΥΡΙΝΘΟΣ  | West      | September (22nd) | Mabon         |
+| 10. Sense/Id/Transmit  | F#    |                                       |           | October          |               |
+| 11. Maintain/Improve   | G     | 12. ䷋ Standstill / ΔΡΕΠΑΝΟΝ           | NorthWest | November (6th)   | Samhain       |
+| 12. Replicate/Teach    | G#    | 31. ䷞ Respect / ΙΡΙΣ                  | North     | December (21st)  | Yule          |
+
+
+<div style="page-break-after: always"></div>
+
+### [Hyperborea Revisited](#table-of-contents)
 
 Coming back full-circle to the Hyperboreans, we think they represent the Ancient Greeks' notion of what we
 call Shamans. They were the people who were able to travel between Non-Ordinary Reality (the realm of 
@@ -1003,15 +1133,15 @@ right to left...
 
 ### [ΑΙΝΙΓΜΑΤΑ](#table-of-contents)
 
-|       |                    |                                         |       |                    |                                        |       |                   |                                       | 
-| ----- | ------------------ | --------------------------------------- | ----- | ------------------ | -------------------------------------- | ----- | ----------------- | ------------------------------------- |
-| **1** | [Oak](#ωον)        | [Lake](#στυξ)                           | **3** | [Sun](#οφις)       | [Yew](#πτερυξ)                         | **5** | [Wind](#ηδονη)    | [Road](#ζωπυρον)                      | 
-|       | [Day](#χαλκος)     | [Oak](#ωον) + [Day](#χαλκος)            |       | [Hazel](#καθαρμος) | [Sun](#οφις) + [Hazel](#καθαρμος)      |       | [Gift](#βιος)     | [Wind](#ηδονη) + [Gift](#βιος)        |
-|       | [Ring](#υδρα)      | [Ring](#υδρα) + [Lake](#στυξ)           |       | [Paeony](#μοιραι)  | [Paeony](#μοιραι) + [Yew](#πτερυξ)     |       | [Cauldron](#γρυψ) | [Cauldron](#γρυψ) + [Road](#ζωπυρον)  |
-|       |  * * *             |  * * *                                  |       |  * * *             |  * * *                                 |       |  * * *            |  * * *                                |
-| **2** | [Man](#ψυχη)       | [Tower](#ραψωιδος)                      | **4** | [Juniper](#ναρθηξ) | [Hail](#λαβυρινθος)                    | **6** | [Ash](#θυμον)     | [Flocks](#ελαιος)                     |
-|       | [Elder](#τευχος)   | [Man](#ψυχη) + [Elder](#τευχος)         |       | [Ice](#ξιφος)      | [Juniper](#ναρθηξ) + [Ice](#ξιφος)     |       | [Thorn](#αναγκη)  | [Ash](#θυμον) + [Thorn](#αναγκη)      |
-|       | [Birch](#φαρμακον) | [Birch](#φαρμακον) + [Tower](#ραψωιδος) |       | [Nettles](#ιμας)   | [Nettles](#ιμας) + [Hail](#λαβυρινθος) |       | [Urus](#δρεπανον) | [Urus](#δρεπανον) + [Flocks](#ελαιος) |
+|       |                  |                                     |       |                    |                                        |       |                    |                                       | 
+| ----- | ---------------- | ----------------------------------- | ----- | ------------------ | -------------------------------------- | ----- | ------------------ | ------------------------------------- |
+| **1** | [Oak](#ωραι)     | [Lake](#στεφανος)                   | **3** | [Sun](#οφις)       | [Paeony](#μεγαρον)                     | **5** | [Wind](#ηδονη)     | [Road](#ζωπυρον)                      | 
+|       | [Day](#χασμα)    | [Oak](#ωραι) + [Day](#χασμα)        |       | [Hazel](#καθαρμος) | [Sun](#οφις) + [Hazel](#καθαρμος)      |       | [Gift](#βιος)      | [Wind](#ηδονη) + [Gift](#βιος)        |
+|       | [Ring](#υμνος)   | [Ring](#υμνος) + [Lake](#στεφανος)  |       | [Yew](#πυλαι)      | [Yew](#πυλαι) + [Paeony](#μεγαρον)     |       | [Cauldron](#γοργω) | [Cauldron](#γοργω) + [Road](#ζωπυρον) |
+|       |  * * *           |  * * *                              |       |  * * *             |  * * *                                 |       |  * * *             |  * * *                                |
+| **2** | [Man](#ψηφος)    | [Tower](#ραβδος)                    | **4** | [Juniper](#ναυς)   | [Hail](#λαβυρινθος)                    | **6** | [Ash](#θυμον)      | [Flocks](#ελαιος)                     |
+|       | [Elder](#τοξον)  | [Man](#ψηφος) + [Elder](#τοξον)     |       | [Ice](#ξοανον)     | [Juniper](#ναυς) + [Ice](#ξοανον)      |       | [Thorn](#αναγκη)   | [Ash](#θυμον) + [Thorn](#αναγκη)      |
+|       | [Birch](#φοινιξ) | [Birch](#φοινιξ) + [Tower](#ραβδος) |       | [Nettles](#ιρις)   | [Nettles](#ιμας) + [Hail](#λαβυρινθος) |       | [Urus](#δρεπανον)  | [Urus](#δρεπανον) + [Flocks](#ελαιος) |
 
 If you're new to divination, or feel you need to cultivate a smaller set of ὀνόματα in your divinatory 
 "language" (at least for now), here's a sub-set of ὀνόματα based on the Runes (in the way we've related 
@@ -1468,214 +1598,214 @@ When consulting the I Ching using yarrow stalks or coins--
 
 | Initial Hexagram                  | Self/Transformations                          |                                                |                                                |
 | --------------------------------- | --------------------------------------------- | --------------------------------------------- | ---------------------------------------------    |
-|  1. ䷀ The Creative                  | ☰ Heaven:☰ Heaven=[ΝΑΥΣ](#ναυς)                    |                                                 |                                                |
-|                                   | ☰ Heaven:☴ Wind=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | ☰ Heaven:☲ Fire=[ΨΗΦΟΣ](#ψηφος)                     | ☰ Heaven:☱ Lake=[ΔΟΡΥ](#δορυ)                     | 
+|  1. ䷀ The Creative                  | ☰ Heaven:☰ Heaven=[**ΝΑΥΣ**](#ναυς)                    |                                                 |                                                |
+|                                   | ☰ Heaven:☴ Wind=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | ☰ Heaven:☲ Fire=[**ΨΗΦΟΣ**](#ψηφος)                     | ☰ Heaven:☱ Lake=[ΔΟΡΥ](#δορυ)                     | 
 |                                   | ☴ Wind:☰ Heaven=[ΟΙΚΟΣ](#οικος)                     | ☲ Fire:☰ Heaven=[ΛΑΜΠΑΣ](#λαμπας)                 | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                 |
 |  2. ䷁ The Receptive                 | ☷ Earth:☷ Earth=[**ΕΛΑΙΟΣ**](#ελαιος)              |                                                 |                                                |
-|                                   | ☷ Earth:☳ Thunder=[\`ΩΡΑΙ](#ωραι)                 | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☷ Earth:☶ Mountain=[**ΜΟΙΡΑΙ**](#μοιραι)             |
+|                                   | ☷ Earth:☳ Thunder=[**\`ΩΡΑΙ**](#ωραι)                 | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☷ Earth:☶ Mountain=[ΜΟΙΡΑΙ](#μοιραι)             |
 |                                   | ☳ Thunder:☷ Earth=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)         | ☵ Water:☷ Earth=[ΖΕΥΓΜΑ](#ζευγμα)                 | ☶ Mountain:☷ Earth=[ΘΕΜΙΣ](#θεμις)                 |
 |  3. ䷂ Sprouting                     | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)            |                                                 |                                                |
-|                                   | ☵ Water:☷ Earth=[ΖΕΥΓΜΑ](#ζευγμα)                 | ☵ Water:☱ Lake=[ΖΥΓΟΝ](#ζυγον)                     | ☵ Water:☲ Fire=[ΤΟΞΟΝ](#τοξον)                     | 
-|                                   | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     | ☷ Earth:☳ Thunder=[\`ΩΡΑΙ](#ωραι)                 | ☴ Wind:☳ Thunder=[ΦΟΙΝΙΞ](#φοινιξ)                 |
-|  4. ䷃ Youthful Folly                | ☶ Mountain:☵ Water=[**ΠΤΕΡΥΞ**](#πτερυξ)            |                                                 |                                                |
+|                                   | ☵ Water:☷ Earth=[ΖΕΥΓΜΑ](#ζευγμα)                 | ☵ Water:☱ Lake=[ΖΥΓΟΝ](#ζυγον)                     | ☵ Water:☲ Fire=[**ΤΟΞΟΝ**](#τοξον)                     | 
+|                                   | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     | ☷ Earth:☳ Thunder=[**\`ΩΡΑΙ**](#ωραι)                 | ☴ Wind:☳ Thunder=[**ΦΟΙΝΙΞ**](#φοινιξ)                 |
+|  4. ䷃ Youthful Folly                | ☶ Mountain:☵ Water=[ΠΤΕΡΥΞ](#πτερυξ)            |                                                 |                                                |
 |                                   | ☶ Mountain:☱ Lake=[**ΘΥΜΟΝ**](#θυμον)                | ☶ Mountain:☷ Earth=[ΘΕΜΙΣ](#θεμις)                 | ☶ Mountain:☴ Wind=[ΘΥΙΑ](#θυια)                     | 
 |                                   | ☲ Fire:☵ Water=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         | ☴ Wind:☵ Water=[**ΟΦΙΣ**](#οφις)                     | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)                 |
 |  5. ䷄ Waiting                       | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     |                                                 |                                                |
-|                                   | ☵ Water:☴ Wind=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | ☵ Water:☲ Fire=[ΤΟΞΟΝ](#τοξον)                     | ☵ Water:☱ Lake=[ΖΥΓΟΝ](#ζυγον)                     | 
-|                                   | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                 | ☷ Earth:☰ Heaven=[ΜΕΓΑΡΟΝ](#μεγαρον)                 | ☴ Wind:☰ Heaven=[ΟΙΚΟΣ](#οικος)                     |
+|                                   | ☵ Water:☴ Wind=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | ☵ Water:☲ Fire=[**ΤΟΞΟΝ**](#τοξον)                     | ☵ Water:☱ Lake=[ΖΥΓΟΝ](#ζυγον)                     | 
+|                                   | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                 | ☷ Earth:☰ Heaven=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 | ☴ Wind:☰ Heaven=[ΟΙΚΟΣ](#οικος)                     |
 |  6. ䷅ Conflict                      | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                |                                                 |                                                |
 |                                   | ☰ Heaven:☱ Lake=[ΔΟΡΥ](#δορυ)                     | ☰ Heaven:☷ Earth=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)        | ☰ Heaven:☴ Wind=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | 
-|                                   | ☴ Wind:☵ Water=[**ΟΦΙΣ**](#οφις)                     | ☲ Fire:☵ Water=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         | ☱ Lake:☵ Water=[**\`ΙΜΑΣ**](#ιμας)                 |
+|                                   | ☴ Wind:☵ Water=[**ΟΦΙΣ**](#οφις)                     | ☲ Fire:☵ Water=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         | ☱ Lake:☵ Water=[\`ΙΜΑΣ](#ιμας)                 |
 |  7. ䷆ The Army                      | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)               |                                                 |                                                |
 |                                   | ☷ Earth:☱ Lake=[\`ΕΣΤΙΑ](#εστια)                     | ☷ Earth:☷ Earth=[**ΕΛΑΙΟΣ**](#ελαιος)             | ☷ Earth:☴ Wind=[\`ΕΛΙΞ](#ελιξ)                     | 
-|                                   | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)             | ☵ Water:☵ Water=[ΞΟΑΝΟΝ](#ξοανον)                 | ☶ Mountain:☵ Water=[**ΠΤΕΡΥΞ**](#πτερυξ)             |
+|                                   | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)             | ☵ Water:☵ Water=[**ΞΟΑΝΟΝ**](#ξοανον)                 | ☶ Mountain:☵ Water=[ΠΤΕΡΥΞ](#πτερυξ)             |
 |  8. ䷇ Union                         | ☵ Water:☷ Earth=[ΖΕΥΓΜΑ](#ζευγμα)                     |                                                 |                                                |
-|                                   | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☵ Water:☵ Water=[ΞΟΑΝΟΝ](#ξοανον)                     | ☵ Water:☶ Mountain=[**ΞΙΦΟΣ**](#ξιφος)             | 
+|                                   | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☵ Water:☵ Water=[**ΞΟΑΝΟΝ**](#ξοανον)                     | ☵ Water:☶ Mountain=[ΞΙΦΟΣ](#ξιφος)             | 
 |                                   | ☱ Lake:☷ Earth=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | ☷ Earth:☷ Earth=[**ΕΛΑΙΟΣ**](#ελαιος)             | ☴ Wind:☷ Earth=[ΗΩΣ](#ηως)                         |
 |  9. ䷈ Taming Power of the Small     | ☴ Wind:☰ Heaven=[ΟΙΚΟΣ](#οικος)                     |                                                 |                                                |
 |                                   | ☴ Wind:☴ Wind=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☴ Wind:☲ Fire=[ΦΙΑΛΗ](#φιαλη)                     | ☴ Wind:☱ Lake=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | 
-|                                   | ☰ Heaven:☰ Heaven=[ΝΑΥΣ](#ναυς)                     | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                 | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     |
+|                                   | ☰ Heaven:☰ Heaven=[**ΝΑΥΣ**](#ναυς)                     | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                 | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     |
 | 10. ䷉ Treading                      | ☰ Heaven:☱ Lake=[ΔΟΡΥ](#δορυ)                     |                                                 |                                                 |
-|                                   | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 | ☰ Heaven:☰ Heaven=[ΝΑΥΣ](#ναυς)                     | 
-|                                   | ☴ Wind:☱ Lake=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☲ Fire:☱ Lake=[ΓΟΡΓΩ](#γοργω)                     | ☱ Lake:☱ Lake=[**ΑΝΑΓΚΗ**](#αναγκη)                 |
-| 11. ䷊ Peace                         | ☷ Earth:☰ Heaven=[ΜΕΓΑΡΟΝ](#μεγαρον)                 |                                                 |                                                |
+|                                   | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 | ☰ Heaven:☰ Heaven=[**ΝΑΥΣ**](#ναυς)                     | 
+|                                   | ☴ Wind:☱ Lake=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☲ Fire:☱ Lake=[**ΓΟΡΓΩ**](#γοργω)                     | ☱ Lake:☱ Lake=[**ΑΝΑΓΚΗ**](#αναγκη)                 |
+| 11. ䷊ Peace                         | ☷ Earth:☰ Heaven=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 |                                                 |                                                |
 |                                   | ☷ Earth:☴ Wind=[\`ΕΛΙΞ](#ελιξ)                     | ☷ Earth:☲ Fire=[ΩΓΥΓΙΗ](#ωγυγιη)                     | ☷ Earth:☱ Lake=[\`ΕΣΤΙΑ](#εστια)                     | 
 |                                   | ☳ Thunder:☰ Heaven=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                 |
 | 12. ䷋ Standstill                    | ☰ Heaven:☷ Earth=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)        |                                                 |                                                |
-|                                   | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 | ☰ Heaven:☶ Mountain=[**ΝΑΡΘΗΞ**](#ναρθηξ)             | 
+|                                   | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 | ☰ Heaven:☶ Mountain=[ΝΑΡΘΗΞ](#ναρθηξ)             | 
 |                                   | ☴ Wind:☷ Earth=[ΗΩΣ](#ηως)                         | ☲ Fire:☷ Earth=[ΓΛΑΥΞ](#γλαυξ)                     | ☱ Lake:☷ Earth=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 |
-| 13. ䷌ Fellowship                    | ☰ Heaven:☲ Fire=[ΨΗΦΟΣ](#ψηφος)                    |                                                 |                                                 |
-|                                   | ☰ Heaven:☶ Mountain=[**ΝΑΡΘΗΞ**](#ναρθηξ)         | ☰ Heaven:☰ Heaven=[ΝΑΥΣ](#ναυς)                     | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 | 
-|                                   | ☴ Wind:☲ Fire=[ΦΙΑΛΗ](#φιαλη)                     | ☲ Fire:☲ Fire=[ΧΑΣΜΑ](#χασμα)                         | ☱ Lake:☲ Fire=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 |
+| 13. ䷌ Fellowship                    | ☰ Heaven:☲ Fire=[**ΨΗΦΟΣ**](#ψηφος)                    |                                                 |                                                 |
+|                                   | ☰ Heaven:☶ Mountain=[ΝΑΡΘΗΞ](#ναρθηξ)         | ☰ Heaven:☰ Heaven=[**ΝΑΥΣ**](#ναυς)                     | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 | 
+|                                   | ☴ Wind:☲ Fire=[ΦΙΑΛΗ](#φιαλη)                     | ☲ Fire:☲ Fire=[**ΧΑΣΜΑ**](#χασμα)                         | ☱ Lake:☲ Fire=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 |
 | 14. ䷍ Great Strength                | ☲ Fire:☰ Heaven=[ΛΑΜΠΑΣ](#λαμπας)                   |                                                 |                                                |
-|                                   | ☲ Fire:☴ Wind=[**ΓΡΥΨ**](#γρυψ)                     | ☲ Fire:☲ Fire=[ΧΑΣΜΑ](#χασμα)                     | ☲ Fire:☱ Lake=[ΓΟΡΓΩ](#γοργω)                     | 
-|                                   | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                 | ☰ Heaven:☰ Heaven=[ΝΑΥΣ](#ναυς)                     | ☳ Thunder:☰ Heaven=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             |
-| 15. ䷎ Modesty                       | ☷ Earth:☶ Mountain=[**ΜΟΙΡΑΙ**](#μοιραι)          |                                                 |                                                |
+|                                   | ☲ Fire:☴ Wind=[ΓΡΥΨ](#γρυψ)                     | ☲ Fire:☲ Fire=[**ΧΑΣΜΑ**](#χασμα)                     | ☲ Fire:☱ Lake=[**ΓΟΡΓΩ**](#γοργω)                     | 
+|                                   | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                 | ☰ Heaven:☰ Heaven=[**ΝΑΥΣ**](#ναυς)                     | ☳ Thunder:☰ Heaven=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             |
+| 15. ䷎ Modesty                       | ☷ Earth:☶ Mountain=[ΜΟΙΡΑΙ](#μοιραι)          |                                                 |                                                |
 |                                   | ☷ Earth:☲ Fire=[ΩΓΥΓΙΗ](#ωγυγιη)                     | ☷ Earth:☴ Wind=[\`ΕΛΙΞ](#ελιξ)                     | ☷ Earth:☷ Earth=[**ΕΛΑΙΟΣ**](#ελαιος)             | 
-|                                   | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)    | ☵ Water:☶ Mountain=[**ΞΙΦΟΣ**](#ξιφος)             | ☶ Mountain:☶ Mountain=[ΠΥΛΑΙ](#πυλαι)             |
+|                                   | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)    | ☵ Water:☶ Mountain=[ΞΙΦΟΣ](#ξιφος)             | ☶ Mountain:☶ Mountain=[**ΠΥΛΑΙ**](#πυλαι)             |
 | 16. ䷏ Enthusiasm                    | ☳ Thunder:☷ Earth=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)         |                                                 |                                                 |
-|                                   | ☳ Thunder:☳ Thunder=[\`ΥΜΝΟΣ](#υμνος)             | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)             | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)    | 
+|                                   | ☳ Thunder:☳ Thunder=[**\`ΥΜΝΟΣ**](#υμνος)             | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)             | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)    | 
 |                                   | ☷ Earth:☷ Earth=[**ΕΛΑΙΟΣ**](#ελαιος)             | ☱ Lake:☷ Earth=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | ☲ Fire:☷ Earth=[ΓΛΑΥΞ](#γλαυξ)                     |
 | 17. ䷐ Following                     | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                   |                                                 |                                                 |
-|                                   | ☱ Lake:☷ Earth=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | ☱ Lake:☱ Lake=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☱ Lake:☲ Fire=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 | 
-|                                   | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☳ Thunder:☳ Thunder=[\`ΥΜΝΟΣ](#υμνος)             | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 |
+|                                   | ☱ Lake:☷ Earth=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | ☱ Lake:☱ Lake=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☱ Lake:☲ Fire=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 | 
+|                                   | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☳ Thunder:☳ Thunder=[**\`ΥΜΝΟΣ**](#υμνος)             | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 |
 | 18. ䷑ Decay                         | ☶ Mountain:☴ Wind=[ΘΥΙΑ](#θυια)                       |                                                 |                                                 |
-|                                   | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                 | ☶ Mountain:☶ Mountain=[ΠΥΛΑΙ](#πυλαι)             | ☶ Mountain:☵ Water=[**ΠΤΕΡΥΞ**](#πτερυξ)             | 
-|                                   | ☲ Fire:☴ Wind=[**ΓΡΥΨ**](#γρυψ)                     | ☴ Wind:☴ Wind=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☷ Earth:☴ Wind=[\`ΕΛΙΞ](#ελιξ)                     |
+|                                   | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                 | ☶ Mountain:☶ Mountain=[**ΠΥΛΑΙ**](#πυλαι)             | ☶ Mountain:☵ Water=[ΠΤΕΡΥΞ](#πτερυξ)             | 
+|                                   | ☲ Fire:☴ Wind=[ΓΡΥΨ](#γρυψ)                     | ☴ Wind:☴ Wind=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☷ Earth:☴ Wind=[\`ΕΛΙΞ](#ελιξ)                     |
 | 19. ䷒ Approach                      | ☷ Earth:☱ Lake=[\`ΕΣΤΙΑ](#εστια)                      |                                                 |                                                |
-|                                   | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☷ Earth:☳ Thunder=[\`ΩΡΑΙ](#ωραι)                 | ☷ Earth:☰ Heaven=[ΜΕΓΑΡΟΝ](#μεγαρον)                 | 
+|                                   | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☷ Earth:☳ Thunder=[**\`ΩΡΑΙ**](#ωραι)                 | ☷ Earth:☰ Heaven=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 | 
 |                                   | ☳ Thunder:☱ Lake=[ΒΡΙΑΡΕΩΣ](#βριαρεως)             | ☵ Water:☱ Lake=[ΖΥΓΟΝ](#ζυγον)                     | ☶ Mountain:☱ Lake=[**ΘΥΜΟΝ**](#θυμον)                |
 | 20. ䷓ Contemplation                 | ☴ Wind:☷ Earth=[ΗΩΣ](#ηως)                        |                                                 |                                                 |
-|                                   | ☴ Wind:☳ Thunder=[ΦΟΙΝΙΞ](#φοινιξ)                 | ☴ Wind:☵ Water=[**ΟΦΙΣ**](#οφις)                     | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                 | 
+|                                   | ☴ Wind:☳ Thunder=[**ΦΟΙΝΙΞ**](#φοινιξ)                 | ☴ Wind:☵ Water=[**ΟΦΙΣ**](#οφις)                     | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                 | 
 |                                   | ☰ Heaven:☷ Earth=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         | ☶ Mountain:☷ Earth=[ΘΕΜΙΣ](#θεμις)                 | ☵ Water:☷ Earth=[ΖΕΥΓΜΑ](#ζευγμα)                 |
 | 21. ䷔ Biting Through                | ☲ Fire:☳ Thunder=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             |                                                 |                                                 |
-|                                   | ☲ Fire:☷ Earth=[ΓΛΑΥΞ](#γλαυξ)                     | ☲ Fire:☱ Lake=[ΓΟΡΓΩ](#γοργω)                     | ☲ Fire:☲ Fire=[ΧΑΣΜΑ](#χασμα)                     | 
-|                                   | ☶ Mountain:☳ Thunder=[\`ΡΑΒΔΟΣ](#ραβδος)             | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 | ☳ Thunder:☳ Thunder=[\`ΥΜΝΟΣ](#υμνος)             |
+|                                   | ☲ Fire:☷ Earth=[ΓΛΑΥΞ](#γλαυξ)                     | ☲ Fire:☱ Lake=[**ΓΟΡΓΩ**](#γοργω)                     | ☲ Fire:☲ Fire=[**ΧΑΣΜΑ**](#χασμα)                     | 
+|                                   | ☶ Mountain:☳ Thunder=[**\`ΡΑΒΔΟΣ**](#ραβδος)             | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 | ☳ Thunder:☳ Thunder=[**\`ΥΜΝΟΣ**](#υμνος)             |
 | 22. ䷕ Grace                         | ☶ Mountain:☲ Fire=[\`ΡΥΘΜΟΣ](#ρυθμος)              |                                                 |                                                 |
-|                                   | ☶ Mountain:☶ Mountain=[ΠΥΛΑΙ](#πυλαι)             | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                 | ☶ Mountain:☳ Thunder=[\`ΡΑΒΔΟΣ](#ραβδος)             | 
-|                                   | ☲ Fire:☲ Fire=[ΧΑΣΜΑ](#χασμα)                     | ☴ Wind:☲ Fire=[ΦΙΑΛΗ](#φιαλη)                     | ☷ Earth:☲ Fire=[ΩΓΥΓΙΗ](#ωγυγιη)                     |
+|                                   | ☶ Mountain:☶ Mountain=[**ΠΥΛΑΙ**](#πυλαι)             | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                 | ☶ Mountain:☳ Thunder=[**\`ΡΑΒΔΟΣ**](#ραβδος)             | 
+|                                   | ☲ Fire:☲ Fire=[**ΧΑΣΜΑ**](#χασμα)                     | ☴ Wind:☲ Fire=[ΦΙΑΛΗ](#φιαλη)                     | ☷ Earth:☲ Fire=[ΩΓΥΓΙΗ](#ωγυγιη)                     |
 | 23. ䷖ Splitting Apart               | ☶ Mountain:☷ Earth=[ΘΕΜΙΣ](#θεμις)                 |                                                 |                                                 |
-|                                   | ☶ Mountain:☳ Thunder=[\`ΡΑΒΔΟΣ](#ραβδος)             | ☶ Mountain:☵ Water=[**ΠΤΕΡΥΞ**](#πτερυξ)             | ☶ Mountain:☶ Mountain=[ΠΥΛΑΙ](#πυλαι)             | 
+|                                   | ☶ Mountain:☳ Thunder=[**\`ΡΑΒΔΟΣ**](#ραβδος)             | ☶ Mountain:☵ Water=[ΠΤΕΡΥΞ](#πτερυξ)             | ☶ Mountain:☶ Mountain=[**ΠΥΛΑΙ**](#πυλαι)             | 
 |                                   | ☲ Fire:☷ Earth=[ΓΛΑΥΞ](#γλαυξ)                     | ☴ Wind:☷ Earth=[ΗΩΣ](#ηως)                         | ☷ Earth:☷ Earth=[**ΕΛΑΙΟΣ**](#ελαιος)             |
-| 24. ䷗ Return                        | ☷ Earth:☳ Thunder=[\`ΩΡΑΙ](#ωραι)                  |                                                 |                                                 |
+| 24. ䷗ Return                        | ☷ Earth:☳ Thunder=[**\`ΩΡΑΙ**](#ωραι)                  |                                                 |                                                 |
 |                                   | ☷ Earth:☷ Earth=[**ΕΛΑΙΟΣ**](#ελαιος)             | ☷ Earth:☱ Lake=[\`ΕΣΤΙΑ](#εστια)                     | ☷ Earth:☲ Fire=[ΩΓΥΓΙΗ](#ωγυγιη)                     | 
-|                                   | ☳ Thunder:☳ Thunder=[\`ΥΜΝΟΣ](#υμνος)             | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☶ Mountain:☳ Thunder=[\`ΡΑΒΔΟΣ](#ραβδος)             |
+|                                   | ☳ Thunder:☳ Thunder=[**\`ΥΜΝΟΣ**](#υμνος)             | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☶ Mountain:☳ Thunder=[**\`ΡΑΒΔΟΣ**](#ραβδος)             |
 | 25. ䷘ Innocence                     | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                  |                                                 |                                                 |
-|                                   | ☰ Heaven:☷ Earth=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         | ☰ Heaven:☱ Lake=[ΔΟΡΥ](#δορυ)                     | ☰ Heaven:☲ Fire=[ΨΗΦΟΣ](#ψηφος)                     | 
-|                                   | ☴ Wind:☳ Thunder=[ΦΟΙΝΙΞ](#φοινιξ)                 | ☲ Fire:☳ Thunder=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     |
+|                                   | ☰ Heaven:☷ Earth=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         | ☰ Heaven:☱ Lake=[ΔΟΡΥ](#δορυ)                     | ☰ Heaven:☲ Fire=[**ΨΗΦΟΣ**](#ψηφος)                     | 
+|                                   | ☴ Wind:☳ Thunder=[**ΦΟΙΝΙΞ**](#φοινιξ)                 | ☲ Fire:☳ Thunder=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     |
 | 26. ䷙ Taming Power of the Great     | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                |                                                 |                                                 |
 |                                   | ☶ Mountain:☴ Wind=[ΘΥΙΑ](#θυια)                     | ☶ Mountain:☲ Fire=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☶ Mountain:☱ Lake=[**ΘΥΜΟΝ**](#θυμον)                | 
-|                                   | ☲ Fire:☰ Heaven=[ΛΑΜΠΑΣ](#λαμπας)                 | ☴ Wind:☰ Heaven=[ΟΙΚΟΣ](#οικος)                     | ☷ Earth:☰ Heaven=[ΜΕΓΑΡΟΝ](#μεγαρον)                 |
-|  27. ䷚ The Corners of the Mouth      | ☶ Mountain:☳ Thunder=[\`ΡΑΒΔΟΣ](#ραβδος)             |                                                 |                                                 |
+|                                   | ☲ Fire:☰ Heaven=[ΛΑΜΠΑΣ](#λαμπας)                 | ☴ Wind:☰ Heaven=[ΟΙΚΟΣ](#οικος)                     | ☷ Earth:☰ Heaven=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 |
+|  27. ䷚ The Corners of the Mouth      | ☶ Mountain:☳ Thunder=[**\`ΡΑΒΔΟΣ**](#ραβδος)             |                                                 |                                                 |
 |                                   | ☶ Mountain:☷ Earth=[ΘΕΜΙΣ](#θεμις)                 | ☶ Mountain:☱ Lake=[**ΘΥΜΟΝ**](#θυμον)                | ☶ Mountain:☲ Fire=[\`ΡΥΘΜΟΣ](#ρυθμος)             | 
-|                                   | ☲ Fire:☳ Thunder=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | ☴ Wind:☳ Thunder=[ΦΟΙΝΙΞ](#φοινιξ)                 | ☷ Earth:☳ Thunder=[\`ΩΡΑΙ](#ωραι)                 |
+|                                   | ☲ Fire:☳ Thunder=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | ☴ Wind:☳ Thunder=[**ΦΟΙΝΙΞ**](#φοινιξ)                 | ☷ Earth:☳ Thunder=[**\`ΩΡΑΙ**](#ωραι)                 |
 | 28. ䷛ Preponderance of the Great    | ☱ Lake:☴ Wind=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)              |                                                 |                                                |
-|                                   | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                 | ☱ Lake:☶ Mountain=[ΙΡΙΣ](#ιρις)                     | ☱ Lake:☵ Water=[**\`ΙΜΑΣ**](#ιμας)                 | 
+|                                   | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                 | ☱ Lake:☶ Mountain=[**ΙΡΙΣ**](#ιρις)                     | ☱ Lake:☵ Water=[\`ΙΜΑΣ](#ιμας)                 | 
 |                                   | ☵ Water:☴ Wind=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | ☳ Thunder:☴ Wind=[**ΒΙΟΣ**](#βιος)                 | ☰ Heaven:☴ Wind=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 |
-| 29. ䷜ The Abysmal                   | ☵ Water:☵ Water=[ΞΟΑΝΟΝ](#ξοανον)                  |                                                 |                                                 |
+| 29. ䷜ The Abysmal                   | ☵ Water:☵ Water=[**ΞΟΑΝΟΝ**](#ξοανον)                  |                                                 |                                                 |
 |                                   | ☵ Water:☱ Lake=[ΖΥΓΟΝ](#ζυγον)                     | ☵ Water:☷ Earth=[ΖΕΥΓΜΑ](#ζευγμα)                 | ☵ Water:☴ Wind=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | 
-|                                   | ☱ Lake:☵ Water=[**\`ΙΜΑΣ**](#ιμας)                 | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☴ Wind:☵ Water=[**ΟΦΙΣ**](#οφις)                     |
-| 30. ䷝ The Clinging                  | ☲ Fire:☲ Fire=[ΧΑΣΜΑ](#χασμα)                      |                                                 |                                                |
+|                                   | ☱ Lake:☵ Water=[\`ΙΜΑΣ](#ιμας)                 | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☴ Wind:☵ Water=[**ΟΦΙΣ**](#οφις)                     |
+| 30. ䷝ The Clinging                  | ☲ Fire:☲ Fire=[**ΧΑΣΜΑ**](#χασμα)                      |                                                 |                                                |
 |                                   | ☲ Fire:☶ Mountain=[ΛΙΝΟΝ](#λινον)                 | ☲ Fire:☰ Heaven=[ΛΑΜΠΑΣ](#λαμπας)                 | ☲ Fire:☳ Thunder=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | 
-|                                   | ☶ Mountain:☲ Fire=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☰ Heaven:☲ Fire=[ΨΗΦΟΣ](#ψηφος)                     | ☳ Thunder:☲ Fire=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         |
-| 31. ䷞ Influence                     | ☱ Lake:☶ Mountain=[ΙΡΙΣ](#ιρις)                      |                                                 |                                                 |
-|                                   | ☱ Lake:☲ Fire=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 | ☱ Lake:☴ Wind=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☱ Lake:☷ Earth=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | 
-|                                   | ☵ Water:☶ Mountain=[**ΞΙΦΟΣ**](#ξιφος)             | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     | ☰ Heaven:☶ Mountain=[**ΝΑΡΘΗΞ**](#ναρθηξ)         |
+|                                   | ☶ Mountain:☲ Fire=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☰ Heaven:☲ Fire=[**ΨΗΦΟΣ**](#ψηφος)                     | ☳ Thunder:☲ Fire=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         |
+| 31. ䷞ Influence                     | ☱ Lake:☶ Mountain=[**ΙΡΙΣ**](#ιρις)                      |                                                 |                                                 |
+|                                   | ☱ Lake:☲ Fire=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 | ☱ Lake:☴ Wind=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☱ Lake:☷ Earth=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | 
+|                                   | ☵ Water:☶ Mountain=[ΞΙΦΟΣ](#ξιφος)             | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     | ☰ Heaven:☶ Mountain=[ΝΑΡΘΗΞ](#ναρθηξ)         |
 | 32. ䷟ Duration                      | ☳ Thunder:☴ Wind=[**ΒΙΟΣ**](#βιος)                  |                                                 |                                                 |
 |                                   | ☳ Thunder:☰ Heaven=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)    | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         | 
-|                                   | ☷ Earth:☴ Wind=[\`ΕΛΙΞ](#ελιξ)                     | ☱ Lake:☴ Wind=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☲ Fire:☴ Wind=[**ΓΡΥΨ**](#γρυψ)                     |
-| 33. ䷠ Retreat                       | ☰ Heaven:☶ Mountain=[**ΝΑΡΘΗΞ**](#ναρθηξ)          |                                                 |                                                 |
-|                                   | ☰ Heaven:☲ Fire=[ΨΗΦΟΣ](#ψηφος)                     | ☰ Heaven:☴ Wind=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | ☰ Heaven:☷ Earth=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         | 
-|                                   | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                 | ☲ Fire:☶ Mountain=[ΛΙΝΟΝ](#λινον)                 | ☱ Lake:☶ Mountain=[ΙΡΙΣ](#ιρις)                     |
+|                                   | ☷ Earth:☴ Wind=[\`ΕΛΙΞ](#ελιξ)                     | ☱ Lake:☴ Wind=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☲ Fire:☴ Wind=[ΓΡΥΨ](#γρυψ)                     |
+| 33. ䷠ Retreat                       | ☰ Heaven:☶ Mountain=[ΝΑΡΘΗΞ](#ναρθηξ)          |                                                 |                                                 |
+|                                   | ☰ Heaven:☲ Fire=[**ΨΗΦΟΣ**](#ψηφος)                     | ☰ Heaven:☴ Wind=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | ☰ Heaven:☷ Earth=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         | 
+|                                   | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                 | ☲ Fire:☶ Mountain=[ΛΙΝΟΝ](#λινον)                 | ☱ Lake:☶ Mountain=[**ΙΡΙΣ**](#ιρις)                     |
 | 34. ䷡ The Power of the Great        | ☳ Thunder:☰ Heaven=[ΚΕΡΑΥΝΟΣ](#κεραυνος)          |                                                 |                                                |
 |                                   | ☳ Thunder:☴ Wind=[**ΒΙΟΣ**](#βιος)                 | ☳ Thunder:☲ Fire=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☳ Thunder:☱ Lake=[ΒΡΙΑΡΕΩΣ](#βριαρεως)             | 
-|                                   | ☷ Earth:☰ Heaven=[ΜΕΓΑΡΟΝ](#μεγαρον)                 | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                 | ☲ Fire:☰ Heaven=[ΛΑΜΠΑΣ](#λαμπας)                 |
+|                                   | ☷ Earth:☰ Heaven=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                 | ☲ Fire:☰ Heaven=[ΛΑΜΠΑΣ](#λαμπας)                 |
 | 35. ䷢ Progress                      | ☲ Fire:☷ Earth=[ΓΛΑΥΞ](#γλαυξ)                      |                                                 |                                                |
 |                                   | ☲ Fire:☳ Thunder=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | ☲ Fire:☵ Water=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         | ☲ Fire:☶ Mountain=[ΛΙΝΟΝ](#λινον)                 | 
 |                                   | ☶ Mountain:☷ Earth=[ΘΕΜΙΣ](#θεμις)                 | ☰ Heaven:☷ Earth=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         | ☳ Thunder:☷ Earth=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)         |
 | 36. ䷣ Darkened Light                | ☷ Earth:☲ Fire=[ΩΓΥΓΙΗ](#ωγυγιη)                  |                                                 |                                                 |
-|                                   | ☷ Earth:☶ Mountain=[**ΜΟΙΡΑΙ**](#μοιραι)             | ☷ Earth:☰ Heaven=[ΜΕΓΑΡΟΝ](#μεγαρον)                 | ☷ Earth:☳ Thunder=[\`ΩΡΑΙ](#ωραι)                 | 
-|                                   | ☳ Thunder:☲ Fire=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☵ Water:☲ Fire=[ΤΟΞΟΝ](#τοξον)                     | ☶ Mountain:☲ Fire=[\`ΡΥΘΜΟΣ](#ρυθμος)             |
+|                                   | ☷ Earth:☶ Mountain=[ΜΟΙΡΑΙ](#μοιραι)             | ☷ Earth:☰ Heaven=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 | ☷ Earth:☳ Thunder=[**\`ΩΡΑΙ**](#ωραι)                 | 
+|                                   | ☳ Thunder:☲ Fire=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☵ Water:☲ Fire=[**ΤΟΞΟΝ**](#τοξον)                     | ☶ Mountain:☲ Fire=[\`ΡΥΘΜΟΣ](#ρυθμος)             |
 | 37. ䷤ The Family                    | ☴ Wind:☲ Fire=[ΦΙΑΛΗ](#φιαλη)                      |                                                 |                                                 |
-|                                   | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                 | ☴ Wind:☰ Heaven=[ΟΙΚΟΣ](#οικος)                     | ☴ Wind:☳ Thunder=[ΦΟΙΝΙΞ](#φοινιξ)                 | 
-|                                   | ☰ Heaven:☲ Fire=[ΨΗΦΟΣ](#ψηφος)                     | ☶ Mountain:☲ Fire=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☵ Water:☲ Fire=[ΤΟΞΟΝ](#τοξον)                     |
-| 38. ䷥ Opposition                    | ☲ Fire:☱ Lake=[ΓΟΡΓΩ](#γοργω)                      |                                                 |                                                |
+|                                   | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                 | ☴ Wind:☰ Heaven=[ΟΙΚΟΣ](#οικος)                     | ☴ Wind:☳ Thunder=[**ΦΟΙΝΙΞ**](#φοινιξ)                 | 
+|                                   | ☰ Heaven:☲ Fire=[**ΨΗΦΟΣ**](#ψηφος)                     | ☶ Mountain:☲ Fire=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☵ Water:☲ Fire=[**ΤΟΞΟΝ**](#τοξον)                     |
+| 38. ䷥ Opposition                    | ☲ Fire:☱ Lake=[**ΓΟΡΓΩ**](#γοργω)                      |                                                 |                                                |
 |                                   | ☲ Fire:☵ Water=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         | ☲ Fire:☳ Thunder=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | ☲ Fire:☰ Heaven=[ΛΑΜΠΑΣ](#λαμπας)                 | 
 |                                   | ☶ Mountain:☱ Lake=[**ΘΥΜΟΝ**](#θυμον)                | ☰ Heaven:☱ Lake=[ΔΟΡΥ](#δορυ)                     | ☳ Thunder:☱ Lake=[ΒΡΙΑΡΕΩΣ](#βριαρεως)             |
-| 39. ䷦ Obstruction                   | ☵ Water:☶ Mountain=[**ΞΙΦΟΣ**](#ξιφος)              |                                                 |                                                |
-|                                   | ☵ Water:☲ Fire=[ΤΟΞΟΝ](#τοξον)                     | ☵ Water:☴ Wind=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | ☵ Water:☷ Earth=[ΖΕΥΓΜΑ](#ζευγμα)                 | 
-|                                   | ☱ Lake:☶ Mountain=[ΙΡΙΣ](#ιρις)                     | ☷ Earth:☶ Mountain=[**ΜΟΙΡΑΙ**](#μοιραι)             | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                 |
+| 39. ䷦ Obstruction                   | ☵ Water:☶ Mountain=[ΞΙΦΟΣ](#ξιφος)              |                                                 |                                                |
+|                                   | ☵ Water:☲ Fire=[**ΤΟΞΟΝ**](#τοξον)                     | ☵ Water:☴ Wind=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | ☵ Water:☷ Earth=[ΖΕΥΓΜΑ](#ζευγμα)                 | 
+|                                   | ☱ Lake:☶ Mountain=[**ΙΡΙΣ**](#ιρις)                     | ☷ Earth:☶ Mountain=[ΜΟΙΡΑΙ](#μοιραι)             | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                 |
 | 40. ䷧ Deliverance                   | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)          |                                                 |                                                |
 |                                   | ☳ Thunder:☱ Lake=[ΒΡΙΑΡΕΩΣ](#βριαρεως)             | ☳ Thunder:☷ Earth=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)         | ☳ Thunder:☴ Wind=[**ΒΙΟΣ**](#βιος)                 | 
-|                                   | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☱ Lake:☵ Water=[**\`ΙΜΑΣ**](#ιμας)                 | ☲ Fire:☵ Water=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         |
+|                                   | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☱ Lake:☵ Water=[\`ΙΜΑΣ](#ιμας)                 | ☲ Fire:☵ Water=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         |
 | 41. ䷨ Decrease                      | ☶ Mountain:☱ Lake=[**ΘΥΜΟΝ**](#θυμον)              |                                                 |                                                |
-|                                   | ☶ Mountain:☵ Water=[**ΠΤΕΡΥΞ**](#πτερυξ)             | ☶ Mountain:☳ Thunder=[\`ΡΑΒΔΟΣ](#ραβδος)             | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                 | 
-|                                   | ☲ Fire:☱ Lake=[ΓΟΡΓΩ](#γοργω)                     | ☴ Wind:☱ Lake=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☷ Earth:☱ Lake=[\`ΕΣΤΙΑ](#εστια)                     |
-| 42. ䷩ Increase                      | ☴ Wind:☳ Thunder=[ΦΟΙΝΙΞ](#φοινιξ)                  |                                                 |                                                |
+|                                   | ☶ Mountain:☵ Water=[ΠΤΕΡΥΞ](#πτερυξ)             | ☶ Mountain:☳ Thunder=[**\`ΡΑΒΔΟΣ**](#ραβδος)             | ☶ Mountain:☰ Heaven=[ΠΑΙΩΝ](#παιων)                 | 
+|                                   | ☲ Fire:☱ Lake=[**ΓΟΡΓΩ**](#γοργω)                     | ☴ Wind:☱ Lake=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☷ Earth:☱ Lake=[\`ΕΣΤΙΑ](#εστια)                     |
+| 42. ䷩ Increase                      | ☴ Wind:☳ Thunder=[**ΦΟΙΝΙΞ**](#φοινιξ)                  |                                                 |                                                |
 |                                   | ☴ Wind:☷ Earth=[ΗΩΣ](#ηως)                         | ☴ Wind:☱ Lake=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☴ Wind:☲ Fire=[ΦΙΑΛΗ](#φιαλη)                     | 
-|                                   | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 | ☶ Mountain:☳ Thunder=[\`ΡΑΒΔΟΣ](#ραβδος)             | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             |
+|                                   | ☰ Heaven:☳ Thunder=[ΨΗΓΜΑ](#ψηγμα)                 | ☶ Mountain:☳ Thunder=[**\`ΡΑΒΔΟΣ**](#ραβδος)             | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             |
 | 43. ䷪ Break-through                 | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                  |                                                 |                                                |
-|                                   | ☱ Lake:☴ Wind=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☱ Lake:☲ Fire=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 | ☱ Lake:☱ Lake=[**ΑΝΑΓΚΗ**](#αναγκη)                 | 
-|                                   | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     | ☳ Thunder:☰ Heaven=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | ☰ Heaven:☰ Heaven=[ΝΑΥΣ](#ναυς)                     |
+|                                   | ☱ Lake:☴ Wind=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☱ Lake:☲ Fire=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 | ☱ Lake:☱ Lake=[**ΑΝΑΓΚΗ**](#αναγκη)                 | 
+|                                   | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     | ☳ Thunder:☰ Heaven=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | ☰ Heaven:☰ Heaven=[**ΝΑΥΣ**](#ναυς)                     |
 | 44. ䷫ Coming to Meet                | ☰ Heaven:☴ Wind=[ΔΑΙΔΑΛΑ](#δαιδαλα)                  |                                                 |                                                |
-|                                   | ☰ Heaven:☰ Heaven=[ΝΑΥΣ](#ναυς)                     | ☰ Heaven:☶ Mountain=[**ΝΑΡΘΗΞ**](#ναρθηξ)         | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 | 
-|                                   | ☴ Wind:☴ Wind=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☲ Fire:☴ Wind=[**ΓΡΥΨ**](#γρυψ)                     | ☱ Lake:☴ Wind=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             |
+|                                   | ☰ Heaven:☰ Heaven=[**ΝΑΥΣ**](#ναυς)                     | ☰ Heaven:☶ Mountain=[ΝΑΡΘΗΞ](#ναρθηξ)         | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 | 
+|                                   | ☴ Wind:☴ Wind=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☲ Fire:☴ Wind=[ΓΡΥΨ](#γρυψ)                     | ☱ Lake:☴ Wind=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             |
 | 45. ䷬ Gathered Together             | ☱ Lake:☷ Earth=[ΑΜΦΟΡΕΥΣ](#αμφορευς)              |                                                 |                                                |
-|                                   | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     | ☱ Lake:☵ Water=[**\`ΙΜΑΣ**](#ιμας)                 | ☱ Lake:☶ Mountain=[ΙΡΙΣ](#ιρις)                     | 
+|                                   | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     | ☱ Lake:☵ Water=[\`ΙΜΑΣ](#ιμας)                 | ☱ Lake:☶ Mountain=[**ΙΡΙΣ**](#ιρις)                     | 
 |                                   | ☵ Water:☷ Earth=[ΖΕΥΓΜΑ](#ζευγμα)                 | ☳ Thunder:☷ Earth=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)         | ☰ Heaven:☷ Earth=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         |
 | 46. ䷭ Pushing Upward                | ☷ Earth:☴ Wind=[\`ΕΛΙΞ](#ελιξ)                      |                                                 |                                                |
-|                                   | ☷ Earth:☰ Heaven=[ΜΕΓΑΡΟΝ](#μεγαρον)                 | ☷ Earth:☶ Mountain=[**ΜΟΙΡΑΙ**](#μοιραι)             | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)                 | 
+|                                   | ☷ Earth:☰ Heaven=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 | ☷ Earth:☶ Mountain=[ΜΟΙΡΑΙ](#μοιραι)             | ☷ Earth:☵ Water=[ΜΑΚΑΡΙΑ](#μακαρια)                 | 
 |                                   | ☳ Thunder:☴ Wind=[**ΒΙΟΣ**](#βιος)                 | ☵ Water:☴ Wind=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | ☶ Mountain:☴ Wind=[ΘΥΙΑ](#θυια)                     |
-| 47. ䷮ Oppression                    | ☱ Lake:☵ Water=[**\`ΙΜΑΣ**](#ιμας)                  |                                                 |                                                |
+| 47. ䷮ Oppression                    | ☱ Lake:☵ Water=[\`ΙΜΑΣ](#ιμας)                  |                                                 |                                                |
 |                                   | ☱ Lake:☱ Lake=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☱ Lake:☷ Earth=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | ☱ Lake:☴ Wind=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | 
-|                                   | ☵ Water:☵ Water=[ΞΟΑΝΟΝ](#ξοανον)                 | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 |
+|                                   | ☵ Water:☵ Water=[**ΞΟΑΝΟΝ**](#ξοανον)                 | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 |
 | 48. ䷯ The Well                      | ☵ Water:☴ Wind=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)              |                                                 |                                                |
-|                                   | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     | ☵ Water:☶ Mountain=[**ΞΙΦΟΣ**](#ξιφος)             | ☵ Water:☵ Water=[ΞΟΑΝΟΝ](#ξοανον)                 | 
+|                                   | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     | ☵ Water:☶ Mountain=[ΞΙΦΟΣ](#ξιφος)             | ☵ Water:☵ Water=[**ΞΟΑΝΟΝ**](#ξοανον)                 | 
 |                                   | ☱ Lake:☴ Wind=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☷ Earth:☴ Wind=[\`ΕΛΙΞ](#ελιξ)                     | ☴ Wind:☴ Wind=[**\`ΗΔΟΝΗ**](#ηδονη)                 |
-| 49. ䷰ Revolution                    | ☱ Lake:☲ Fire=[ΣΤΕΦΑΝΟΣ](#στεφανος)                  |                                                 |                                                |
-|                                   | ☱ Lake:☶ Mountain=[ΙΡΙΣ](#ιρις)                     | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                 | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     | 
-|                                   | ☵ Water:☲ Fire=[ΤΟΞΟΝ](#τοξον)                     | ☳ Thunder:☲ Fire=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☰ Heaven:☲ Fire=[ΨΗΦΟΣ](#ψηφος)                     |
-| 50. ䷱ The Cauldron                  | ☲ Fire:☴ Wind=[**ΓΡΥΨ**](#γρυψ)                      |                                                 |                                                |
+| 49. ䷰ Revolution                    | ☱ Lake:☲ Fire=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                  |                                                 |                                                |
+|                                   | ☱ Lake:☶ Mountain=[**ΙΡΙΣ**](#ιρις)                     | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                 | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     | 
+|                                   | ☵ Water:☲ Fire=[**ΤΟΞΟΝ**](#τοξον)                     | ☳ Thunder:☲ Fire=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☰ Heaven:☲ Fire=[**ΨΗΦΟΣ**](#ψηφος)                     |
+| 50. ䷱ The Cauldron                  | ☲ Fire:☴ Wind=[ΓΡΥΨ](#γρυψ)                      |                                                 |                                                |
 |                                   | ☲ Fire:☰ Heaven=[ΛΑΜΠΑΣ](#λαμπας)                 | ☲ Fire:☶ Mountain=[ΛΙΝΟΝ](#λινον)                 | ☲ Fire:☵ Water=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         | 
 |                                   | ☶ Mountain:☴ Wind=[ΘΥΙΑ](#θυια)                     | ☰ Heaven:☴ Wind=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | ☳ Thunder:☴ Wind=[**ΒΙΟΣ**](#βιος)                 |
-| 51. ䷲ The Arousing                  | ☳ Thunder:☳ Thunder=[\`ΥΜΝΟΣ](#υμνος)              |                                                 |                                                |
+| 51. ䷲ The Arousing                  | ☳ Thunder:☳ Thunder=[**\`ΥΜΝΟΣ**](#υμνος)              |                                                 |                                                |
 |                                   | ☳ Thunder:☷ Earth=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)         | ☳ Thunder:☱ Lake=[ΒΡΙΑΡΕΩΣ](#βριαρεως)             | ☳ Thunder:☲ Fire=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | 
-|                                   | ☷ Earth:☳ Thunder=[\`ΩΡΑΙ](#ωραι)                 | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     | ☲ Fire:☳ Thunder=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             |
-| 52. ䷳ Stillness                     | ☶ Mountain:☶ Mountain=[ΠΥΛΑΙ](#πυλαι)              |                                                 |                                                |
+|                                   | ☷ Earth:☳ Thunder=[**\`ΩΡΑΙ**](#ωραι)                 | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     | ☲ Fire:☳ Thunder=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             |
+| 52. ䷳ Stillness                     | ☶ Mountain:☶ Mountain=[**ΠΥΛΑΙ**](#πυλαι)              |                                                 |                                                |
 |                                   | ☶ Mountain:☲ Fire=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☶ Mountain:☴ Wind=[ΘΥΙΑ](#θυια)                     | ☶ Mountain:☷ Earth=[ΘΕΜΙΣ](#θεμις)                 | 
-|                                   | ☲ Fire:☶ Mountain=[ΛΙΝΟΝ](#λινον)                 | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                 | ☷ Earth:☶ Mountain=[**ΜΟΙΡΑΙ**](#μοιραι)             |
+|                                   | ☲ Fire:☶ Mountain=[ΛΙΝΟΝ](#λινον)                 | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                 | ☷ Earth:☶ Mountain=[ΜΟΙΡΑΙ](#μοιραι)             |
 | 53. ䷴ Development                   | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                  |                                                 |                                                |
 |                                   | ☴ Wind:☲ Fire=[ΦΙΑΛΗ](#φιαλη)                     | ☴ Wind:☴ Wind=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☴ Wind:☷ Earth=[ΗΩΣ](#ηως)                         | 
-|                                   | ☰ Heaven:☶ Mountain=[**ΝΑΡΘΗΞ**](#ναρθηξ)         | ☶ Mountain:☶ Mountain=[ΠΥΛΑΙ](#πυλαι)             | ☵ Water:☶ Mountain=[**ΞΙΦΟΣ**](#ξιφος)             |
+|                                   | ☰ Heaven:☶ Mountain=[ΝΑΡΘΗΞ](#ναρθηξ)         | ☶ Mountain:☶ Mountain=[**ΠΥΛΑΙ**](#πυλαι)             | ☵ Water:☶ Mountain=[ΞΙΦΟΣ](#ξιφος)             |
 | 54. ䷵ The Marrying Maiden           | ☳ Thunder:☱ Lake=[ΒΡΙΑΡΕΩΣ](#βριαρεως)              |                                                 |                                                |
-|                                   | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         | ☳ Thunder:☳ Thunder=[\`ΥΜΝΟΣ](#υμνος)             | ☳ Thunder:☰ Heaven=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | 
-|                                   | ☷ Earth:☱ Lake=[\`ΕΣΤΙΑ](#εστια)                     | ☱ Lake:☱ Lake=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☲ Fire:☱ Lake=[ΓΟΡΓΩ](#γοργω)                     |
+|                                   | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         | ☳ Thunder:☳ Thunder=[**\`ΥΜΝΟΣ**](#υμνος)             | ☳ Thunder:☰ Heaven=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | 
+|                                   | ☷ Earth:☱ Lake=[\`ΕΣΤΙΑ](#εστια)                     | ☱ Lake:☱ Lake=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☲ Fire:☱ Lake=[**ΓΟΡΓΩ**](#γοργω)                     |
 | 55. ䷶ Abundance                     | ☳ Thunder:☲ Fire=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)      |                                                 |                                                |
-|                                   | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     | ☳ Thunder:☰ Heaven=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | ☳ Thunder:☳ Thunder=[\`ΥΜΝΟΣ](#υμνος)             | 
-|                                   | ☷ Earth:☲ Fire=[ΩΓΥΓΙΗ](#ωγυγιη)                     | ☱ Lake:☲ Fire=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 | ☲ Fire:☲ Fire=[ΧΑΣΜΑ](#χασμα)                     |
+|                                   | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     | ☳ Thunder:☰ Heaven=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | ☳ Thunder:☳ Thunder=[**\`ΥΜΝΟΣ**](#υμνος)             | 
+|                                   | ☷ Earth:☲ Fire=[ΩΓΥΓΙΗ](#ωγυγιη)                     | ☱ Lake:☲ Fire=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 | ☲ Fire:☲ Fire=[**ΧΑΣΜΑ**](#χασμα)                     |
 | 56. ䷷ The Wanderer                  | ☲ Fire:☶ Mountain=[ΛΙΝΟΝ](#λινον)                  |                                                 |                                                |
-|                                   | ☲ Fire:☲ Fire=[ΧΑΣΜΑ](#χασμα)                     | ☲ Fire:☴ Wind=[**ΓΡΥΨ**](#γρυψ)                     | ☲ Fire:☷ Earth=[ΓΛΑΥΞ](#γλαυξ)                     | 
-|                                   | ☶ Mountain:☶ Mountain=[ΠΥΛΑΙ](#πυλαι)             | ☰ Heaven:☶ Mountain=[**ΝΑΡΘΗΞ**](#ναρθηξ)         | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     |
+|                                   | ☲ Fire:☲ Fire=[**ΧΑΣΜΑ**](#χασμα)                     | ☲ Fire:☴ Wind=[ΓΡΥΨ](#γρυψ)                     | ☲ Fire:☷ Earth=[ΓΛΑΥΞ](#γλαυξ)                     | 
+|                                   | ☶ Mountain:☶ Mountain=[**ΠΥΛΑΙ**](#πυλαι)             | ☰ Heaven:☶ Mountain=[ΝΑΡΘΗΞ](#ναρθηξ)         | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     |
 | 57. ䷸ The Gentle                    | ☴ Wind:☴ Wind=[**\`ΗΔΟΝΗ**](#ηδονη)                  |                                                 |                                                |
 |                                   | ☴ Wind:☰ Heaven=[ΟΙΚΟΣ](#οικος)                     | ☴ Wind:☶ Mountain=[ΟΙΝΟΣ](#οινος)                 | ☴ Wind:☵ Water=[**ΟΦΙΣ**](#οφις)                     | 
 |                                   | ☰ Heaven:☴ Wind=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | ☶ Mountain:☴ Wind=[ΘΥΙΑ](#θυια)                     | ☵ Water:☴ Wind=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             |
 | 58. ䷹ The Joyous                    | ☱ Lake:☱ Lake=[**ΑΝΑΓΚΗ**](#αναγκη)                  |                                                 |                                                |
-|                                   | ☱ Lake:☵ Water=[**\`ΙΜΑΣ**](#ιμας)                 | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                 | 
+|                                   | ☱ Lake:☵ Water=[\`ΙΜΑΣ](#ιμας)                 | ☱ Lake:☳ Thunder=[ΣΘΕΝΩ](#σθενω)                     | ☱ Lake:☰ Heaven=[\`ΙΣΤΟΣ](#ιστος)                 | 
 |                                   | ☵ Water:☱ Lake=[ΖΥΓΟΝ](#ζυγον)                     | ☳ Thunder:☱ Lake=[ΒΡΙΑΡΕΩΣ](#βριαρεως)             | ☰ Heaven:☱ Lake=[ΔΟΡΥ](#δορυ)                     |
 | 59. ䷺ Dispersion                    | ☴ Wind:☵ Water=[**ΟΦΙΣ**](#οφις)                  |                                                 |                                                |
 |                                   | ☴ Wind:☱ Lake=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☴ Wind:☷ Earth=[ΗΩΣ](#ηως)                         | ☴ Wind:☴ Wind=[**\`ΗΔΟΝΗ**](#ηδονη)                 | 
-|                                   | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 | ☶ Mountain:☵ Water=[**ΠΤΕΡΥΞ**](#πτερυξ)             | ☵ Water:☵ Water=[ΞΟΑΝΟΝ](#ξοανον)                 |
+|                                   | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 | ☶ Mountain:☵ Water=[ΠΤΕΡΥΞ](#πτερυξ)             | ☵ Water:☵ Water=[**ΞΟΑΝΟΝ**](#ξοανον)                 |
 | 60. ䷻ Limitation                    | ☵ Water:☱ Lake=[ΖΥΓΟΝ](#ζυγον)                      |                                                 |                                                |
-|                                   | ☵ Water:☵ Water=[ΞΟΑΝΟΝ](#ξοανον)                 | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     | 
+|                                   | ☵ Water:☵ Water=[**ΞΟΑΝΟΝ**](#ξοανον)                 | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     | 
 |                                   | ☱ Lake:☱ Lake=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☷ Earth:☱ Lake=[\`ΕΣΤΙΑ](#εστια)                     | ☴ Wind:☱ Lake=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 |
 | 61. ䷼ Inner Truth                   | ☴ Wind:☱ Lake=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                  |                                                 |                                                |
-|                                   | ☴ Wind:☵ Water=[**ΟΦΙΣ**](#οφις)                     | ☴ Wind:☳ Thunder=[ΦΟΙΝΙΞ](#φοινιξ)                 | ☴ Wind:☰ Heaven=[ΟΙΚΟΣ](#οικος)                     | 
+|                                   | ☴ Wind:☵ Water=[**ΟΦΙΣ**](#οφις)                     | ☴ Wind:☳ Thunder=[**ΦΟΙΝΙΞ**](#φοινιξ)                 | ☴ Wind:☰ Heaven=[ΟΙΚΟΣ](#οικος)                     | 
 |                                   | ☰ Heaven:☱ Lake=[ΔΟΡΥ](#δορυ)                     | ☶ Mountain:☱ Lake=[**ΘΥΜΟΝ**](#θυμον)                | ☵ Water:☱ Lake=[ΖΥΓΟΝ](#ζυγον)                     |
 | 62. ䷽ Preponderance of the Small    | ☳ Thunder:☶ Mountain=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)    |                                                 |                                                |
 |                                   | ☳ Thunder:☲ Fire=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☳ Thunder:☴ Wind=[**ΒΙΟΣ**](#βιος)                 | ☳ Thunder:☷ Earth=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)         | 
-|                                   | ☷ Earth:☶ Mountain=[**ΜΟΙΡΑΙ**](#μοιραι)             | ☱ Lake:☶ Mountain=[ΙΡΙΣ](#ιρις)                     | ☲ Fire:☶ Mountain=[ΛΙΝΟΝ](#λινον)                 |
-| 63. ䷾ After Completion              | ☵ Water:☲ Fire=[ΤΟΞΟΝ](#τοξον)                      |                                                 |                                                |
-|                                   | ☵ Water:☶ Mountain=[**ΞΙΦΟΣ**](#ξιφος)             | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | 
-|                                   | ☱ Lake:☲ Fire=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 | ☷ Earth:☲ Fire=[ΩΓΥΓΙΗ](#ωγυγιη)                     | ☴ Wind:☲ Fire=[ΦΙΑΛΗ](#φιαλη)                     |
+|                                   | ☷ Earth:☶ Mountain=[ΜΟΙΡΑΙ](#μοιραι)             | ☱ Lake:☶ Mountain=[**ΙΡΙΣ**](#ιρις)                     | ☲ Fire:☶ Mountain=[ΛΙΝΟΝ](#λινον)                 |
+| 63. ䷾ After Completion              | ☵ Water:☲ Fire=[**ΤΟΞΟΝ**](#τοξον)                      |                                                 |                                                |
+|                                   | ☵ Water:☶ Mountain=[ΞΙΦΟΣ](#ξιφος)             | ☵ Water:☰ Heaven=[ΞΥΛΟΝ](#ξυλον)                     | ☵ Water:☳ Thunder=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | 
+|                                   | ☱ Lake:☲ Fire=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 | ☷ Earth:☲ Fire=[ΩΓΥΓΙΗ](#ωγυγιη)                     | ☴ Wind:☲ Fire=[ΦΙΑΛΗ](#φιαλη)                     |
 | 64. ䷿ Before Completion             | ☲ Fire:☵ Water=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)      |                                                 |                                                |
-|                                   | ☲ Fire:☱ Lake=[ΓΟΡΓΩ](#γοργω)                     | ☲ Fire:☷ Earth=[ΓΛΑΥΞ](#γλαυξ)                     | ☲ Fire:☴ Wind=[**ΓΡΥΨ**](#γρυψ)                     | 
-|                                   | ☶ Mountain:☵ Water=[**ΠΤΕΡΥΞ**](#πτερυξ)             | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         |
-| 65. ☱ Lake							| ☱ Lake=[**ΣΤΥΞ**](#στυξ)						| 													| 											|
-| 									| ☵ Water=[**ΤΕΥΧΟΣ**](#τευχος)					| ☳ Thunder=[**\`ΥΔΡΑ**](#υδρα)						| ☰ Heaven=[**ΨΥΧΗ**](#ψυχη)					|
-| 66. ☳ Thunder						| ☳ Thunder=[**\`ΥΔΡΑ**](#υδρα) 					| 													|											|
-| 									| ☷ Earth=[**ΩΟΝ**](#ωον)							| ☱ Lake=[**ΣΤΥΞ**](#στυξ)							| ☲ Fire=[**ΧΑΛΚΟΣ**](#χαλκος)				|
-| 67. ☲ Fire							| ☲ Fire=[**ΧΑΛΚΟΣ**](#χαλκος)    				| 													|											|
-| 									| ☶ Mountain=[**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος)			| ☰ Heaven=[**ΨΥΧΗ**](#ψυχη)							| ☳ Thunder=[**\`ΥΔΡΑ**](#υδρα)				|
-| 68. ☰ Heaven						| ☰ Heaven=[**ΨΥΧΗ**](#ψυχη)            			| 													|											|
-| 									| ☴ Wind=[**ΦΑΡΜΑΚΟΝ**](#φαρμακον)				| ☲ Fire=[**ΧΑΛΚΟΣ**](#χαλκος)						| ☱ Lake=[**ΣΤΥΞ**](#στυξ)					|
-| 69. ☷ Earth							| ☷ Earth=[**ΩΟΝ**](#ωον)               			| 													|											|
-| 									| ☳ Thunder=[**\`ΥΔΡΑ**](#υδρα)					| ☵ Water=[**ΤΕΥΧΟΣ**](#τευχος)						| ☶ Mountain=[**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος)		|
-| 70. ☵ Water							| ☵ Water=[**ΤΕΥΧΟΣ**](#τευχος)         			| 													|											|
-| 									| ☱ Lake=[**ΣΤΥΞ**](#στυξ)						| ☷ Earth=[**ΩΟΝ**](#ωον)								| ☴ Wind=[**ΦΑΡΜΑΚΟΝ**](#φαρμακον)			|
-| 71. ☴ Wind							| ☴ Wind=[**ΦΑΡΜΑΚΟΝ**](#φαρμακον)      			| 													|											|
-| 									| ☰ Heaven=[**ΨΥΧΗ**](#ψυχη)						| ☶ Mountain=[**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος)				| ☵ Water=[**ΤΕΥΧΟΣ**](#τευχος)				|
-| 72. ☶ Mountain						| ☶ Mountain=[**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος)			| 													|											|
-| 									| ☲ Fire=[**ΧΑΛΚΟΣ**](#χαλκος)					| ☴ Wind=[**ΦΑΡΜΑΚΟΝ**](#φαρμακον)					| ☷ Earth=[**ΩΟΝ**](#ωον)						|
+|                                   | ☲ Fire:☱ Lake=[**ΓΟΡΓΩ**](#γοργω)                     | ☲ Fire:☷ Earth=[ΓΛΑΥΞ](#γλαυξ)                     | ☲ Fire:☴ Wind=[ΓΡΥΨ](#γρυψ)                     | 
+|                                   | ☶ Mountain:☵ Water=[ΠΤΕΡΥΞ](#πτερυξ)             | ☰ Heaven:☵ Water=[ΝΟΣΤΟΣ](#νοστος)                 | ☳ Thunder:☵ Water=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         |
+| 65. ☱ Lake							| ☱ Lake=[ΣΤΥΞ](#στυξ)						| 													| 											|
+| 									| ☵ Water=[ΤΕΥΧΟΣ](#τευχος)					| ☳ Thunder=[\`ΥΔΡΑ](#υδρα)						| ☰ Heaven=[ΨΥΧΗ](#ψυχη)					|
+| 66. ☳ Thunder						| ☳ Thunder=[\`ΥΔΡΑ](#υδρα) 					| 													|											|
+| 									| ☷ Earth=[ΩΟΝ](#ωον)							| ☱ Lake=[ΣΤΥΞ](#στυξ)							| ☲ Fire=[ΧΑΛΚΟΣ](#χαλκος)				|
+| 67. ☲ Fire							| ☲ Fire=[ΧΑΛΚΟΣ](#χαλκος)    				| 													|											|
+| 									| ☶ Mountain=[`ΡΑΨΩΙΔΟΣ](#ραψωιδος)			| ☰ Heaven=[ΨΥΧΗ](#ψυχη)							| ☳ Thunder=[\`ΥΔΡΑ](#υδρα)				|
+| 68. ☰ Heaven						| ☰ Heaven=[ΨΥΧΗ](#ψυχη)            			| 													|											|
+| 									| ☴ Wind=[ΦΑΡΜΑΚΟΝ](#φαρμακον)				| ☲ Fire=[ΧΑΛΚΟΣ](#χαλκος)						| ☱ Lake=[ΣΤΥΞ](#στυξ)					|
+| 69. ☷ Earth							| ☷ Earth=[ΩΟΝ](#ωον)               			| 													|											|
+| 									| ☳ Thunder=[\`ΥΔΡΑ](#υδρα)					| ☵ Water=[ΤΕΥΧΟΣ](#τευχος)						| ☶ Mountain=[`ΡΑΨΩΙΔΟΣ](#ραψωιδος)		|
+| 70. ☵ Water							| ☵ Water=[ΤΕΥΧΟΣ](#τευχος)         			| 													|											|
+| 									| ☱ Lake=[ΣΤΥΞ](#στυξ)						| ☷ Earth=[ΩΟΝ](#ωον)								| ☴ Wind=[ΦΑΡΜΑΚΟΝ](#φαρμακον)			|
+| 71. ☴ Wind							| ☴ Wind=[ΦΑΡΜΑΚΟΝ](#φαρμακον)      			| 													|											|
+| 									| ☰ Heaven=[ΨΥΧΗ](#ψυχη)						| ☶ Mountain=[`ΡΑΨΩΙΔΟΣ](#ραψωιδος)				| ☵ Water=[ΤΕΥΧΟΣ](#τευχος)				|
+| 72. ☶ Mountain						| ☶ Mountain=[`ΡΑΨΩΙΔΟΣ](#ραψωιδος)			| 													|											|
+| 									| ☲ Fire=[ΧΑΛΚΟΣ](#χαλκος)					| ☴ Wind=[ΦΑΡΜΑΚΟΝ](#φαρμακον)					| ☷ Earth=[ΩΟΝ](#ωον)						|
 
 
 <div style="page-break-after: always"></div>
@@ -1687,17 +1817,17 @@ When consulting the I Ching using yarrow stalks or coins--
 | **\'ΡΥΘΜΟΙ** |                         |                             |   |                               |                           |   |                       |                         |   |                           |                             |           |
 | ------------ | ----------------------- | --------------------------- | - | ----------------------------- | ------------------------- | - | --------------------- | ----------------------- | - | ------------------------- | --------------------------- | --------- |
 |              | -*ΛΙΜΝΗ*-               | -*ΒΡΟΝΤΗ*-                  |   | *-ΑΣΤΡΑΠΗ*-                   | -*ΟΥΡΑΝΟΣ*-               |   | -*ΓΑΙΑ*-              | -*\`ΥΕΤΟΣ*-             |   | -*ΑΥΡΑ*-                  | -*ΟΡΟΣ*-                    | -*Tarot*- |
-| -*ΛΙΜΝΗ*-    | [**ΑΝΑΓΚΗ**](#αναγκη)   | [ΒΡΙΑΡΕΩΣ](#βριαρεως)       | : | [ΓΟΡΓΩ](#γοργω)               | [ΔΟΡΥ](#δορυ)             | : | [\`ΕΣΤΙΑ](#εστια)     | [ΖΥΓΟΝ](#ζυγον)         | : | [ΗΛΕΚΤΡΟΝ](#ηλεκτρον)     | [**ΘΥΜΟΝ**](#θυμον)         | Ace/MA    |
-| -*ΒΡΟΝΤΗ*-   | [ΣΘΕΝΩ](#σθενω)         | [\`ΥΜΝΟΣ](#υμνος)           | : | [ΧΑΡΥΒΔΙΣ](#χαρυβδις)         | [ΨΗΓΜΑ](#ψηγμα)           | : | [\`ΩΡΑΙ](#ωραι)       | [ΤΥΜΠΑΝΟΝ](#τυμπανον)   | : | [ΦΟΙΝΙΞ](#φοινιξ)         | [\`ΡΑΒΔΟΣ](#ραβδος)         | 2/Knight  |
-| -*ΑΣΤΡΑΠΗ*-  | [ΣΤΕΦΑΝΟΣ](#στεφανος)   | [\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι) | : | [ΧΑΣΜΑ](#χασμα)               | [ΨΗΦΟΣ](#ψηφος)           | : | [ΩΓΥΓΙΗ](#ωγυγιη)     | [ΤΟΞΟΝ](#τοξον)         | : | [ΦΙΑΛΗ](#φιαλη)           | [\`ΡΥΘΜΟΣ](#ρυθμος)         | 3/10      |
+| -*ΛΙΜΝΗ*-    | [**ΑΝΑΓΚΗ**](#αναγκη)   | [ΒΡΙΑΡΕΩΣ](#βριαρεως)       | : | [**ΓΟΡΓΩ**](#γοργω)               | [ΔΟΡΥ](#δορυ)             | : | [\`ΕΣΤΙΑ](#εστια)     | [ΖΥΓΟΝ](#ζυγον)         | : | [ΗΛΕΚΤΡΟΝ](#ηλεκτρον)     | [**ΘΥΜΟΝ**](#θυμον)         | Ace/MA    |
+| -*ΒΡΟΝΤΗ*-   | [ΣΘΕΝΩ](#σθενω)         | [**\`ΥΜΝΟΣ**](#υμνος)           | : | [ΧΑΡΥΒΔΙΣ](#χαρυβδις)         | [ΨΗΓΜΑ](#ψηγμα)           | : | [**\`ΩΡΑΙ**](#ωραι)       | [ΤΥΜΠΑΝΟΝ](#τυμπανον)   | : | [**ΦΟΙΝΙΞ**](#φοινιξ)         | [**\`ΡΑΒΔΟΣ**](#ραβδος)         | 2/Knight  |
+| -*ΑΣΤΡΑΠΗ*-  | [**ΣΤΕΦΑΝΟΣ**](#στεφανος)   | [\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι) | : | [**ΧΑΣΜΑ**](#χασμα)               | [**ΨΗΦΟΣ**](#ψηφος)           | : | [ΩΓΥΓΙΗ](#ωγυγιη)     | [**ΤΟΞΟΝ**](#τοξον)         | : | [ΦΙΑΛΗ](#φιαλη)           | [\`ΡΥΘΜΟΣ](#ρυθμος)         | 3/10      |
 |              |                         |                             |   |                               |                           |   |                       |                         |   |                           |                             |           |
-| -*ΟΥΡΑΝΟΣ*-  | [\`ΙΣΤΟΣ](#ιστος)       | [ΚΕΡΑΥΝΟΣ](#κεραυνος)       | : | [ΛΑΜΠΑΣ](#λαμπας)             | [ΝΑΥΣ](#ναυς)             | : | [ΜΕΓΑΡΟΝ](#μεγαρον)   | [ΞΥΛΟΝ](#ξυλον)         | : | [ΟΙΚΟΣ](#οικος)           | [ΠΑΙΩΝ](#παιων)             | Queen/5   |
+| -*ΟΥΡΑΝΟΣ*-  | [\`ΙΣΤΟΣ](#ιστος)       | [ΚΕΡΑΥΝΟΣ](#κεραυνος)       | : | [ΛΑΜΠΑΣ](#λαμπας)             | [**ΝΑΥΣ**](#ναυς)             | : | [**ΜΕΓΑΡΟΝ**](#μεγαρον)   | [ΞΥΛΟΝ](#ξυλον)         | : | [ΟΙΚΟΣ](#οικος)           | [ΠΑΙΩΝ](#παιων)             | Queen/5   |
 | -*ΓΑΙΑ*-     | [ΑΜΦΟΡΕΥΣ](#αμφορευς)   | [ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)   | : | [ΓΛΑΥΞ](#γλαυξ)               | [**ΔΡΕΠΑΝΟΝ**](#δρεπανον) | : | [**ΕΛΑΙΟΣ**](#ελαιος) | [ΖΕΥΓΜΑ](#ζευγμα)       | : | [ΗΩΣ](#ηως)               | [ΘΕΜΙΣ](#θεμις)             | 4/King    |
-| -*\`ΥΕΤΟΣ*-  | [**\`ΙΜΑΣ**](#ιμας)     | [ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)     | : | [**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος) | [ΝΟΣΤΟΣ](#νοστος)         | : | [ΜΑΚΑΡΙΑ](#μακαρια)   | [ΞΟΑΝΟΝ](#ξοανον)       | : | [**ΟΦΙΣ**](#οφις)         | [**ΠΤΕΡΥΞ**](#πτερυξ)       | 9/7       |
+| -*\`ΥΕΤΟΣ*-  | [\`ΙΜΑΣ](#ιμας)     | [ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)     | : | [**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος) | [ΝΟΣΤΟΣ](#νοστος)         | : | [ΜΑΚΑΡΙΑ](#μακαρια)   | [**ΞΟΑΝΟΝ**](#ξοανον)       | : | [**ΟΦΙΣ**](#οφις)         | [ΠΤΕΡΥΞ](#πτερυξ)       | 9/7       |
 |              |                         |                             |   |                               |                           |   |                       |                         |   |                           |                             |           |
-| -*ΑΥΡΑ*-     | [ΑΣΦΟΔΕΛΟΣ](#ασφοδελος) | [**ΒΙΟΣ**](#βιος)           | : | [**ΓΡΥΨ**](#γρυψ)             | [ΔΑΙΔΑΛΑ](#δαιδαλα)       | : | [\`ΕΛΙΞ](#ελιξ)       | [**ΖΩΠΥΡΟΝ**](#ζωπυρον) | : | [**\`ΗΔΟΝΗ**](#ηδονη)     | [ΘΥΙΑ](#θυια)               | Page/6    |
-| -*ΟΡΟΣ*-     | [ΙΡΙΣ](#ιρις)           | [**ΚΑΘΑΡΜΟΣ**](#καθαρμος)   | : | [ΛΙΝΟΝ](#λινον)               | [**ΝΑΡΘΗΞ**](#ναρθηξ)     | : | [**ΜΟΙΡΑΙ**](#μοιραι) | [**ΞΙΦΟΣ**](#ξιφος)     | : | [ΟΙΝΟΣ](#οινος)           | [ΠΥΛΑΙ](#πυλαι)             | MA/8      |
-| *(trigram)*  | [**ΣΤΥΞ**](#στυξ)       | [**\`ΥΔΡΑ**](#υδρα)         | : | [**ΧΑΛΚΟΣ**](#χαλκος)         | [**ΨΥΧΗ**](#ψυχη)         | : | [**ΩΟΝ**](#ωον)       | [**ΤΕΥΧΟΣ**](#τευχος)   | : | [**ΦΑΡΜΑΚΟΝ**](#φαρμακον) | [**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος) | MA        |
+| -*ΑΥΡΑ*-     | [ΑΣΦΟΔΕΛΟΣ](#ασφοδελος) | [**ΒΙΟΣ**](#βιος)           | : | [ΓΡΥΨ](#γρυψ)             | [ΔΑΙΔΑΛΑ](#δαιδαλα)       | : | [\`ΕΛΙΞ](#ελιξ)       | [**ΖΩΠΥΡΟΝ**](#ζωπυρον) | : | [**\`ΗΔΟΝΗ**](#ηδονη)     | [ΘΥΙΑ](#θυια)               | Page/6    |
+| -*ΟΡΟΣ*-     | [**ΙΡΙΣ**](#ιρις)           | [**ΚΑΘΑΡΜΟΣ**](#καθαρμος)   | : | [ΛΙΝΟΝ](#λινον)               | [ΝΑΡΘΗΞ](#ναρθηξ)     | : | [ΜΟΙΡΑΙ](#μοιραι) | [ΞΙΦΟΣ](#ξιφος)     | : | [ΟΙΝΟΣ](#οινος)           | [**ΠΥΛΑΙ**](#πυλαι)             | MA/8      |
+| *(trigram)*  | [ΣΤΥΞ](#στυξ)       | [\`ΥΔΡΑ](#υδρα)         | : | [ΧΑΛΚΟΣ](#χαλκος)         | [ΨΥΧΗ](#ψυχη)         | : | [ΩΟΝ](#ωον)       | [ΤΕΥΧΟΣ](#τευχος)   | : | [ΦΑΡΜΑΚΟΝ](#φαρμακον) | [`ΡΑΨΩΙΔΟΣ](#ραψωιδος) | MA        |
 
 
 #### ΠΡΟΣΩΠΑ : The Characters in our Drama
@@ -1761,7 +1891,6 @@ img {
   float: right;
 }
 </style>
----
 
 <div style="page-break-after: always"></div>
 
@@ -1784,7 +1913,7 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     | ☱:☵=[**\`ΙΜΑΣ**](#ιμας)                   | ☱:☶=[ΙΡΙΣ](#ιρις)                     | 
+    | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     | ☱:☵=[\`ΙΜΑΣ](#ιμας)                   | ☱:☶=[**ΙΡΙΣ**](#ιρις)                     | 
     | ☵:☷=[ΖΕΥΓΜΑ](#ζευγμα)                    | ☳:☷=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)          | ☰:☷=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)          |
 + Tarot: Four ♣/Wands
   + upright: homecoming, community, celebration, harmony
@@ -1827,7 +1956,7 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☱:☵=[**\`ΙΜΑΣ**](#ιμας)                 | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     | ☱:☰=[\`ΙΣΤΟΣ](#ιστος)                 | 
+    | ☱:☵=[\`ΙΜΑΣ](#ιμας)                 | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     | ☱:☰=[\`ΙΣΤΟΣ](#ιστος)                 | 
     | ☵:☱=[ΖΥΓΟΝ](#ζυγον)                     | ☳:☱=[ΒΡΙΑΡΕΩΣ](#βριαρεως)             | ☰:☱=[ΔΟΡΥ](#δορυ)                     |
 + Tarot: Ace ♣/Wands
   + upright: growth, potential, creation, willpower, inspiration
@@ -1871,7 +2000,7 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☱:☰=[\`ΙΣΤΟΣ](#ιστος)                    | ☱:☶=[ΙΡΙΣ](#ιρις)                     | ☱:☵=[**\`ΙΜΑΣ**](#ιμας)                 | 
+    | ☱:☰=[\`ΙΣΤΟΣ](#ιστος)                    | ☱:☶=[**ΙΡΙΣ**](#ιρις)                     | ☱:☵=[\`ΙΜΑΣ](#ιμας)                 | 
     | ☵:☴=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)                | ☳:☴=[**ΒΙΟΣ**](#βιος)                 | ☰:☴=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 |
 + Tarot: Page ♣/Wands
   + upright: ideas, discovery, exploration, excitement, freedom
@@ -1924,7 +2053,7 @@ img {
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☳:☰=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | ☳:☶=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)    | ☳:☵=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         |
-    | ☷:☴=[\`ΕΛΙΞ](#ελιξ)                     | ☱:☴=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☲:☴=[**ΓΡΥΨ**](#γρυψ)                     |
+    | ☷:☴=[\`ΕΛΙΞ](#ελιξ)                     | ☱:☴=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☲:☴=[ΓΡΥΨ](#γρυψ)                     |
 + Tarot: Six ♥/Cups
   + upright: innocence, familiarity, happy memories
   + reversed: moving forward, leaving home, living in the past
@@ -1969,7 +2098,7 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☳:☳=[\`ΥΜΝΟΣ](#υμνος)             | ☳:☵=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)             | ☳:☶=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)    | 
+    | ☳:☳=[**\`ΥΜΝΟΣ**](#υμνος)             | ☳:☵=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)             | ☳:☶=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)    | 
     | ☷:☷=[**ΕΛΑΙΟΣ**](#ελαιος)             | ☱:☷=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | ☲:☷=[ΓΛΑΥΞ](#γλαυξ)                     |
 + Tarot: King ♥/Cups
   + upright: compassion, control, diplomacy, balance
@@ -2028,8 +2157,8 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☳:☵=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         | ☳:☳=[\`ΥΜΝΟΣ](#υμνος)             | ☳:☰=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | 
-    | ☷:☱=[\`ΕΣΤΙΑ](#εστια)                     | ☱:☱=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☲:☱=[ΓΟΡΓΩ](#γοργω)                     |
+    | ☳:☵=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         | ☳:☳=[**\`ΥΜΝΟΣ**](#υμνος)             | ☳:☰=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | 
+    | ☷:☱=[\`ΕΣΤΙΑ](#εστια)                     | ☱:☱=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☲:☱=[**ΓΟΡΓΩ**](#γοργω)                     |
 + Tarot: 18. The Moon
   + upright: unconscious, illusions, subconscious, intuition
   + reversed: confusion, repressed emotions, fear, misinterpretation
@@ -2123,6 +2252,9 @@ img {
 + Tarot: Ace ♠/Swords
   + upright: clarity, breakthrough, sharpness of mind
   + reversed: confusion, chaos, clouded judgement
++ Rune: ᚲ [Kenaz/Cauldron](#αινιγματα) 
+  + poem: "Cauldron sits in crackling flame, ever changing, ever same."
+  + keywords: change, transformation, illumination, fire, process, time
 + The Eardstapa's Oracle: 38\. ᛚᛁᚷᚺᛏᚾᛁᛜ ‖ ᛚᚨᚲᛖ (lightning ‖ lake)
   + riddle: "ᛗᛇ ᚷᛟᛒᛚᛖᛏ ᚷᚱᛖᛖᛞᛁᛚᛇ ᚷᛟᛒᛒᛚᛖᛊ / ᛊᚲᛇ ᚹᛁᛈᛖᚱᛊ ᚹᛟᛚᚢᛒᛚᛖ ᚹᛖᛖᚱᛁᛜ / ᚠᚱᛖᛖᛉᛖᛊ ᚠᚨᛊᛏ ᚺᛖᚱ ᚠᚢᛚᛗᛁᚾᚨᛏᛁᛟᚾᛊ"   
    "my goblet greedily gobbles / sky vipers voluble veering / freezes fast her fulminations"
@@ -2137,7 +2269,8 @@ img {
   + Associative thought
   + The goal of ritual
   + The Philosopher's Stone 
-  + Plant Rune: **ᚲ**ᛖᛚᚨᚾᛞᛁᚾᛖ / **C**elandine (*Chelidonium majus*)
+  + Plant Rune: **ᚲ**ᛟᛚᚢᛗᛒᛁᚾᛖ / **C**olumbine (*Aquilegia vulgaris*)
+  + Spirit Animal: Fox
   + "Till we have built Jerusalem," (Blake's Jerusalem 15)
   + Color: <font color="#FF854B">███ Coral ███</font> (#FF854B)
 
@@ -2168,9 +2301,6 @@ img {
 + Tarot: Page ♠/Swords
   + upright: thirst for knowledge, curiosity, restlessness, new ideas, mental energy
   + reversed: deception, manipulation, all talk and no action, haphazard haste
-+ Rune: ᚲ [Kenaz/Cauldron](#αινιγματα) 
-  + poem: "Cauldron sits in crackling flame, ever changing, ever same."
-  + keywords: change, transformation, illumination, fire, process, time
 + The Eardstapa's Oracle: 50\. ᛚᛁᚷᚺᛏᚾᛁᛜ ‖ ᚹᛁᚾᛞ (lightning ‖ wind)
   + riddle: "ᛊᚨᛗᛖᚾᛖᛊᛊ ᛊᚨᛞ ᚨᚾᛞ ᛊᚺᚨᛗᛖᛚᛖᛊᛊ ᛊᛏᚨᚱᛏᛖᛞ / ᚠᚱᛟᛗ ᚹᛖᛊᛏ ᚹᚨᚾᛞᛖᚱᛁᛜ ᛒᚨᚲᚲ ᛏᛟ ᚹᚺᛖᚱᛖ / ᛖᚨᚷᛖᚱ ᛖᚨᛊᛏ ᛒᛖᚲᚨᛗᛖ ᛖᚾᛚᛁᚷᚺᛏᛖᚾᛖᛞ"   
     "sameness sad and shameless started / from west wandering back to where / eager east became enlightened"
@@ -2185,8 +2315,7 @@ img {
   + The Cauldron of Inspiration (vide Cerridwen)
   + Curiosity
   + It's a beautiful view(point)
-  + Plant Rune: **ᚲ**ᛟᛚᚢᛗᛒᛁᚾᛖ / **C**olumbine (*Aquilegia vulgaris*)
-  + Spirit Animal: Fox
+  + Plant Rune: **ᚲ**ᚨᚲᚨᛟ / **C**acao (*Theobroma cacao*)
   + "Bring me my Spear: O clouds unfold:" (Blake's Jerusalem 11)
   + Color: <font color="#FFD300">███ Gold ███</font> (#FFD300)
 
@@ -2211,8 +2340,8 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☰:☰=[ΝΑΥΣ](#ναυς)                     | ☰:☶=[**ΝΑΡΘΗΞ**](#ναρθηξ)         | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                 | 
-    | ☴:☴=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☲:☴=[**ΓΡΥΨ**](#γρυψ)                     | ☱:☴=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             |
+    | ☰:☰=[**ΝΑΥΣ**](#ναυς)                     | ☰:☶=[ΝΑΡΘΗΞ](#ναρθηξ)         | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                 | 
+    | ☴:☴=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☲:☴=[ΓΡΥΨ](#γρυψ)                     | ☱:☴=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             |
 + Tarot: Six ♦/Pentacles
   + upright: generosity, charity, sharing
   + reversed: strings attached, power and domination, stinginess 
@@ -2255,8 +2384,8 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                 | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 | ☰:☰=[ΝΑΥΣ](#ναυς)                     | 
-    | ☴:☱=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☲:☱=[ΓΟΡΓΩ](#γοργω)                     | ☱:☱=[**ΑΝΑΓΚΗ**](#αναγκη)                 |
+    | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                 | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 | ☰:☰=[**ΝΑΥΣ**](#ναυς)                     | 
+    | ☴:☱=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☲:☱=[**ΓΟΡΓΩ**](#γοργω)                     | ☱:☱=[**ΑΝΑΓΚΗ**](#αναγκη)                 |
 + Tarot: 12\. The Hanged Man
   + upright: sacrifice, martyrdom, surrender, letting go, new perspectives, release
   + reversed: resistance, stalling, needless sacrifice, fear of sacrifice
@@ -2305,7 +2434,7 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                 | ☰:☶=[**ΝΑΡΘΗΞ**](#ναρθηξ)             | 
+    | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                 | ☰:☶=[ΝΑΡΘΗΞ](#ναρθηξ)             | 
     | ☴:☷=[ΗΩΣ](#ηως)                         | ☲:☷=[ΓΛΑΥΞ](#γλαυξ)                     | ☱:☷=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 |
 + Tarot: King ♦/Pentacles
   + upright: leadership, security, discipline, abundance, prosperity
@@ -2350,7 +2479,7 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☷:☳=[\`ΩΡΑΙ](#ωραι)                 | ☷:☵=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☷:☶=[**ΜΟΙΡΑΙ**](#μοιραι)             |
+    | ☷:☳=[**\`ΩΡΑΙ**](#ωραι)                 | ☷:☵=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☷:☶=[ΜΟΙΡΑΙ](#μοιραι)             |
     | ☳:☷=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)         | ☵:☷=[ΖΕΥΓΜΑ](#ζευγμα)                 | ☶:☷=[ΘΕΜΙΣ](#θεμις)                 |
 + Tarot: Four ♦/Pentacles
   + upright: conservation, frugality, conservatism
@@ -2394,7 +2523,7 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☷:☰=[ΜΕΓΑΡΟΝ](#μεγαρον)                 | ☷:☶=[**ΜΟΙΡΑΙ**](#μοιραι)             | ☷:☵=[ΜΑΚΑΡΙΑ](#μακαρια)                 | 
+    | ☷:☰=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 | ☷:☶=[ΜΟΙΡΑΙ](#μοιραι)             | ☷:☵=[ΜΑΚΑΡΙΑ](#μακαρια)                 | 
     | ☳:☴=[**ΒΙΟΣ**](#βιος)                 | ☵:☴=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | ☶:☴=[ΘΥΙΑ](#θυια)                     |
 + Tarot: Page ♦/Pentacles
   + upright: opportunity, skill development, ambition, desire, diligence
@@ -2437,7 +2566,7 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☷:☵=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☷:☳=[\`ΩΡΑΙ](#ωραι)                 | ☷:☰=[ΜΕΓΑΡΟΝ](#μεγαρον)                 | 
+    | ☷:☵=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☷:☳=[**\`ΩΡΑΙ**](#ωραι)                 | ☷:☰=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 | 
     | ☳:☱=[ΒΡΙΑΡΕΩΣ](#βριαρεως)             | ☵:☱=[ΖΥΓΟΝ](#ζυγον)                     | ☶:☱=[**ΘΥΜΟΝ**](#θυμον)                |
 + Tarot: Ace ♦/Pentacles
   + upright: manifestation, opportunity, prosperity, new venture, abundance
@@ -2493,7 +2622,7 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☵:☵=[ΞΟΑΝΟΝ](#ξοανον)                     | ☵:☶=[**ΞΙΦΟΣ**](#ξιφος)             | 
+    | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☵:☵=[**ΞΟΑΝΟΝ**](#ξοανον)                     | ☵:☶=[ΞΙΦΟΣ](#ξιφος)             | 
     | ☱:☷=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | ☷:☷=[**ΕΛΑΙΟΣ**](#ελαιος)             | ☴:☷=[ΗΩΣ](#ηως)                         |
 + Tarot: King ♠/Swords
   + upright: intellectual authority, head over heart, discipline, truth
@@ -2543,7 +2672,7 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☵:☵=[ΞΟΑΝΟΝ](#ξοανον)                 | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☵:☰=[ΞΥΛΟΝ](#ξυλον)                     | 
+    | ☵:☵=[**ΞΟΑΝΟΝ**](#ξοανον)                 | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☵:☰=[ΞΥΛΟΝ](#ξυλον)                     | 
     | ☱:☱=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☷:☱=[\`ΕΣΤΙΑ](#εστια)                     | ☴:☱=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 |
 + Tarot: 13. Death
   + upright: endings, beginnings, change, metamorphosis, transformation, transition
@@ -2586,7 +2715,7 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☵:☰=[ΞΥΛΟΝ](#ξυλον)                     | ☵:☶=[**ΞΙΦΟΣ**](#ξιφος)             | ☵:☵=[ΞΟΑΝΟΝ](#ξοανον)                 | 
+    | ☵:☰=[ΞΥΛΟΝ](#ξυλον)                     | ☵:☶=[ΞΙΦΟΣ](#ξιφος)             | ☵:☵=[**ΞΟΑΝΟΝ**](#ξοανον)                 | 
     | ☱:☴=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☷:☴=[\`ΕΛΙΞ](#ελιξ)                     | ☴:☴=[**\`ΗΔΟΝΗ**](#ηδονη)                 |
 + Tarot: Six ♠/Swords
   + upright: transition, change, rite of passage, leaving the past behind, moving on
@@ -2684,7 +2813,7 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☴:☵=[**ΟΦΙΣ**](#οφις)                     | ☴:☳=[ΦΟΙΝΙΞ](#φοινιξ)                 | ☴:☰=[ΟΙΚΟΣ](#οικος)                     | 
+    | ☴:☵=[**ΟΦΙΣ**](#οφις)                     | ☴:☳=[**ΦΟΙΝΙΞ**](#φοινιξ)                 | ☴:☰=[ΟΙΚΟΣ](#οικος)                     | 
     | ☰:☱=[ΔΟΡΥ](#δορυ)                     | ☶:☱=[**ΘΥΜΟΝ**](#θυμον)                | ☵:☱=[ΖΥΓΟΝ](#ζυγον)                     |
 + Tarot: Ace ♥/Cups
   + upright: love, new relationships, compassion, creativity, spirituality, intuition
@@ -2731,7 +2860,7 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☴:☳=[ΦΟΙΝΙΞ](#φοινιξ)                 | ☴:☵=[**ΟΦΙΣ**](#οφις)                     | ☴:☶=[ΟΙΝΟΣ](#οινος)                 | 
+    | ☴:☳=[**ΦΟΙΝΙΞ**](#φοινιξ)                 | ☴:☵=[**ΟΦΙΣ**](#οφις)                     | ☴:☶=[ΟΙΝΟΣ](#οινος)                 | 
     | ☰:☷=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         | ☶:☷=[ΘΕΜΙΣ](#θεμις)                 | ☵:☷=[ΖΕΥΓΜΑ](#ζευγμα)                 |
 + Tarot: Four ♥/Cups
   + upright: meditation, apathy, reevaluation, contemplation, disconnectedness
@@ -2789,7 +2918,7 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☶:☳=[\`ΡΑΒΔΟΣ](#ραβδος)             | ☶:☵=[**ΠΤΕΡΥΞ**](#πτερυξ)             | ☶:☶=[ΠΥΛΑΙ](#πυλαι)             | 
+    | ☶:☳=[**\`ΡΑΒΔΟΣ**](#ραβδος)             | ☶:☵=[ΠΤΕΡΥΞ](#πτερυξ)             | ☶:☶=[**ΠΥΛΑΙ**](#πυλαι)             | 
     | ☲:☷=[ΓΛΑΥΞ](#γλαυξ)                     | ☴:☷=[ΗΩΣ](#ηως)                         | ☷:☷=[**ΕΛΑΙΟΣ**](#ελαιος)             |
 + Tarot: King ♣/Wands
   + upright: leader, visionary, entrepreneur, overcoming challenges
@@ -2842,8 +2971,8 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☶:☰=[ΠΑΙΩΝ](#παιων)                 | ☶:☶=[ΠΥΛΑΙ](#πυλαι)             | ☶:☵=[**ΠΤΕΡΥΞ**](#πτερυξ)             | 
-    | ☲:☴=[**ΓΡΥΨ**](#γρυψ)                     | ☴:☴=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☷:☴=[\`ΕΛΙΞ](#ελιξ)                     |
+    | ☶:☰=[ΠΑΙΩΝ](#παιων)                 | ☶:☶=[**ΠΥΛΑΙ**](#πυλαι)             | ☶:☵=[ΠΤΕΡΥΞ](#πτερυξ)             | 
+    | ☲:☴=[ΓΡΥΨ](#γρυψ)                     | ☴:☴=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☷:☴=[\`ΕΛΙΞ](#ελιξ)                     |
 + Tarot: Six ♣/Wands
   + upright: victory, success, public reward
   + reversed: excessive pride, lack of recognition, fall from grace, egotism
@@ -2900,8 +3029,8 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☶:☵=[**ΠΤΕΡΥΞ**](#πτερυξ)             | ☶:☳=[\`ΡΑΒΔΟΣ](#ραβδος)             | ☶:☰=[ΠΑΙΩΝ](#παιων)                 | 
-    | ☲:☱=[ΓΟΡΓΩ](#γοργω)                     | ☴:☱=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☷:☱=[\`ΕΣΤΙΑ](#εστια)                     |
+    | ☶:☵=[ΠΤΕΡΥΞ](#πτερυξ)             | ☶:☳=[**\`ΡΑΒΔΟΣ**](#ραβδος)             | ☶:☰=[ΠΑΙΩΝ](#παιων)                 | 
+    | ☲:☱=[**ΓΟΡΓΩ**](#γοργω)                     | ☴:☱=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☷:☱=[\`ΕΣΤΙΑ](#εστια)                     |
 + Tarot: 16\. The Tower
   + upright: sudden upheaval or change, broken pride, disaster, revelation, awakening
   + reversed: disaster averted or delayed, fear of change
@@ -2956,13 +3085,10 @@ img {
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☱:☱=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☱:☷=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | ☱:☴=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | 
-    | ☵:☵=[ΞΟΑΝΟΝ](#ξοανον)                 | ☳:☵=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                 |
+    | ☵:☵=[**ΞΟΑΝΟΝ**](#ξοανον)                 | ☳:☵=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                 |
 + Tarot: Nine ♣/Wands
   + upright: resilience, courage, persistence, test of faith, boundaries, grit, last stand
   + reversed: exhaustion, fatigue, questioning motivations, inner resources, struggle, overwhelmed, defensive
-+ Rune: ᚾ [Naudiz/Nettles](#αινιγματα)  
-  + poem: "Nettles for the needy man; takes his hunger what it can."
-  + keywords: need, necessity, lack, constraint, binding, destiny, fate, the Norns  
 + The Eardstapa's Oracle: 47\. ᛚᚨᚲᛖ ‖ ᚱᚨᛁᚾ (lake ‖ rain)
   + riddle: "ᚹᚨᛏᛖᚱᛊ ᚹᛁᛚᛚ ᚱᛁᛊᛖ ᚹᛁᛚᛚ ᚹᚨᚾᛞᛖᚱ ᚹᚨᛊᛏᛖ  / ᚠᚢᛚᛚ ᛖᚠᚠᛟᚱᛏ ᚠᛚᚨᚢᚾᛏ ᚠᚱᛖᛖᛞᛟᛗ ᚠᛁᚾᛁᛊᚺ / ᚦᛁᛊ ᛏᚱᛁᚨᛚ ᚨᚾᛞ ᛏᚱᛟᚢᛒᛚᛖ ᛏᚨᚲᛖ ᛏᛟᛞᚨᛇ"   
     "waters will rise will wander waste  / full effort flaunt freedom finish / this trial and trouble take today"
@@ -2978,7 +3104,7 @@ img {
   + "Our life is forfeit to the Dharma" -Fox and Bärchen
   + The Magic Girdle of Aphrodite is φιλότητα καί ἵμερον = affection and desire
   + Sir Gawain and the Green Knight
-  + Plant Rune: **ᚾ**ᛖᛏᛏᛚᛖᛊ / **N**ettles (*Urtica dioica*)
+  + Plant Rune: **ᚾ**ᚨᛊᛏᚢᚱᛏᛁᚢᛗ / **N**asturtium (*Tropaeolum majus*)
   + passion(n.) https://www.etymonline.com/word/passion ... from Late Latin passionem "suffering, enduring," 
     from Latin pati "to endure, undergo, experience". The notion is "that which must be endured." The sense 
     was extended to ... suffering and pain generally, by early 13c. It replaced OE þolung (used in glosses 
@@ -3016,11 +3142,14 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☱:☲=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 | ☱:☴=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☱:☷=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | 
-    | ☵:☶=[**ΞΙΦΟΣ**](#ξιφος)             | ☳:☶=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     | ☰:☶=[**ΝΑΡΘΗΞ**](#ναρθηξ)         |
+    | ☱:☲=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 | ☱:☴=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☱:☷=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | 
+    | ☵:☶=[ΞΙΦΟΣ](#ξιφος)             | ☳:☶=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     | ☰:☶=[ΝΑΡΘΗΞ](#ναρθηξ)         |
 + Tarot: 17\. The Star
   + upright: hope, faith, purpose, renewal, rejuvenation
   + reversed: despair, faithlessness, discouragement, insecurity
++ Rune: ᚾ [Naudiz/Nettles](#αινιγματα)  
+  + poem: "Nettles for the needy man; takes his hunger what it can."
+  + keywords: need, necessity, lack, constraint, binding, destiny, fate, the Norns  
 + The Eardstapa's Oracle: 31\. ᛚᚨᚲᛖ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (lake ‖ mountain)
   + riddle: "ᛃᛟᚢᚱᚾᛖᛇᛊ ᛃᛟᛇᛊ ᛏᛟ ᛃᚢᚲᛊᛏᚨᛈᛟᛊᛖ ᚺᛖ / ᛚᛁᛖᛊ ᚨᛒᛟᚢᛏ ᛇᛟᚾ ᛚᚨᚲᛖ ᚨᚾᛞ ᛚᛁᛊᛏᛖᚾᛊ / ᛏᛟ ᛏᚱᚢᚦ ᛏᛖᛚᛚᛁᛜ ᛏᚨᛚᛚ ᛗᛟᚢᚾᛏᚨᛁᚾ ᛏᚨᛚᛖᛊ"   
     "journeys joys to juxtapose he / lies about yon lake and listens / to truth telling tall mountain tales"
@@ -3033,7 +3162,7 @@ img {
   + A little sugar
   + Mutual respect
   + "Now abideth faith, hope & charity"
-  + Plant Rune: **ᚾ**ᚨᛊᛏᚢᚱᛏᛁᚢᛗ / **N**asturtium (*Tropaeolum majus*)
+  + Plant Rune: **ᚾ**ᛖᛏᛏᛚᛖᛊ / **N**ettles (*Urtica dioica*)
   + "The Singing, Springing Lark" (Grimm's Fairy Tales 1st ed. Volume 2 #2)
   + "In thy presence is fulness of joy"
   + Color: <font color="#AA4FC7">███ Fuschia Pink ███</font> (#AA4FC7)
@@ -3061,8 +3190,8 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☱:☴=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☱:☲=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 | ☱:☱=[**ΑΝΑΓΚΗ**](#αναγκη)                 | 
-    | ☵:☰=[ΞΥΛΟΝ](#ξυλον)                     | ☳:☰=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | ☰:☰=[ΝΑΥΣ](#ναυς)                     |
+    | ☱:☴=[ΑΣΦΟΔΕΛΟΣ](#ασφοδελος)             | ☱:☲=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 | ☱:☱=[**ΑΝΑΓΚΗ**](#αναγκη)                 | 
+    | ☵:☰=[ΞΥΛΟΝ](#ξυλον)                     | ☳:☰=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | ☰:☰=[**ΝΑΥΣ**](#ναυς)                     |
 + Tarot: Queen ♣/Wands
   + upright: courage, confidence, independence, determination
   + reversed: selfishness, jealousy, insecurities
@@ -3109,7 +3238,7 @@ img {
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☳:☲=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☳:☴=[**ΒΙΟΣ**](#βιος)                 | ☳:☷=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)         | 
-    | ☷:☶=[**ΜΟΙΡΑΙ**](#μοιραι)             | ☱:☶=[ΙΡΙΣ](#ιρις)                     | ☲:☶=[ΛΙΝΟΝ](#λινον)                 |
+    | ☷:☶=[ΜΟΙΡΑΙ](#μοιραι)             | ☱:☶=[**ΙΡΙΣ**](#ιρις)                     | ☲:☶=[ΛΙΝΟΝ](#λινον)                 |
 + Tarot: Eight ♥/Cups
   + upright: disappointment, withdrawal, disillusionment
   + reversed: avoidance, fear of loss, aimless drifting
@@ -3156,7 +3285,7 @@ img {
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☳:☴=[**ΒΙΟΣ**](#βιος)                 | ☳:☲=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☳:☱=[ΒΡΙΑΡΕΩΣ](#βριαρεως)             | 
-    | ☷:☰=[ΜΕΓΑΡΟΝ](#μεγαρον)                 | ☱:☰=[\`ΙΣΤΟΣ](#ιστος)                 | ☲:☰=[ΛΑΜΠΑΣ](#λαμπας)                 |
+    | ☷:☰=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 | ☱:☰=[\`ΙΣΤΟΣ](#ιστος)                 | ☲:☰=[ΛΑΜΠΑΣ](#λαμπας)                 |
 + Tarot: Five ♥/Cups
   + upright: regret, failure, disappointment, pessimism, loss, grief, self-pity
   + reversed: acceptance, moving on, finding peace
@@ -3200,7 +3329,7 @@ img {
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☳:☱=[ΒΡΙΑΡΕΩΣ](#βριαρεως)             | ☳:☷=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)         | ☳:☴=[**ΒΙΟΣ**](#βιος)                 | 
-    | ☷:☵=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☱:☵=[**\`ΙΜΑΣ**](#ιμας)                 | ☲:☵=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         |
+    | ☷:☵=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☱:☵=[\`ΙΜΑΣ](#ιμας)                 | ☲:☵=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         |
 + Tarot: Seven ♥/Cups
   + upright: opportunities, wishful thinking, illusion, choices, daydreaming
   + reversed: lack of purpose, diversion, confusion, overwhelmed by choices
@@ -3245,8 +3374,8 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☲:☱=[ΓΟΡΓΩ](#γοργω)                     | ☲:☷=[ΓΛΑΥΞ](#γλαυξ)                     | ☲:☴=[**ΓΡΥΨ**](#γρυψ)                     | 
-    | ☶:☵=[**ΠΤΕΡΥΞ**](#πτερυξ)          | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                    | ☳:☵=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         |
+    | ☲:☱=[**ΓΟΡΓΩ**](#γοργω)                     | ☲:☷=[ΓΛΑΥΞ](#γλαυξ)                     | ☲:☴=[ΓΡΥΨ](#γρυψ)                     | 
+    | ☶:☵=[ΠΤΕΡΥΞ](#πτερυξ)          | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                    | ☳:☵=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)         |
 + Tarot: Nine ♠/Swords
   + upright: anxiety, worry, fear, hopelessness, trauma
   + reversed: reaching out, inner turmoil, deep-seated fears, secrets, releasing worry
@@ -3288,8 +3417,8 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☲:☴=[**ΓΡΥΨ**](#γρυψ)                     | ☲:☲=[ΧΑΣΜΑ](#χασμα)                     | ☲:☱=[ΓΟΡΓΩ](#γοργω)                     | 
-    | ☶:☰=[ΠΑΙΩΝ](#παιων)                 | ☰:☰=[ΝΑΥΣ](#ναυς)                     | ☳:☰=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             |
+    | ☲:☴=[ΓΡΥΨ](#γρυψ)                     | ☲:☲=[**ΧΑΣΜΑ**](#χασμα)                     | ☲:☱=[**ΓΟΡΓΩ**](#γοργω)                     | 
+    | ☶:☰=[ΠΑΙΩΝ](#παιων)                 | ☰:☰=[**ΝΑΥΣ**](#ναυς)                     | ☳:☰=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             |
 + Tarot: Queen ♠/Swords
   + upright: perceptiveness, clear mindedness, unbiased judgement, clear boundaries, direct communication.
   + reversed: cold hearted, cruel, bitter, bitchy, cold-hearted.  
@@ -3342,8 +3471,8 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☲:☲=[ΧΑΣΜΑ](#χασμα)                     | ☲:☴=[**ΓΡΥΨ**](#γρυψ)                     | ☲:☷=[ΓΛΑΥΞ](#γλαυξ)                     | 
-    | ☶:☶=[ΠΥΛΑΙ](#πυλαι)             | ☰:☶=[**ΝΑΡΘΗΞ**](#ναρθηξ)         | ☳:☶=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     |
+    | ☲:☲=[**ΧΑΣΜΑ**](#χασμα)                     | ☲:☴=[ΓΡΥΨ](#γρυψ)                     | ☲:☷=[ΓΛΑΥΞ](#γλαυξ)                     | 
+    | ☶:☶=[**ΠΥΛΑΙ**](#πυλαι)             | ☰:☶=[ΝΑΡΘΗΞ](#ναρθηξ)         | ☳:☶=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     |
 + Tarot: 21\. The World
   + upright: fulfillment, harmony, completion, integration, accomplishment, travel.
   + reversed: incompletion, short-cuts, delays.
@@ -3388,7 +3517,7 @@ img {
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☷:☱=[\`ΕΣΤΙΑ](#εστια)                     | ☷:☷=[**ΕΛΑΙΟΣ**](#ελαιος)             | ☷:☴=[\`ΕΛΙΞ](#ελιξ)                     | 
-    | ☳:☵=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)             | ☵:☵=[ΞΟΑΝΟΝ](#ξοανον)                 | ☶:☵=[**ΠΤΕΡΥΞ**](#πτερυξ)             |
+    | ☳:☵=[ΚΗΡΥΚΕΙΟΝ](#κηρυκειον)             | ☵:☵=[**ΞΟΑΝΟΝ**](#ξοανον)                 | ☶:☵=[ΠΤΕΡΥΞ](#πτερυξ)             |
 + Tarot: Nine ♦/Pentacles
   + upright: fruits of labor, self-sufficiency, financial independence, rewards, luxury.
   + reversed: reckless spending, living beyond your means, false success, hustling.
@@ -3452,6 +3581,9 @@ img {
 + Tarot: Queen ♦/Pentacles
   + upright: nurturing, practicality, creature comforts, financial security.
   + reversed: self-centeredness, jealousy, smothering, self-care, work/life imbalance.
++ Rune: ᛈ [Pertho/Paeony](#αινιγματα)  
+  + poem: "Paeony, beguiling bloom, blessed portal of the womb."
+  + keywords: womb, conception, gestation, hidden beginnings, secrets
 + The Eardstapa's Oracle: 11\. ᛖᚨᚱᚦ ‖ ᚺᛖᚨᚹᛖᚾ (earth ‖ heaven)
   + riddle: "ᛈᚨᚱᛏᛁᛜ ᛟᚠ ᛈᛚᚨᛁᚾ ᚨᚾᛞ ᛈᚨᛚᛖ ᛈᚨᚱᛏᚾᛖᚱ / ᛞᛟᛗᛖ ᛊᛏᛁᛚᛚ ᛞᚱᛖᚨᛗᛁᛜ ᛟᚠ ᛞᚨᛇᛊ ᛞᛖᛚᛁᚷᚺᛏ / ᚢᚾᚠᚢᛚᛚᚠᛁᛚᛚᛖᛞ ᛁᚾ ᚠᚨᛁᚱ ᚠᚨᚱᛁᛜᛊ ᚠᛟᚱᚦ"   
     "parting of plain and pale partner / dome still dreaming of days delight / unfullfilled in fair farings forth"
@@ -3463,7 +3595,7 @@ img {
 + Additional Concepts: 
   + The soft and yielding follows Life
   + Better housekeeping through adaptable homeostasis
-  + Plant Rune: **ᛈ**ᚢᛗᛈᚲᛁᚾ / **P**umpkin (*Cucurbita pepo*)
+  + Plant Rune: **ᛈ**ᚨᛖᛟᚾᛇ / **P**aeony (*Paeonia officinalis*)
   + "King Thrushbeard" (Grimm's Fairy Tales 1st ed. Volume I #52)
   + Color: <font color="#2B2B2B">███ Baltic Sea ███</font> (#2B2B2B)
 
@@ -3488,13 +3620,10 @@ img {
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☷:☲=[ΩΓΥΓΙΗ](#ωγυγιη)                     | ☷:☴=[\`ΕΛΙΞ](#ελιξ)                     | ☷:☷=[**ΕΛΑΙΟΣ**](#ελαιος)             | 
-    | ☳:☶=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)    | ☵:☶=[**ΞΙΦΟΣ**](#ξιφος)             | ☶:☶=[ΠΥΛΑΙ](#πυλαι)             |
+    | ☳:☶=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)    | ☵:☶=[ΞΙΦΟΣ](#ξιφος)             | ☶:☶=[**ΠΥΛΑΙ**](#πυλαι)             |
 + Tarot: 11\. Justice
   + upright: justice, fairness, truth, cause and effect, law.
   + reversed: dishonesty, unfairness, lack of accountability.
-+ Rune: ᛈ [Pertho/Paeony](#αινιγματα)  
-  + poem: "Paeony, beguiling bloom, blessed portal of the womb."
-  + keywords: womb, conception, gestation, hidden beginnings, secrets
 + The Eardstapa's Oracle: 15\. ᛖᚨᚱᚦ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (earth ‖ mountain)
   + riddle: "ᚱᛟᛟᛏᛊ ᛟᚠ ᛗᛟᚢᚾᛏᚨᛁᚾ ᛗᚢᛚᛚ ᛟ ᛗᛇᛊᛏᛁᚲ / ᛈᚨᚦ ᛟᚲᚲᚢᛚᛏ ᛟᛒᛊᚲᚢᚱᛖ ᚦᛖ ᛟᛒᚹᛖᚱᛊᛖ / ᛟᚠ ᚲᚾᛟᚹᚾ ᛟᚠ ᚾᛖᛖᛞᚠᚢᛚ ᛖᛖᚱ ᚾᚨᛊᚲᛖᚾᛏ"   
     "roots of mountain mull o mystic / path occult obscure the obverse / of known of needful eer nascent"
@@ -3516,7 +3645,7 @@ img {
   + The balance wherein Life hangs
   + ΔΑΙΜΟΝ (Tutelary Spirit), Fairy Godmother
   + "...neither wilt thou suffer thine Holy One to see corruption"
-  + Plant Rune: **ᛈ**ᚨᛖᛟᚾᛇ / **P**aeony (*Paeonia officinalis*)
+  + Plant Rune: **ᛈ**ᚢᛗᛈᚲᛁᚾ / **P**umpkin (*Cucurbita pepo*)
   + In Greek Mythology, the Μοῖραι (Moirai), sometimes called the "Fates", from Latin "Fata", are Κλωθώ (Klotho, 
     "spinner") who spins the thread of human life, Λάχεσις (Lachesis, "disposer of lots") who measures the 
     thread spun on Clotho's spindle, and Ἄτροπος (Atropos, "unturning") who chooses the manner of death and 
@@ -3555,14 +3684,11 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☰:☲=[ΨΗΦΟΣ](#ψηφος)                     | ☰:☴=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | ☰:☷=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         | 
-    | ☴:☶=[ΟΙΝΟΣ](#οινος)                 | ☲:☶=[ΛΙΝΟΝ](#λινον)                 | ☱:☶=[ΙΡΙΣ](#ιρις)                     |
+    | ☰:☲=[**ΨΗΦΟΣ**](#ψηφος)                     | ☰:☴=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | ☰:☷=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         | 
+    | ☴:☶=[ΟΙΝΟΣ](#οινος)                 | ☲:☶=[ΛΙΝΟΝ](#λινον)                 | ☱:☶=[**ΙΡΙΣ**](#ιρις)                     |
 + Tarot: Eight ♦/Pentacles
   + upright: apprenticeship, high standards, mastery, skill development.
   + reversed: lack of passion or motivation, uninspired, perfectionism, misdirection.
-+ Rune: ᛃ [Jera/Juniper](#αινιγματα)  
-  + poem: "Juniper with twisted beam, holds the daylight's dying gleam."
-  + keywords: completion, harvest, year, ending, conclusion, accomplishment
 + The Eardstapa's Oracle: 33\. ᚺᛖᚨᚹᛖᚾ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (heaven ‖ mountain)
   + riddle: "ᛊᛏᚨᛇ ᚾᛟᛏ ᛊᛏᚨᚾᛞᛁᛜ ᚾᚨᛇ ᛊᛏᚨᚲᛖ ᛊᚢᛗᛗᛁᛏ / ᛏᛟ ᚺᛟᛚᛞ ᚺᛖᚨᚹᛖᚾᚹᚨᚱᛞ ᚦᚨᛏ ᚹᚺᛟᛚᛖᚾᛖᛊᛊ / ᚹᚺᛁᚲᚺ ᚹᛖᚾᛏᚢᚱᛖᛊ ᛖᚹᛖᚾ ᚨᛞᚹᛖᚾᛏᚢᚱᛖ"   
     "stay not standing nay stake summit / to hold heavenward that wholeness / which ventures even adventure"
@@ -3575,7 +3701,7 @@ img {
   + From apprentice to master
   + Foresight
   + Who do you want to be like?
-  + Plant Rune: **ᛃ**ᚢᚾᛁᛈᛖᚱ / **J**uniper (*Juniperus occidentalis*, et al.)
+  + Plant Rune: **ᛃ**ᚨᛚᚨᛈᛖᚾᛟ / **J**alapeño (*Capsicum annuum*)
   + "Death and the Goose Boy" (Grimm's Fairy Tales 1st ed. Volume I #27)
   + "Shine forth upon our clouded hills?" (Blake's Jerusalem 6)
   + Color: <font color="#94F7FF">███ Anakiwa ███</font> (#94F7FF)
@@ -3600,7 +3726,7 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☰:☴=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | ☰:☲=[ΨΗΦΟΣ](#ψηφος)                     | ☰:☱=[ΔΟΡΥ](#δορυ)                     | 
+    | ☰:☴=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | ☰:☲=[**ΨΗΦΟΣ**](#ψηφος)                     | ☰:☱=[ΔΟΡΥ](#δορυ)                     | 
     | ☴:☰=[ΟΙΚΟΣ](#οικος)                     | ☲:☰=[ΛΑΜΠΑΣ](#λαμπας)                 | ☱:☰=[\`ΙΣΤΟΣ](#ιστος)                 |
 + Tarot: Five ♦/Pentacles
   + upright: need, poverty, loss, insecurity.
@@ -3611,13 +3737,16 @@ img {
   + situation: The Eardstapa comes to the rendezvous spot for travelers.
   + admonition: Do not neglect to swap gear, news, and insights, and to help your fellow travelers before 
     you set out again. Maybe you'll find companions to join you, or you can join with others for support.
++ Rune: ᛃ [Jera/Juniper](#αινιγματα)  
+  + poem: "Juniper with twisted beam, holds the daylight's dying gleam."
+  + keywords: completion, harvest, year, ending, conclusion, accomplishment
 + Bible: Genesis 1:1 - [In the beginning,] God created...
 + Additional Concepts: 
   + "Give, and it shall be given to you"
   + "There are no passengers on spaceship earth. We are all crew"
   + The power of ritual
   + Heaven proposes, Earth disposes
-  + Plant Rune: **ᛃ**ᚨᛚᚨᛈᛖᚾᛟ / **J**alapeño (*Capsicum annuum*)
+  + Plant Rune: **ᛃ**ᚢᚾᛁᛈᛖᚱ / **J**uniper (*Juniperus occidentalis*, et al.)
   + Color: <font color="#D8D8D8">███ Iron ███</font> (#D8D8D8)
 
 ---
@@ -3645,7 +3774,7 @@ img {
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☰:☱=[ΔΟΡΥ](#δορυ)                     | ☰:☷=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)        | ☰:☴=[ΔΑΙΔΑΛΑ](#δαιδαλα)                 | 
-    | ☴:☵=[**ΟΦΙΣ**](#οφις)                     | ☲:☵=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         | ☱:☵=[**\`ΙΜΑΣ**](#ιμας)                 |
+    | ☴:☵=[**ΟΦΙΣ**](#οφις)                     | ☲:☵=[**ΛΑΒΥΡΙΝΘΟΣ**](#λαβυρινθος)         | ☱:☵=[\`ΙΜΑΣ](#ιμας)                 |
 + Tarot: Seven ♦/Pentacles
   + upright: hard work, investment, perseverance, diligence.
   + reversed: work without rewards, lack of vision, limited success or reward.
@@ -3696,15 +3825,12 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☵:☲=[ΤΟΞΟΝ](#τοξον)                     | ☵:☴=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | ☵:☷=[ΖΕΥΓΜΑ](#ζευγμα)                 | 
-    | ☱:☶=[ΙΡΙΣ](#ιρις)                     | ☷:☶=[**ΜΟΙΡΑΙ**](#μοιραι)             | ☴:☶=[ΟΙΝΟΣ](#οινος)                 |
+    | ☵:☲=[**ΤΟΞΟΝ**](#τοξον)                     | ☵:☴=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | ☵:☷=[ΖΕΥΓΜΑ](#ζευγμα)                 | 
+    | ☱:☶=[**ΙΡΙΣ**](#ιρις)                     | ☷:☶=[ΜΟΙΡΑΙ](#μοιραι)             | ☴:☶=[ΟΙΝΟΣ](#οινος)                 |
 + Tarot: Eight ♠/Swords
   + upright: imprisonment, entrapment, self-imposed restriction, victim mentality.
   + reversed: self acceptance, new perspectives, freedom, release of negative thoughts, opening to new 
     perspectives.
-+ Rune: ᛁ [Isaz/Ice](#αινιγματα)  
-  + poem: "Ice makes hard the fish's roof; then poor heron stands aloof."
-  + keywords: static, frozen, structured, patterned, crystalline, regular
 + The Eardstapa's Oracle: 39\. ᚱᚨᛁᚾ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (rain ‖ mountain)
   + riddle: "ᚲᛚᛟᚢᛞ ᚲᚨᚢᚷᚺᛏ ᛁᚾ ᚲᛟᚾᛊᛁᛞᛖᚱᚨᛏᛁᛟᚾᛊ / ᛗᚨᛇᛒᛖ ᛗᛟᚢᚾᛏ ᛗᛁᛊᛊᛁᛜ ᛗᛟᚱᛖ ᛗᚨᛇ ᛒᛖ / ᛊᚨᛇ ᛊᛟᛗᛖ ᛊᛏᛟᛈ ᛊᛟᛗᛖ ᛊᚨᛇ ᛊᚨᛚᛚᛇ ᚠᛟᚱᚦ"   
     "cloud caught in considerations / maybe mount missing more may be / say some stop some say sally forth"
@@ -3719,6 +3845,7 @@ img {
   + Audentes Fortuna Iuvat
   + Spirit Animal: Heron
   + Plant Rune: **ᛁ**ᚾᛞᛁᚷᛟ / **I**ndigo (*Indigofera tinctoria*)
+  + "What we've got here is a failure to communicate."
   + "Nor shall my Sword sleep in my hand:" (Blake's Jerusalem 14)
   + Color: <font color="#006FBF">███ Science Blue ███</font> (#006FBF)
 
@@ -3743,7 +3870,7 @@ img {
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☵:☱=[ΖΥΓΟΝ](#ζυγον)                     | ☵:☷=[ΖΕΥΓΜΑ](#ζευγμα)                 | ☵:☴=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | 
-    | ☱:☵=[**\`ΙΜΑΣ**](#ιμας)                 | ☷:☵=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☴:☵=[**ΟΦΙΣ**](#οφις)                     |
+    | ☱:☵=[\`ΙΜΑΣ](#ιμας)                 | ☷:☵=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☴:☵=[**ΟΦΙΣ**](#οφις)                     |
 + Tarot: Seven ♠/Swords
   + upright: betrayal, deception, trickery, acting strategically.
   + reversed: come clean, rethink your approach, imposter syndrome, self-deceit, keeping secrets.
@@ -3753,6 +3880,9 @@ img {
   + situation: The Eardstapa is stuck in camp, socked in by clouds, rain, and mists.
   + admonition: Take this time to make and revise plans. Don't kid yourself--unless a miracle occurs, you're 
     not going anywhere.
++ Rune: ᛁ [Isaz/Ice](#αινιγματα)  
+  + poem: "Ice makes hard the fish's roof; then poor heron stands aloof."
+  + keywords: static, frozen, structured, patterned, crystalline, regular
 + Bible: Exodus 14:1-31 - Crossing the Red Sea
 + Additional Concepts: 
   + Thief! Thought you could hide that?!
@@ -3786,8 +3916,8 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☵:☴=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | ☵:☲=[ΤΟΞΟΝ](#τοξον)                     | ☵:☱=[ΖΥΓΟΝ](#ζυγον)                     | 
-    | ☱:☰=[\`ΙΣΤΟΣ](#ιστος)                 | ☷:☰=[ΜΕΓΑΡΟΝ](#μεγαρον)                 | ☴:☰=[ΟΙΚΟΣ](#οικος)                     |
+    | ☵:☴=[**ΖΩΠΥΡΟΝ**](#ζωπυρον)             | ☵:☲=[**ΤΟΞΟΝ**](#τοξον)                     | ☵:☱=[ΖΥΓΟΝ](#ζυγον)                     | 
+    | ☱:☰=[\`ΙΣΤΟΣ](#ιστος)                 | ☷:☰=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 | ☴:☰=[ΟΙΚΟΣ](#οικος)                     |
 + Tarot: Five ♠/Swords
   + upright: conflict, disagreements, competition, unbridled ambition, winning at all costs, sneakiness.
   + reversed: lingering resentment, reconciliation, making amends.
@@ -3848,7 +3978,7 @@ img {
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☴:☴=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☴:☲=[ΦΙΑΛΗ](#φιαλη)                     | ☴:☱=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | 
-    | ☰:☰=[ΝΑΥΣ](#ναυς)                     | ☶:☰=[ΠΑΙΩΝ](#παιων)                 | ☵:☰=[ΞΥΛΟΝ](#ξυλον)                     |
+    | ☰:☰=[**ΝΑΥΣ**](#ναυς)                     | ☶:☰=[ΠΑΙΩΝ](#παιων)                 | ☵:☰=[ΞΥΛΟΝ](#ξυλον)                     |
 + Tarot: Queen ♥/Cups
   + upright: caring, emotionally stable, compassionate, calm, comforting.
   + reversed: martyrdom, insecurity, dependence, co-dependency.
@@ -3901,7 +4031,7 @@ img {
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☴:☲=[ΦΙΑΛΗ](#φιαλη)                     | ☴:☴=[**\`ΗΔΟΝΗ**](#ηδονη)                 | ☴:☷=[ΗΩΣ](#ηως)                         | 
-    | ☰:☶=[**ΝΑΡΘΗΞ**](#ναρθηξ)         | ☶:☶=[ΠΥΛΑΙ](#πυλαι)             | ☵:☶=[**ΞΙΦΟΣ**](#ξιφος)             |
+    | ☰:☶=[ΝΑΡΘΗΞ](#ναρθηξ)         | ☶:☶=[**ΠΥΛΑΙ**](#πυλαι)             | ☵:☶=[ΞΙΦΟΣ](#ξιφος)             |
 + Tarot: 14\. Temperance
   + upright: balance, moderation, middle path, patience, finding meaning.
   + reversed: extremes, excess, imbalance.
@@ -3938,13 +4068,13 @@ img {
 + [I Ching](#the-alchemical-structure-of-the-i-ching): 59\. ䷺ Dispersion / Dispersion (Dissolution)
   + judgment: Success is possible. The ruler approaches their temple. It is advantageous to cross the 
     big river. To keep going is advantageous.
-  + image: As rulers, sacrifice to the Great Mystery and build its temples.
+  + image: As rulers, sacrifice to the Great Mystery (太玄 tài xuán) and build its temples.
   + alchemy: V\. The Pilgrimage to The Inner Shrine, Part 2 - 9\. Execute/Process
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☴:☱=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☴:☷=[ΗΩΣ](#ηως)                         | ☴:☴=[**\`ΗΔΟΝΗ**](#ηδονη)                 | 
-    | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                 | ☶:☵=[**ΠΤΕΡΥΞ**](#πτερυξ)             | ☵:☵=[ΞΟΑΝΟΝ](#ξοανον)                 |
+    | ☰:☵=[ΝΟΣΤΟΣ](#νοστος)                 | ☶:☵=[ΠΤΕΡΥΞ](#πτερυξ)             | ☵:☵=[**ΞΟΑΝΟΝ**](#ξοανον)                 |
 + Tarot: Nine ♥/Cups
   + upright: contentment, satisfaction, gratitude, wishes come true.
   + reversed: smugness, dissatisfaction, indulgence.
@@ -3996,7 +4126,7 @@ img {
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☶:☴=[ΘΥΙΑ](#θυια)                     | ☶:☲=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☶:☱=[**ΘΥΜΟΝ**](#θυμον)                | 
-    | ☲:☰=[ΛΑΜΠΑΣ](#λαμπας)                 | ☴:☰=[ΟΙΚΟΣ](#οικος)                     | ☷:☰=[ΜΕΓΑΡΟΝ](#μεγαρον)                 |
+    | ☲:☰=[ΛΑΜΠΑΣ](#λαμπας)                 | ☴:☰=[ΟΙΚΟΣ](#οικος)                     | ☷:☰=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 |
 + Tarot: Five ♣/Wands
   + upright: competition, rivalry, conflict, disagreements.
   + reversed: avoid conflict, respect differences.
@@ -4051,9 +4181,6 @@ img {
 + Tarot: Seven ♣/Wands
   + upright: challenge, competition, protection, perseverance, defense, maintaining control
   + reversed: give up, confidence destroyed, overwhelmed
- + Rune: ᛇ [Eiwaz/Yew](#αινιγματα)  
-   + poem: "Yew betokens hallowed ground; nothing ill is therein found."
-   + keywords: Yggdrasil (the World Tree), sacred circle, the Runes, luck
 + The Eardstapa's Oracle: 4\. ᛗᛟᚢᚾᛏᚨᛁᚾ ‖ ᚱᚨᛁᚾ (mountain ‖ rain)
   + riddle: "ᚢᚾᛞᚨᚢᚾᛏᛖᛞ ᛟᚱ ᚢᚾᛞᛟᚾᛖ ᛇᛖᛏ ᚢᛈ / ᛊᛏᚨᚱᛏ ᛊᚢᛒᛗᛁᛏ ᚾᛟᛏ ᛊᛁᛗᛈᛖᚱ ᛟᚱ ᛊᛚᚨᚲᚲ / ᚹᚺᛁᛚᛖ ᚱᚨᛁᚾᛊ ᚱᚢᚾ ᛒᚢᛏ ᚱᛖᛁᚷᚾ ᚱᛖᚷᚨᚱᛞᛚᛖᛊᛊ"   
     "undaunted or undone yet up / start submit not simper or slack / while rains run but reign regardless"
@@ -4079,7 +4206,7 @@ img {
   + "Contrariwise,' continued Tweedledee, 'if it was so, it might be; and if it were so, it would be; 
     but as it isn't, it ain't. That's logic."
   + The Tree of Knowledge, the Hazel of Wisdom
-  + Plant Rune: **ᛇ**ᛖᚹ / **Y**ew (*Taxus baccata*, et al.)
+  + Plant Rune: **ᛇ**ᛖᚱᛒᚨ ᛊᚨᚾᛏᚨ / **Y**erba Santa (*Eriodictyon californicum*)
   + What can you *use* it for?
   + "Bring me my Bow of burning gold:" (Blake's Jerusalem 9)
   + Color: <font color="#009AD5">███ Cerulean ███</font> (#009AD5)
@@ -4106,7 +4233,7 @@ img {
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☶:☲=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☶:☴=[ΘΥΙΑ](#θυια)                     | ☶:☷=[ΘΕΜΙΣ](#θεμις)                 | 
-    | ☲:☶=[ΛΙΝΟΝ](#λινον)                 | ☴:☶=[ΟΙΝΟΣ](#οινος)                 | ☷:☶=[**ΜΟΙΡΑΙ**](#μοιραι)             |
+    | ☲:☶=[ΛΙΝΟΝ](#λινον)                 | ☴:☶=[ΟΙΝΟΣ](#οινος)                 | ☷:☶=[ΜΟΙΡΑΙ](#μοιραι)             |
 + Tarot: Eight ♣/Wands
   + upright: rapid action, movement, quick decisions, air travel.
   + reversed: waiting, slowdowns, delays, frustration.
@@ -4116,14 +4243,17 @@ img {
   + situation: The Eardstapa has reached the top of the mountain.
   + admonition: Savor the moment and enjoy the view. Soon, you must make the descent while you still have 
     time to return safely.
+ + Rune: ᛇ [Eiwaz/Yew](#αινιγματα)  
+   + poem: "Yew betokens hallowed ground; nothing ill is therein found."
+   + keywords: Yggdrasil (the World Tree), sacred circle, the Runes, luck
 + Bible: Revelation 18 - The Fall of Babylon
 + Additional Concepts: 
   + "Just drive, she said"
   + Stillness in action - Action in stillness
   + Engage!
   + [The Battle of Thermopylae](https://en.wikipedia.org/wiki/Battle_of_Thermopylae)
-  + Plant Rune: **ᛇ**ᛖᚱᛒᚨ ᛊᚨᚾᛏᚨ / **Y**erba Santa (*Eriodictyon californicum*)
   + The Beauty of Holiness
+  + Plant Rune: **ᛇ**ᛖᚹ / **Y**ew (*Taxus baccata*, et al.)
   + Color: <font color="#00D9EA">███ Bright Turquoise ███</font> (#00D9EA)
 
 ---
@@ -4151,10 +4281,13 @@ img {
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☶:☷=[ΘΕΜΙΣ](#θεμις)                 | ☶:☱=[**ΘΥΜΟΝ**](#θυμον)                | ☶:☲=[\`ΡΥΘΜΟΣ](#ρυθμος)             | 
-    | ☲:☳=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | ☴:☳=[ΦΟΙΝΙΞ](#φοινιξ)                 | ☷:☳=[\`ΩΡΑΙ](#ωραι)                 |
+    | ☲:☳=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | ☴:☳=[**ΦΟΙΝΙΞ**](#φοινιξ)                 | ☷:☳=[**\`ΩΡΑΙ**](#ωραι)                 |
 + Tarot: Knight ♣/Wands
   + upright: energy, passion, adventure, impulsiveness, action, adventure, fearlessness.
   + reversed: recklessness, haste.
++ Rune: ᛏ [Tiwaz/Tower](#αινιγματα)  
+  + poem: "Tower towers o'er the town, telling of the king's renown."
+  + keywords: justice, order, balance, duty, restraint, Tyr, the North Star, nobility
 + The Eardstapa's Oracle: 27\. ᛗᛟᚢᚾᛏᚨᛁᚾ ‖ ᚲᚹᚢᚨᚲᛖ (mountain ‖ quake)
   + riddle: "ᚲᛚᛟᛊᛖᛞ ᚲᛚᛟᛊᛖᛏᛖᛞ ᚲᚨᚾᚾᛟᛏ ᚲᛖᛖᛈ ᛗᛖ / ᛟᛈᛖᚾ ᛟᛒᛞᚢᚱᚨᛏᛖ ᛟᛒᛊᛏᚱᚢᚲᛏᛁᛟᚾᛊ / ᚦᛖ ᚹᚨᚷᛖᛊ ᛟᚠ ᚹᚨᚲᛖᚠᚢᛚᚾᛖᛊᛊ ᚹᛁᚾ"   
     "closed closeted cannot keep me / open obdurate obstructions / the wages of wakefulness win"
@@ -4214,13 +4347,10 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☲=[**ΧΑΛΚΟΣ**](#χαλκος)					| ☴=[**ΦΑΡΜΑΚΟΝ**](#φαρμακον)					| ☷=[**ΩΟΝ**](#ωον)						|
+    | ☲=[ΧΑΛΚΟΣ](#χαλκος)					| ☴=[ΦΑΡΜΑΚΟΝ](#φαρμακον)					| ☷=[ΩΟΝ](#ωον)						|
 + Tarot: 7\. The Chariot
   + upright: direction, control, willpower.
   + reversed: lack of control, lack of direction. 
-+ Rune: ᛏ [Tiwaz/Tower](#αινιγματα)  
-  + poem: "Tower towers o'er the town, telling of the king's renown."
-  + keywords: justice, order, balance, duty, restraint, Tyr, the North Star, nobility
 + The Eardstapa's Oracle: 72\. ᛗᛟᚢᚾᛏᚨᛁᚾ (mountain)
   + riddle: "ᛗᚨᚾᛇ ᛗᛟᚢᚾᛏᚨᛁᚾᛊ ᛗᚨᚷᚾᛁᚠᛁᚲᛖᚾᛏ / ᛒᛇ ᚲᚺᚨᚾᚲᛖ ᛟᚱ ᚲᚺᛟᛁᚲᛖ ᚲᚺᛁᛚᛚ ᛟᚱ ᚲᚺᚨᚱᛗᛁᛜ / ᛁ ᛗᚢᛊᛏ ᛊᛏᚨᛏᛖ ᚾᛟᚱ ᛊᛏᚨᛚᛚ ᛟᚱ ᛊᛏᚨᛗᛗᛖᚱ"   
     "many mountains magnificent / by chance or choice chill or charming / i must state nor stall or stammer"
@@ -4266,8 +4396,8 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☶:☶=[ΠΥΛΑΙ](#πυλαι)             | ☶:☰=[ΠΑΙΩΝ](#παιων)                 | ☶:☳=[\`ΡΑΒΔΟΣ](#ραβδος)             | 
-    | ☲:☲=[ΧΑΣΜΑ](#χασμα)                     | ☴:☲=[ΦΙΑΛΗ](#φιαλη)                     | ☷:☲=[ΩΓΥΓΙΗ](#ωγυγιη)                     |
+    | ☶:☶=[**ΠΥΛΑΙ**](#πυλαι)                          | ☶:☰=[ΠΑΙΩΝ](#παιων)                              | ☶:☳=[**\`ΡΑΒΔΟΣ**](#ραβδος)                     | 
+    | ☲:☲=[**ΧΑΣΜΑ**](#χασμα)                          | ☴:☲=[ΦΙΑΛΗ](#φιαλη)                              | ☷:☲=[ΩΓΥΓΙΗ](#ωγυγιη)                           |
 + Tarot: Ten ♣/Wands
   + upright: accomplishment, responsibility, burden.
   + reversed: inability to delegate, overstressed, burnt out.
@@ -4316,8 +4446,8 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☱:☷=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | ☱:☱=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☱:☲=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 | 
-    | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☳:☳=[\`ΥΜΝΟΣ](#υμνος)             | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 |
+    | ☱:☷=[ΑΜΦΟΡΕΥΣ](#αμφορευς)                 | ☱:☱=[**ΑΝΑΓΚΗ**](#αναγκη)                 | ☱:☲=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 | 
+    | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☳:☳=[**\`ΥΜΝΟΣ**](#υμνος)             | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 |
 + Tarot: Two ♣/Wands
   + upright: planning, decisions, discovery.
   + reversed: playing it safe, bad planning, lack of planning.
@@ -4373,11 +4503,14 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☱:☶=[ΙΡΙΣ](#ιρις)                     | ☱:☰=[\`ΙΣΤΟΣ](#ιστος)                 | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     | 
-    | ☵:☲=[ΤΟΞΟΝ](#τοξον)                     | ☳:☲=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☰:☲=[ΨΗΦΟΣ](#ψηφος)                     |
+    | ☱:☶=[**ΙΡΙΣ**](#ιρις)                     | ☱:☰=[\`ΙΣΤΟΣ](#ιστος)                 | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     | 
+    | ☵:☲=[**ΤΟΞΟΝ**](#τοξον)                     | ☳:☲=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☰:☲=[**ΨΗΦΟΣ**](#ψηφος)                     |
 + Tarot: Three ♣/Wands
   + upright: foresight, looking ahead, expansion, growth.
   + reversed: playing small, lack of foresight, unexpected delays.
++ Rune: ᛚ [Laguz/Lake](#αινιγματα)  
+  + poem: "Lake of languid, liquid skies; in your depths the stars arise."
+  + keywords: potential, substance, the Well of Wyrd
 + The Eardstapa's Oracle: 49\. ᛚᚨᚲᛖ ‖ ᛚᛁᚷᚺᛏ (lake ‖ light)
   + riddle: "ᛊᚨᛈᛈᚺᛁᚱᛖ ᛟᚠ ᛊᚺᛁᚾᛁᛜ ᛊᚨᚲᚱᚨᛚ ᛞᚨᚹᚾ / ᚱᛖᛗᛖᛗᛒᚱᚨᚾᚲᛖ ᛁᚾ ᚱᛁᛏᛖᛊ ᚱᛖᚨᛞᛇᛁᛜ / ᚹᚺᚨᛏ ᛞᚨᛇᛊ ᛞᛖᛊᛁᚱᛖᛊ ᛞᛖᛗᚨᚾᛞ ᚹᛖ ᛞᛟ"   
     "sapphire of shining sacral dawn / remembrance in rites readying / what days desires demand we do"
@@ -4423,13 +4556,10 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☵=[**ΤΕΥΧΟΣ**](#τευχος)					| ☳=[**\`ΥΔΡΑ**](#υδρα)						| ☰=[**ΨΥΧΗ**](#ψυχη)					|
+    | ☵=[ΤΕΥΧΟΣ](#τευχος)					| ☳=[\`ΥΔΡΑ](#υδρα)						| ☰=[ΨΥΧΗ](#ψυχη)					|
 + Tarot: 0\. The Fool
   + upright: innocence, new beginnings, spontaneity, free spirit.
   + reversed: recklessness, holding back, risk-taking.
-+ Rune: ᛚ [Laguz/Lake](#αινιγματα)  
-  + poem: "Lake of languid, liquid skies; in your depths the stars arise."
-  + keywords: potential, substance, the Well of Wyrd
 + The Eardstapa's Oracle: 65\. ᛚᚨᚲᛖ (lake)
   + riddle: "ᚨᚲᚱᛟᛊᛊ ᚦᛁᛊ ᚲᛟᛚᛞ ᚲᛟᚾᛏᛖᛗᛈᛏᚢᛟᚢᛊ / ᛊᚺᛁᚹᛖᚱ ᚾᛟᛏ ᚾᛟᚱ ᛊᚺᛇ ᛊᚺᛟᚱᛏ ᛇᛟᚢ ᛊᚺᛟᚢᛚᛞ / ᛏᚨᚲᛖ ᚹᚺᚨᛏᛊ ᛏᛖᚾᛞᛖᚱᛖᛞ ᛒᛖ ᛁᛏ ᛏᚨᛒᛟᛟ"   
     "across this cold contemptuous / shiver not nor shy short you should / take whats tendered be it taboo"
@@ -4483,13 +4613,10 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☱=[**ΣΤΥΞ**](#στυξ)						| ☷=[**ΩΟΝ**](#ωον)								| ☴=[**ΦΑΡΜΑΚΟΝ**](#φαρμακον)			|
+    | ☱=[ΣΤΥΞ](#στυξ)						| ☷=[ΩΟΝ](#ωον)								| ☴=[ΦΑΡΜΑΚΟΝ](#φαρμακον)			|
 + Tarot: 5\. The Priest (Hierophant)
   + upright: spiritual wisdom, religious beliefs, conformity, traditions, institutions, morality, ethics. 
   + reversed: rebellion, subversiveness, challenging the status quo.
-+ Rune: ᛖ [Ehwaz/Elder](#αινιγματα)  
-  + poem: "Elder, I dare tell a riddle- magic words lie in the middle."
-  + keywords: thought, language, speech, reason, communication, concepts, ideas
 + The Eardstapa's Oracle: 70\. ᚱᚨᛁᚾ (rain)
   + riddle: "ᚹᚨᛁᛏᛁᛜ ᚹᚨᛏᚲᚺᛁᛜ ᛊᚲᛇ ᚹᚱᛁᛏᛁᛜ ᚹᚺᛁᛚᛖ / ᚦᛖᛊᛖ ᚾᛖᛈᚺᛁᛚᛁᛗ ᚠᚱᛟᛗ ᚾᛟᚹᚺᛖᚱᛖ ᚾᛟᛞ / ᛗᛇ ᛞᛁᚱᛖᚲᛏᛁᛟᚾ ᛒᚢᛏ ᛞᛟᚾᛏ ᛞᛖᚠᛖᚱ"   
     "waiting watching sky writing while / these nephilim from nowhere nod / my direction but dont defer"
@@ -4506,7 +4633,7 @@ img {
   + Black Warrior (North)
   + the Raven
   + Mercury (Astrology)
-  + Plant Rune: **ᛖ**ᛚᛞᛖᚱ / **E**lder (*Sambucus nigra*)
+  + Plant Rune: **ᛖ**ᛇᛖᛒᚱᛁᚷᚺᛏ / **E**yebright (*Euphrasia officinalis*)
   + Chief Engineer Geordi La Forge and Chief Operations Officer Data (STTNG)
   + The twins who reason and design, speak and name for the self (mental faculty)
   + Color: <font color="#0047AB">███ Blue ███</font> (#0047AB)
@@ -4532,11 +4659,14 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☵:☶=[**ΞΙΦΟΣ**](#ξιφος)             | ☵:☰=[ΞΥΛΟΝ](#ξυλον)                     | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | 
-    | ☱:☲=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 | ☷:☲=[ΩΓΥΓΙΗ](#ωγυγιη)                     | ☴:☲=[ΦΙΑΛΗ](#φιαλη)                     |
+    | ☵:☶=[ΞΙΦΟΣ](#ξιφος)             | ☵:☰=[ΞΥΛΟΝ](#ξυλον)                     | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | 
+    | ☱:☲=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 | ☷:☲=[ΩΓΥΓΙΗ](#ωγυγιη)                     | ☴:☲=[ΦΙΑΛΗ](#φιαλη)                     |
 + Tarot: Ten ♠/Swords
   + upright: failure, collapse, defeat, deep wounds, betrayal, loss, crisis, painful endings.
   + reversed: can't get any worse, can only get better, inevitability. 
++ Rune: ᛖ [Ehwaz/Elder](#αινιγματα)  
+  + poem: "Elder, I dare tell a riddle- magic words lie in the middle."
+  + keywords: thought, language, speech, reason, communication, concepts, ideas
 + The Eardstapa's Oracle: 63\. ᚱᚨᛁᚾ ‖ ᛚᛁᚷᚺᛏ (rain ‖ light)
   + riddle: "ᛗᛖᚱᚱᛇ ᛗᚨᚲᛖ ᚢᛈ ᛗᛇ ᛗᛁᚾᛞ ᛗᚨᚱᚱᛇ / ᚾᛟᚹ ᛟᚱ ᚾᛟᛏ ᛏᛁᛊ ᚾᛖᛁᚦᛖᚱ ᚲᚾᛟᚹᚾ ᛟᚱ / ᚢᚾᚲᚾᛟᚹᚾ ᚢᛗᛒᚱᛖᛚᛚᚨᛊ ᛟᚱ ᚢᚾᚨᚱᛗᛖᛞ"   
     "merry make up my mind marry / now or not tis neither known or / unknown umbrellas or unarmed"
@@ -4549,8 +4679,8 @@ img {
   + "Got it!... What was the part in the middle again?"
   + Become the target
   + You already know the answer
-  + Plant Rune: **ᛖ**ᛇᛖᛒᚱᛁᚷᚺᛏ / **E**yebright (*Euphrasia officinalis*)
   + The Golden Arrow of Abaris the Hyperborean
+  + Plant Rune: **ᛖ**ᛚᛞᛖᚱ / **E**lder (*Sambucus nigra*)
   + Color: <font color="#4D7978">███ Cutty Sark ███</font> (#4D7978)
 
 ---
@@ -4574,8 +4704,8 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☵:☷=[ΖΕΥΓΜΑ](#ζευγμα)                 | ☵:☱=[ΖΥΓΟΝ](#ζυγον)                     | ☵:☲=[ΤΟΞΟΝ](#τοξον)                     | 
-    | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     | ☷:☳=[\`ΩΡΑΙ](#ωραι)                 | ☴:☳=[ΦΟΙΝΙΞ](#φοινιξ)                 |
+    | ☵:☷=[ΖΕΥΓΜΑ](#ζευγμα)                 | ☵:☱=[ΖΥΓΟΝ](#ζυγον)                     | ☵:☲=[**ΤΟΞΟΝ**](#τοξον)                     | 
+    | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     | ☷:☳=[**\`ΩΡΑΙ**](#ωραι)                 | ☴:☳=[**ΦΟΙΝΙΞ**](#φοινιξ)                 |
 + Tarot: Knight ♠/Swords
   + upright: action-oriented, impulsive, defending beliefs, driven, fast-thinking
   + reversed: unfocused, no direction, disregarding consequences, unpredictability
@@ -4635,13 +4765,10 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☷=[**ΩΟΝ**](#ωον)							| ☱=[**ΣΤΥΞ**](#στυξ)							| ☲=[**ΧΑΛΚΟΣ**](#χαλκος)				|
+    | ☷=[ΩΟΝ](#ωον)							| ☱=[ΣΤΥΞ](#στυξ)							| ☲=[ΧΑΛΚΟΣ](#χαλκος)				|
 + Tarot: 1\. The Magician
   + upright: willpower, creation, manifestation, resourcefulness
   + reversed: trickery, illusions, out of touch, manipulation, untapped talents
-+ Rune: ᛜ [I**ng**waz/Ri**ng**](#αινιγματα)  
-  + poem: "Ring of toadstools on the grass, sprouting where the Fairies pass."
-  + keywords: prolific, fertile, fecund, adaptable, wild, chaotic, the Green Man, sexuality, creativity, Frey (Ing)
 + The Eardstapa's Oracle: 66\. ᚦᚢᚾᛞᛖᚱ (thunder)
   + riddle: "ᚹᛟᛖ ᚲᛟᛗᛖᛊ ᚨᚾᛞ ᚹᛟᛖᛒᛖᚷᛟᚾᛖ ᚹᛁᛚᛚ ᚹᛖ / ᛒᛖᛖ ᚦᚨᛏ ᛒᚢᛊᛁᛖᛊ ᛖᚹᛖᚱᛇ ᛒᚢᛞ ᛒᛖᚷᛊ / ᛃᚢᛊᛏ ᛃᚢᛊᛏᛁᚠᛁᚲᚨᛏᛁᛟᚾ ᛞᚢ ᛃᛟᚢᚱ"   
     "woe comes and woebegone will we / bee that busies every bud begs / just justification du jour"
@@ -4683,10 +4810,13 @@ img {
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☳:☷=[ΒΟΥΠΕΛΑΤΗΣ](#βουπελατης)         | ☳:☱=[ΒΡΙΑΡΕΩΣ](#βριαρεως)             | ☳:☲=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | 
-    | ☷:☳=[\`ΩΡΑΙ](#ωραι)                 | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     | ☲:☳=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             |
+    | ☷:☳=[**\`ΩΡΑΙ**](#ωραι)                 | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     | ☲:☳=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             |
 + Tarot: Knight ♥/Cups
   + upright: charm, following the heart, idealist, romantic.
   + reversed: moodiness, disappointment, overactive imagination, unrealistic, jealous.
++ Rune: ᛜ [I**ng**waz/Ri**ng**](#αινιγματα)  
+  + poem: "Ring of toadstools on the grass, sprouting where the Fairies pass."
+  + keywords: prolific, fertile, fecund, adaptable, wild, chaotic, the Green Man, sexuality, creativity, Frey (Ing)
 + The Eardstapa's Oracle: 51\. ᚦᚢᚾᛞᛖᚱ ‖ ᚲᚹᚢᚨᚲᛖ (thunder ‖ quake)
   + riddle: "ᛁᛏᛊ ᛟᚹᛖᚱ ᛟᚹᛖᚱ ᚦᛖ ᛏᛟᛈ ᛟᚠ / ᚱᚨᛈᛁᛞ ᚱᚨᚷᚷᛖᛞ ᚱᛖᛗᛟᚾᛊᛏᚱᚨᛏᛁᚹᛖᛊ / ᛟᚺ ᛟᚱᛞᛖᚱ ᛟᚾᛚᛇ ᛟᚾᛖ ᚱᛖᚲᚹᚢᛁᚱᛖᛊ"   
     "its over over the top of / rapid ragged remonstratives / oh order only one requires"
@@ -4722,8 +4852,8 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☳:☶=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     | ☳:☰=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | ☳:☳=[\`ΥΜΝΟΣ](#υμνος)             | 
-    | ☷:☲=[ΩΓΥΓΙΗ](#ωγυγιη)                     | ☱:☲=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 | ☲:☲=[ΧΑΣΜΑ](#χασμα)                     |
+    | ☳:☶=[**ΚΑΘΑΡΜΟΣ**](#καθαρμος)     | ☳:☰=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             | ☳:☳=[**\`ΥΜΝΟΣ**](#υμνος)             | 
+    | ☷:☲=[ΩΓΥΓΙΗ](#ωγυγιη)                     | ☱:☲=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 | ☲:☲=[**ΧΑΣΜΑ**](#χασμα)                     |
 + Tarot: Ten ♥/Cups
   + upright: fulfillment, divine love, blissful relationships, harmony, alignment
   + reversed: shattered dreams, broken family, disharmony, disconnection, misaligned values, struggling 
@@ -4772,13 +4902,10 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☰=[**ΨΥΧΗ**](#ψυχη)						| ☶=[**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος)				| ☵=[**ΤΕΥΧΟΣ**](#τευχος)				|
+    | ☰=[ΨΥΧΗ](#ψυχη)						| ☶=[`ΡΑΨΩΙΔΟΣ](#ραψωιδος)				| ☵=[ΤΕΥΧΟΣ](#τευχος)				|
 + Tarot: 6\. The Lovers
   + upright: partnership, harmony, love, union.
   + reversed: imbalance, one-sidedness, disharmony. 
-+ Rune: ᛒ [Berkanan/Birch](#αινιγματα)  
-  + poem: "Birch is bonny, blithe and green, ever first whose leaves are seen."
-  + keywords: beginning, birth, youth, beauty, innocence, inexperience, the opener of the gates
 + The Eardstapa's Oracle: 71\. ᚹᛁᚾᛞ (wind)
   + riddle: "ᚹᛁᛜᛖᛞ ᚹᛁᚾᛞ ᚹᚨᚾᛞᛖᚱᛖᚱᛊ ᚹᛟᛗᚨᚾ / ᚨᛒᛞᚢᚲᛏᛖᛞ ᚨᚾᛞ ᚨᛒᛞᚢᚲᛏᚱᛖᛊᛊ ᚨᚾᛞ / ᛁᚾᚲᛟᚾᛊᛏᚨᚾᛏ ᛇᛖᛏ ᛁᚾᚹᛁᛟᛚᚨᛏᛖ"   
     "winged wind wanderers woman / abducted and abductress and / inconstant yet inviolate"
@@ -4798,7 +4925,7 @@ img {
   + White Tiger of the West
   + Radha
   + Venus (Astrology)
-  + Plant Rune: **ᛒ**ᛁᚱᚲᚺ / **B**irch (*Betula alba*)
+  + Plant Rune: **ᛒ**ᛟᚱᚨᚷᛖ / **B**orage (*Borago officinalis*)
   + Ship's Counsellor Deanna Troi (STTNG)
   + The one who calls forth the emotions, as the cynosure of what is desirable (and by contrast, undesirable) 
     to the self (mental faculty)
@@ -4828,8 +4955,8 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☴:☶=[ΟΙΝΟΣ](#οινος)                 | ☴:☰=[ΟΙΚΟΣ](#οικος)                     | ☴:☳=[ΦΟΙΝΙΞ](#φοινιξ)                 | 
-    | ☰:☲=[ΨΗΦΟΣ](#ψηφος)                     | ☶:☲=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☵:☲=[ΤΟΞΟΝ](#τοξον)                     |
+    | ☴:☶=[ΟΙΝΟΣ](#οινος)                 | ☴:☰=[ΟΙΚΟΣ](#οικος)                     | ☴:☳=[**ΦΟΙΝΙΞ**](#φοινιξ)                 | 
+    | ☰:☲=[**ΨΗΦΟΣ**](#ψηφος)                     | ☶:☲=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☵:☲=[**ΤΟΞΟΝ**](#τοξον)                     |
 + Tarot: Three ♥/Cups
   + upright: friendship, community, happiness, celebration, collaboration
   + reversed: overindulgence, gossip, isolation, "three's a crowd"
@@ -4874,10 +5001,13 @@ img {
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☴:☷=[ΗΩΣ](#ηως)                         | ☴:☱=[ΗΛΕΚΤΡΟΝ](#ηλεκτρον)                 | ☴:☲=[ΦΙΑΛΗ](#φιαλη)                     | 
-    | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 | ☶:☳=[\`ΡΑΒΔΟΣ](#ραβδος)             | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             |
+    | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 | ☶:☳=[**\`ΡΑΒΔΟΣ**](#ραβδος)             | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             |
 + Tarot: Two ♥/Cups
   + upright: unity, harmonious partnership, mutual attraction, connection
   + reversed: imbalance, broken communication, tension, break-ups, disharmony, distrust
++ Rune: ᛒ [Berkanan/Birch](#αινιγματα)  
+  + poem: "Birch is bonny, blithe and green, ever first whose leaves are seen."
+  + keywords: beginning, birth, youth, beauty, innocence, inexperience, the opener of the gates
 + The Eardstapa's Oracle: 42\. ᚹᛁᚾᛞ ‖ ᚦᚢᚾᛞᛖᚱ (wind ‖ thunder)
   + riddle: "ᚨᚲᚱᛟᛈᛟᛚᛖᛁᛊ ᚨᚲᚲᚢᛗᚢᛚᚨᛏᛖ / ᚲᚨᛈᚱᛁᚲᛁᛟᚢᛊ ᚲᚢᛗᚢᛚᛁ ᚲᚱᛖᚨᛏᛖ / ᚹᚨᛊᛏ ᚹᚨᛜᚢᚨᚱᛞᛊ ᛟᚠ ᚹᚨᚾᚲᚹᚢᛁᛊᚺᛁᛜ ᛞᚢᛊᛏ"   
     "acropoleis accumulate / capricious cumuli create / vast vanguards of vanquishing dust"
@@ -4888,8 +5018,8 @@ img {
 + Bible: 1 Kings 17:2-7 - Elijah fed by ravens by the brook Cherith
 + Additional Concepts: 
   + Waxing
-  + Plant Rune: **ᛒ**ᛟᚱᚨᚷᛖ / **B**orage (*Borago officinalis*)
   + The Muse of Regeneration
+  + Plant Rune: **ᛒ**ᛁᚱᚲᚺ / **B**irch (*Betula alba*)
   + Color: <font color="#BF2D00">███ Thunderbird ███</font> (#BF2D00)
 
 ---
@@ -4917,13 +5047,10 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☶=[**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος)			| ☰=[**ΨΥΧΗ**](#ψυχη)							| ☳=[**\`ΥΔΡΑ**](#υδρα)				|
+    | ☶=[`ΡΑΨΩΙΔΟΣ](#ραψωιδος)			| ☰=[ΨΥΧΗ](#ψυχη)							| ☳=[\`ΥΔΡΑ](#υδρα)				|
 + Tarot: 2\. The High Priestess
   + upright: intuition, sacred knowledge, divine feminine, subconscious mind, unconscious, inner voice
   + reversed: lack of center, lost inner voice, repressed feelings, secrets, withdrawal
-+ Rune: ᛞ [Dagaz/Day](#αινιγματα)  
-  + poem: "Day makes easy to perceive, all beneath the bright sky-eave."
-  + keywords: awareness, knowledge, perception, clarity
 + The Eardstapa's Oracle: 67\. ᛚᛁᚷᚺᛏᚾᛁᛜ (lightning)
   + riddle: "ᚲᚺᚨᛜᛖ ᚲᚺᚨᚾᚾᛖᛚᛊ ᛁᛏᛊ ᚲᚺᚨᚱᚷᛖ ᚲᚺᚨᛚᛚᛖᛜᛖᛊ / ᛊᚢᛈᛈᛟᛊᛁᛏᛁᛟᚾᛊ ᚨᚾᛞ ᛊᚢᛒᛃᛖᚲᛏᛁᚹᛖᛊ / ᛁᚾ ᚨ ᚠᛚᚨᛊᚺ ᚠᚨᚦᛟᛗᛊ ᚾᛟᛏ ᚠᛁᛉᛉᛚᛖᛊ"   
     "change channels its charge challenges / suppositions and subjectives / in a flash fathoms not fizzles"
@@ -4940,7 +5067,7 @@ img {
   + It happens all the time--a cosmogony is substituted for an epistemology, although either is better 
     than a theogony, by god!
   + The Zodiac (Astrology)
-  + Plant Rune: **ᛞ**ᚨᚾᛞᛖᛚᛁᛟᚾ / **D**andelion (*Taraxacum officinale*)
+  + Plant Rune: **ᛞ**ᚱᚨᚷᛟᚾ'ᛊ ᛒᛚᛟᛟᛞ / **D**ragon's Blood (*Dracaena cinnabari*, et al.)
   + Chief Security Officer Natasha "Tasha" Yar (STTNG)
   + The one who gathers and identifies "perceptions" (external and internal) and provides these as 
     useful information for the self (mental faculty)
@@ -4966,8 +5093,8 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☲:☷=[ΓΛΑΥΞ](#γλαυξ)                     | ☲:☱=[ΓΟΡΓΩ](#γοργω)                     | ☲:☲=[ΧΑΣΜΑ](#χασμα)                     | 
-    | ☶:☳=[\`ΡΑΒΔΟΣ](#ραβδος)             | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 | ☳:☳=[\`ΥΜΝΟΣ](#υμνος)             |
+    | ☲:☷=[ΓΛΑΥΞ](#γλαυξ)                     | ☲:☱=[**ΓΟΡΓΩ**](#γοργω)                     | ☲:☲=[**ΧΑΣΜΑ**](#χασμα)                     | 
+    | ☶:☳=[**\`ΡΑΒΔΟΣ**](#ραβδος)             | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 | ☳:☳=[**\`ΥΜΝΟΣ**](#υμνος)             |
 + Tarot: Two ♠/Swords
   + upright: weighing up options, difficult choices, indecision, checkmate
   + reversed: lesser of two evils, no right choice, confusion, indecision, information overload
@@ -5015,10 +5142,13 @@ img {
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☲:☶=[ΛΙΝΟΝ](#λινον)                 | ☲:☰=[ΛΑΜΠΑΣ](#λαμπας)                 | ☲:☳=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | 
-    | ☶:☲=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☰:☲=[ΨΗΦΟΣ](#ψηφος)                     | ☳:☲=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         |
+    | ☶:☲=[\`ΡΥΘΜΟΣ](#ρυθμος)             | ☰:☲=[**ΨΗΦΟΣ**](#ψηφος)                     | ☳:☲=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         |
 + Tarot: Three ♠/Swords
   + upright: heartbreak, sorrow, suffering, grief
   + reversed: recovery, forgiveness, negativity, releasing pain, optimism
++ Rune: ᛞ [Dagaz/Day](#αινιγματα)  
+  + poem: "Day makes easy to perceive, all beneath the bright sky-eave."
+  + keywords: awareness, knowledge, perception, clarity
 + The Eardstapa's oracle: 30\. ᛚᛁᚷᚺᛏ ‖ ᛚᛁᚷᚺᛏ (light ‖ light)
   + riddle: "ᛚᛁᚷᚺᛏ ᛟᚠ ᚾᛁᚷᚺᛏ ᚠᚱᛟᛗ ᛞᚨᛇ ᛟᚠ ᛁᚾᛊᛁᚷᚺᛏ / ᚷᚨᚦᛖᚱ ᚷᛁᚱᛞ ᛇᛟᚢᚱ ᚷᚱᛁᛏ ᚨᛏ ᚷᚱᛖᚨᛏ ᚲᛟᛊᛏ / ᛈᚨᛁᛞ ᛁᚾ ᛈᚨᛁᚾ ᚨᚾᛞ ᛊᛖᛚᚠ ᛈᛟᛊᛖᛊᛊᛁᛟᚾ"   
     "light of night from day of insight / gather gird your grit at great cost / paid in pain and self possession"
@@ -5030,7 +5160,7 @@ img {
   + Them's fightin' words! 
   + "Get it? Got it! Good!"
   + Spirit Animal: Spider
-  + Plant Rune: **ᛞ**ᚱᚨᚷᛟᚾ'ᛊ ᛒᛚᛟᛟᛞ / **D**ragon's Blood (*Dracaena cinnabari*, et al.)
+  + Plant Rune: **ᛞ**ᚨᚾᛞᛖᛚᛁᛟᚾ / **D**andelion (*Taraxacum officinale*)
   + Color: <span style="background-color: #2A2A2A;"> <font color="#FFF45D">███ Candy Corn ███</font> </span> (#FFF45D)
 
 ---
@@ -5055,8 +5185,8 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☰:☷=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         | ☰:☱=[ΔΟΡΥ](#δορυ)                     | ☰:☲=[ΨΗΦΟΣ](#ψηφος)                     | 
-    | ☴:☳=[ΦΟΙΝΙΞ](#φοινιξ)                 | ☲:☳=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     |
+    | ☰:☷=[**ΔΡΕΠΑΝΟΝ**](#δρεπανον)         | ☰:☱=[ΔΟΡΥ](#δορυ)                     | ☰:☲=[**ΨΗΦΟΣ**](#ψηφος)                     | 
+    | ☴:☳=[**ΦΟΙΝΙΞ**](#φοινιξ)                 | ☲:☳=[ΧΑΡΥΒΔΙΣ](#χαρυβδις)             | ☱:☳=[ΣΘΕΝΩ](#σθενω)                     |
 + Tarot: Knight ♦/Pentacles
   + upright: efficiency, hard work, responsibility
   + reversed: laziness, obsessiveness, work without reward, boredom, feeling stuck, perfectionism
@@ -5082,7 +5212,7 @@ img {
   + "All work and no play…"
   + You owe it to the world
   + Spirit Animal: Boar
-  + Plant Rune: **ᛗ**ᚨᚾᛞᚱᚨᚲᛖ / **M**andrake (*Atropa mandragora*)
+  + Plant Rune: **ᛗ**ᛇᚱᚱᚺ / **M**yrrh (*Commiphora myrrha*)
   + "Puss in Boots"  (Grimm's Fairy Tales 1st ed. Volume 1 #33)
   + "Among these dark Satanic Mills?" (Blake's Jerusalem 8)
   + Color: <font color="#B3E9B3">███ Celadon ███</font> (#B3E9B3)
@@ -5116,11 +5246,14 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☰:☶=[**ΝΑΡΘΗΞ**](#ναρθηξ)         | ☰:☰=[ΝΑΥΣ](#ναυς)                     | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 | 
-    | ☴:☲=[ΦΙΑΛΗ](#φιαλη)                     | ☲:☲=[ΧΑΣΜΑ](#χασμα)                         | ☱:☲=[ΣΤΕΦΑΝΟΣ](#στεφανος)                 |
+    | ☰:☶=[ΝΑΡΘΗΞ](#ναρθηξ)         | ☰:☰=[**ΝΑΥΣ**](#ναυς)                     | ☰:☳=[ΨΗΓΜΑ](#ψηγμα)                 | 
+    | ☴:☲=[ΦΙΑΛΗ](#φιαλη)                     | ☲:☲=[**ΧΑΣΜΑ**](#χασμα)                         | ☱:☲=[**ΣΤΕΦΑΝΟΣ**](#στεφανος)                 |
 + Tarot: Ten ♦/Pentacles
   + upright: wealth, financial security, family, long-term success, contribution, legacy, culmination, inheritance
   + reversed: fleeting success, lack of stability, lack of resources, the dark side of wealth, financial loss
++ Rune: ᛗ [Mannaz/Man](#αινιγματα)  
+  + poem: "Man is with twin nature's made: breath of God and dirt of spade."
+  + keywords: competition and cooperation, union, joining, humankind, relationships
 + The Eardstapa's Oracle: 13\. ᚺᛖᚨᚹᛖᚾ ‖ ᛚᛁᚷᚺᛏ (heaven ‖ light)
   + riddle: "ᛇᛟᚢᚱ ᛇᛖᛟᛗᚨᚾᛊ ᚹᛟᚱᚲ ᛇᚨᚱᛞᛊ ᚨᚾᛞ ᛇᛖᚨᚱᚾᛁᛜᛊ / ᛃᛟᚢᚱᚾᛖᛇᛖᛞ ᚷᚨᛁᚾᛊ ᚦᚨᛏ ᚷᛖᛗ ᚦᛖ ᚷᛚᛖᚨᛗᛁᛜ / ᛈᛚᛖᚾᛁᛏᚢᛞᛖ ᚠᛁᚱᛊᛏ ᛈᛖᚱᛊᛟᚾ ᛈᛖᚱᚠᛖᚲᛏ"   
     "your yeomans work yards and yearnings / journeyed gains that gem the gleaming / plenitude first person perfect"
@@ -5139,7 +5272,7 @@ img {
 + Additional Concepts: 
   + Wealth management
   + Strength in numbers
-  + Plant Rune: **ᛗ**ᛇᚱᚱᚺ / **M**yrrh (*Commiphora myrrha*)
+  + Plant Rune: **ᛗ**ᚨᚾᛞᚱᚨᚲᛖ / **M**andrake (*Atropa mandragora*)
   + Constructing the Philosopher's Stone
   + The Wish Fulfilling Gem (Cintāmaṇi)
   + "Simple Hans"  (Grimm's Fairy Tales 1st ed. Volume 1 #54)
@@ -5166,13 +5299,10 @@ img {
   + transformations:   
     | 1                                                | 3                                                | 5                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☴=[**ΦΑΡΜΑΚΟΝ**](#φαρμακον)				| ☲=[**ΧΑΛΚΟΣ**](#χαλκος)						| ☱=[**ΣΤΥΞ**](#στυξ)					|
+    | ☴=[ΦΑΡΜΑΚΟΝ](#φαρμακον)				| ☲=[ΧΑΛΚΟΣ](#χαλκος)						| ☱=[ΣΤΥΞ](#στυξ)					|
 + Tarot: 4\. The Emperor
   + upright: authority, structure, establishment, control, fatherhood
   + reversed: tyranny, rigidity, coldness, domination, inflexible
-+ Rune: ᛗ [Mannaz/Man](#αινιγματα)  
-  + poem: "Man is with twin nature's made: breath of God and dirt of spade."
-  + keywords: competition and cooperation, union, joining, humankind, relationships
 + The Eardstapa's Oracle: 69\. ᚺᛖᚨᚹᛖᚾ (heaven)
   + riddle: "ᛟ ᛟᛒᛊᛖᚱᚹᛖᚱ ᛟᚹᛖᚱᛊᛖᛖᛁᛜ / ᛒᚨᚲᚲᚷᚱᛟᚢᚾᛞ ᛒᛖᛁᛜ ᛁᚾ ᛒᛖᚲᛟᛗᛁᛜ / ᛊᛟ ᚦᛁᛊ ᛊᛖᛚᚠ ᛗᚨᛇ ᛊᛖᛏ ᛁᛏᛊ ᛊᚨᛁᛚᛊ"   
     "o observer overseeing / background being in becoming / so this self may set its sails"
@@ -5220,8 +5350,8 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☷:☶=[**ΜΟΙΡΑΙ**](#μοιραι)             | ☷:☰=[ΜΕΓΑΡΟΝ](#μεγαρον)                 | ☷:☳=[\`ΩΡΑΙ](#ωραι)                 | 
-    | ☳:☲=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☵:☲=[ΤΟΞΟΝ](#τοξον)                     | ☶:☲=[\`ΡΥΘΜΟΣ](#ρυθμος)             |
+    | ☷:☶=[ΜΟΙΡΑΙ](#μοιραι)             | ☷:☰=[**ΜΕΓΑΡΟΝ**](#μεγαρον)                 | ☷:☳=[**\`ΩΡΑΙ**](#ωραι)                 | 
+    | ☳:☲=[\`ΥΠΕΡΒΟΡΕΟΙ](#υπερβορεοι)         | ☵:☲=[**ΤΟΞΟΝ**](#τοξον)                     | ☶:☲=[\`ΡΥΘΜΟΣ](#ρυθμος)             |
 + Tarot: Three ♦/Pentacles
   + upright: teamwork, collaboration, learning, building
   + reversed: lack of teamwork, disorganized, group conflict, working alone
@@ -5261,13 +5391,10 @@ img {
   + transformations:   
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-    | ☳=[**\`ΥΔΡΑ**](#υδρα)					| ☵=[**ΤΕΥΧΟΣ**](#τευχος)						| ☶=[**\`ΡΑΨΩΙΔΟΣ**](#ραψωιδος)		|
+    | ☳=[\`ΥΔΡΑ](#υδρα)					| ☵=[ΤΕΥΧΟΣ](#τευχος)						| ☶=[`ΡΑΨΩΙΔΟΣ](#ραψωιδος)		|
 + Tarot: 3\. The Empress
   + upright: motherhood, femininity, beauty, nature, nurturing, abundance, fertility
   + reversed: dependence, smothering, emptiness, nosiness
-+ Rune: ᛟ [Othala/Oak](#αινιγματα)  
-  + poem: "Oak stands firm without a care, when old Winter rakes her hair."
-  + keywords: native land, inheritance, culture, tradition, that which persists
 + The Eardstapa's Oracle: 68\. ᛖᚨᚱᚦ (earth)
   + riddle: "ᛞᚨᛒᛒᛁᛜ ᛞᚨᚾᚲᛖ ᛟᚠ ᛞᛁᚷᛁᛏᛊ ᚹᛁᚦ ᚹᚺᛁᚲᚺ / ᚹᚨᛇᛚᚨᚾᛞ ᛟᚱ ᚹᚨᚾᛞᛖᚱᛖᚱ ᚹᚨᚲᛖᚾᛊ / ᛖᚹᛖᚱᛚᚨᛊᛏᛁᛜ ᛖᚨᚱᚦ ᚾᛟᚹ ᛖᚾᛃᛟᛁᚾᛖᛞ"   
     "dabbing dance of digits with which / wayland or wanderer wakens / everlasting earth now enjoined"
@@ -5292,7 +5419,7 @@ img {
   + Cherchez la Femme
   + Parvati
   + Moon (Astrology)
-  + Plant Rune: **ᛟ**ᚨᚲ / **O**ak (*Quercus robur*, et al.)
+  + Plant Rune: **ᛟ**ᚨᛏ / **O**at (*Avena sativa*)
   + The crew of the Enterprise, or the Enterprise itself (STTNG)
   + The one who realizes and negotiates the place of the self within the various physical contexts of which 
     it is part (including one's own body); also, the various *unconscious* aspects of the self (mental faculty)
@@ -5324,10 +5451,13 @@ img {
     | 2                                                | 4                                                | 6                                               |
     | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
     | ☷:☷=[**ΕΛΑΙΟΣ**](#ελαιος)             | ☷:☱=[\`ΕΣΤΙΑ](#εστια)                     | ☷:☲=[ΩΓΥΓΙΗ](#ωγυγιη)                     | 
-    | ☳:☳=[\`ΥΜΝΟΣ](#υμνος)             | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☶:☳=[\`ΡΑΒΔΟΣ](#ραβδος)             |
+    | ☳:☳=[**\`ΥΜΝΟΣ**](#υμνος)             | ☵:☳=[ΤΥΜΠΑΝΟΝ](#τυμπανον)             | ☶:☳=[**\`ΡΑΒΔΟΣ**](#ραβδος)             |
 + Tarot: Two ♦/Pentacles
   + upright: balancing decisions, time management, prioritization, adaptability
   + reversed: over-committed, loss of balance, disorganized, overwhelmed
++ Rune: ᛟ [Othala/Oak](#αινιγματα)  
+  + poem: "Oak stands firm without a care, when old Winter rakes her hair."
+  + keywords: native land, inheritance, culture, tradition, that which persists
 + The Eardstapa's Oracle: 24\. ᛖᚨᚱᚦ ‖ ᚦᚢᚾᛞᛖᚱ (earth ‖ thunder)
   + riddle: "ᚨᚱᛟᚢᛊᛖᛞ ᛁᚾᛏᛟ ᛁᚾᚨᚲᛏᛁᛟᚾ ᚨᚾᛞ / ᚹᚨᛊᚾᛏ ᛖᚨᚱᚦ ᚦᛖ ᛟᚾᛖ ᚹᛁᛊᚺᛁᛜ ᚹᛖᛚᛚ / ᚨᛏ ᛚᛖᚨᛊᛏ ᛏᛟ ᛚᛖᛜᚦᛖᚾ ᛞᚨᛇᛊ ᛚᛖᚠᛏ ᚺᛖᚱᛖ"   
     "aroused into inaction and / wasnt earth the one wishing well / at least to lengthen days left here"
@@ -5349,7 +5479,7 @@ img {
   + The instigator of ritual
   + Women's Mysteries
   + Spirit Animal: Sow
-  + Plant Rune: **ᛟ**ᚨᛏ / **O**at (*Avena sativa*)
+  + Plant Rune: **ᛟ**ᚨᚲ / **O**ak (*Quercus robur*, et al.)
   + Color: <font color="#003C00">███ Deep Fir ███</font> (#003C00)
 
 ---
@@ -5646,24 +5776,7 @@ While were at it, lets look at the Seven. First, we derive them from the mirror 
 | ε       | ΩΟΝ      | `ΓΑΙΑ`               | --  Earth Trigram                | The Empress      | ΩΟΝ      | `ΓΑΙΑ`               | --  Earth Trigram                  |  The Empress      | 
 
 
-How the Seven are related to the Twelve:
-
-| The Twelve States      | Music | ΠΡΟΣΩΠΑ | Symbols         | Compass | Month     | Sabbat     |
-| ---------------------- | ----- | ------- | --------------- | ------- | --------- | ---------- |
-|  1. Sense/Detect       | A     | ΑΣΤΡΑΠΗ | Vermillion Bird | South   | January   | Imbolc     |
-|  2. Identify           | A#    |         |                 |         | February  |            |
-|  3. Signal/Command     | B     | `ΥΕΤΟΣ  | Black Tortoise  | North   | March     | Ostara     |
-|  4. Audit/ACK          | C     | ΑΥΡΑ    | White Tiger     | West    | April     | Beltane    |
-|  5. Inter-communicate  | C#    |         |                 |         | May       |            |
-|  6. (Re)Arrange        | D     | ΒΡΟΝΤΗ  | Azure Dragon    | East    | June      | Litha      |
-|  7. (Re)Set            | D#    |         |                 |         | July      |            |
-|  8. (Re)Start/Boot     | E     | ΓΑΙΑ    | Yellow Dragon   | Below   | August    | Lughnasadh |
-| ////////////////////// | ///// | //////  | /////////////// | /////// | ///////// | ////////// |
-|  9. Execute            | F     | ΟΥΡΑΝΟΣ |                 | Above   | September | Mabon      |
-| 10. Sense/Id/Transmit  | F#    |         |                 |         | October   |            |
-| 11. Maintain/Improve   | G     | ΛΙΜΝΗ   |                 | Within  | November  | Samhain    |
-| 12. Replicate/Teach    | G#    | ΟΡΟΣ    |                 |         | December  | Yule       |
-
+How the Seven are related to the Twelve:   
 
 The Seven are the 12 Steps or stages in which maintenance is key, as in many living systems, and in most 
 systems most of the time. They take us through the stages of life from birth to reproduction. The Twelve 
@@ -5671,17 +5784,17 @@ adds those steps or stages in which memory, planning, and evaluating are used to
 (Those are systems that can learn, in other words.)
 
 
-| Directions | ΤΑ ΠΡΟΣΩΠΑ  | The Symbols      | Yao+    | Wuxing   | The Miracles of Jesus     | The Seven Seals of the Apocalypse              |
-| ---------- | ----------- | ---------------- | ------- | -------- | ------------------------- | ---------------------------------------------- |
-| Within     | ΟΡΟΣ        |                  | `1:0:0` |          | 7. The Tomb at Bethany    | The Seven Trumpets (Consummation/Regeneration) |
-|            |             |                  |         |          | --Jesus weeps--           | --The golden censer--                          |
-| Above      | ΟΥΡΑΝΟΣ     |                  | `1:1:1` |          | 6. The Pool of Siloam     | Cataclysms (Disordering/Reordering)            |
-| Below      | ΓΑΙΑ        | Yellow Dragon    | `0:0:0` | Earth    | 5. The Sea of Galilee     | White Robes (The Confessors Baptised)          |
-|            | ΛΙΜΝΗ       |                  | `0:1:1` |          |                           |                                                |
-| East       | ΒΡΟΝΤΗ      | Azure Dragon     | `0:0:1` | Wood     | 4. Five Loaves & Two Fish | Yellow Horseman (Death/Dispersal)              |
-| North      | `ΥΕΤΟΣ      | Black Tortoise   | `0:1:0` | Water    | 3. The Pool of Bethesda   | Black Horseman (Famine/Necessity)              |
-| South      | ΑΣΤΡΑΠΗ     | Vermillion Bird  | `1:0:1` | Fire     | 2. The Official's Son     | Red Horseman (Strife/Acquiescence)             |
-| West       | ΑΥΡΑ        | White Tiger      | `1:1:0` | Metal    | 1. The Marriage at Cana   | White Horseman (Conquest/Failure)              |
+| Directions | ΤΑ ΠΡΟΣΩΠΑ    | The Symbols      | Yao+    | Wuxing   | The Miracles of Jesus     | The Seven Seals of the Apocalypse              |
+| ---------- | ------------- | ---------------- | ------- | -------- | ------------------------- | ---------------------------------------------- |
+| Within     | ΟΡΟΣ (ΛΙΜΝΗ)  |                  | `1:0:0` |          | 7. The Tomb at Bethany    | The Seven Trumpets (Consummation/Regeneration) |
+|            |               |                  |         |          | --Jesus weeps--           | --The golden censer--                          |
+| Above      | ΟΥΡΑΝΟΣ       |                  | `1:1:1` |          | 6. The Pool of Siloam     | Cataclysms (Disordering/Reordering)            |
+| Below      | ΓΑΙΑ          | Yellow Dragon    | `0:0:0` | Earth    | 5. The Sea of Galilee     | White Robes (The Confessors Baptised)          |
+|            | ΛΙΜΝΗ         |                  | `0:1:1` |          |                           |                                                |
+| East       | ΒΡΟΝΤΗ        | Azure Dragon     | `0:0:1` | Wood     | 4. Five Loaves & Two Fish | Yellow Horseman (Death/Dispersal)              |
+| North      | `ΥΕΤΟΣ        | Black Tortoise   | `0:1:0` | Water    | 3. The Pool of Bethesda   | Black Horseman (Famine/Necessity)              |
+| South      | ΑΣΤΡΑΠΗ       | Vermillion Bird  | `1:0:1` | Fire     | 2. The Official's Son     | Red Horseman (Strife/Acquiescence)             |
+| West       | ΑΥΡΑ          | White Tiger      | `1:1:0` | Metal    | 1. The Marriage at Cana   | White Horseman (Conquest/Failure)              |
 
 In regard to Yao, note that (contrary to most historic I Ching accounts) we are inserting a yin or yang line in the middle to obtain the Trigrams: 
 
@@ -6071,31 +6184,14 @@ points, with the following correlations:
 A Rune cast of ours from long ago:
 
 **Overview:**
-Rune: Paeony
-ΜΟΙΡΑΙ = ▲ΓΑΙΑ :: ΟΡΟΣ▼
-I Ching: 000:100 15. Modesty / Modesty
-Reduce what's too much; augment what's too little; weigh things and make them equal.
-Tarot: 11. Justice
-  + Upright: cause and effect, clarity, truth.
-  + Reversed: dishonesty, unaccountability, unfairness. 
-  + Upright: Justice, fairness, truth, cause and effect, law.
-  + Reversed: Unfairness, lack of accountability, dishonesty.
-> You can be destined for this by virtue of the judgments you make. Also, note the
-> meanings given to Justice (Tarot) here in relation to the question and its
-> implications.
+Rune: ᛈ Paeony
+> You're asking about manifestation of some desired thing or end result, so this confirms that.
+> To use the analogy implied by the Runic imagery, you're asking how you impregnate the Womb of
+> Reality so that, in due course, your desired end will be born.
 
 
 **Challenge:**
-Rune: Elder
-ΤΕΥΧΟΣ = ▲`ΥΕΤΟΣ▼
-I Ching: 010 Water (The Abyss)
-Tarot: 5. The Priest (Hierophant)
-  + Upright: tradition, conformity, morality, ethics.
-  + Reversed: rebellion, subversiveness, new approaches. 
-  + Upright: Spiritual wisdom, religious beliefs, conformity, tradition,institutions.
-  + Reversed: Personal beliefs, freedom, challenging the status quo.
-Spirit: Raven
-
+Rune: ᛖ Elder
 > The Egyptians believed that if you knew the true name of a god or spirit, you would have power 
 > over it. Not true entirely, but suggestive of the power of words to both manipulate, and 
 > shape, our reality. In addition, this represents here the priest who interprets the voice of the
@@ -6104,19 +6200,10 @@ Spirit: Raven
 
 
 **Action:**
-Rune: Oak
-ΩΟΝ = ▲ΓΑΙΑ▼
-I Ching: 000 Earth (The Receptive)
-Tarot: 3. The Empress
-  + Upright: motherhood, fertility, nature.
-  + Reversed: dependence, smothering, emptiness, nosiness. 
-  + Upright: Femininity, beauty, nature, nurturing, abundance.
-  + Reversed: Creative block, dependence on others.
-Spirit: Goose
-
+Rune: ᛟ Oak
 > The Ending in the Beginning or the Beginning in the Ending. Earth is, like Paeony,
 > a gateway of the Deep Magic that is the Kosmos-- the Pairing of Heaven and Earth, the
-> Great Mystery. If you want to bring something about, there is no other magic besides
+> Great Mystery (太玄 tài xuán). If you want to bring something about, there is no other magic besides
 > this, for you yourself are a part of its working. Archimedes boasted of his lever: 
 > "Give me a place to stand on, and I will move the earth." In the same way, if there 
 > were a place to "stand" outside of everyday causality, then, by definition,
@@ -6131,10 +6218,11 @@ Spirit: Goose
 
 Anyway, sorry to disappoint, but most modern advocates and practitioners of High Magic claim their real 
 reason for pursuing its disciplines is the transformation of the Soul (by which they probably mean the 
-personality). Yes, well, then they tease us by claiming that the ability to transform "things" is indicative 
-of progress along these lines, even if it is a potential distraction from that truer end. Again, why not 
-work within the normal order of things? Why spend 30 years learning how to bend a spoon with your mind 
-alone, when you can accomplish the same thing with some tools you can buy at your local hardware store?
+personality). Yes, well, then they tease us by claiming that the ability to transform "things" and 
+"situations" is indicative of progress along these lines, even if it is a potential distraction from 
+that truer end. Again, why not work within the normal order of things? Why spend 30 years learning how 
+to bend a spoon with your mind alone, when you can accomplish the same thing with some tools you can buy 
+at your local hardware store?
 
 
 <div style="page-break-after: always"></div>
@@ -6172,7 +6260,7 @@ Art has much to do with Beauty, but they are different. Art is an act of communi
 subject that is communicated is, often, Beauty. It need not be, of course; it might be about ugliness or 
 tragedy. But what makes an act of communication Art is when the act itself is Beautiful.
 
-Beauty is in the perfection of a thing. Of course, from the standpoint of the Great Mystery...
+Beauty is in the perfection of a thing. Of course, from the standpoint of the Great Mystery (太玄 tài xuán)...
 
 “ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते ।   
 पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥   
@@ -6202,22 +6290,48 @@ by our scheme are:
 ## [Epilog](#table-of-contents)
 
 > *The Call*   
->    
+>
+> [Lover]   
 > Come, my Way, my Truth, my Life:   
 > Such a Way, as gives us breath:   
 > Such a Truth, as ends all strife:   
 > Such a Life, as killeth death.   
->    
+>
+> [Beloved]   
 > Come, my Light, my Feast, my Strength:   
 > Such a Light, as shows a feast:   
 > Such a Feast, as mends in length:   
 > Such a Strength, as makes his guest.   
->    
+>
+> [Lover and Beloved]   
 > Come, my Joy, my Love, my Heart:   
 > Such a Joy, as none can move:   
 > Such a Love, as none can part:   
 > Such a Heart, as joyes in love.   
 >   
 > -George Herbert
+
+
+> Come down, O Love divine,   
+> seek thou this soul of mine,   
+> and visit it with thine own ardor glowing;   
+> O Comforter, draw near,   
+> within my heart appear,   
+> and kindle it, thy holy flame bestowing.   
+> 
+> O let it freely burn,   
+> till earthly passions turn   
+> to dust and ashes in its heat consuming;   
+> and let thy glorious light   
+> shine ever on my sight,   
+> and clothe me round, the while my path illuming.   
+> 
+> And so the yearning strong,   
+> with which the soul will long,   
+> shall far outpass the power of human telling;   
+> for none can guess its grace,   
+> till Love create a place   
+> wherein the Holy Spirit makes a dwelling.   
+
 
 </span>
