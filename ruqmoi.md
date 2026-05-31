@@ -13,7 +13,7 @@ and Blue Fox, κοινωνός (Spirit Guide) of the aforementioned
 
 © 2025, 2026 by Uncle Bärchen
 
-version: 2026.05.22
+version: 2026.05.31
 
 > "To welcome imagination is to welcome hope. To cultivate love is to cultivate blessedness." -Fox
 
@@ -327,7 +327,7 @@ had to somehow learn enough of your language to get things rolling. They know th
 different, but your worlds are also similar in important ways. So real communication *is* possible, but your worlds
 are different enough that the easiest approach is to make up a small, private language that you can both use to communicate.
 This language will use "words" that denote classes of things and ideas that correspond to those things that are similar
-in both of your worlds. There's not enough time to develop an entire language with a comprehensive vocablulary. And 
+in both of your worlds. There's not enough time to develop an entire language with a comprehensive vocabulary. And 
 there's going to be a little inherent vagueness in each communication because the vocabulary is limited, and also 
 because the words/terms must necessarily stand for entire classes of similar, but not necessarily identical, things.
 
@@ -474,7 +474,7 @@ but it may also require you to ask if something better might not grow in this pl
 
 Whereas righteousness regulates close relationships and cooperatives, [justice](#ψυχη) operates in the arena of 
 competition. Competition exists not only between enemies, but, even more important, among friends. Or it should. To grow, 
-to adapt, to bring to fruition, or sometimes just to continue living, judgements must be made, rewards given for 
+to adapt, to bring to fruition, or sometimes just to continue living, judgments must be made, rewards given for 
 merit and, sometimes, punishments meted out. All this must be done with knowledge and understanding, 
 of course. And are the rewards and punishments in keeping with the principle of wholeness? When is it 
 necessary to destroy?
@@ -603,7 +603,7 @@ housekeeping.
 
 <font color="grey">Bärchen:</font> ΒΡΟΝΤΗ!
 
- ... An earthquake booms and rumbles across the ground and large Green Dragon rises from the direction of the Sunrise ...
+ ... An earthquake booms and rumbles across the ground as a large Green Dragon rises from the direction of the Sunrise ...
  
 <font color="grey">Fox:</font> Arouse us to Righteous action. 
 
@@ -613,7 +613,7 @@ housekeeping.
 
 <font color="grey">Bärchen:</font> ΑΣΤΡΑΠΗ!
 
- ... A bright flash of light and fire shines forth and a Vermillion Bird rises from the direction of the Noonday Meridian ...
+ ... A bright flash of light is followed by a wall of fire which passes through us; from out of the fire a Vermilion Bird rises in the direction of the Noonday Meridian ...
  
 <font color="grey">Fox:</font> Purify our Understanding. 
 
@@ -623,7 +623,7 @@ housekeeping.
 
 <font color="grey">Bärchen:</font> ΑΥΡΑ!
 
- ... from the West, a gentle breeze begins then swells to a mighty wind and a White Tiger rises from the direction of the Setting Sun ...
+ ... from the West, a  whirlwind kicks up dust which coalesces into a White Tiger who roars from the direction of the Setting Sun ...
  
 <font color="grey">Fox:</font> Fill us with the Beauty of Wholeness. 
 
@@ -633,7 +633,7 @@ housekeeping.
 
 <font color="grey">Bärchen:</font> `ΥΕΤΟΣ!
 
- ... from the North, a rain of arrows descends and a Black Warrior rises from the direction of the Midnight Meridian ...
+ ... from the North, a rain of arrows descends and a Black Warrior rises from the direction of the Midnight Meridian; the Warrior shoots an arrow into our heart ...
  
 <font color="grey">Fox:</font> Fix us in the Ancient Wisdom.  
 
@@ -643,7 +643,7 @@ housekeeping.
 
 <font color="grey">Bärchen:</font> ΓΑΙΑ!
 
- ... we look Below where dark, black fissures open to display a riot of soil organisms, decaying matter, and roots ...
+ ... we look Below where dark, black fissures open in the soil to display a riot of soil organisms, decaying matter, and roots ...
  
 <font color="grey">Fox:</font> In you are the Living, and the Dead, and those about to be born.
 
@@ -655,7 +655,7 @@ housekeeping.
 
 <font color="grey">Bärchen:</font> ΟΥΡΑΝΟΣ!
 
- ... we look Above where the Dome of Heaven Sparkles a light blue ...
+ ... we look Above where the Dome of Heaven rapidly changes through nights and days as stars, Moon, Sun and clouds pass overhead  ...
  
 <font color="grey">Fox:</font> You are the Shepherd of the Clouds, the Keeper of the Paths of Sun, Moon, and Stars.
 
@@ -709,7 +709,7 @@ A prayer we repeat (at least) daily:
 [The participant hands the cup to the next. When all have drunk, they all say together...]   
 
 > Blessed are you, O Great Mystery! In Life we come from you; in Death we return to you.   
-> May we remember this, and be renewed.   
+> May we be renewed in the remembrance of this.   
 
 
 #### Journeying in Non-Ordinary Reality with the Aid of Cannabis
@@ -925,7 +925,7 @@ and justify their inequalities. Fast forward many thousands of years, and when t
 Europe, it set the stage for the Scientific Revolution and Capitalism. At this point, monks and monasteries morphed into 
 professors and universities, and dukes and earls had to hobnob with rich merchants and bankers. In the universities, 
 increasingly, there was a mandate to swear loyalty to this new political state of affairs and worldview. So today "Spirit" 
-is a no no. Today's Priests and Rulers (the Scientists and Politicians) say "Might proves Right". "Spirit" reminds the 
+is a no-no. Today's Priests and Rulers (the Scientists and Politicians) say "Might proves Right". "Spirit" reminds the 
 Scientists of their incarnation in the older power structures, and of that outdated idea of a Mighty Big Fellow in Heaven, 
 who can now go kiss his own ass. But mostly, they don't want anyone to think there is a little "sprite" who lives in that 
 tree, who is none too pleased that they only wish to know how many board feet of lumber the tree contains and the price 
@@ -950,7 +950,7 @@ This divinatory system was designed to function inside the ancient Weltanschauun
 by the "words" in our divinatory "language" apply to spiritual matters, as we have defined them. And because we want
 to use this language to communicate with the "Spirits" (more precisely, with our "Spirit Guide"), we wanted
 our vocabulary to be rich in the foundational notions that address matters of spirit--with the post-modern 
-understanding that we are looking at self-regulating systems, and modelling the way in which this aspect of 
+understanding that we are looking at self-regulating systems, and modeling the way in which this aspect of 
 reality works. This is the reality we're interested in.
 
 So, we must introduce the characters who shall enter into relationships and enact our dramas, which are allegories 
@@ -1441,7 +1441,7 @@ with a letter in Modern English:
 | F | U | Th | A | R | C,K | G | V,W |   | H | N | I | J | Y | P | Z | S |   | T | B | E | M | L | Ng | D | O |
 
 
-| Trigram name  | English word                     | Anglo-Saxon word  | Imagery (in the I Ching and the Earstapa's Oracle)          |
+| Trigram name  | English word                     | Anglo-Saxon word  | Imagery (in the I Ching and the Eardstapa's Oracle)          |
 | ------------- | -------------------------------- | ----------------- | ----------------------------------------------------------- |
 | Heaven        | ᚺᛖᚨᚹᛖᚾ (heaven)                  | ᚺᛖᛟᚠᛟᚾ (heofon)   | the sky                                                     |
 | Earth         | ᛖᚨᚱᚦ (earth)                     | ᛖᚨᚱᛞ (eard)       | the land, but especially valleys and plains                 |
@@ -1471,7 +1471,7 @@ An example is in order. Bärchen asks Fox, as he is writing this, where we are a
 
 Okay, this makes sense--we're writing this introduction after making a first pass at developing this Eardstapa's Oracle and
 we've been intending to go back and look at individual pieces, and the Oracle as a whole, and to make changes where we find 
-overlaps or inconsistencies. (And in this paranthetical remark, written after we have "completed" the work on the Oracle, we're
+overlaps or inconsistencies. (And in this parenthetical remark, written after we have "completed" the work on the Oracle, we're
 ready to say that, indeed, it has been a process involving more than just correcting overlaps and inconsistencies. {Fox- Completed!?!
 When have you ever seen our collaborations come to a [stand still](#δρεπανον), Bärchen, hmmm?})
 
@@ -2064,7 +2064,7 @@ img {
   + riddle: "ᛏᛟ ᚦᛖ ᛏᛖᛗᛈᛖᛊᛏ ᛏᚢᚾᛖᛞ ᚦᛟᚢᚷᚺ ᛏᚢᚱᚾᛊ ᛁᛏ / ᛞᛁᚱᛖ ᛟᚱ ᛞᛁᛊᛏᚨᚾᛏ ᛇᛖᛏ ᛁ ᛞᚨᛚᛚᛇ / ᛖᚹᛖᚾ ᚦᚨᛏ ᛖᚨᚱᚾᛖᛊᛏᛚᛇ ᛖᚾᛃᛟᛇ"   
     "to the tempest tuned though turns it / dire or distant yet I dally / even that earnestly enjoy"
   + situation: The Eardstapa hears the sound of distant thunder carried on the wind.
-  + admonition: Continue your journey without faltering; but take to heart that, though the weather wher you are 
+  + admonition: Continue your journey without faltering; but take to heart that, though the weather where you are 
     is clear now, those distant storms will soon arrive.
 + Bible: 2 Kings 1 - Elijah and the death of Ahaziah
 + Additional Concepts: 
@@ -3164,7 +3164,7 @@ img {
   + "Now abideth faith, hope & charity"
   + Plant Rune: **ᚾ**ᛖᛏᛏᛚᛖᛊ / **N**ettles (*Urtica dioica*)
   + "The Singing, Springing Lark" (Grimm's Fairy Tales 1st ed. Volume 2 #2)
-  + "In thy presence is fulness of joy"
+  + "In thy presence is fullness of joy"
   + Color: <font color="#AA4FC7">███ Fuschia Pink ███</font> (#AA4FC7)
 
 ---
@@ -3248,7 +3248,7 @@ img {
 + The Eardstapa's Oracle: 62\. ᚦᚢᚾᛞᛖᚱ ‖ ᛗᛟᚢᚾᛏᚨᛁᚾ (thunder ‖ mountain)
   + riddle: "ᚺᛖᚱᛖ ᚺᛁᚷᚺ ᚨᚾᛞ ᛗᛁᚷᚺᛏᛇ ᚨᚱᛖ ᚺᛁᛞᛞᛖᚾ / ᚦᛟᚢᚷᚺ ᚹᛖ ᚹᛟᚱᚲ ᚠᛟᚱ ᚹᛟᚾᛞᛖᚱᛊ ᚦᚨᛏ ᚹᛁᛊᚺ / ᛞᛁᛚᛁᚷᛖᚾᚲᛖ ᛞᛖᛗᚨᚾᛞᛊ ᚢᚾᛞᛟᚢᛒᛏᛁᛜ"   
     "here high and mighty are hidden / though we work for wonders that wish / diligence demands undoubting"
-  + situation: The Eardstapa hears thunder as the clouds descend on the the mountain ahead, hiding its 
+  + situation: The Eardstapa hears thunder as the clouds descend on the mountain ahead, hiding its 
     peak from view.
   + admonition: Stop for a bit. Can you make the time productive as you wait for conditions to clear? 
     In any case, do not fret.
@@ -3260,7 +3260,7 @@ img {
   + The Guardian of the Eternal Flame
   + Don't settle
   + Plant Rune: ᚺᚨ**ᛉ**ᛖᛚ / Ha**z**el (*Corylus americana*, et al.)
-  + "Herr Fix-It_up" (Grimm's Fairy Tales 1st ed. Volume 1 #16)
+  + "Herr Fix-It-Up" (Grimm's Fairy Tales 1st ed. Volume 1 #16)
   + Ubi Caritas et Amor...
   + Color: <font color="#00D180">███ Caribbean Green ███</font> (#00D180)
 
@@ -3420,7 +3420,7 @@ img {
     | ☲:☴=[ΓΡΥΨ](#γρυψ)                     | ☲:☲=[**ΧΑΣΜΑ**](#χασμα)                     | ☲:☱=[**ΓΟΡΓΩ**](#γοργω)                     | 
     | ☶:☰=[ΠΑΙΩΝ](#παιων)                 | ☰:☰=[**ΝΑΥΣ**](#ναυς)                     | ☳:☰=[ΚΕΡΑΥΝΟΣ](#κεραυνος)             |
 + Tarot: Queen ♠/Swords
-  + upright: perceptiveness, clear mindedness, unbiased judgement, clear boundaries, direct communication.
+  + upright: perceptiveness, clear mindedness, unbiased judgment, clear boundaries, direct communication.
   + reversed: cold hearted, cruel, bitter, bitchy, cold-hearted.  
 + The Eardstapa's Oracle: 14\. ᛚᛁᚷᚺᛏ ‖ ᚺᛖᚨᚹᛖᚾ (light ‖ heaven)
   + riddle: "ᚹᚨᚱᛗ ᚦᛖ ᛊᚲᛇ ᚹᚺᛖᚱᛖ ᚹᛟᚾᛏᛖᛞ ᚹᚨᚾᛞᛖᚱᛊ / ᚦᛖ ᛒᛖᚨᚲᛟᚾ ᛒᚱᛁᚷᚺᛏ ᛒᛖᚾᛖᚹᛟᛚᛖᚾᛏ / ᚺᛟᛚᛞᛊ ᚺᛖᚨᚹᛖᚾᛊ ᚲᛚᛟᛊᛖ ᚺᛟᛚᛁᚾᛖᛊᛊ"   
@@ -3586,7 +3586,7 @@ img {
   + keywords: womb, conception, gestation, hidden beginnings, secrets
 + The Eardstapa's Oracle: 11\. ᛖᚨᚱᚦ ‖ ᚺᛖᚨᚹᛖᚾ (earth ‖ heaven)
   + riddle: "ᛈᚨᚱᛏᛁᛜ ᛟᚠ ᛈᛚᚨᛁᚾ ᚨᚾᛞ ᛈᚨᛚᛖ ᛈᚨᚱᛏᚾᛖᚱ / ᛞᛟᛗᛖ ᛊᛏᛁᛚᛚ ᛞᚱᛖᚨᛗᛁᛜ ᛟᚠ ᛞᚨᛇᛊ ᛞᛖᛚᛁᚷᚺᛏ / ᚢᚾᚠᚢᛚᛚᚠᛁᛚᛚᛖᛞ ᛁᚾ ᚠᚨᛁᚱ ᚠᚨᚱᛁᛜᛊ ᚠᛟᚱᚦ"   
-    "parting of plain and pale partner / dome still dreaming of days delight / unfullfilled in fair farings forth"
+    "parting of plain and pale partner / dome still dreaming of days delight / unfulfilled in fair farings forth"
   + situation: The Eardstapa sees the earth and its creatures begin to rouse, now that dawn's first light 
     is in the sky.
   + admonition: Enjoy this time of careful preparation. Make it count before you must start your journey once 
@@ -3659,7 +3659,7 @@ img {
     means "debt" or "guilt", originally "that which must happen". In younger legendary sagas, the Norns appear 
     to have been synonymous with witches (völvas), and they arrive at the birth of the hero to shape his destiny.
     (See [Moirai](https://en.wikipedia.org/wiki/Moirai).)
-  + "On Englands pleasant pastures seen!" (Blake's Jerusalem 4) 
+  + "On England's pleasant pastures seen!" (Blake's Jerusalem 4) 
   + Color: <font color="#004247">███ Cypress ███</font> (#004247)
 
 ---
@@ -3873,7 +3873,7 @@ img {
     | ☱:☵=[\`ΙΜΑΣ](#ιμας)                 | ☷:☵=[ΜΑΚΑΡΙΑ](#μακαρια)                 | ☴:☵=[**ΟΦΙΣ**](#οφις)                     |
 + Tarot: Seven ♠/Swords
   + upright: betrayal, deception, trickery, acting strategically.
-  + reversed: come clean, rethink your approach, imposter syndrome, self-deceit, keeping secrets.
+  + reversed: come clean, rethink your approach, impostor syndrome, self-deceit, keeping secrets.
 + The Eardstapa's Oracle: 29\. ᚱᚨᛁᚾ ‖ ᚱᚨᛁᚾ (rain ‖ rain)
   + riddle: "ᛏᚱᛁᚲᚲᛚᛖ ᛏᚱᛁᚲᚲᛚᛖ ᛏᚨᛚᚲᛁᛜ ᛚᛁᛏᛏᛚᛖ / ᚲᛚᛟᚢᛞ ᛇᛟᚢ ᛞᚱᛁᛒᛒᛚᛖ ᛞᛟᚹᚾ ᛞᛖᛒᚨᛏᛁᛜ / ᚹᛟᚱᚱᛇ ᚨᛚᛚ ᚹᛟᚱᛞ ᚹᛖᚨᚱᛇ ᚹᛁᛚᛚ ᛇᛟᚢ"   
     "trickle trickle talking little / cloud you dribble down debating / worry all word weary will you"
@@ -4926,7 +4926,7 @@ img {
   + Radha
   + Venus (Astrology)
   + Plant Rune: **ᛒ**ᛟᚱᚨᚷᛖ / **B**orage (*Borago officinalis*)
-  + Ship's Counsellor Deanna Troi (STTNG)
+  + Ship's Counselor Deanna Troi (STTNG)
   + The one who calls forth the emotions, as the cynosure of what is desirable (and by contrast, undesirable) 
     to the self (mental faculty)
   + The Gospel of John, Chapter 3 "...The πνεῦμα (wind/spirit) blows where it wills, and you hear the sound of it, 
@@ -4975,7 +4975,7 @@ img {
   + Spirit Animal: Bee
   + Plant Rune: **ᛒ**ᚨᛚᛗ / **B**alm (*Melissa officinalis*)
   + The Muse of Prophecy
-  + "In Englands green and pleasant Land." (Blake's Jerusalem 16)
+  + "In England's green and pleasant Land." (Blake's Jerusalem 16)
   + Color: <font color="#FF3600">███ Scarlet ███</font> (#FF3600)
 
 ---
@@ -5063,7 +5063,7 @@ img {
   + first-tier alarm/avoidance faculty (reflex)
 + Additional Concepts: 
   + Fox's Eight-fold Dharma: the excellence of [Knowledge](#knowledge-and-understanding)
-  + The Vermillion Bird of the South
+  + The Vermilion Bird of the South
   + It happens all the time--a cosmogony is substituted for an epistemology, although either is better 
     than a theogony, by god!
   + The Zodiac (Astrology)
@@ -5793,7 +5793,7 @@ adds those steps or stages in which memory, planning, and evaluating are used to
 |            | ΛΙΜΝΗ         |                  | `0:1:1` |          |                           |                                                |
 | East       | ΒΡΟΝΤΗ        | Azure Dragon     | `0:0:1` | Wood     | 4. Five Loaves & Two Fish | Yellow Horseman (Death/Dispersal)              |
 | North      | `ΥΕΤΟΣ        | Black Tortoise   | `0:1:0` | Water    | 3. The Pool of Bethesda   | Black Horseman (Famine/Necessity)              |
-| South      | ΑΣΤΡΑΠΗ       | Vermillion Bird  | `1:0:1` | Fire     | 2. The Official's Son     | Red Horseman (Strife/Acquiescence)             |
+| South      | ΑΣΤΡΑΠΗ       | Vermilion Bird  | `1:0:1` | Fire     | 2. The Official's Son     | Red Horseman (Strife/Acquiescence)             |
 | West       | ΑΥΡΑ          | White Tiger      | `1:1:0` | Metal    | 1. The Marriage at Cana   | White Horseman (Conquest/Failure)              |
 
 In regard to Yao, note that (contrary to most historic I Ching accounts) we are inserting a yin or yang line in the middle to obtain the Trigrams: 
@@ -5804,7 +5804,7 @@ In regard to Yao, note that (contrary to most historic I Ching accounts) we are 
 + Young Yin (White Tiger) `1::0` gives rise to:
   - `1:0:0` Mountain - ΟΡΟΣ
   - `1:1:0` Wind - **ΑΥΡΑ**
-+ Old Yang (Vermillion Bird) `1::1` gives rise to:
++ Old Yang (Vermilion Bird) `1::1` gives rise to:
   - `1:0:1` Fire - **ΑΣΤΡΑΠΗ**
   - `1:1:1` Heaven - ΟΥΡΑΝΟΣ
 + Young Yang (Azure Dragon) `0::1` gives rise to:
@@ -5835,7 +5835,7 @@ after--
    v.   Beast defeated
    vi.  Dragon incarcerated for 1K years
    vii. Final Deception
-   viii. Judgement
+   viii. Judgment
    ix.  New Heaven & Earth
    x.   New Jerusalem
    xi.  The River and Tree of Life
